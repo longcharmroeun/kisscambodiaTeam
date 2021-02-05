@@ -1,0 +1,4366 @@
+1
+00:01:20,500 --> 00:01:27,500
+<font color="white">NAMES ARE THE SHORTEST SPELLS</font>
+<font color="white">IN THE WORLD</font>
+
+2
+00:01:50,042 --> 00:01:52,833
+<font color="white">Master, I still can't cast</font>
+<font color="white">the Protection Spell.</font>
+
+3
+00:01:54,000 --> 00:01:54,875
+<font color="white">Qingming.</font>
+
+4
+00:01:55,500 --> 00:01:58,750
+<font color="white">In this world, is there someone</font>
+<font color="white">you would protect with your life?</font>
+
+5
+00:01:58,833 --> 00:02:00,042
+<font color="white">My mother.</font>
+
+6
+00:02:01,333 --> 00:02:02,458
+<font color="white">Then think about her.</font>
+
+7
+00:02:10,667 --> 00:02:11,500
+<font color="white">Again.</font>
+
+8
+00:02:13,958 --> 00:02:14,958
+<font color="white">Again.</font>
+
+9
+00:02:16,333 --> 00:02:17,167
+<font color="white">Again.</font>
+
+10
+00:02:17,292 --> 00:02:18,500
+<font color="white">Again, Qingming.</font>
+
+11
+00:02:19,542 --> 00:02:20,625
+<i><font color="white">Qingming, leave me.</font></i>
+
+12
+00:02:20,708 --> 00:02:22,667
+<i><font color="white">-Don't let the fox demon's son get away.</font></i>
+<i><font color="white">-Run!</font></i>
+
+13
+00:02:22,750 --> 00:02:24,750
+<i><font color="white">-Get him.</font></i>
+<i><font color="white">-Mother!</font></i>
+
+14
+00:02:24,833 --> 00:02:27,667
+<i><font color="white">Mother!</font></i>
+
+15
+00:02:31,125 --> 00:02:32,417
+<font color="white">Why did you stop?</font>
+
+16
+00:02:35,042 --> 00:02:36,083
+<font color="white">Master.</font>
+
+17
+00:02:36,708 --> 00:02:37,708
+<font color="white">Can I stop learning</font>
+
+18
+00:02:39,000 --> 00:02:40,250
+<font color="white">the Protection Spell?</font>
+
+19
+00:02:41,292 --> 00:02:44,458
+<font color="white">You can't only attack</font>
+<font color="white">and not know how to defend.</font>
+
+20
+00:02:45,458 --> 00:02:46,333
+<font color="white">Master.</font>
+
+21
+00:02:47,292 --> 00:02:48,375
+<font color="white">Try me.</font>
+
+22
+00:03:00,083 --> 00:03:01,042
+<font color="white">Master.</font>
+
+23
+00:03:01,125 --> 00:03:03,208
+<font color="white">Isn't it the same if I can just teleport?</font>
+
+24
+00:03:03,708 --> 00:03:05,708
+<font color="white">When I'm under attack, I can just move.</font>
+
+25
+00:03:06,333 --> 00:03:08,083
+<font color="white">As long as I can defeat my enemies,</font>
+
+26
+00:03:08,167 --> 00:03:09,625
+<font color="white">I can protect myself.</font>
+
+27
+00:03:10,958 --> 00:03:12,583
+<font color="white">That's just a shortcut.</font>
+
+28
+00:03:14,458 --> 00:03:18,042
+<font color="white">It will not work</font>
+<font color="white">against someone very powerful.</font>
+
+29
+00:03:18,667 --> 00:03:21,375
+<font color="white">Even though you are</font>
+<font color="white">my most gifted disciple,</font>
+
+30
+00:03:21,625 --> 00:03:25,792
+<font color="white">the Protection Spell is the most basic and</font>
+<font color="white">most powerful move of a Yin-Yang Master.</font>
+
+31
+00:03:29,083 --> 00:03:32,708
+<font color="white">You can't become a true Yin-Yang Master</font>
+<font color="white">without learning it.</font>
+
+32
+00:03:39,542 --> 00:03:40,375
+<font color="white">Qingming.</font>
+
+33
+00:03:42,875 --> 00:03:45,708
+<font color="white">In this world, is there someone</font>
+<font color="white">you would protect with your life?</font>
+
+34
+00:03:50,667 --> 00:03:51,500
+<font color="white">Do you?</font>
+
+35
+00:03:55,083 --> 00:03:55,917
+<font color="white">Yes.</font>
+
+36
+00:04:27,667 --> 00:04:29,792
+<font color="white">SNOW HOUND, GOLD SPIRIT, MAD PAINTER</font>
+
+37
+00:04:30,375 --> 00:04:31,208
+<font color="white">MAD PAINTER</font>
+
+38
+00:04:34,625 --> 00:04:37,458
+<font color="white">With my blood, I'll command the spirits.</font>
+
+39
+00:04:52,167 --> 00:04:53,250
+<font color="white">Snow Hound.</font>
+
+40
+00:04:53,542 --> 00:04:54,500
+<font color="white">Gold Spirit.</font>
+
+41
+00:04:55,083 --> 00:04:55,917
+<font color="white">Mad Painter.</font>
+
+42
+00:04:56,625 --> 00:04:57,833
+<font color="white">-Incarnated.</font>
+<font color="white">-Incarnated.</font>
+
+43
+00:05:02,292 --> 00:05:03,583
+<font color="white">Must protect...</font>
+
+44
+00:06:41,167 --> 00:06:42,417
+<font color="white">The Protection Spell!</font>
+
+45
+00:07:22,208 --> 00:07:23,708
+<font color="white">Master!</font>
+
+46
+00:07:40,917 --> 00:07:43,500
+<font color="white">It's my honor to serve you.</font>
+<font color="white">I have no regret.</font>
+
+47
+00:09:01,583 --> 00:09:02,417
+<font color="white">Master.</font>
+
+48
+00:09:03,875 --> 00:09:04,833
+<font color="white">Is there really no cure</font>
+
+49
+00:09:06,542 --> 00:09:08,208
+<font color="white">for the Evil Serpent's poison?</font>
+
+50
+00:09:09,625 --> 00:09:12,708
+<font color="white">The Evil Serpent is</font>
+<font color="white">the evilest creature that has existed</font>
+
+51
+00:09:13,000 --> 00:09:15,083
+<font color="white">since the beginning of heaven and earth.</font>
+
+52
+00:09:16,125 --> 00:09:19,042
+<font color="white">It feeds on</font>
+<font color="white">the world's obsessions and greed.</font>
+
+53
+00:09:20,000 --> 00:09:21,875
+<font color="white">As long as desire burns in the world,</font>
+
+54
+00:09:22,917 --> 00:09:24,750
+<font color="white">the Evil Serpent will not be extinguished.</font>
+
+55
+00:09:26,708 --> 00:09:28,500
+<font color="white">There is no cure for its poison.</font>
+
+56
+00:09:29,417 --> 00:09:30,750
+<font color="white">But didn't the Gold Spirit</font>
+
+57
+00:09:32,167 --> 00:09:34,417
+<font color="white">sacrifice his life</font>
+<font color="white">to kill the Evil Serpent?</font>
+
+58
+00:09:35,458 --> 00:09:37,500
+<font color="white">That was only the Evil Serpent's shadow.</font>
+
+59
+00:09:39,458 --> 00:09:42,667
+<font color="white">Its body is immortal</font>
+
+60
+00:09:44,125 --> 00:09:45,333
+<font color="white">and cannot be destroyed.</font>
+
+61
+00:09:46,708 --> 00:09:48,333
+<font color="white">Where's the Evil Serpent's body?</font>
+
+62
+00:09:50,542 --> 00:09:52,208
+<font color="white">In Imperial City.</font>
+
+63
+00:09:55,292 --> 00:09:57,167
+<font color="white">Someone used their body as a vessel</font>
+
+64
+00:09:58,083 --> 00:09:59,583
+<font color="white">to contain the Evil Serpent.</font>
+
+65
+00:10:01,417 --> 00:10:02,583
+<i><font color="white">300 years ago,</font></i>
+
+66
+00:10:02,667 --> 00:10:04,500
+<i><font color="white">the four sects of the Southern Territory,</font></i>
+
+67
+00:10:04,583 --> 00:10:07,000
+<i><font color="white">Eastern Isles,</font></i>
+<i><font color="white">Western Region, and Northern City</font></i>
+
+68
+00:10:07,083 --> 00:10:12,083
+<i><font color="white">sealed the Evil Serpent's body</font></i>
+<i><font color="white">within Imperial City</font></i>
+
+69
+00:10:12,250 --> 00:10:14,167
+<i><font color="white">and cast statues of the Azure Dragon,</font></i>
+
+70
+00:10:14,250 --> 00:10:16,375
+<i><font color="white">Vermilion Bird,</font></i>
+<i><font color="white">White Tiger, and Black Tortoise</font></i>
+
+71
+00:10:16,458 --> 00:10:18,375
+<i><font color="white">to protect the world ever since.</font></i>
+
+72
+00:10:18,917 --> 00:10:21,167
+<i><font color="white">Whenever the Evil Serpent's</font></i>
+<i><font color="white">shadow resurfaces,</font></i>
+
+73
+00:10:21,292 --> 00:10:24,083
+<i><font color="white">the four sects will send</font></i>
+<i><font color="white">their best masters</font></i>
+
+74
+00:10:24,167 --> 00:10:26,708
+<font color="white">to Imperial City to slay it.</font>
+
+75
+00:10:27,958 --> 00:10:31,125
+<font color="white">This responsibility has carried on</font>
+<font color="white">for generations.</font>
+
+76
+00:10:32,375 --> 00:10:33,958
+<font color="white">Now, it's your turn.</font>
+
+77
+00:10:36,125 --> 00:10:37,708
+<font color="white">Go to the Eastern Realm.</font>
+
+78
+00:10:39,750 --> 00:10:42,292
+<font color="white">Let me teach you one last lesson.</font>
+
+79
+00:10:43,750 --> 00:10:44,792
+<font color="white">When you're gone,</font>
+
+80
+00:10:46,833 --> 00:10:48,250
+<font color="white">I'll be all alone.</font>
+
+81
+00:10:50,042 --> 00:10:51,042
+<font color="white">Qingming.</font>
+
+82
+00:10:52,500 --> 00:10:56,542
+<font color="white">Grief and joy,</font>
+<font color="white">partings and meetings, life and death,</font>
+
+83
+00:10:58,208 --> 00:11:02,917
+<font color="white">you'll face them all</font>
+<font color="white">in this brief flash of life.</font>
+
+84
+00:11:03,083 --> 00:11:04,125
+<font color="white">Master.</font>
+
+85
+00:11:05,500 --> 00:11:07,000
+<font color="white">Don't leave me all alone.</font>
+
+86
+00:11:11,333 --> 00:11:13,125
+<font color="white">You and I are different.</font>
+
+87
+00:11:13,667 --> 00:11:17,583
+<font color="white">Your blood carries the fate of the world.</font>
+
+88
+00:11:21,208 --> 00:11:24,458
+<font color="white">My life has come to an end.</font>
+
+89
+00:11:28,125 --> 00:11:30,458
+<font color="white">But you must make the world</font>
+<font color="white">remember your name.</font>
+
+90
+00:11:31,042 --> 00:11:33,125
+<font color="white">I don't care if the world remembers me.</font>
+
+91
+00:11:36,250 --> 00:11:37,083
+<font color="white">No.</font>
+
+92
+00:11:39,958 --> 00:11:41,417
+<font color="white">Your name is</font>
+
+93
+00:11:43,958 --> 00:11:45,750
+<font color="white">Yin-Yang Master.</font>
+
+94
+00:12:12,375 --> 00:12:14,833
+<font color="white">The Evil Serpent's shadow has resurfaced.</font>
+
+95
+00:12:16,792 --> 00:12:19,000
+<font color="white">Masters from the four sects</font>
+<font color="white">are on their way.</font>
+
+96
+00:12:20,667 --> 00:12:22,708
+<font color="white">They'll arrive in Imperial City soon.</font>
+
+97
+00:12:24,917 --> 00:12:26,167
+<font color="white">Your Highness,</font>
+
+98
+00:12:27,667 --> 00:12:29,167
+<font color="white">you sound worried.</font>
+
+99
+00:12:32,500 --> 00:12:34,042
+<font color="white">I'm worried about you.</font>
+
+100
+00:13:08,875 --> 00:13:11,625
+<font color="white">-Come and take a look!</font>
+<font color="white">-So many...</font>
+
+101
+00:13:16,875 --> 00:13:18,958
+<font color="white">-We'll cross over first.</font>
+<font color="white">-Careful. Just leave it there.</font>
+
+102
+00:13:19,042 --> 00:13:20,208
+<font color="white">-See you later.</font>
+<font color="white">-All right.</font>
+
+103
+00:13:22,792 --> 00:13:24,667
+<font color="white">-Nice.</font>
+<font color="white">-Nice.</font>
+
+104
+00:14:17,458 --> 00:14:18,375
+<font color="white">Demon.</font>
+
+105
+00:14:19,333 --> 00:14:20,292
+<font color="white">Demon.</font>
+
+106
+00:15:28,375 --> 00:15:30,208
+<font color="white">Were you the one playing the flute?</font>
+
+107
+00:15:51,750 --> 00:15:52,708
+<font color="white">You're bold, demon.</font>
+
+108
+00:15:54,000 --> 00:15:57,000
+<font color="white">The Hermetic Pipa is a sacred relic</font>
+<font color="white">given by the emperor to Jingyun Temple.</font>
+
+109
+00:15:57,083 --> 00:15:59,083
+<font color="white">How dare you steal it?</font>
+
+110
+00:16:01,250 --> 00:16:02,083
+<font color="white">Master.</font>
+
+111
+00:16:04,333 --> 00:16:05,542
+<font color="white">The woman I loved</font>
+
+112
+00:16:06,667 --> 00:16:09,708
+<font color="white">was a Pipa player</font>
+<font color="white">in the palace when she was alive.</font>
+
+113
+00:16:11,333 --> 00:16:13,000
+<font color="white">I just miss her so much,</font>
+
+114
+00:16:14,542 --> 00:16:16,958
+<font color="white">so I want to hear</font>
+<font color="white">the sound of the Pipa again.</font>
+
+115
+00:16:53,792 --> 00:16:55,042
+<font color="white">He doesn't mean any harm.</font>
+
+116
+00:16:55,458 --> 00:16:56,833
+<font color="white">He was just using the Pipa</font>
+
+117
+00:16:56,917 --> 00:16:58,542
+<font color="white">to ease the pain he was feeling.</font>
+
+118
+00:16:58,875 --> 00:16:59,750
+<font color="white">Nonsense.</font>
+
+119
+00:17:01,417 --> 00:17:02,958
+<font color="white">A demon is a demon.</font>
+
+120
+00:17:03,542 --> 00:17:04,708
+<font color="white">Who says they have feelings?</font>
+
+121
+00:17:08,750 --> 00:17:10,542
+<font color="white">Of course they do.</font>
+
+122
+00:17:22,708 --> 00:17:24,750
+<font color="white">If the Pipa is returned</font>
+<font color="white">to its rightful owner,</font>
+
+123
+00:17:25,583 --> 00:17:27,292
+<font color="white">will you spare his life?</font>
+
+124
+00:17:28,125 --> 00:17:29,292
+<font color="white">If he's a human, yes.</font>
+
+125
+00:17:31,875 --> 00:17:33,083
+<font color="white">If he's a demon, no.</font>
+
+126
+00:18:44,750 --> 00:18:45,583
+<font color="white">Nice sword.</font>
+
+127
+00:18:45,667 --> 00:18:46,500
+<font color="white">You...</font>
+
+128
+00:18:58,208 --> 00:18:59,250
+<font color="white">It's indeed a treasure.</font>
+
+129
+00:18:59,333 --> 00:19:01,125
+<font color="white">You don't understand music. Hands off.</font>
+
+130
+00:19:01,333 --> 00:19:02,750
+<font color="white">You're a master of music.</font>
+
+131
+00:19:03,500 --> 00:19:04,583
+<font color="white">You play it then.</font>
+
+132
+00:19:04,917 --> 00:19:07,042
+<font color="white">You're a master, but you side with demons.</font>
+
+133
+00:19:07,583 --> 00:19:08,750
+<font color="white">What a disgrace.</font>
+
+134
+00:19:11,417 --> 00:19:13,042
+<font color="white">If you can't win, don't get into a fight.</font>
+
+135
+00:19:13,125 --> 00:19:15,042
+<font color="white">If you don't want to play, don't play.</font>
+
+136
+00:19:15,292 --> 00:19:17,167
+<font color="white">Is it necessary to tell someone off?</font>
+
+137
+00:19:37,042 --> 00:19:39,875
+<font color="white">Sir, remember to see me again</font>
+<font color="white">in a few days.</font>
+
+138
+00:19:39,958 --> 00:19:41,333
+<font color="white">Ms. Yanrou, I'll get going.</font>
+
+139
+00:19:43,958 --> 00:19:45,208
+<font color="white">Master Qingming.</font>
+
+140
+00:19:50,792 --> 00:19:51,917
+<font color="white">Were you waiting for me?</font>
+
+141
+00:19:53,167 --> 00:19:54,458
+<font color="white">I want to repay you.</font>
+
+142
+00:19:55,417 --> 00:19:56,667
+<font color="white">What for?</font>
+
+143
+00:19:59,333 --> 00:20:01,583
+<font color="white">No one has ever told me</font>
+
+144
+00:20:04,458 --> 00:20:05,958
+<font color="white">that demons have feelings too.</font>
+
+145
+00:20:12,333 --> 00:20:15,167
+<font color="white">Please let me be your Spirit Guardian.</font>
+
+146
+00:20:24,792 --> 00:20:26,333
+<font color="white">What's your name?</font>
+
+147
+00:20:29,583 --> 00:20:30,875
+<font color="white">Killing Stone.</font>
+
+148
+00:20:41,000 --> 00:20:41,917
+<font color="white">Boya has returned.</font>
+
+149
+00:20:46,375 --> 00:20:47,417
+<font color="white">-Boya.</font>
+<font color="white">-Boya.</font>
+
+150
+00:20:50,750 --> 00:20:52,000
+<font color="white">There's an imperial decree.</font>
+
+151
+00:20:54,250 --> 00:20:56,125
+<i><font color="white">"According to the will of heaven,</font></i>
+
+152
+00:20:56,542 --> 00:20:58,292
+<i><font color="white">this order is given to you.</font></i>
+
+153
+00:20:58,958 --> 00:21:01,208
+<i><font color="white">The Evil Serpent's shadow has resurfaced,</font></i>
+
+154
+00:21:01,292 --> 00:21:04,167
+<i><font color="white">its body will awaken soon.</font></i>
+
+155
+00:21:04,833 --> 00:21:08,708
+<i><font color="white">Jingyun Temple has protected Imperial City</font></i>
+<i><font color="white">for hundreds of years,</font></i>
+
+156
+00:21:08,792 --> 00:21:11,958
+<i><font color="white">overcoming demons and monsters,</font></i>
+<i><font color="white">defeating thieves and criminals.</font></i>
+
+157
+00:21:12,708 --> 00:21:14,875
+<i><font color="white">The Evil Serpent slayers</font></i>
+<i><font color="white">are hereby summoned</font></i>
+
+158
+00:21:15,208 --> 00:21:16,750
+<i><font color="white">to the palace immediately.</font></i>
+
+159
+00:21:16,958 --> 00:21:18,292
+<i><font color="white">By the Empress herself."</font></i>
+
+160
+00:21:28,542 --> 00:21:29,417
+<font color="white">This way, please.</font>
+
+161
+00:21:29,792 --> 00:21:33,375
+<font color="white">Tomorrow is the Heaven Worship Ceremony.</font>
+<font color="white">Please rest early, Master Boya.</font>
+
+162
+00:21:33,583 --> 00:21:34,458
+<font color="white">Thank you.</font>
+
+163
+00:21:35,167 --> 00:21:36,042
+<font color="white">This way, please.</font>
+
+164
+00:21:44,250 --> 00:21:45,625
+<font color="white">What are you doing here?</font>
+
+165
+00:21:45,917 --> 00:21:47,917
+<font color="white">I'm here for the Heaven Worship Ceremony.</font>
+
+166
+00:21:48,708 --> 00:21:51,833
+<font color="white">How is a master like you</font>
+<font color="white">who sides with demons</font>
+
+167
+00:21:51,917 --> 00:21:54,333
+<font color="white">qualified to attend</font>
+<font color="white">the Heaven Worship Ceremony?</font>
+
+168
+00:21:54,417 --> 00:21:56,833
+<font color="white">And how is a master like you</font>
+<font color="white">who acts before he thinks</font>
+
+169
+00:21:56,917 --> 00:21:58,500
+<font color="white">and speaks before he acts here?</font>
+
+170
+00:21:58,583 --> 00:22:00,250
+<font color="white">Is it because of your pretty face?</font>
+
+171
+00:22:06,542 --> 00:22:07,542
+<font color="white">Master Boya.</font>
+
+172
+00:22:08,500 --> 00:22:10,708
+<font color="white">You seem to like the view</font>
+<font color="white">from the top of the tower.</font>
+
+173
+00:22:11,500 --> 00:22:12,708
+<font color="white">Do you want to go there again?</font>
+
+174
+00:22:12,792 --> 00:22:14,917
+<font color="white">Your diabolic tricks are useless.</font>
+
+175
+00:22:16,583 --> 00:22:18,833
+<font color="white">Do you dare to have</font>
+<font color="white">an official fight with me?</font>
+
+176
+00:22:19,083 --> 00:22:21,375
+<font color="white">Yes, but I don't want to.</font>
+
+177
+00:22:23,000 --> 00:22:23,917
+<font color="white">You don't dare to.</font>
+
+178
+00:22:24,167 --> 00:22:25,250
+<font color="white">Master Qingming.</font>
+
+179
+00:22:30,083 --> 00:22:32,458
+<font color="white">Are you afraid that</font>
+<font color="white">you won't be able to defeat him?</font>
+
+180
+00:22:39,292 --> 00:22:40,208
+<font color="white">Miss,</font>
+
+181
+00:22:40,500 --> 00:22:43,000
+<font color="white">you must be Master Longye</font>
+<font color="white">from Southern Territory.</font>
+
+182
+00:22:45,333 --> 00:22:48,833
+<font color="white">I've heard of</font>
+<font color="white">Master Boya's valiance and bravery.</font>
+
+183
+00:22:49,333 --> 00:22:51,792
+<font color="white">He's the ideal man of all the young women</font>
+
+184
+00:22:53,125 --> 00:22:54,542
+<font color="white">in Imperial City.</font>
+
+185
+00:22:56,792 --> 00:22:58,125
+<font color="white">It's late.</font>
+
+186
+00:22:58,542 --> 00:23:00,958
+<font color="white">Masters, please rest.</font>
+
+187
+00:23:01,958 --> 00:23:03,292
+<font color="white">Master He Shouyue.</font>
+
+188
+00:23:11,000 --> 00:23:12,750
+<font color="white">Master Hongruo is old.</font>
+
+189
+00:23:12,833 --> 00:23:14,333
+<font color="white">He's already resting.</font>
+
+190
+00:23:14,875 --> 00:23:17,083
+<font color="white">If you keep talking loudly,</font>
+
+191
+00:23:17,667 --> 00:23:19,292
+<font color="white">I'm afraid you'll disturb him.</font>
+
+192
+00:23:20,250 --> 00:23:21,333
+<font color="white">Yes.</font>
+
+193
+00:23:26,208 --> 00:23:27,375
+<font color="white">Master Longye,</font>
+
+194
+00:23:28,917 --> 00:23:29,875
+<font color="white">what are you doing?</font>
+
+195
+00:23:31,417 --> 00:23:32,292
+<font color="white">Well...</font>
+
+196
+00:23:33,750 --> 00:23:35,250
+<font color="white">It's a habit of mine.</font>
+
+197
+00:23:35,958 --> 00:23:39,458
+<font color="white">I always scatter Magic Bugs</font>
+<font color="white">before I sleep as a precaution</font>
+
+198
+00:23:40,042 --> 00:23:42,958
+<font color="white">to keep the demons away at night.</font>
+
+199
+00:23:43,042 --> 00:23:44,375
+<font color="white">There's no need.</font>
+
+200
+00:23:45,458 --> 00:23:48,542
+<font color="white">I put Barrier Magic around</font>
+<font color="white">the Department of Celestial Observation.</font>
+
+201
+00:23:49,583 --> 00:23:52,167
+<font color="white">No demons can get in or out.</font>
+
+202
+00:23:59,208 --> 00:24:00,375
+<font color="white">How thoughtful.</font>
+
+203
+00:24:11,500 --> 00:24:12,500
+<font color="white">Master Qingming,</font>
+
+204
+00:24:13,000 --> 00:24:14,292
+<font color="white">rest well.</font>
+
+205
+00:24:32,917 --> 00:24:34,125
+<font color="white">Master Qingming.</font>
+
+206
+00:24:34,875 --> 00:24:37,125
+<font color="white">Who is Master He Shouyue?</font>
+
+207
+00:24:37,208 --> 00:24:39,583
+<font color="white">He's the Imperial Priest</font>
+
+208
+00:24:39,667 --> 00:24:43,000
+<font color="white">in charge of everything in</font>
+<font color="white">the Department of Celestial Observation.</font>
+
+209
+00:27:05,667 --> 00:27:07,875
+<font color="white">It seems like</font>
+<font color="white">I'm not the last one to arrive.</font>
+
+210
+00:27:12,958 --> 00:27:15,917
+<font color="white">Did Master Hongruo oversleep</font>
+
+211
+00:27:16,000 --> 00:27:17,417
+<font color="white">due to old age?</font>
+
+212
+00:27:17,875 --> 00:27:20,042
+<font color="white">Princess Changping has arrived.</font>
+
+213
+00:27:37,792 --> 00:27:40,292
+<font color="white">I heard this princess is outstanding.</font>
+
+214
+00:27:41,000 --> 00:27:42,333
+<font color="white">An expert in strategies.</font>
+
+215
+00:27:43,375 --> 00:27:46,708
+<font color="white">She's almost 30 years old</font>
+<font color="white">with no plans of getting married.</font>
+
+216
+00:27:48,583 --> 00:27:50,125
+<font color="white">There are also rumors</font>
+
+217
+00:27:50,875 --> 00:27:52,208
+<font color="white">that she knows black magic</font>
+
+218
+00:27:53,208 --> 00:27:55,417
+<font color="white">and manipulates</font>
+<font color="white">the Empress into obeying her.</font>
+
+219
+00:27:56,250 --> 00:27:58,250
+<font color="white">Master Longye, please behave yourself.</font>
+
+220
+00:28:11,750 --> 00:28:14,500
+<font color="white">-Greetings, Your Highness.</font>
+<font color="white">-Greetings, Your Highness.</font>
+
+221
+00:28:16,000 --> 00:28:16,917
+<font color="white">Rise.</font>
+
+222
+00:28:28,792 --> 00:28:30,750
+<font color="white">Where's Master Hongruo?</font>
+
+223
+00:28:34,917 --> 00:28:37,375
+<font color="white">Master Hongruo is dead!</font>
+
+224
+00:28:49,625 --> 00:28:52,000
+<font color="white">The Heaven Worship Ceremony</font>
+<font color="white">is in a few days,</font>
+
+225
+00:28:52,083 --> 00:28:54,792
+<font color="white">yet such a thing happened.</font>
+
+226
+00:28:55,333 --> 00:29:00,875
+<font color="white">Changping, I'm ordering you to lead</font>
+<font color="white">the investigation and catch the killer.</font>
+
+227
+00:29:03,750 --> 00:29:05,000
+<font color="white">Yes, Your Majesty.</font>
+
+228
+00:29:06,250 --> 00:29:08,417
+<font color="white">I am getting old.</font>
+
+229
+00:29:09,042 --> 00:29:10,750
+<font color="white">Host the Heaven Worship Ceremony</font>
+
+230
+00:29:10,833 --> 00:29:13,708
+<font color="white">on my behalf as well.</font>
+
+231
+00:29:14,583 --> 00:29:15,500
+<font color="white">Yes.</font>
+
+232
+00:29:16,625 --> 00:29:20,042
+<font color="white">Our priority is to slay the Evil Serpent</font>
+<font color="white">and worship the heavens.</font>
+
+233
+00:29:20,542 --> 00:29:23,333
+<font color="white">The power of</font>
+<font color="white">the Four Guardians is weakening.</font>
+
+234
+00:29:23,500 --> 00:29:26,292
+<font color="white">The Masters must capture</font>
+<font color="white">the demons and harvest their spirits</font>
+
+235
+00:29:26,875 --> 00:29:28,958
+<font color="white">to awaken the Guardians.</font>
+
+236
+00:29:30,542 --> 00:29:32,375
+<font color="white">He Shouyue,</font>
+
+237
+00:29:32,500 --> 00:29:34,583
+<font color="white">you are the Imperial Priest.</font>
+
+238
+00:29:34,958 --> 00:29:38,000
+<font color="white">Take Master Hongruo's place.</font>
+
+239
+00:29:39,250 --> 00:29:41,125
+<font color="white">Yes, Your Majesty.</font>
+
+240
+00:29:44,792 --> 00:29:48,542
+<i><font color="white">Someone used their body as a vessel</font></i>
+<i><font color="white">to contain the Evil Serpent.</font></i>
+
+241
+00:29:49,167 --> 00:29:50,042
+<i><font color="white">Who?</font></i>
+
+242
+00:29:50,750 --> 00:29:52,042
+<i><font color="white">The Empress.</font></i>
+
+243
+00:30:07,292 --> 00:30:10,708
+<font color="white">The doors and windows</font>
+<font color="white">were locked from inside.</font>
+
+244
+00:30:11,708 --> 00:30:13,042
+<font color="white">Judging by the wound,</font>
+
+245
+00:30:13,125 --> 00:30:15,167
+<font color="white">it was the work of a demon.</font>
+
+246
+00:30:15,708 --> 00:30:16,792
+<font color="white">But the Barrier Magic around</font>
+
+247
+00:30:16,875 --> 00:30:18,875
+<font color="white">the Department of Celestial Observation</font>
+<font color="white">is unbroken.</font>
+
+248
+00:30:19,958 --> 00:30:22,583
+<font color="white">There's no trace of</font>
+<font color="white">any demons entering or leaving.</font>
+
+249
+00:30:23,958 --> 00:30:26,375
+<font color="white">It could be a powerful Master</font>
+
+250
+00:30:27,167 --> 00:30:29,625
+<font color="white">skilled in the art of teleportation.</font>
+
+251
+00:30:36,125 --> 00:30:39,833
+<font color="white">What if the demon is inside</font>
+<font color="white">the Department of Celestial Observation?</font>
+
+252
+00:30:41,917 --> 00:30:43,417
+<font color="white">Master Qingming.</font>
+
+253
+00:30:44,667 --> 00:30:46,583
+<font color="white">What you're saying is rather shocking.</font>
+
+254
+00:30:48,167 --> 00:30:50,417
+<font color="white">There were only four of us</font>
+
+255
+00:30:50,500 --> 00:30:53,000
+<font color="white">in the Department of Celestial Observation</font>
+<font color="white">last night.</font>
+
+256
+00:30:54,917 --> 00:30:56,167
+<font color="white">Master He Shouyue</font>
+
+257
+00:30:56,750 --> 00:30:57,958
+<font color="white">was here last night too.</font>
+
+258
+00:31:01,167 --> 00:31:03,625
+<font color="white">My tracking tadpoles can detect demons.</font>
+
+259
+00:31:04,167 --> 00:31:07,542
+<font color="white">No demon can hide from it.</font>
+
+260
+00:31:09,000 --> 00:31:11,167
+<font color="white">Shall we try it?</font>
+
+261
+00:31:19,792 --> 00:31:20,708
+<font color="white">Do it.</font>
+
+262
+00:31:22,708 --> 00:31:23,583
+<font color="white">Do it.</font>
+
+263
+00:31:35,875 --> 00:31:38,250
+<font color="white">It seems like there are no demons here.</font>
+
+264
+00:31:56,625 --> 00:31:59,042
+<font color="white">No wonder there's a rumor like that.</font>
+
+265
+00:32:00,000 --> 00:32:01,042
+<font color="white">What rumor?</font>
+
+266
+00:32:02,917 --> 00:32:04,375
+<font color="white">That I'm the son of a fox demon.</font>
+
+267
+00:32:11,583 --> 00:32:12,917
+<font color="white">-Guards.</font>
+<font color="white">-Yes.</font>
+
+268
+00:32:13,792 --> 00:32:15,083
+<font color="white">Seize Qingming.</font>
+
+269
+00:32:15,167 --> 00:32:16,208
+<font color="white">-Yes.</font>
+<font color="white">-Yes.</font>
+
+270
+00:32:18,125 --> 00:32:18,958
+<font color="white">Hold on.</font>
+
+271
+00:32:26,500 --> 00:32:27,500
+<font color="white">Your Highness.</font>
+
+272
+00:32:29,625 --> 00:32:30,500
+<font color="white">Qingming...</font>
+
+273
+00:32:35,167 --> 00:32:36,542
+<font color="white">didn't kill Master Hongruo.</font>
+
+274
+00:32:37,458 --> 00:32:39,417
+<font color="white">How can you say that, Master Boya?</font>
+
+275
+00:32:43,083 --> 00:32:44,042
+<font color="white">Because last night,</font>
+
+276
+00:32:45,583 --> 00:32:47,542
+<font color="white">I placed magic ears in Qingming's room.</font>
+
+277
+00:32:47,958 --> 00:32:49,375
+<font color="white">I was listening to it all night.</font>
+
+278
+00:32:50,333 --> 00:32:51,542
+<font color="white">He never left the room.</font>
+
+279
+00:32:53,250 --> 00:32:55,583
+<font color="white">Thank you for defending me, Master Boya.</font>
+
+280
+00:32:56,333 --> 00:32:58,417
+<font color="white">But Boya's words</font>
+
+281
+00:32:59,292 --> 00:33:01,458
+<font color="white">aren't enough to exonerate you.</font>
+
+282
+00:33:01,875 --> 00:33:03,875
+<font color="white">What if I had more evidence?</font>
+
+283
+00:33:06,167 --> 00:33:08,208
+<font color="white">Someone put this on me</font>
+
+284
+00:33:10,000 --> 00:33:11,833
+<font color="white">to draw the tracking tadpoles to me.</font>
+
+285
+00:33:13,875 --> 00:33:15,333
+<font color="white">This little thing.</font>
+
+286
+00:33:27,542 --> 00:33:28,417
+<font color="white">What is it?</font>
+
+287
+00:33:28,833 --> 00:33:31,000
+<font color="white">It's a listening bug</font>
+<font color="white">used for eavesdropping.</font>
+
+288
+00:33:33,542 --> 00:33:36,208
+<font color="white">It has the same function</font>
+<font color="white">as Master Boya's magic ears.</font>
+
+289
+00:33:40,500 --> 00:33:42,417
+<font color="white">I can't believe</font>
+<font color="white">that so many demonic objects</font>
+
+290
+00:33:43,417 --> 00:33:45,750
+<font color="white">are in the Department</font>
+<font color="white">of Celestial Observation.</font>
+
+291
+00:33:46,375 --> 00:33:47,833
+<font color="white">Master Hongruo</font>
+
+292
+00:33:48,125 --> 00:33:51,333
+<font color="white">was the only participant</font>
+<font color="white">in the last Heaven Worship Ceremony.</font>
+
+293
+00:33:52,792 --> 00:33:55,958
+<font color="white">I heard that your master, Zhongxing,</font>
+<font color="white">was also an Evil Serpent slayer.</font>
+
+294
+00:33:56,542 --> 00:33:59,167
+<font color="white">Did he give you any details</font>
+<font color="white">before he died?</font>
+
+295
+00:33:59,375 --> 00:34:00,750
+<font color="white">My master died suddenly.</font>
+
+296
+00:34:14,625 --> 00:34:16,042
+<i><font color="white">There are also rumors</font></i>
+
+297
+00:34:16,208 --> 00:34:17,708
+<i><font color="white">that she knows black magic</font></i>
+
+298
+00:34:18,333 --> 00:34:20,583
+<i><font color="white">and manipulates</font></i>
+<i><font color="white">the Empress into obeying her.</font></i>
+
+299
+00:34:21,542 --> 00:34:23,833
+<font color="white">The tracking tadpoles</font>
+<font color="white">are sometimes too sensitive</font>
+
+300
+00:34:23,958 --> 00:34:25,167
+<font color="white">and prone to errors.</font>
+
+301
+00:34:25,500 --> 00:34:28,542
+<font color="white">I hope you don't mind, Your Highness.</font>
+
+302
+00:34:30,542 --> 00:34:32,667
+<font color="white">There's no room for errors</font>
+<font color="white">in slaying the Evil Serpent</font>
+
+303
+00:34:33,042 --> 00:34:34,458
+<font color="white">and worshiping the heavens.</font>
+
+304
+00:34:34,917 --> 00:34:38,083
+<font color="white">You must awaken</font>
+<font color="white">the Guardians within three days.</font>
+
+305
+00:34:40,042 --> 00:34:42,083
+<font color="white">-Yes, Your Highness.</font>
+<font color="white">-Yes, Your Highness.</font>
+
+306
+00:34:49,250 --> 00:34:50,208
+<font color="white">Master Boya.</font>
+
+307
+00:34:50,792 --> 00:34:52,958
+<font color="white">Thank you for your help earlier.</font>
+
+308
+00:34:55,458 --> 00:34:57,083
+<font color="white">A gentleman should be honorable.</font>
+
+309
+00:34:57,167 --> 00:34:58,542
+<font color="white">I'm just stating the facts.</font>
+
+310
+00:34:58,958 --> 00:35:01,125
+<font color="white">The honorable Master Boya</font>
+<font color="white">has my gratitude.</font>
+
+311
+00:35:02,417 --> 00:35:03,250
+<font color="white">However,</font>
+
+312
+00:35:04,833 --> 00:35:07,167
+<font color="white">why did you hang</font>
+<font color="white">so many magic ears in my room?</font>
+
+313
+00:35:08,000 --> 00:35:09,375
+<font color="white">In the middle of the night,</font>
+
+314
+00:35:09,458 --> 00:35:11,833
+<font color="white">I wonder</font>
+<font color="white">what you were trying to eavesdrop on.</font>
+
+315
+00:35:13,167 --> 00:35:15,625
+<font color="white">That doesn't seem very honorable.</font>
+
+316
+00:35:24,167 --> 00:35:25,167
+<font color="white">Wait for a moment.</font>
+
+317
+00:35:49,958 --> 00:35:53,083
+<font color="white">You placed so many magic eyes in my room.</font>
+
+318
+00:35:53,875 --> 00:35:55,250
+<font color="white">In the middle of the night,</font>
+
+319
+00:35:56,792 --> 00:35:58,917
+<font color="white">I wonder</font>
+<font color="white">what you were trying to peek upon.</font>
+
+320
+00:35:59,583 --> 00:36:00,542
+<font color="white">It seems</font>
+
+321
+00:36:01,167 --> 00:36:02,625
+<font color="white">a bit despicable.</font>
+
+322
+00:36:43,167 --> 00:36:44,500
+<font color="white">Good morning, Master Boya.</font>
+
+323
+00:36:47,417 --> 00:36:48,417
+<font color="white">Do you want a drink?</font>
+
+324
+00:36:52,458 --> 00:36:54,458
+<font color="white">You're drinking early in the morning?</font>
+
+325
+00:36:54,542 --> 00:36:55,792
+<font color="white">You're not leaving yet?</font>
+
+326
+00:36:56,500 --> 00:36:57,333
+<font color="white">There's no rush.</font>
+
+327
+00:37:36,458 --> 00:37:38,167
+<font color="white">Don't panic, Master Boya.</font>
+
+328
+00:37:38,833 --> 00:37:40,958
+<font color="white">That is my Spirit Guardian, Honey Bug.</font>
+
+329
+00:37:41,250 --> 00:37:43,833
+<font color="white">I can't believe</font>
+<font color="white">you're using demons as Spirit Guardians.</font>
+
+330
+00:37:44,708 --> 00:37:46,292
+<font color="white">Why do you hate demons so much?</font>
+
+331
+00:37:47,375 --> 00:37:48,667
+<font color="white">Demons feed on people.</font>
+
+332
+00:37:49,500 --> 00:37:50,750
+<font color="white">It's a heinous crime.</font>
+
+333
+00:37:51,542 --> 00:37:53,667
+<font color="white">Honey Bug,</font>
+<font color="white">whom you tried to kill just now,</font>
+
+334
+00:37:54,083 --> 00:37:55,917
+<font color="white">only feeds on dew and honey,</font>
+
+335
+00:37:56,458 --> 00:37:57,708
+<font color="white">while humans</font>
+
+336
+00:37:57,833 --> 00:37:59,167
+<font color="white">feed on chicken and fish.</font>
+
+337
+00:38:01,292 --> 00:38:02,958
+<font color="white">Do you think that's a crime?</font>
+
+338
+00:38:05,208 --> 00:38:06,833
+<font color="white">That's twisted logic.</font>
+
+339
+00:38:07,583 --> 00:38:08,542
+<font color="white">I think</font>
+
+340
+00:38:10,333 --> 00:38:11,208
+<font color="white">that demons</font>
+
+341
+00:38:11,750 --> 00:38:13,250
+<font color="white">are simpler and more honest.</font>
+
+342
+00:38:14,083 --> 00:38:15,125
+<font color="white">In that case,</font>
+
+343
+00:38:16,250 --> 00:38:17,500
+<font color="white">why be a Master?</font>
+
+344
+00:38:18,083 --> 00:38:19,333
+<font color="white">Just be a demon.</font>
+
+345
+00:38:19,667 --> 00:38:20,708
+<font color="white">That's doable.</font>
+
+346
+00:38:22,042 --> 00:38:23,042
+<font color="white">According to legend,</font>
+
+347
+00:38:23,667 --> 00:38:25,708
+<font color="white">my mother was a fox demon.</font>
+
+348
+00:38:33,250 --> 00:38:34,083
+<font color="white">Qingming.</font>
+
+349
+00:38:37,000 --> 00:38:38,875
+<font color="white">I know you're good with words,</font>
+
+350
+00:38:39,750 --> 00:38:41,375
+<font color="white">so you tease people for fun.</font>
+
+351
+00:38:43,042 --> 00:38:45,042
+<font color="white">But if you don't want us to fight again,</font>
+
+352
+00:38:46,917 --> 00:38:47,875
+<font color="white">from now on,</font>
+
+353
+00:38:49,417 --> 00:38:51,708
+<font color="white">stop joking about this.</font>
+
+354
+00:42:38,958 --> 00:42:40,208
+<font color="white">Master Boya.</font>
+
+355
+00:42:42,542 --> 00:42:43,750
+<font color="white">Do you want a drink?</font>
+
+356
+00:42:47,833 --> 00:42:49,292
+<font color="white">You don't capture demons,</font>
+
+357
+00:42:49,708 --> 00:42:51,208
+<font color="white">yet you summon so many...</font>
+
+358
+00:42:52,958 --> 00:42:55,083
+<font color="white">female Spirit Guardians daily</font>
+<font color="white">and indulge in debauchery.</font>
+
+359
+00:42:55,167 --> 00:42:56,208
+<font color="white">How improper.</font>
+
+360
+00:42:57,167 --> 00:42:58,500
+<font color="white">There's no rush.</font>
+
+361
+00:42:59,083 --> 00:43:00,250
+<font color="white">That'd better be the case.</font>
+
+362
+00:43:01,042 --> 00:43:03,042
+<font color="white">Thank you for your concern, Master Boya.</font>
+
+363
+00:43:08,292 --> 00:43:09,875
+<font color="white">I visited you late at night.</font>
+
+364
+00:43:09,958 --> 00:43:11,167
+<font color="white">Please forgive me.</font>
+
+365
+00:43:12,167 --> 00:43:13,083
+<font color="white">It's late.</font>
+
+366
+00:43:13,500 --> 00:43:14,667
+<font color="white">Is it an urgent matter?</font>
+
+367
+00:43:15,333 --> 00:43:16,458
+<font color="white">Master Shouyue,</font>
+
+368
+00:43:18,042 --> 00:43:19,708
+<font color="white">have we met before?</font>
+
+369
+00:43:22,042 --> 00:43:24,167
+<font color="white">I've been serving</font>
+<font color="white">the Empress for a long time.</font>
+
+370
+00:43:24,250 --> 00:43:25,917
+<font color="white">I've never left the palace.</font>
+
+371
+00:43:27,000 --> 00:43:28,708
+<font color="white">So I don't think we've met.</font>
+
+372
+00:43:28,792 --> 00:43:30,458
+<font color="white">Regarding Master Hongruo's death,</font>
+
+373
+00:43:31,833 --> 00:43:33,083
+<font color="white">what are your thoughts?</font>
+
+374
+00:43:33,958 --> 00:43:35,208
+<font color="white">Are you suspecting me?</font>
+
+375
+00:43:36,083 --> 00:43:37,958
+<font color="white">You were the one who set up</font>
+<font color="white">the Barrier Magic</font>
+
+376
+00:43:38,292 --> 00:43:40,208
+<font color="white">at the Department</font>
+<font color="white">of Celestial Observation.</font>
+
+377
+00:43:40,750 --> 00:43:42,625
+<font color="white">You're also the one taking the place</font>
+
+378
+00:43:43,167 --> 00:43:44,292
+<font color="white">of Master Hongruo.</font>
+
+379
+00:43:45,458 --> 00:43:47,000
+<font color="white">There's no need to suspect me.</font>
+
+380
+00:43:58,792 --> 00:44:00,750
+<font color="white">I'm Master Zhongxing's Spirit Guardian.</font>
+
+381
+00:44:01,750 --> 00:44:03,083
+<font color="white">He left me here</font>
+
+382
+00:44:04,042 --> 00:44:05,375
+<font color="white">to protect the Empress.</font>
+
+383
+00:44:08,792 --> 00:44:10,208
+<font color="white">But Master is already gone.</font>
+
+384
+00:44:11,625 --> 00:44:13,167
+<font color="white">Are you also...</font>
+
+385
+00:44:15,000 --> 00:44:16,333
+<font color="white">I'll be gone soon as well.</font>
+
+386
+00:44:23,833 --> 00:44:25,000
+<font color="white">My master told me</font>
+
+387
+00:44:26,417 --> 00:44:28,542
+<font color="white">that the vessel containing</font>
+<font color="white">the Evil Serpent</font>
+
+388
+00:44:29,125 --> 00:44:30,625
+<font color="white">is the Empress's body.</font>
+
+389
+00:44:31,417 --> 00:44:33,125
+<font color="white">It must be protected at all costs.</font>
+
+390
+00:44:57,000 --> 00:44:58,292
+<font color="white">How improper.</font>
+
+391
+00:45:38,708 --> 00:45:42,625
+<font color="white">A SNAKE SEEMINGLY WITH WINGS ON ITS</font>
+<font color="white">STOMACH WAS SEEN AT LONGEVITY PAVILION</font>
+
+392
+00:45:42,708 --> 00:45:46,583
+<font color="white">A STRANGE SNAKE SOUNDING LIKE A BULL</font>
+<font color="white">WAS SEEN AND ATE OUR HOUSE PET</font>
+
+393
+00:45:57,625 --> 00:46:00,458
+<font color="white">So many strange things</font>
+<font color="white">are happening in Imperial City.</font>
+
+394
+00:46:01,417 --> 00:46:02,250
+<font color="white">Yes.</font>
+
+395
+00:46:03,417 --> 00:46:04,250
+<font color="white">How troubling.</font>
+
+396
+00:46:06,625 --> 00:46:08,708
+<font color="white">When did you gather all this information?</font>
+
+397
+00:46:09,417 --> 00:46:12,375
+<font color="white">When you thought</font>
+<font color="white">I was living a life of debauchery.</font>
+
+398
+00:46:16,083 --> 00:46:17,208
+<font color="white">I'm a bit unlucky.</font>
+
+399
+00:46:17,625 --> 00:46:21,208
+<font color="white">I was assigned the Azure Dragon,</font>
+<font color="white">the grumpiest among the Four Guardians.</font>
+
+400
+00:46:21,833 --> 00:46:24,333
+<font color="white">Since ancient times,</font>
+<font color="white">people have respected dragons.</font>
+
+401
+00:46:24,458 --> 00:46:25,667
+<font color="white">In order to wake him up,</font>
+
+402
+00:46:26,208 --> 00:46:28,042
+<font color="white">an average demonic power won't work.</font>
+
+403
+00:46:28,208 --> 00:46:30,625
+<font color="white">Even ten days' worth of work</font>
+<font color="white">wouldn't be enough.</font>
+
+404
+00:46:32,000 --> 00:46:33,500
+<font color="white">Then why are you so carefree?</font>
+
+405
+00:46:35,125 --> 00:46:35,958
+<font color="white">To become a demon,</font>
+
+406
+00:46:36,042 --> 00:46:38,500
+<font color="white">one has to absorb the world's obsessions</font>
+
+407
+00:46:38,583 --> 00:46:39,875
+<font color="white">and greed.</font>
+
+408
+00:46:40,583 --> 00:46:43,083
+<font color="white">I just need one with</font>
+<font color="white">the most extreme emotions and desires,</font>
+
+409
+00:46:43,167 --> 00:46:45,167
+<font color="white">then I'll get</font>
+<font color="white">twice the result with half the effort.</font>
+
+410
+00:46:46,083 --> 00:46:47,292
+<font color="white">Unlike you guys,</font>
+
+411
+00:46:47,833 --> 00:46:49,458
+<font color="white">who leave early, return late,</font>
+
+412
+00:46:49,708 --> 00:46:51,208
+<font color="white">taking quantity over quality.</font>
+
+413
+00:46:52,375 --> 00:46:53,625
+<font color="white">That's so exhausting.</font>
+
+414
+00:46:57,708 --> 00:46:59,250
+<font color="white">Are you saying we're stupid?</font>
+
+415
+00:46:59,333 --> 00:47:00,167
+<font color="white">Yes.</font>
+
+416
+00:47:03,917 --> 00:47:04,750
+<font color="white">Master Qingming.</font>
+
+417
+00:47:09,625 --> 00:47:11,875
+<font color="white">DEMONS HAVE INVADED THE DEPARTMENT</font>
+<font color="white">OF CELESTIAL OBSERVATION</font>
+
+418
+00:47:30,000 --> 00:47:30,875
+<font color="white">Your Highness!</font>
+
+419
+00:47:40,375 --> 00:47:41,583
+<font color="white">Master Boya.</font>
+
+420
+00:47:41,667 --> 00:47:43,875
+<font color="white">Please take off Her Highness's clothes.</font>
+
+421
+00:47:43,958 --> 00:47:44,792
+<font color="white">I beg your pardon?</font>
+
+422
+00:47:44,917 --> 00:47:45,750
+<font color="white">That's improper!</font>
+
+423
+00:47:47,833 --> 00:47:50,500
+<font color="white">Do you want to save her</font>
+<font color="white">or do you want to be proper?</font>
+
+424
+00:47:51,208 --> 00:47:52,083
+<font color="white">I'm not doing it.</font>
+
+425
+00:47:52,625 --> 00:47:54,750
+<font color="white">-Do it yourself if you want to.</font>
+<font color="white">-All right.</font>
+
+426
+00:47:55,375 --> 00:47:56,500
+<font color="white">As you wish.</font>
+
+427
+00:47:56,583 --> 00:47:57,958
+<font color="white">What do you mean by...</font>
+
+428
+00:48:10,708 --> 00:48:11,750
+<font color="white">Master Boya.</font>
+
+429
+00:48:13,458 --> 00:48:14,292
+<font color="white">What now?</font>
+
+430
+00:48:14,625 --> 00:48:16,875
+<font color="white">In a moment, if I ask you for anything,</font>
+
+431
+00:48:17,417 --> 00:48:19,750
+<font color="white">no matter how simple</font>
+<font color="white">and reasonable it sounds,</font>
+
+432
+00:48:20,542 --> 00:48:23,042
+<font color="white">please do not obey me.</font>
+
+433
+00:48:23,917 --> 00:48:24,833
+<font color="white">Not only that,</font>
+
+434
+00:48:26,792 --> 00:48:27,958
+<font color="white">but you must stop me.</font>
+
+435
+00:49:35,333 --> 00:49:36,167
+<font color="white">Boya,</font>
+
+436
+00:49:37,458 --> 00:49:38,583
+<font color="white">pour me some water.</font>
+
+437
+00:49:56,792 --> 00:49:57,708
+<font color="white">What's wrong?</font>
+
+438
+00:50:07,083 --> 00:50:07,917
+<font color="white">Boya,</font>
+
+439
+00:50:10,417 --> 00:50:11,583
+<font color="white">I want to drink water.</font>
+
+440
+00:50:17,875 --> 00:50:18,917
+<font color="white">Give it to me!</font>
+
+441
+00:50:27,958 --> 00:50:29,208
+<font color="white">Qingming.</font>
+
+442
+00:50:31,958 --> 00:50:32,958
+<font color="white">Stop messing around.</font>
+
+443
+00:50:35,042 --> 00:50:36,292
+<font color="white">Qingming!</font>
+
+444
+00:51:04,417 --> 00:51:05,333
+<font color="white">Qingming.</font>
+
+445
+00:51:21,875 --> 00:51:23,042
+<font color="white">Pull it.</font>
+
+446
+00:51:24,292 --> 00:51:25,208
+<font color="white">No.</font>
+
+447
+00:51:27,333 --> 00:51:28,667
+<font color="white">I'm serious.</font>
+
+448
+00:51:29,500 --> 00:51:30,500
+<font color="white">Pull it now.</font>
+
+449
+00:51:34,167 --> 00:51:35,125
+<font color="white">Qingming.</font>
+
+450
+00:51:48,875 --> 00:51:49,708
+<font color="white">Qingming.</font>
+
+451
+00:51:50,417 --> 00:51:51,250
+<font color="white">Qingming.</font>
+
+452
+00:51:58,167 --> 00:52:00,083
+<font color="white">Why didn't you pull it when I told you to?</font>
+
+453
+00:52:00,167 --> 00:52:01,583
+<font color="white">You told me not to do what you say.</font>
+
+454
+00:52:01,667 --> 00:52:03,333
+<font color="white">You're too obedient.</font>
+
+455
+00:52:28,833 --> 00:52:30,083
+<font color="white">A single demon spirit</font>
+
+456
+00:52:30,458 --> 00:52:32,333
+<font color="white">can wake the Azure Dragon.</font>
+
+457
+00:52:33,333 --> 00:52:35,000
+<font color="white">What kind of demon</font>
+
+458
+00:52:35,708 --> 00:52:37,000
+<font color="white">has that sort of power?</font>
+
+459
+00:52:38,125 --> 00:52:39,708
+<font color="white">This worm is called Obsession.</font>
+
+460
+00:52:40,417 --> 00:52:41,917
+<font color="white">It feeds on people's desires.</font>
+
+461
+00:52:44,000 --> 00:52:45,875
+<font color="white">So it's not the worm that's powerful,</font>
+
+462
+00:52:49,250 --> 00:52:50,833
+<font color="white">it's the Princess's desires.</font>
+
+463
+00:52:55,792 --> 00:52:57,583
+<font color="white">Now that the Azure Dragon is awake,</font>
+
+464
+00:52:58,708 --> 00:52:59,875
+<font color="white">are you, Master Boya,</font>
+
+465
+00:53:00,708 --> 00:53:04,083
+<font color="white">willing to join me for a glass</font>
+<font color="white">of plum cherry blossom wine?</font>
+
+466
+00:53:14,208 --> 00:53:15,958
+<font color="white">Master Qingming. Master Boya.</font>
+
+467
+00:53:16,083 --> 00:53:17,208
+<font color="white">The Princess is awake.</font>
+
+468
+00:53:36,875 --> 00:53:37,917
+<font color="white">Is this your home?</font>
+
+469
+00:53:39,708 --> 00:53:40,625
+<font color="white">Yes,</font>
+
+470
+00:53:42,625 --> 00:53:43,500
+<font color="white">and no.</font>
+
+471
+00:53:45,000 --> 00:53:45,917
+<font color="white">Boya.</font>
+
+472
+00:53:46,542 --> 00:53:48,875
+<font color="white">There's something</font>
+<font color="white">I've been meaning to ask you.</font>
+
+473
+00:53:49,458 --> 00:53:51,417
+<font color="white">When you heard I was a fox demon's son,</font>
+
+474
+00:53:52,125 --> 00:53:53,625
+<font color="white">why did you react so strongly?</font>
+
+475
+00:53:56,958 --> 00:53:59,250
+<font color="white">Because my mother was killed</font>
+<font color="white">by a fox demon.</font>
+
+476
+00:54:00,917 --> 00:54:02,417
+<font color="white">I left home when I was little.</font>
+
+477
+00:54:02,833 --> 00:54:04,583
+<font color="white">I became a disciple at Jingyun Temple</font>
+
+478
+00:54:05,375 --> 00:54:07,833
+<font color="white">in order to kill</font>
+<font color="white">all the demons in the world</font>
+
+479
+00:54:09,000 --> 00:54:09,917
+<font color="white">so that humans</font>
+
+480
+00:54:11,500 --> 00:54:13,625
+<font color="white">would never experience the pain I felt.</font>
+
+481
+00:54:19,042 --> 00:54:20,708
+<font color="white">I'm the exact opposite.</font>
+
+482
+00:54:21,792 --> 00:54:23,292
+<font color="white">For as long as I can remember,</font>
+
+483
+00:54:24,125 --> 00:54:25,625
+<font color="white">all of the pain I've suffered</font>
+
+484
+00:54:26,208 --> 00:54:27,625
+<font color="white">was brought to me by humans.</font>
+
+485
+00:54:28,667 --> 00:54:31,542
+<font color="white">Villagers spread rumors</font>
+<font color="white">about my mother being a fox demon.</font>
+
+486
+00:54:32,333 --> 00:54:33,167
+<font color="white">And people</font>
+
+487
+00:54:33,625 --> 00:54:35,833
+<font color="white">saw me as a freak.</font>
+
+488
+00:54:37,875 --> 00:54:39,042
+<font color="white">Since I was little,</font>
+
+489
+00:54:40,125 --> 00:54:41,667
+<font color="white">the only one who treated me kindly</font>
+
+490
+00:54:42,458 --> 00:54:43,667
+<font color="white">was my master.</font>
+
+491
+00:54:47,167 --> 00:54:49,750
+<font color="white">However, I was the one who ended his life.</font>
+
+492
+00:54:56,458 --> 00:54:57,542
+<font color="white">You don't believe me?</font>
+
+493
+00:55:00,917 --> 00:55:01,958
+<font color="white">Let me show you.</font>
+
+494
+00:55:38,125 --> 00:55:38,958
+<font color="white">Qingming.</font>
+
+495
+00:55:44,250 --> 00:55:45,167
+<font color="white">Master.</font>
+
+496
+00:55:47,250 --> 00:55:48,625
+<font color="white">In this world,</font>
+
+497
+00:55:49,958 --> 00:55:52,083
+<font color="white">is there nothing you desire anymore?</font>
+
+498
+00:55:55,625 --> 00:55:56,500
+<font color="white">There is.</font>
+
+499
+00:56:02,333 --> 00:56:03,625
+<font color="white">But in this life,</font>
+
+500
+00:56:04,917 --> 00:56:06,500
+<font color="white">I have loved,</font>
+
+501
+00:56:07,458 --> 00:56:08,667
+<font color="white">and I have been loved.</font>
+
+502
+00:56:10,958 --> 00:56:12,000
+<font color="white">That is enough.</font>
+
+503
+00:56:14,042 --> 00:56:15,708
+<font color="white">When you go to the Eastern Realm,</font>
+
+504
+00:56:19,375 --> 00:56:22,250
+<font color="white">bring her the Fangyue Sword.</font>
+
+505
+00:56:33,500 --> 00:56:35,042
+<font color="white">Do it, Qingming.</font>
+
+506
+00:56:36,625 --> 00:56:39,625
+<font color="white">Do it before the Evil Serpent's power</font>
+<font color="white">completely consumes me.</font>
+
+507
+00:57:39,250 --> 00:57:43,625
+<font color="white">SNOW HOUND, MAD PAINTER</font>
+
+508
+00:58:33,792 --> 00:58:36,417
+<font color="white">-Greetings, Your Majesty.</font>
+<font color="white">-Greetings, Your Majesty.</font>
+
+509
+00:58:40,750 --> 00:58:42,208
+<font color="white">We didn't know you had arrived.</font>
+
+510
+00:58:42,333 --> 00:58:43,833
+<font color="white">Please forgive us for being rude.</font>
+
+511
+00:58:46,250 --> 00:58:48,167
+<font color="white">Thank you for today, Master Qingming.</font>
+
+512
+00:58:49,500 --> 00:58:51,208
+<font color="white">Her Majesty has come to see me.</font>
+
+513
+00:58:51,750 --> 00:58:53,708
+<font color="white">I won't keep you.</font>
+
+514
+00:58:56,792 --> 00:58:58,708
+<font color="white">-We bid our leaves.</font>
+<font color="white">-We bid our leaves.</font>
+
+515
+01:00:06,083 --> 01:00:08,417
+<font color="white">Someone broke</font>
+<font color="white">the palace's Protection Circle.</font>
+
+516
+01:00:11,000 --> 01:00:12,042
+<font color="white">Boya!</font>
+
+517
+01:00:30,250 --> 01:00:31,583
+<font color="white">It's me.</font>
+
+518
+01:00:31,667 --> 01:00:32,583
+<font color="white">Longye.</font>
+
+519
+01:00:33,583 --> 01:00:34,500
+<font color="white">Master Shouyue.</font>
+
+520
+01:00:49,625 --> 01:00:50,667
+<font color="white">Qingming.</font>
+
+521
+01:00:57,750 --> 01:00:58,958
+<font color="white">Master Shouyue.</font>
+
+522
+01:00:59,958 --> 01:01:01,750
+<font color="white">Longye tried to assassinate the Empress.</font>
+
+523
+01:01:01,833 --> 01:01:03,375
+<font color="white">If you want to save her,</font>
+
+524
+01:01:03,458 --> 01:01:04,833
+<font color="white">you're an accomplice too.</font>
+
+525
+01:01:06,583 --> 01:01:08,458
+<font color="white">No, it really wasn't me! It wasn't--</font>
+
+526
+01:02:04,458 --> 01:02:05,542
+<font color="white">Summon the physician!</font>
+
+527
+01:02:06,333 --> 01:02:07,417
+<font color="white">Summon the physician!</font>
+
+528
+01:02:15,208 --> 01:02:16,167
+<font color="white">Tell me.</font>
+
+529
+01:02:16,417 --> 01:02:17,750
+<font color="white">Who wants to kill the Empress?</font>
+
+530
+01:02:18,375 --> 01:02:21,167
+<font color="white">The Empress is...</font>
+
+531
+01:02:21,458 --> 01:02:22,625
+<font color="white">Who's the culprit?</font>
+
+532
+01:02:23,375 --> 01:02:24,833
+<font color="white">The Princess.</font>
+
+533
+01:03:46,208 --> 01:03:47,125
+<font color="white">Your Highness.</font>
+
+534
+01:03:50,958 --> 01:03:52,542
+<font color="white">Why did you lie to me?</font>
+
+535
+01:03:55,375 --> 01:03:58,417
+<font color="white">You don't really believe</font>
+<font color="white">that I'm Longye's accomplice, right?</font>
+
+536
+01:04:07,292 --> 01:04:10,292
+<font color="white">The hair demon has killed</font>
+<font color="white">two Masters already.</font>
+
+537
+01:04:11,417 --> 01:04:12,958
+<font color="white">What kind of demon</font>
+
+538
+01:04:13,792 --> 01:04:15,000
+<font color="white">has this much power?</font>
+
+539
+01:04:16,083 --> 01:04:17,500
+<font color="white">The hair demon is not powerful.</font>
+
+540
+01:04:18,167 --> 01:04:20,917
+<font color="white">The one who controls it is powerful.</font>
+
+541
+01:04:22,958 --> 01:04:24,250
+<font color="white">You don't suspect demons</font>
+
+542
+01:04:24,708 --> 01:04:25,958
+<font color="white">and you're suspicious of humans?</font>
+
+543
+01:04:27,458 --> 01:04:29,292
+<font color="white">You said Master Hongruo's death</font>
+
+544
+01:04:30,042 --> 01:04:32,792
+<font color="white">was due to the mishandling</font>
+<font color="white">of the hair demon,</font>
+
+545
+01:04:33,292 --> 01:04:34,333
+<font color="white">an accidental death.</font>
+
+546
+01:04:35,542 --> 01:04:36,625
+<font color="white">What about Longye?</font>
+
+547
+01:04:37,375 --> 01:04:39,833
+<font color="white">Longye discovered our secret.</font>
+
+548
+01:04:44,042 --> 01:04:47,500
+<i><font color="white">What if they find out you are the Empress?</font></i>
+
+549
+01:04:57,417 --> 01:04:58,833
+<font color="white">She had to die.</font>
+
+550
+01:05:00,917 --> 01:05:03,000
+<font color="white">Even if someone is controlling</font>
+<font color="white">the hair demon,</font>
+
+551
+01:05:05,292 --> 01:05:06,792
+<font color="white">what exactly is their motive?</font>
+
+552
+01:05:08,750 --> 01:05:09,875
+<font color="white">To unleash the Evil Serpent.</font>
+
+553
+01:05:11,958 --> 01:05:12,833
+<font color="white">Nonsense.</font>
+
+554
+01:05:12,917 --> 01:05:15,625
+<font color="white">I must release the Evil Serpent.</font>
+
+555
+01:05:16,500 --> 01:05:18,667
+<font color="white">But as long as the Masters are here,</font>
+
+556
+01:05:19,375 --> 01:05:21,000
+<font color="white">they will kill the Evil Serpent.</font>
+
+557
+01:05:21,083 --> 01:05:23,125
+<font color="white">So you want to kill Qingming</font>
+
+558
+01:05:24,250 --> 01:05:25,750
+<font color="white">and Boya too?</font>
+
+559
+01:05:27,125 --> 01:05:28,458
+<font color="white">Before Longye died,</font>
+
+560
+01:05:30,583 --> 01:05:32,083
+<font color="white">she told Qingming the truth.</font>
+
+561
+01:05:35,000 --> 01:05:36,750
+<font color="white">So we can't let them live.</font>
+
+562
+01:05:37,417 --> 01:05:39,458
+<font color="white">Longye told me before she died,</font>
+
+563
+01:05:41,083 --> 01:05:42,792
+<font color="white">that the Princess was the culprit.</font>
+
+564
+01:05:42,875 --> 01:05:43,792
+<font color="white">Who's the culprit?</font>
+
+565
+01:05:44,708 --> 01:05:47,000
+<font color="white">It's the Princess.</font>
+
+566
+01:05:47,083 --> 01:05:48,125
+<font color="white">That's impossible.</font>
+
+567
+01:05:49,958 --> 01:05:51,333
+<font color="white">Why would she do that?</font>
+
+568
+01:05:52,042 --> 01:05:54,250
+<font color="white">She wants to break</font>
+<font color="white">the Evil Serpent's vessel.</font>
+
+569
+01:05:55,125 --> 01:05:56,833
+<font color="white">The Empress's body</font>
+
+570
+01:05:57,042 --> 01:05:58,042
+<font color="white">is the vessel.</font>
+
+571
+01:05:58,208 --> 01:05:59,375
+<font color="white">That's ridiculous.</font>
+
+572
+01:06:00,000 --> 01:06:01,708
+<font color="white">What good will releasing</font>
+<font color="white">the Evil Serpent do?</font>
+
+573
+01:06:01,792 --> 01:06:04,458
+<font color="white">Would Longye use</font>
+<font color="white">her last breath to tell a lie?</font>
+
+574
+01:06:04,833 --> 01:06:06,375
+<font color="white">The night Master Hongruo died,</font>
+
+575
+01:06:06,458 --> 01:06:08,875
+<font color="white">the Princess wasn't at</font>
+<font color="white">the Department of Celestial Observation.</font>
+
+576
+01:06:09,208 --> 01:06:10,625
+<font color="white">If we're to suspect anyone,</font>
+
+577
+01:06:11,125 --> 01:06:12,625
+<font color="white">He Shouyue is more suspicious.</font>
+
+578
+01:06:12,792 --> 01:06:13,625
+<font color="white">Yes.</font>
+
+579
+01:06:14,333 --> 01:06:16,542
+<font color="white">I used to be more suspicious of him</font>
+<font color="white">than you.</font>
+
+580
+01:06:16,958 --> 01:06:18,083
+<font color="white">But he's fundamentally</font>
+
+581
+01:06:18,458 --> 01:06:20,125
+<font color="white">incapable of harming the Empress.</font>
+
+582
+01:06:20,333 --> 01:06:21,250
+<font color="white">Why?</font>
+
+583
+01:06:28,208 --> 01:06:29,875
+<font color="white">Because he's the Spirit Guardian</font>
+
+584
+01:06:31,458 --> 01:06:33,542
+<font color="white">left by my master to protect the Empress.</font>
+
+585
+01:06:44,042 --> 01:06:46,625
+<font color="white">Once a Spirit Guardian</font>
+<font color="white">and a Yin-Yang Master form a bond,</font>
+
+586
+01:06:48,167 --> 01:06:49,667
+<font color="white">it is for life,</font>
+
+587
+01:06:50,208 --> 01:06:51,333
+<font color="white">unbreakable until death.</font>
+
+588
+01:06:51,417 --> 01:06:53,083
+<font color="white">Then all of you are lying</font>
+
+589
+01:06:53,750 --> 01:06:54,917
+<font color="white">to frame the Princess.</font>
+
+590
+01:06:56,625 --> 01:06:57,500
+<font color="white">Boya.</font>
+
+591
+01:06:59,917 --> 01:07:01,542
+<font color="white">Between me and the Princess,</font>
+
+592
+01:07:02,917 --> 01:07:04,042
+<font color="white">who do you believe?</font>
+
+593
+01:07:04,667 --> 01:07:06,833
+<font color="white">I've only known you for a few days,</font>
+
+594
+01:07:08,375 --> 01:07:10,375
+<font color="white">but the Princess and I grew up together.</font>
+
+595
+01:07:11,125 --> 01:07:12,250
+<font color="white">Are you sure?</font>
+
+596
+01:07:13,417 --> 01:07:14,375
+<font color="white">You told me</font>
+
+597
+01:07:14,458 --> 01:07:16,458
+<font color="white">that the Princess was raised</font>
+<font color="white">outside the palace</font>
+
+598
+01:07:16,583 --> 01:07:18,417
+<font color="white">and she only returned at 18.</font>
+
+599
+01:07:18,500 --> 01:07:20,375
+<font color="white">You had to collect so many demon spirits</font>
+
+600
+01:07:20,458 --> 01:07:21,875
+<font color="white">to awaken the Guardians.</font>
+
+601
+01:07:22,375 --> 01:07:25,292
+<font color="white">But her desire alone was enough</font>
+<font color="white">to awaken the Azure Dragon.</font>
+
+602
+01:07:26,375 --> 01:07:27,750
+<font color="white">Do you really know her?</font>
+
+603
+01:07:29,583 --> 01:07:30,792
+<font color="white">If you don't believe me,</font>
+
+604
+01:07:32,042 --> 01:07:33,750
+<font color="white">let's confront them.</font>
+
+605
+01:07:34,167 --> 01:07:35,083
+<font color="white">What's the use?</font>
+
+606
+01:07:36,917 --> 01:07:39,125
+<font color="white">You'll just believe</font>
+<font color="white">whatever He Shouyue says.</font>
+
+607
+01:07:39,208 --> 01:07:41,125
+<font color="white">Aren't you just as devoted</font>
+<font color="white">to the Princess?</font>
+
+608
+01:07:48,167 --> 01:07:50,000
+<font color="white">Let's confront them separately then.</font>
+
+609
+01:07:51,583 --> 01:07:52,500
+<font color="white">Good luck.</font>
+
+610
+01:08:03,833 --> 01:08:05,208
+<font color="white">The one who needs good luck</font>
+
+611
+01:08:05,625 --> 01:08:06,500
+<font color="white">isn't me.</font>
+
+612
+01:08:20,208 --> 01:08:22,583
+<font color="white">I don't have much time left.</font>
+
+613
+01:08:31,000 --> 01:08:32,625
+<font color="white">What we're about to do</font>
+
+614
+01:08:33,958 --> 01:08:35,750
+<font color="white">is something no one has ever tried.</font>
+
+615
+01:08:39,375 --> 01:08:40,750
+<font color="white">If you regret doing this,</font>
+
+616
+01:08:46,125 --> 01:08:48,125
+<font color="white">you had better kill me now.</font>
+
+617
+01:08:49,417 --> 01:08:50,917
+<font color="white">Don't let me suffer so much.</font>
+
+618
+01:09:25,417 --> 01:09:26,667
+<font color="white">Boya.</font>
+
+619
+01:09:29,083 --> 01:09:30,542
+<font color="white">This is the Yin-Yang sigil</font>
+
+620
+01:09:30,833 --> 01:09:33,417
+<font color="white">my master used to create</font>
+<font color="white">Spirit Guardians when he was alive.</font>
+
+621
+01:09:36,958 --> 01:09:38,375
+<font color="white">Hold the sigil in your hand,</font>
+
+622
+01:09:38,583 --> 01:09:39,583
+<font color="white">call his name,</font>
+
+623
+01:09:39,958 --> 01:09:41,458
+<font color="white">and give him an order</font>
+
+624
+01:09:41,917 --> 01:09:44,000
+<font color="white">that he is absolutely unwilling to do.</font>
+
+625
+01:09:45,708 --> 01:09:47,333
+<font color="white">If he refuses to do it,</font>
+
+626
+01:09:48,542 --> 01:09:50,667
+<font color="white">then he is not</font>
+<font color="white">my master's Spirit Guardian.</font>
+
+627
+01:09:51,583 --> 01:09:52,500
+<font color="white">Or...</font>
+
+628
+01:09:53,208 --> 01:09:54,083
+<font color="white">Like you said,</font>
+
+629
+01:09:55,000 --> 01:09:56,625
+<font color="white">he has already betrayed Master.</font>
+
+630
+01:10:02,250 --> 01:10:03,208
+<font color="white">Qingming.</font>
+
+631
+01:10:15,167 --> 01:10:16,125
+<font color="white">What's the matter?</font>
+
+632
+01:10:16,583 --> 01:10:17,500
+<font color="white">Can this magic ear</font>
+
+633
+01:10:17,583 --> 01:10:19,708
+<font color="white">help me control the Princess?</font>
+
+634
+01:10:20,208 --> 01:10:21,625
+<font color="white">You talk too much.</font>
+
+635
+01:10:24,958 --> 01:10:26,417
+<font color="white">If you encounter any dangers,</font>
+
+636
+01:10:26,500 --> 01:10:27,750
+<font color="white">just give me a shout.</font>
+
+637
+01:10:36,792 --> 01:10:38,250
+<font color="white">If you encounter any dangers...</font>
+
+638
+01:10:38,333 --> 01:10:39,667
+<font color="white">I'll give you a shout too,</font>
+
+639
+01:10:41,583 --> 01:10:43,250
+<font color="white">so you can watch.</font>
+
+640
+01:10:47,167 --> 01:10:48,083
+<font color="white">Boya.</font>
+
+641
+01:10:49,958 --> 01:10:50,875
+<font color="white">One of us</font>
+
+642
+01:10:51,875 --> 01:10:54,000
+<font color="white">will face the real culprit.</font>
+
+643
+01:10:54,958 --> 01:10:56,333
+<font color="white">You must be careful.</font>
+
+644
+01:10:57,333 --> 01:10:58,250
+<font color="white">Take care.</font>
+
+645
+01:11:15,042 --> 01:11:15,917
+<font color="white">Your Highness.</font>
+
+646
+01:11:20,000 --> 01:11:21,667
+<font color="white">Master Qingming.</font>
+
+647
+01:11:22,708 --> 01:11:24,542
+<font color="white">The Evil Serpent will awaken soon.</font>
+
+648
+01:11:25,167 --> 01:11:26,333
+<font color="white">Does Your Highness know</font>
+
+649
+01:11:26,500 --> 01:11:28,708
+<font color="white">where the vessel</font>
+<font color="white">that contains the Evil Serpent is?</font>
+
+650
+01:11:29,208 --> 01:11:30,667
+<font color="white">Only Her Majesty knows that.</font>
+
+651
+01:11:32,208 --> 01:11:34,333
+<font color="white">But Her Majesty is currently unconscious.</font>
+
+652
+01:11:35,542 --> 01:11:36,917
+<font color="white">Don't worry, Your Highness.</font>
+
+653
+01:11:37,708 --> 01:11:39,208
+<font color="white">Once the Evil Serpent awakens,</font>
+
+654
+01:11:40,125 --> 01:11:42,458
+<font color="white">I'll be able to find it.</font>
+
+655
+01:11:46,042 --> 01:11:47,208
+<font color="white">Before my master died,</font>
+
+656
+01:11:48,250 --> 01:11:49,667
+<font color="white">he gave me a sword.</font>
+
+657
+01:11:51,375 --> 01:11:52,458
+<font color="white">This sword</font>
+
+658
+01:11:52,708 --> 01:11:54,042
+<font color="white">once slew the Evil Serpent</font>
+
+659
+01:11:54,708 --> 01:11:56,167
+<font color="white">and was soaked in its blood.</font>
+
+660
+01:11:57,167 --> 01:11:59,250
+<font color="white">It can sense the Evil Serpent's location.</font>
+
+661
+01:12:01,167 --> 01:12:02,625
+<font color="white">The sword's name</font>
+
+662
+01:12:05,208 --> 01:12:06,417
+<font color="white">is Fangyue.</font>
+
+663
+01:12:18,292 --> 01:12:19,458
+<font color="white">Where is Fangyue?</font>
+
+664
+01:12:32,542 --> 01:12:33,375
+<font color="white">Master Boya.</font>
+
+665
+01:12:34,917 --> 01:12:35,917
+<font color="white">Master He Shouyue.</font>
+
+666
+01:12:37,542 --> 01:12:38,417
+<font color="white">I have</font>
+
+667
+01:12:39,750 --> 01:12:41,375
+<font color="white">a favor to ask.</font>
+
+668
+01:12:45,833 --> 01:12:47,583
+<font color="white">I'd like you</font>
+
+669
+01:12:49,333 --> 01:12:50,250
+<font color="white">to draw your blade</font>
+
+670
+01:12:51,833 --> 01:12:53,667
+<font color="white">and cut off your right hand.</font>
+
+671
+01:12:56,542 --> 01:12:57,500
+<font color="white">Master Boya.</font>
+
+672
+01:13:01,292 --> 01:13:02,667
+<font color="white">What are you talking about?</font>
+
+673
+01:13:10,667 --> 01:13:12,667
+<font color="white">HE SHOUYUE</font>
+
+674
+01:13:14,375 --> 01:13:15,458
+<font color="white">He Shouyue.</font>
+
+675
+01:13:16,917 --> 01:13:19,333
+<font color="white">Draw your blade</font>
+<font color="white">and cut off your right hand.</font>
+
+676
+01:14:07,208 --> 01:14:08,167
+<font color="white">Your Highness.</font>
+
+677
+01:14:09,750 --> 01:14:11,167
+<font color="white">Put down Fangyue.</font>
+
+678
+01:14:48,083 --> 01:14:48,958
+<font color="white">Your Highness.</font>
+
+679
+01:14:50,542 --> 01:14:52,250
+<font color="white">What exactly are you?</font>
+
+680
+01:14:54,000 --> 01:14:54,958
+<font color="white">I...</font>
+
+681
+01:15:15,500 --> 01:15:16,333
+<font color="white">Your Highness.</font>
+
+682
+01:16:22,917 --> 01:16:24,792
+<font color="white">Why did you kill the Princess?</font>
+
+683
+01:16:26,917 --> 01:16:28,250
+<font color="white">The one who broke my heart</font>
+
+684
+01:16:30,000 --> 01:16:31,958
+<font color="white">was originally a painter in the palace.</font>
+
+685
+01:16:33,667 --> 01:16:36,375
+<font color="white">But he was obsessed with another woman.</font>
+
+686
+01:16:39,125 --> 01:16:40,917
+<font color="white">In order to prove his love to her,</font>
+
+687
+01:16:43,667 --> 01:16:45,000
+<font color="white">he didn't hesitate</font>
+
+688
+01:16:45,500 --> 01:16:46,667
+<font color="white">to kill me.</font>
+
+689
+01:16:48,917 --> 01:16:50,042
+<font color="white">I hated her.</font>
+
+690
+01:16:52,500 --> 01:16:55,250
+<font color="white">But I was under control</font>
+<font color="white">and couldn't act freely.</font>
+
+691
+01:16:57,000 --> 01:16:59,375
+<font color="white">Today, I'm finally free,</font>
+
+692
+01:17:00,833 --> 01:17:02,250
+<font color="white">and I was able to kill her.</font>
+
+693
+01:17:05,708 --> 01:17:06,833
+<font color="white">Sixty years.</font>
+
+694
+01:17:09,542 --> 01:17:11,417
+<font color="white">I have waited for sixty years.</font>
+
+695
+01:17:13,875 --> 01:17:15,458
+<font color="white">I'm so happy.</font>
+
+696
+01:17:16,875 --> 01:17:18,833
+<font color="white">I finally got my revenge.</font>
+
+697
+01:17:22,792 --> 01:17:24,250
+<font color="white">I'm so sad.</font>
+
+698
+01:17:29,042 --> 01:17:30,292
+<font color="white">I'm so happy.</font>
+
+699
+01:17:31,417 --> 01:17:33,292
+<i><font color="white">I'm so happy.</font></i>
+
+700
+01:17:37,083 --> 01:17:39,000
+<i><font color="white">I'm so happy.</font></i>
+
+701
+01:17:57,000 --> 01:17:58,083
+<font color="white">"Spirit Guardian."</font>
+
+702
+01:18:22,167 --> 01:18:23,458
+<i><font color="white">Where's Fangyue?</font></i>
+
+703
+01:18:27,167 --> 01:18:28,375
+<font color="white">I...</font>
+
+704
+01:18:29,125 --> 01:18:30,167
+<i><font color="white">My mission</font></i>
+
+705
+01:18:30,458 --> 01:18:31,917
+<i><font color="white">is to protect the Empress.</font></i>
+
+706
+01:18:33,958 --> 01:18:35,958
+<i><font color="white">The Princess only returned to the palace</font></i>
+
+707
+01:18:36,208 --> 01:18:37,542
+<i><font color="white">when she was 18.</font></i>
+
+708
+01:18:37,625 --> 01:18:39,292
+<i><font color="white">When you go to the Eastern Realm,</font></i>
+
+709
+01:18:40,125 --> 01:18:42,542
+<i><font color="white">bring her the Fangyue Sword.</font></i>
+
+710
+01:18:52,208 --> 01:18:53,167
+<font color="white">Boya.</font>
+
+711
+01:18:54,333 --> 01:18:55,167
+<font color="white">Boya.</font>
+
+712
+01:19:00,375 --> 01:19:01,500
+<font color="white">Boya.</font>
+
+713
+01:19:04,167 --> 01:19:05,500
+<font color="white">HE SHOUYUE</font>
+
+714
+01:19:12,708 --> 01:19:13,625
+<font color="white">Stop.</font>
+
+715
+01:19:17,000 --> 01:19:18,708
+<font color="white">HE SHOUYUE</font>
+
+716
+01:20:00,458 --> 01:20:03,333
+<font color="white">He Shouyue,</font>
+<font color="white">why did you betray the Empress?</font>
+
+717
+01:20:06,000 --> 01:20:08,000
+<font color="white">-I didn't betray--</font>
+<font color="white">-He didn't betray the Empress.</font>
+
+718
+01:20:09,958 --> 01:20:13,708
+<font color="white">Because the Princess is the Empress.</font>
+
+719
+01:20:17,167 --> 01:20:21,625
+<i><font color="white">The one behind the curtain</font></i>
+<i><font color="white">was a paper doll controlled by He Shouyue.</font></i>
+
+720
+01:20:21,708 --> 01:20:24,583
+<font color="white">The Heaven Worship Ceremony</font>
+<font color="white">is in a few days,</font>
+
+721
+01:20:24,667 --> 01:20:27,083
+<font color="white">yet such a thing happened.</font>
+
+722
+01:20:27,958 --> 01:20:31,667
+<font color="white">Changping, I'm ordering you to lead</font>
+<font color="white">the investigation and catch the killer.</font>
+
+723
+01:20:32,917 --> 01:20:37,000
+<font color="white">Because Master Hongruo participated</font>
+<font color="white">in the last ceremony,</font>
+
+724
+01:20:37,083 --> 01:20:39,625
+<font color="white">he could have revealed</font>
+<font color="white">the Evil Serpent's secret anytime.</font>
+
+725
+01:20:41,292 --> 01:20:44,583
+<font color="white">So He Shouyue manipulated</font>
+<font color="white">the hair demon to kill him.</font>
+
+726
+01:20:48,167 --> 01:20:51,000
+<i><font color="white">Then you put the listening bug on me</font></i>
+
+727
+01:20:51,208 --> 01:20:55,000
+<font color="white">to listen in on me</font>
+<font color="white">and spread fear at the same time.</font>
+
+728
+01:20:55,083 --> 01:20:56,167
+<font color="white">But the Barrier Magic around</font>
+
+729
+01:20:56,250 --> 01:20:58,250
+<font color="white">the Department of Celestial Observation</font>
+<font color="white">is unbroken.</font>
+
+730
+01:20:58,333 --> 01:21:01,833
+<font color="white">It could be a powerful Master</font>
+<font color="white">skilled in the art of teleportation.</font>
+
+731
+01:21:01,917 --> 01:21:06,083
+<font color="white">That made the Masters suspicious</font>
+<font color="white">and guarded against each other.</font>
+
+732
+01:21:07,333 --> 01:21:08,167
+<font color="white">But...</font>
+
+733
+01:21:10,125 --> 01:21:11,958
+<font color="white">When I mentioned my master...</font>
+
+734
+01:21:12,042 --> 01:21:14,583
+<font color="white">I heard that your master, Zhongxing,</font>
+<font color="white">was an Evil Serpent slayer.</font>
+
+735
+01:21:14,667 --> 01:21:16,458
+<i><font color="white">Your Majesty couldn't</font></i>
+<i><font color="white">control your emotions.</font></i>
+
+736
+01:21:17,000 --> 01:21:20,000
+<i><font color="white">The tadpoles sensed the urge</font></i>
+<i><font color="white">of the Evil Serpent in your body</font></i>
+
+737
+01:21:20,083 --> 01:21:21,333
+<i><font color="white">and pointed towards you.</font></i>
+
+738
+01:21:22,500 --> 01:21:25,375
+<font color="white">Originally, as long as He Shouyue</font>
+<font color="white">takes Hongruo's place,</font>
+
+739
+01:21:25,542 --> 01:21:27,208
+<font color="white">you can cover everything up.</font>
+
+740
+01:21:27,292 --> 01:21:30,583
+<font color="white">To awaken the Four Guardians,</font>
+<font color="white">there must be four Masters.</font>
+
+741
+01:21:30,667 --> 01:21:32,667
+<font color="white">We need to send someone</font>
+<font color="white">to inform the Western Region</font>
+
+742
+01:21:32,750 --> 01:21:34,875
+<font color="white">-to send another Master immediately.</font>
+<font color="white">-There's no time.</font>
+
+743
+01:21:35,417 --> 01:21:39,708
+<font color="white">-He Shouyue, take Master Hongruo's place.</font>
+<font color="white">-He Shouyue, take Master Hongruo's place.</font>
+
+744
+01:21:41,125 --> 01:21:43,375
+<font color="white">Yes, Your Majesty.</font>
+
+745
+01:21:45,375 --> 01:21:46,875
+<font color="white">But you didn't realize</font>
+
+746
+01:21:47,417 --> 01:21:49,708
+<i><font color="white">that Longye had been</font></i>
+<i><font color="white">privately investigating.</font></i>
+
+747
+01:21:51,583 --> 01:21:54,083
+<i><font color="white">She was suspicious</font></i>
+<i><font color="white">of the Empress's true identity.</font></i>
+
+748
+01:21:54,708 --> 01:21:57,042
+<i><font color="white">She sneaked</font></i>
+<i><font color="white">into the Empress's chamber at night</font></i>
+
+749
+01:21:57,167 --> 01:21:58,500
+<i><font color="white">and discovered the secret.</font></i>
+
+750
+01:22:01,750 --> 01:22:05,417
+<i><font color="white">As long as Qingming is alive,</font></i>
+<i><font color="white">I cannot be at peace.</font></i>
+
+751
+01:22:05,500 --> 01:22:08,208
+<i><font color="white">What if they find out you are the Empress?</font></i>
+
+752
+01:22:32,083 --> 01:22:34,333
+<font color="white">That was why you had to silence her.</font>
+
+753
+01:22:41,167 --> 01:22:42,333
+<font color="white">Summon the physician!</font>
+
+754
+01:22:43,292 --> 01:22:44,458
+<font color="white">Summon the physician!</font>
+
+755
+01:22:46,208 --> 01:22:50,167
+<font color="white">Before Longye died, she actually told me</font>
+
+756
+01:22:50,958 --> 01:22:52,417
+<font color="white">that the Empress was the Princess.</font>
+
+757
+01:22:52,500 --> 01:22:54,417
+<font color="white">The Empress is...</font>
+
+758
+01:22:56,792 --> 01:22:59,708
+<font color="white">The Princess.</font>
+
+759
+01:22:59,792 --> 01:23:04,333
+<font color="white">I thought she meant the Princess</font>
+<font color="white">wanted to kill the Empress.</font>
+
+760
+01:23:06,000 --> 01:23:06,958
+<font color="white">You're very smart.</font>
+
+761
+01:23:08,292 --> 01:23:10,417
+<font color="white">You have calculated every step correctly.</font>
+
+762
+01:23:11,917 --> 01:23:13,833
+<font color="white">Back then, I consumed Mermaid flesh</font>
+
+763
+01:23:15,000 --> 01:23:17,542
+<font color="white">to make my body immortal,</font>
+
+764
+01:23:19,083 --> 01:23:21,875
+<font color="white">so I could contain</font>
+<font color="white">the Evil Serpent indefinitely.</font>
+
+765
+01:23:23,500 --> 01:23:24,667
+<font color="white">But while I achieved</font>
+
+766
+01:23:24,750 --> 01:23:27,833
+<font color="white">the immortality everyone dreams of,</font>
+
+767
+01:23:29,292 --> 01:23:32,208
+<font color="white">I would never be able</font>
+<font color="white">to leave Imperial City again.</font>
+
+768
+01:23:33,542 --> 01:23:35,667
+<font color="white">Imperial City</font>
+<font color="white">may have trapped the Evil Serpent,</font>
+
+769
+01:23:37,417 --> 01:23:38,958
+<font color="white">but it also trapped me.</font>
+
+770
+01:23:43,458 --> 01:23:44,875
+<font color="white">I kept changing</font>
+
+771
+01:23:46,125 --> 01:23:48,167
+<font color="white">my identity for hundreds of years,</font>
+
+772
+01:23:49,167 --> 01:23:52,125
+<font color="white">from flower seller to singer,</font>
+
+773
+01:23:53,250 --> 01:23:56,167
+<font color="white">mulberry picker, and nun.</font>
+
+774
+01:23:57,833 --> 01:24:01,792
+<i><font color="white">Until I was chosen</font></i>
+<i><font color="white">by the Emperor and was cherished by him.</font></i>
+
+775
+01:24:03,250 --> 01:24:05,000
+<i><font color="white">After the Emperor passed away,</font></i>
+
+776
+01:24:05,750 --> 01:24:07,250
+<i><font color="white">I became Empress.</font></i>
+
+777
+01:24:08,583 --> 01:24:11,042
+<i><font color="white">To keep my immortality a secret,</font></i>
+
+778
+01:24:11,750 --> 01:24:14,750
+<i><font color="white">I became a princess</font></i>
+<i><font color="white">who lived outside the palace</font></i>
+
+779
+01:24:15,125 --> 01:24:16,333
+<i><font color="white">and just returned.</font></i>
+
+780
+01:24:18,958 --> 01:24:22,417
+<i><font color="white">I separated the Evil Serpent</font></i>
+<i><font color="white">from the world with my body.</font></i>
+
+781
+01:24:25,083 --> 01:24:27,667
+<i><font color="white">The Evil Serpent could no longer devour</font></i>
+
+782
+01:24:28,208 --> 01:24:30,792
+<i><font color="white">the desires of the world.</font></i>
+
+783
+01:24:32,292 --> 01:24:34,917
+<i><font color="white">It can only feed on my emotions.</font></i>
+
+784
+01:24:37,750 --> 01:24:39,750
+<font color="white">The people I met and fell in love with</font>
+
+785
+01:24:42,917 --> 01:24:43,917
+<font color="white">grew old</font>
+
+786
+01:24:46,917 --> 01:24:47,917
+<font color="white">and died.</font>
+
+787
+01:24:51,250 --> 01:24:52,875
+<font color="white">My memories faded,</font>
+
+788
+01:24:53,708 --> 01:24:56,458
+<font color="white">as did my desires for this world.</font>
+
+789
+01:25:00,208 --> 01:25:02,083
+<font color="white">Until I met your master.</font>
+
+790
+01:25:03,333 --> 01:25:07,208
+<font color="white">He kept this secret even until death.</font>
+
+791
+01:25:08,333 --> 01:25:10,375
+<font color="white">That's why I'm even more confused.</font>
+
+792
+01:25:11,042 --> 01:25:13,208
+<font color="white">Why do you want</font>
+<font color="white">to release the Evil Serpent?</font>
+
+793
+01:25:14,000 --> 01:25:15,875
+<font color="white">I need its power of immortality.</font>
+
+794
+01:25:16,417 --> 01:25:18,583
+<font color="white">But you're already immortal.</font>
+
+795
+01:25:20,833 --> 01:25:22,000
+<i><font color="white">Your Highness,</font></i>
+
+796
+01:25:22,583 --> 01:25:24,042
+<font color="white">you sound worried.</font>
+
+797
+01:25:26,000 --> 01:25:27,875
+<font color="white">I'm worried about you.</font>
+
+798
+01:25:29,583 --> 01:25:31,167
+<font color="white">If you need me,</font>
+
+799
+01:25:32,167 --> 01:25:33,583
+<i><font color="white">I'll find a way to survive.</font></i>
+
+800
+01:25:36,583 --> 01:25:37,542
+<font color="white">Your Highness.</font>
+
+801
+01:25:37,833 --> 01:25:38,958
+<font color="white">Your Highness.</font>
+
+802
+01:26:09,167 --> 01:26:10,125
+<font color="white">Qingming.</font>
+
+803
+01:26:28,333 --> 01:26:29,333
+<font color="white">Boya.</font>
+
+804
+01:26:36,292 --> 01:26:39,708
+<font color="white">Master, why can't I find my mother?</font>
+
+805
+01:26:40,625 --> 01:26:42,458
+<font color="white">The Yin-Yang Teleportation Technique</font>
+
+806
+01:26:42,542 --> 01:26:45,375
+<font color="white">can only take you to places you can see</font>
+
+807
+01:26:45,500 --> 01:26:47,667
+<font color="white">or already know.</font>
+
+808
+01:26:47,792 --> 01:26:48,667
+<font color="white">Boya!</font>
+
+809
+01:26:57,583 --> 01:26:58,667
+<font color="white">Boya.</font>
+
+810
+01:27:00,000 --> 01:27:01,500
+<font color="white">-</font><i><font color="white">Boya.</font></i>
+<font color="white">-Qingming.</font>
+
+811
+01:27:03,167 --> 01:27:04,250
+<font color="white">Qingming.</font>
+
+812
+01:27:05,917 --> 01:27:07,042
+<font color="white">Where are you?</font>
+
+813
+01:27:07,333 --> 01:27:08,208
+<i><font color="white">Inside a tomb.</font></i>
+
+814
+01:27:08,292 --> 01:27:09,708
+<i><font color="white">I don't know where.</font></i>
+
+815
+01:27:09,792 --> 01:27:10,792
+<font color="white">Let me see you.</font>
+
+816
+01:27:11,375 --> 01:27:12,875
+<font color="white">There's no time for this.</font>
+
+817
+01:27:12,958 --> 01:27:14,125
+<font color="white">The magic eye.</font>
+
+818
+01:27:14,208 --> 01:27:15,583
+<i><font color="white">Use my magic eye!</font></i>
+
+819
+01:27:57,208 --> 01:27:58,125
+<font color="white">Boya!</font>
+
+820
+01:28:13,625 --> 01:28:14,708
+<font color="white">Boya.</font>
+
+821
+01:28:16,000 --> 01:28:16,833
+<font color="white">Boya.</font>
+
+822
+01:28:56,208 --> 01:28:57,500
+<font color="white">How long</font>
+
+823
+01:28:58,292 --> 01:28:59,458
+<font color="white">have you been this way?</font>
+
+824
+01:29:00,375 --> 01:29:01,792
+<font color="white">Hundreds of years.</font>
+
+825
+01:29:04,958 --> 01:29:06,500
+<font color="white">I can't remember anymore.</font>
+
+826
+01:29:08,667 --> 01:29:10,333
+<font color="white">What's your original name?</font>
+
+827
+01:29:13,792 --> 01:29:15,583
+<font color="white">Fangyue.</font>
+
+828
+01:29:19,208 --> 01:29:22,667
+<font color="white">It has been so long</font>
+<font color="white">since someone said that name.</font>
+
+829
+01:29:30,125 --> 01:29:31,208
+<font color="white">Fangyue.</font>
+
+830
+01:29:32,667 --> 01:29:35,208
+<font color="white">I'll always remember your name.</font>
+
+831
+01:29:38,000 --> 01:29:39,000
+<font color="white">Fangyue.</font>
+
+832
+01:29:42,875 --> 01:29:43,917
+<font color="white">Fangyue.</font>
+
+833
+01:29:47,458 --> 01:29:48,750
+<font color="white">Zhongxing.</font>
+
+834
+01:30:00,125 --> 01:30:01,542
+<font color="white">Can't you stay?</font>
+
+835
+01:30:09,083 --> 01:30:10,500
+<font color="white">Zhongxing.</font>
+
+836
+01:30:13,542 --> 01:30:15,125
+<font color="white">Can't you stay?</font>
+
+837
+01:30:15,333 --> 01:30:16,958
+<font color="white">I'll always be with you.</font>
+
+838
+01:30:42,833 --> 01:30:44,167
+<font color="white">The Evil Serpent is awake.</font>
+
+839
+01:31:58,417 --> 01:31:59,458
+<font color="white">It's not enough.</font>
+
+840
+01:32:00,708 --> 01:32:01,875
+<font color="white">It's still not enough.</font>
+
+841
+01:32:02,750 --> 01:32:04,208
+<font color="white">What are you planning to do?</font>
+
+842
+01:32:25,958 --> 01:32:27,375
+<font color="white">...if only they could be here.</font>
+
+843
+01:32:28,667 --> 01:32:29,583
+<font color="white">What's that sound?</font>
+
+844
+01:32:54,750 --> 01:32:56,458
+<font color="white">The Evil Serpent is</font>
+<font color="white">consuming human desires</font>
+
+845
+01:32:56,542 --> 01:32:58,125
+<font color="white">and getting bigger and bigger.</font>
+
+846
+01:33:11,167 --> 01:33:12,833
+<font color="white">The Vermilion Bird is not yet awake.</font>
+
+847
+01:33:14,542 --> 01:33:15,625
+<font color="white">It was He Shouyue.</font>
+
+848
+01:33:28,833 --> 01:33:30,750
+<font color="white">We can't let them leave Imperial City.</font>
+
+849
+01:33:31,375 --> 01:33:33,042
+<i><font color="white">Out of the Four Guardians' watch,</font></i>
+
+850
+01:33:33,208 --> 01:33:35,417
+<i><font color="white">the Evil Serpent will become</font></i>
+<i><font color="white">even more terrifying.</font></i>
+
+851
+01:34:00,125 --> 01:34:02,708
+<font color="white">You want the Evil Serpent</font>
+<font color="white">to leave Imperial City?</font>
+
+852
+01:34:03,125 --> 01:34:04,292
+<font color="white">Not the Evil Serpent.</font>
+
+853
+01:34:05,458 --> 01:34:06,417
+<font color="white">It's you and me.</font>
+
+854
+01:34:08,042 --> 01:34:10,292
+<font color="white">Let's leave Imperial City together.</font>
+
+855
+01:34:12,375 --> 01:34:13,708
+<font color="white">Let's break out of here</font>
+
+856
+01:34:14,708 --> 01:34:16,750
+<font color="white">and spend our lives wandering the world.</font>
+
+857
+01:34:20,417 --> 01:34:21,792
+<font color="white">I'll accompany you.</font>
+
+858
+01:34:29,792 --> 01:34:30,750
+<font color="white">All right.</font>
+
+859
+01:34:34,042 --> 01:34:35,458
+<font color="white">Let us</font>
+
+860
+01:34:38,958 --> 01:34:40,667
+<font color="white">die together then.</font>
+
+861
+01:34:53,583 --> 01:34:55,083
+<font color="white">-Your Highness!</font>
+<font color="white">-Your Highness!</font>
+
+862
+01:35:04,667 --> 01:35:07,708
+<font color="white">With my blood, I'll command the spirits.</font>
+
+863
+01:35:21,667 --> 01:35:22,667
+<font color="white">Killing Stone.</font>
+
+864
+01:35:22,750 --> 01:35:23,625
+<font color="white">Mad Painter.</font>
+
+865
+01:35:23,708 --> 01:35:24,542
+<font color="white">Snow Hound.</font>
+
+866
+01:35:24,792 --> 01:35:26,000
+<font color="white">-Incarnated.</font>
+<font color="white">-Incarnated.</font>
+
+867
+01:35:26,333 --> 01:35:29,000
+<font color="white">Mad Painter, protect Master Qingming.</font>
+
+868
+01:35:29,292 --> 01:35:31,583
+<font color="white">Snow Hound, come with me.</font>
+
+869
+01:37:26,208 --> 01:37:27,250
+<font color="white">It's not working.</font>
+
+870
+01:37:28,833 --> 01:37:30,875
+<font color="white">We must activate the Protection Barrier.</font>
+
+871
+01:37:32,167 --> 01:37:33,000
+<font color="white">Qingming,</font>
+
+872
+01:37:33,083 --> 01:37:35,333
+<font color="white">the Princess is still inside</font>
+<font color="white">the Evil Serpent.</font>
+
+873
+01:37:35,583 --> 01:37:37,750
+<font color="white">We can't stop He Shouyue this way.</font>
+
+874
+01:37:37,833 --> 01:37:39,583
+<font color="white">I have one last idea.</font>
+
+875
+01:37:40,958 --> 01:37:44,583
+<font color="white">I'll summon the Vermilion Bird</font>
+<font color="white">with my flesh and blood.</font>
+
+876
+01:37:45,250 --> 01:37:46,292
+<font color="white">Boya.</font>
+
+877
+01:37:46,375 --> 01:37:48,292
+<font color="white">With all Four Guardians guarding the city,</font>
+
+878
+01:37:48,375 --> 01:37:50,250
+<font color="white">He Shouyue won't be able</font>
+<font color="white">to leave Imperial City.</font>
+
+879
+01:37:50,333 --> 01:37:52,542
+<font color="white">Then find a way to rescue the Princess.</font>
+
+880
+01:37:53,250 --> 01:37:55,542
+<font color="white">I can't protect you if you're unconscious.</font>
+
+881
+01:37:55,833 --> 01:37:57,500
+<font color="white">-I...</font>
+<font color="white">-I trust you.</font>
+
+882
+01:37:59,125 --> 01:38:01,875
+<font color="white">Let me be your Spirit Guardian.</font>
+
+883
+01:38:06,375 --> 01:38:07,875
+<font color="white">Boya!</font>
+
+884
+01:38:38,000 --> 01:38:39,250
+<font color="white">Master Qingming.</font>
+
+885
+01:38:40,667 --> 01:38:42,083
+<font color="white">It's my honor to serve you.</font>
+
+886
+01:38:43,250 --> 01:38:44,375
+<font color="white">I have no regret.</font>
+
+887
+01:39:28,917 --> 01:39:31,792
+<font color="white">Master Qingming, go.</font>
+
+888
+01:39:56,792 --> 01:39:59,500
+<font color="white">Master Qingming, go save Boya.</font>
+
+889
+01:39:59,875 --> 01:40:01,500
+<font color="white">Leave this to me and Killing Stone.</font>
+
+890
+01:40:25,458 --> 01:40:26,500
+<font color="white">Boya!</font>
+
+891
+01:40:29,000 --> 01:40:29,875
+<font color="white">Boya!</font>
+
+892
+01:45:21,000 --> 01:45:23,542
+<font color="white">How long are you planning</font>
+<font color="white">to stay in this illusion?</font>
+
+893
+01:45:29,792 --> 01:45:31,417
+<font color="white">Master is already dead.</font>
+
+894
+01:45:46,583 --> 01:45:47,625
+<font color="white">Zhongxing.</font>
+
+895
+01:47:01,167 --> 01:47:05,208
+<font color="white">Grief and joy,</font>
+<font color="white">partings and meetings, life and death,</font>
+
+896
+01:47:07,250 --> 01:47:09,875
+<font color="white">you'll face them all</font>
+<font color="white">in this brief flash of life.</font>
+
+897
+01:47:13,000 --> 01:47:14,125
+<font color="white">But in this life,</font>
+
+898
+01:47:17,417 --> 01:47:18,583
+<font color="white">I have loved,</font>
+
+899
+01:47:20,042 --> 01:47:21,417
+<font color="white">and I have been loved.</font>
+
+900
+01:47:24,333 --> 01:47:25,583
+<font color="white">That is enough.</font>
+
+901
+01:47:26,708 --> 01:47:27,875
+<font color="white">In this world,</font>
+
+902
+01:47:28,917 --> 01:47:30,417
+<font color="white">do you still desire anything?</font>
+
+903
+01:47:32,292 --> 01:47:37,083
+<font color="white">I entered this world empty-handed.</font>
+
+904
+01:47:38,292 --> 01:47:39,875
+<font color="white">I will leave empty-handed.</font>
+
+905
+01:47:41,875 --> 01:47:43,167
+<font color="white">What about me?</font>
+
+906
+01:47:45,125 --> 01:47:48,083
+<font color="white">If you leave this world,</font>
+
+907
+01:47:50,708 --> 01:47:52,583
+<font color="white">what is left for me?</font>
+
+908
+01:47:54,208 --> 01:47:55,708
+<font color="white">You and I are different.</font>
+
+909
+01:47:58,667 --> 01:48:01,125
+<font color="white">You are different from all of us.</font>
+
+910
+01:48:02,500 --> 01:48:06,625
+<font color="white">Your blood carries the fate of the world.</font>
+
+911
+01:48:08,333 --> 01:48:10,250
+<font color="white">But you must make the world</font>
+
+912
+01:48:12,083 --> 01:48:14,125
+<font color="white">remember your name.</font>
+
+913
+01:48:20,458 --> 01:48:22,458
+<font color="white">I've had so many names.</font>
+
+914
+01:48:30,000 --> 01:48:32,167
+<font color="white">I can't even remember my names.</font>
+
+915
+01:48:34,583 --> 01:48:35,458
+<font color="white">No.</font>
+
+916
+01:48:39,583 --> 01:48:41,292
+<font color="white">I still remember your name.</font>
+
+917
+01:48:46,917 --> 01:48:47,917
+<font color="white">I will always</font>
+
+918
+01:48:49,750 --> 01:48:51,792
+<font color="white">remember your name.</font>
+
+919
+01:49:43,250 --> 01:49:44,542
+<font color="white">Your name</font>
+
+920
+01:49:47,042 --> 01:49:48,333
+<font color="white">is Fangyue.</font>
+
+921
+01:49:54,542 --> 01:49:57,000
+<font color="white">This blade has been with me</font>
+<font color="white">for a long time.</font>
+
+922
+01:49:59,208 --> 01:50:00,333
+<font color="white">It's my gift to you.</font>
+
+923
+01:50:04,667 --> 01:50:06,000
+<font color="white">Can't you stay?</font>
+
+924
+01:50:08,208 --> 01:50:10,083
+<font color="white">The Evil Serpent is still inside you.</font>
+
+925
+01:50:11,500 --> 01:50:13,250
+<font color="white">You've already developed feelings.</font>
+
+926
+01:50:14,583 --> 01:50:15,792
+<font color="white">I can't stay.</font>
+
+927
+01:50:19,208 --> 01:50:20,375
+<font color="white">What about you?</font>
+
+928
+01:50:23,208 --> 01:50:24,875
+<font color="white">Have you developed feelings?</font>
+
+929
+01:50:35,667 --> 01:50:36,958
+<font color="white">I see.</font>
+
+930
+01:50:47,917 --> 01:50:49,458
+<font color="white">Does it have a name?</font>
+
+931
+01:50:52,625 --> 01:50:53,708
+<font color="white">Not yet.</font>
+
+932
+01:50:56,958 --> 01:50:58,583
+<font color="white">Let's call it Fangyue.</font>
+
+933
+01:51:04,667 --> 01:51:06,208
+<font color="white">Let it keep you company</font>
+
+934
+01:51:08,250 --> 01:51:09,667
+<font color="white">from now on.</font>
+
+935
+01:51:11,917 --> 01:51:13,250
+<font color="white">Let Fangyue do</font>
+
+936
+01:51:15,958 --> 01:51:17,500
+<font color="white">what I can't.</font>
+
+937
+01:53:24,792 --> 01:53:25,625
+<font color="white">Boya!</font>
+
+938
+01:54:16,750 --> 01:54:17,792
+<font color="white">Qingming.</font>
+
+939
+01:54:18,792 --> 01:54:20,083
+<font color="white">Let me show you</font>
+
+940
+01:54:21,625 --> 01:54:24,958
+<font color="white">the real Protection Spell.</font>
+
+941
+01:54:37,583 --> 01:54:38,792
+<font color="white">What if there's no one</font>
+
+942
+01:54:39,417 --> 01:54:42,042
+<font color="white">in this world that you want</font>
+<font color="white">to protect anymore?</font>
+
+943
+01:54:43,958 --> 01:54:46,875
+<font color="white">Your Highness, what are you doing?</font>
+
+944
+01:54:48,000 --> 01:54:49,708
+<font color="white">You are immortal.</font>
+
+945
+01:54:52,625 --> 01:54:54,042
+<font color="white">You'll only suffer.</font>
+
+946
+01:54:54,125 --> 01:54:55,542
+<font color="white">Without the Evil Serpent,</font>
+
+947
+01:54:57,250 --> 01:54:58,792
+<font color="white">I'm no longer immortal.</font>
+
+948
+01:55:01,542 --> 01:55:02,708
+<font color="white">You're lying.</font>
+
+949
+01:55:02,792 --> 01:55:04,333
+<font color="white">I've never lied to you.</font>
+
+950
+01:55:06,042 --> 01:55:06,875
+<font color="white">So,</font>
+
+951
+01:55:10,083 --> 01:55:12,208
+<font color="white">I hope you won't lie to me either.</font>
+
+952
+01:55:15,250 --> 01:55:16,417
+<font color="white">You said</font>
+
+953
+01:55:20,875 --> 01:55:22,500
+<font color="white">you would always protect me.</font>
+
+954
+01:55:35,417 --> 01:55:36,417
+<font color="white">Fangyue.</font>
+
+955
+01:57:59,083 --> 01:58:00,708
+<i><font color="white">The purpose of a Yin-Yang Master</font></i>
+
+956
+01:58:01,125 --> 01:58:02,792
+<i><font color="white">is not to subdue,</font></i>
+
+957
+01:58:03,208 --> 01:58:04,542
+<i><font color="white">but to protect.</font></i>
+
+958
+01:58:05,792 --> 01:58:07,500
+<i><font color="white">Qingming,</font></i>
+
+959
+01:58:07,583 --> 01:58:11,917
+<i><font color="white">find something you would</font></i>
+<i><font color="white">want to protect in this world.</font></i>
+
+960
+01:58:12,125 --> 01:58:16,500
+<i><font color="white">Leave your name in this world.</font></i>
+
+961
+01:58:59,458 --> 01:59:00,542
+<font color="white">Thank you.</font>
+
+962
+01:59:02,750 --> 01:59:04,292
+<font color="white">I should be thanking you.</font>
+
+963
+01:59:06,417 --> 01:59:07,458
+<font color="white">I am</font>
+
+964
+01:59:08,583 --> 01:59:10,458
+<font color="white">a real Yin-Yang Master now.</font>
+
+965
+01:59:19,292 --> 01:59:20,708
+<i><font color="white">Before my master died,</font></i>
+
+966
+01:59:20,792 --> 01:59:22,542
+<i><font color="white">he told me to go to the Eastern Realm,</font></i>
+
+967
+01:59:23,708 --> 01:59:25,792
+<font color="white">where he would teach me one last lesson.</font>
+
+968
+01:59:26,625 --> 01:59:28,167
+<font color="white">At first, I didn't understand,</font>
+
+969
+01:59:28,792 --> 01:59:31,292
+<font color="white">but I do now.</font>
+
+970
+01:59:34,292 --> 01:59:36,000
+<font color="white">When I first became his disciple,</font>
+
+971
+01:59:36,958 --> 01:59:38,625
+<font color="white">I often heard my seniors say</font>
+
+972
+01:59:39,667 --> 01:59:41,250
+<font color="white">that when Master was young,</font>
+
+973
+01:59:41,500 --> 01:59:43,417
+<font color="white">he lived in Imperial City for a while.</font>
+
+974
+01:59:45,458 --> 01:59:48,792
+<i><font color="white">I was curious and asked him</font></i>
+<i><font color="white">about his experience in Imperial City,</font></i>
+
+975
+01:59:49,500 --> 01:59:53,125
+<i><font color="white">but he always remained silent</font></i>
+<i><font color="white">and was reluctant to talk about it.</font></i>
+
+976
+01:59:55,250 --> 01:59:56,667
+<i><font color="white">Today, I finally understood.</font></i>
+
+977
+01:59:57,500 --> 02:00:00,208
+<i><font color="white">It wasn't because he was forgetful</font></i>
+<i><font color="white">due to his old age.</font></i>
+
+978
+02:00:01,083 --> 02:00:02,583
+<i><font color="white">He used a lot of strength</font></i>
+
+979
+02:00:02,958 --> 02:00:06,208
+<i><font color="white">to create a Spirit Guardian</font></i>
+<i><font color="white">as powerful as himself.</font></i>
+
+980
+02:00:06,875 --> 02:00:10,917
+<i><font color="white">He used spells to attach all</font></i>
+<i><font color="white">his feelings for Fangyue</font></i>
+
+981
+02:00:12,500 --> 02:00:14,792
+<i><font color="white">before he turned 20 on He Shouyue.</font></i>
+
+982
+02:00:17,875 --> 02:00:18,708
+<font color="white">Protect...</font>
+
+983
+02:00:21,375 --> 02:00:23,042
+<font color="white">Fangyue forever.</font>
+
+984
+02:00:31,583 --> 02:00:33,125
+<font color="white">Your Majesty, what's on your mind?</font>
+
+985
+02:00:38,125 --> 02:00:40,375
+<font color="white">I'm thinking about someone</font>
+<font color="white">I'm unable to see.</font>
+
+986
+02:00:43,625 --> 02:00:45,125
+<font color="white">Your Majesty, if it's your will,</font>
+
+987
+02:00:45,792 --> 02:00:48,958
+<font color="white">I can transform into anyone,</font>
+<font color="white">so you can see him.</font>
+
+988
+02:00:52,208 --> 02:00:53,625
+<font color="white">But you're not him.</font>
+
+989
+02:00:55,083 --> 02:00:58,875
+<font color="white">Your Majesty, just tell me</font>
+<font color="white">whether you want me to or not.</font>
+
+990
+02:01:08,500 --> 02:01:10,167
+<i><font color="white">But my master never expected</font></i>
+
+991
+02:01:11,750 --> 02:01:14,875
+<i><font color="white">that the Spirit Guardian would turn</font></i>
+<i><font color="white">into the person she misses</font></i>
+
+992
+02:01:15,708 --> 02:01:17,875
+<i><font color="white">to satisfy Her Majesty's wish.</font></i>
+
+993
+02:01:32,625 --> 02:01:34,958
+<i><font color="white">He Shouyue did not betray Master.</font></i>
+
+994
+02:01:36,250 --> 02:01:38,500
+<i><font color="white">Master ordered him</font></i>
+<i><font color="white">to protect Fangyue forever.</font></i>
+
+995
+02:01:39,458 --> 02:01:41,708
+<i><font color="white">But he got caught up</font></i>
+<i><font color="white">on the word "forever."</font></i>
+
+996
+02:01:43,042 --> 02:01:46,417
+<i><font color="white">So he sought to</font></i>
+<i><font color="white">become immortal at all costs.</font></i>
+
+997
+02:01:48,542 --> 02:01:49,708
+<i><font color="white">It was the only way</font></i>
+
+998
+02:01:50,625 --> 02:01:52,667
+<i><font color="white">he could fulfill his duty</font></i>
+
+999
+02:01:54,583 --> 02:01:58,167
+<i><font color="white">of protecting Fangyue forever.</font></i>
+
+1000
+02:02:20,000 --> 02:02:20,833
+<font color="white">In my next life,</font>
+
+1001
+02:02:22,125 --> 02:02:23,667
+<font color="white">I want to be human.</font>
+
+1002
+02:02:25,083 --> 02:02:26,625
+<font color="white">Being human is too painful.</font>
+
+1003
+02:02:29,167 --> 02:02:31,417
+<font color="white">In my next life, I want to be the moon.</font>
+
+1004
+02:02:33,292 --> 02:02:35,083
+<font color="white">Then I will protect the moon.</font>
+
+1005
+02:02:36,958 --> 02:02:38,333
+<font color="white">I'll protect you forever.</font>
+
+1006
+02:03:39,000 --> 02:03:41,417
+<font color="white">Good and evil coexist in the world.</font>
+
+1007
+02:03:42,458 --> 02:03:44,125
+<font color="white">Just like Yin and Yang,</font>
+
+1008
+02:03:44,208 --> 02:03:46,167
+<font color="white">reinforcing and restraining each other.</font>
+
+1009
+02:03:47,625 --> 02:03:49,000
+<font color="white">Perhaps humans and demons</font>
+
+1010
+02:03:50,167 --> 02:03:51,083
+<font color="white">both have desires,</font>
+
+1011
+02:03:52,167 --> 02:03:53,500
+<font color="white">which can be good or evil.</font>
+
+1012
+02:03:56,708 --> 02:03:57,708
+<font color="white">After a few decades,</font>
+
+1013
+02:03:58,250 --> 02:04:01,333
+<font color="white">perhaps the Evil Serpent will resurface</font>
+<font color="white">somewhere in the world again.</font>
+
+1014
+02:04:01,417 --> 02:04:03,667
+<font color="white">At least, we have protected</font>
+<font color="white">the world right now.</font>
+
+1015
+02:04:05,542 --> 02:04:06,958
+<font color="white">After a few decades,</font>
+
+1016
+02:04:07,250 --> 02:04:08,833
+<font color="white">let's fight side by side again.</font>
+
+1017
+02:04:10,333 --> 02:04:12,708
+<font color="white">You've always laughed at me</font>
+<font color="white">for being preachy.</font>
+
+1018
+02:04:13,583 --> 02:04:14,875
+<font color="white">Now you're the same.</font>
+
+1019
+02:04:14,958 --> 02:04:17,667
+<font color="white">Didn't you resent me for hanging out</font>
+<font color="white">with Spirit Guardians all day?</font>
+
+1020
+02:04:17,750 --> 02:04:21,333
+<font color="white">Yet you were willing</font>
+<font color="white">to become my Spirit Guardian in the end.</font>
+
+1021
+02:04:26,500 --> 02:04:27,917
+<font color="white">That was the Vermilion Bird,</font>
+
+1022
+02:04:28,583 --> 02:04:29,458
+<font color="white">not me.</font>
+
+1023
+02:04:51,625 --> 02:04:53,375
+<i><font color="white">Killing Stone once asked you</font></i>
+
+1024
+02:04:54,250 --> 02:04:56,208
+<i><font color="white">if you were the one playing the flute.</font></i>
+
+1025
+02:04:58,333 --> 02:04:59,417
+<i><font color="white">Our fate</font></i>
+
+1026
+02:05:00,208 --> 02:05:01,375
+<i><font color="white">started with the flute.</font></i>
+
+1027
+02:05:03,083 --> 02:05:03,958
+<i><font color="white">Today,</font></i>
+
+1028
+02:05:05,167 --> 02:05:06,542
+<i><font color="white">let me play the flute</font></i>
+
+1029
+02:05:08,083 --> 02:05:09,708
+<i><font color="white">to send you off.</font></i>
+
+1030
+02:05:46,208 --> 02:05:48,917
+<i><font color="white">My bow and arrow were originally</font></i>
+<i><font color="white">meant to kill enemies.</font></i>
+
+1031
+02:05:49,667 --> 02:05:50,792
+<i><font color="white">But right now,</font></i>
+
+1032
+02:05:52,375 --> 02:05:54,750
+<i><font color="white">I hope the arrow flies above the vast sea</font></i>
+
+1033
+02:05:56,208 --> 02:05:59,958
+<i><font color="white">to guide you home.</font></i>
+
+1034
+02:06:35,500 --> 02:06:38,500
+<font color="white">QINGMING SHINES BRIGHTLY</font>
+
+1035
+02:06:38,583 --> 02:06:41,667
+<font color="white">LIKE A STAR</font>
+
+1036
+02:06:41,750 --> 02:06:44,000
+<font color="white">BOYA'S BOW</font>
+
+1037
+02:06:44,083 --> 02:06:46,875
+<font color="white">SPRINGS WITH JOY</font>
+
+1038
+02:06:46,958 --> 02:06:51,667
+<font color="white">QINGMING SHINES BRIGHTLY LIKE A STAR</font>
+<font color="white">BOYA'S BOW SPRINGS WITH JOY</font>
+
+1039
+02:12:36,250 --> 02:12:39,708
+<font color="white">MAY THOSE WHO CARE FOR YOU</font>
+<font color="white">IN THIS LIFE</font>
+
+1040
+02:12:39,792 --> 02:12:43,250
+<font color="white">BE BY YOUR SIDE RIGHT NOW</font>
+
+1041
+02:12:43,333 --> 02:12:45,333
+<font color="white">Subtitle translation by: pp Hsiung,</font>
+<font color="white">Peter Walters, Fan Yingqiao</font>
+
