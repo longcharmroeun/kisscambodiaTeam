@@ -1,0 +1,3584 @@
+﻿1
+00:00:06,748 --> 00:00:07,823
+Kamu
+
+2
+00:00:09,277 --> 00:00:10,493
+menyukai Dan Oh?
+
+3
+00:00:12,248 --> 00:00:15,092
+- Apa? - Lupakan soal karaktermu.
+
+4
+00:00:15,947 --> 00:00:17,562
+Apa kamu menyukai Dan Oh?
+
+5
+00:00:18,188 --> 00:00:19,787
+Kenapa kamu menanyakan itu?
+
+6
+00:00:19,787 --> 00:00:21,003
+Karena aku menyukainya.
+
+7
+00:00:23,298 --> 00:00:24,373
+Aku menyukai Dan Oh.
+
+8
+00:00:34,668 --> 00:00:35,843
+"Episode 19"
+
+9
+00:01:00,968 --> 00:01:03,742
+"Terima kasih"
+
+10
+00:01:20,548 --> 00:01:22,962
+"Aku bahkan bisa menikahinya besok"
+
+11
+00:01:24,518 --> 00:01:26,158
+"Ayah selalu bilang, 'Kebahagiaanmu adalah kebahagiaan ayah.'"
+
+12
+00:01:26,158 --> 00:01:27,458
+Ayah di sini, Dan Oh.
+
+13
+00:01:27,458 --> 00:01:28,832
+Itu mustahil.
+
+14
+00:01:28,858 --> 00:01:30,658
+Ayah selalu mengatakan ini kepadaku.
+
+15
+00:01:30,658 --> 00:01:32,598
+"Kebahagiaanmu adalah kebahagiaan ayah."
+
+16
+00:01:32,598 --> 00:01:34,268
+Ayah tidak akan bisa menang, bukan?
+
+17
+00:01:34,268 --> 00:01:36,543
+"Aku menyiapkan ini untukmu"
+
+18
+00:01:38,537 --> 00:01:40,037
+"Aku menyiapkan ini untukmu"
+
+19
+00:01:40,037 --> 00:01:41,238
+"Aku paling mencintaimu di dunia ini"
+
+20
+00:01:41,238 --> 00:01:43,453
+Aku paling mencintaimu di dunia ini.
+
+21
+00:01:43,878 --> 00:01:46,822
+"Aku paling mencintaimu di dunia ini"
+
+22
+00:01:56,518 --> 00:01:59,063
+Omong kosong apa ini?
+
+23
+00:02:01,557 --> 00:02:02,632
+Astaga.
+
+24
+00:02:03,727 --> 00:02:06,303
+Kenapa dia bisa begitu romantis?
+
+25
+00:02:07,228 --> 00:02:09,472
+"Aku menyiapkan ini untukmu. Kamu suka bunga."
+
+26
+00:02:09,698 --> 00:02:12,273
+"Astaga, aku paling mencintaimu di dunia ini. Aku mencintaimu."
+
+27
+00:02:12,567 --> 00:02:14,967
+Mengeluarkan bunga di momen paling menentukan!
+
+28
+00:02:14,967 --> 00:02:16,813
+Astaga, klise adalah yang terbaik.
+
+29
+00:02:19,108 --> 00:02:20,583
+Aku belum selesai.
+
+30
+00:02:24,717 --> 00:02:27,762
+Ini hanya mungkin karena mereka tokoh utama, bukan?
+
+31
+00:02:27,788 --> 00:02:28,863
+Karakter utama?
+
+32
+00:02:29,587 --> 00:02:32,732
+Adegan seperti ini hanya diberikan kepada tokoh utama.
+
+33
+00:02:32,758 --> 00:02:34,602
+Keren dan menyayat hati.
+
+34
+00:02:34,788 --> 00:02:37,373
+Aku tidak bisa dibandingkan dengan Nam Ju, bahkan dalam 100 tahun.
+
+35
+00:02:38,358 --> 00:02:40,343
+Aku harus berhenti membaca hal seperti ini.
+
+36
+00:02:40,627 --> 00:02:42,268
+Karakter pendukung pria sangat bodoh
+
+37
+00:02:42,268 --> 00:02:43,397
+sampai membuatku merasa sengsara.
+
+38
+00:02:43,397 --> 00:02:46,783
+Aku merasa terhubung dengan mereka sebagai sesama karakter pendukung.
+
+39
+00:02:56,948 --> 00:02:59,922
+Logika induktif tidak terlalu sulit.
+
+40
+00:03:00,117 --> 00:03:03,632
+Kita hanya melihat rangkaiannya dari sudut pandang lain.
+
+41
+00:03:03,918 --> 00:03:07,232
+Hubungan antara angka yang berdekatan.
+
+42
+00:03:07,687 --> 00:03:09,087
+Mencari tahu hubungan itu
+
+43
+00:03:09,087 --> 00:03:11,632
+disebut sebagai logika induktif.
+
+44
+00:03:12,798 --> 00:03:16,397
+Jika ingin tahu lebih banyak soal pria bernama Yang Yi,
+
+45
+00:03:16,397 --> 00:03:18,698
+kita bukan hanya mencari tahu lebih banyak tentangnya.
+
+46
+00:03:18,698 --> 00:03:20,268
+Kita akan melihat hubungan yang dia miliki
+
+47
+00:03:20,268 --> 00:03:22,843
+dengan Yang Il dan Yang Sam.
+
+48
+00:03:23,208 --> 00:03:26,283
+Kita melihat hubungan antara kedua angka ini.
+
+49
+00:03:26,747 --> 00:03:29,222
+Kalian bertiga selalu pergi bersama.
+
+50
+00:03:29,377 --> 00:03:30,692
+Apa itu cinta segitiga?
+
+51
+00:03:32,948 --> 00:03:34,018
+Tidak mungkin!
+
+52
+00:03:34,018 --> 00:03:36,023
+Gadis yang kusukai duduk di sana.
+
+53
+00:03:36,288 --> 00:03:37,363
+Hei, Kawan.
+
+54
+00:03:39,817 --> 00:03:41,403
+- Astaga. - Sungguh?
+
+55
+00:03:42,187 --> 00:03:46,597
+Baik, ibu akan memberimu contoh lain. Ban Jang?
+
+56
+00:03:46,597 --> 00:03:49,228
+Ini hanya mungkin karena mereka tokoh utama, bukan?
+
+57
+00:03:49,228 --> 00:03:52,442
+Adegan seperti ini hanya diberikan kepada tokoh utama.
+
+58
+00:03:59,178 --> 00:04:00,583
+Berhenti meniruku.
+
+59
+00:04:04,277 --> 00:04:05,352
+Karakter utama?
+
+60
+00:04:27,338 --> 00:04:29,382
+Sial, kamu membuatnya terlalu jelas
+
+61
+00:04:29,538 --> 00:04:30,983
+bahwa kamu membakar buku ini.
+
+62
+00:04:31,238 --> 00:04:33,452
+"Terima kasih"
+
+63
+00:04:35,348 --> 00:04:36,753
+Kamu akan berpura-pura tidak tahu lagi?
+
+64
+00:04:37,148 --> 00:04:39,423
+- Bagaimana kamu bisa menemukan itu? - Sudah kubilang
+
+65
+00:04:39,817 --> 00:04:42,563
+kamu harus bicara denganku setelah aku menemukan buku ini.
+
+66
+00:04:43,718 --> 00:04:45,632
+Kurasa cerita itu bukan dari dunia ini.
+
+67
+00:04:46,827 --> 00:04:48,663
+Apa ini buku yang pernah dibuat penulis?
+
+68
+00:04:50,398 --> 00:04:53,103
+Kurasa aku benar.
+
+69
+00:04:55,798 --> 00:04:57,373
+Lalu kenapa jika itu karya sebelumnya?
+
+70
+00:04:57,937 --> 00:04:59,842
+Karya sebelumnya tidak ada kaitannya dengan ini.
+
+71
+00:05:00,367 --> 00:05:02,108
+Itu sudah berakhir, jadi, tidak punya kekuatan.
+
+72
+00:05:02,108 --> 00:05:04,137
+Kamu bilang sudah berakhir dan tidak ada kekuatan,
+
+73
+00:05:04,137 --> 00:05:06,282
+tapi kenapa kamu berusaha keras menyembunyikannya?
+
+74
+00:05:08,207 --> 00:05:10,678
+Dan Oh mengatakan hal yang sama dengan isi buku itu.
+
+75
+00:05:10,678 --> 00:05:11,753
+Lalu kenapa?
+
+76
+00:05:12,648 --> 00:05:13,848
+Apa maumu?
+
+77
+00:05:13,848 --> 00:05:15,163
+Apa yang kuinginkan?
+
+78
+00:05:16,387 --> 00:05:18,192
+Mengambil kembali yang direbut dariku.
+
+79
+00:05:20,728 --> 00:05:22,303
+Itulah yang kuinginkan.
+
+80
+00:05:23,158 --> 00:05:25,402
+Agar semuanya kembali seperti semula.
+
+81
+00:05:39,738 --> 00:05:42,322
+Kukira aku sudah membakar seluruh bukunya.
+
+82
+00:05:44,577 --> 00:05:45,652
+Ini terlalu berbahaya.
+
+83
+00:05:46,048 --> 00:05:48,063
+Dia terlalu berbahaya.
+
+84
+00:05:53,158 --> 00:05:54,233
+Kamu sedang apa?
+
+85
+00:05:56,187 --> 00:05:57,272
+Tidak ada.
+
+86
+00:05:57,757 --> 00:05:58,832
+Apa ini?
+
+87
+00:05:59,528 --> 00:06:00,603
+Apa...
+
+88
+00:06:04,997 --> 00:06:07,743
+"Tes Harian"
+
+89
+00:06:07,807 --> 00:06:09,642
+Astaga.
+
+90
+00:06:12,007 --> 00:06:13,082
+Berikan kepadaku.
+
+91
+00:06:13,478 --> 00:06:16,377
+Aku seorang spesialis dalam bahasa Inggris.
+
+92
+00:06:16,377 --> 00:06:17,723
+Khususnya?
+
+93
+00:06:18,048 --> 00:06:19,223
+Diamlah.
+
+94
+00:06:20,288 --> 00:06:22,148
+Agar bisa bicara bahasa Inggris dengan lancar,
+
+95
+00:06:22,148 --> 00:06:24,517
+kamu harus tahu banyak kata.
+
+96
+00:06:24,517 --> 00:06:25,757
+- Banyak? - Ya.
+
+97
+00:06:25,757 --> 00:06:28,032
+Apa yang membuatmu ragu?
+
+98
+00:06:28,387 --> 00:06:30,028
+- Pertanyaan ke-24. - Baiklah.
+
+99
+00:06:30,028 --> 00:06:32,456
+Aku baru saja mempelajari itu.
+
+100
+00:06:32,457 --> 00:06:33,532
+Beri aku waktu sebentar.
+
+101
+00:06:34,968 --> 00:06:36,043
+Ini.
+
+102
+00:06:38,398 --> 00:06:40,173
+Extraordinary.
+
+103
+00:06:40,207 --> 00:06:41,582
+Menurutmu apa artinya?
+
+104
+00:06:41,707 --> 00:06:43,678
+Figuran seperti kita?
+
+105
+00:06:43,678 --> 00:06:44,678
+Ya.
+
+106
+00:06:44,678 --> 00:06:47,377
+"Ordinary" artinya biasa.
+
+107
+00:06:47,377 --> 00:06:49,507
+Biasa? Seperti arti nama Bo Tong?
+
+108
+00:06:49,507 --> 00:06:51,678
+Aku? Aku kenapa?
+
+109
+00:06:51,678 --> 00:06:53,516
+Ayo, fokuslah.
+
+110
+00:06:53,517 --> 00:06:57,488
+Jika kamu tambahkan "extra" pada "ordinary", seperti kita,
+
+111
+00:06:57,488 --> 00:06:59,462
+itu menjadi "extraordinary".
+
+112
+00:06:59,488 --> 00:07:01,462
+Artinya luar biasa dan menakjubkan.
+
+113
+00:07:02,827 --> 00:07:04,003
+Kata ini
+
+114
+00:07:04,627 --> 00:07:05,772
+seperti kita.
+
+115
+00:07:06,627 --> 00:07:09,243
+Dua figuran biasa bertemu
+
+116
+00:07:09,528 --> 00:07:12,673
+dan menciptakan waktu yang istimewa.
+
+117
+00:07:14,137 --> 00:07:15,712
+Jadi, bagiku,
+
+118
+00:07:16,267 --> 00:07:18,007
+kamu bukan sekadar figuran.
+
+119
+00:07:18,007 --> 00:07:20,882
+Kamu figuran luar biasa.
+
+120
+00:07:22,108 --> 00:07:26,123
+Astaga. Kamu pandai menerapkan kata-kata ini.
+
+121
+00:07:26,148 --> 00:07:28,293
+Baiklah. Dari 10 poin,
+
+122
+00:07:28,988 --> 00:07:30,257
+kamu dapat 100.
+
+123
+00:07:30,257 --> 00:07:31,663
+Tidak, 1.000 poin.
+
+124
+00:07:32,817 --> 00:07:34,303
+Baik, tuliskan.
+
+125
+00:07:36,457 --> 00:07:38,202
+Berhenti menatapku dan tuliskan.
+
+126
+00:07:40,567 --> 00:07:42,743
+Semoga waktu istimewa kita
+
+127
+00:07:42,997 --> 00:07:45,313
+bertahan lama.
+
+128
+00:07:46,538 --> 00:07:47,613
+Ordinary...
+
+129
+00:07:47,637 --> 00:07:49,782
+Tidak, itu salah.
+
+130
+00:07:50,678 --> 00:07:53,613
+Ordinary. Itu O. Di mana O?
+
+131
+00:07:56,978 --> 00:07:59,652
+Dua figuran biasa bertemu
+
+132
+00:07:59,918 --> 00:08:02,462
+dan menciptakan waktu yang istimewa.
+
+133
+00:08:02,988 --> 00:08:05,687
+Jadi, bagiku,
+
+134
+00:08:05,687 --> 00:08:08,327
+kamu figuran luar biasa.
+
+135
+00:08:08,327 --> 00:08:11,832
+Kamu figuran luar biasa.
+
+136
+00:08:15,098 --> 00:08:17,543
+Astaga, apa-apaan itu?
+
+137
+00:08:21,707 --> 00:08:22,782
+Fokus.
+
+138
+00:08:30,447 --> 00:08:33,223
+"Dia sangat menonjol bagiku
+
+139
+00:08:33,648 --> 00:08:35,762
+di antara banyak orang."
+
+140
+00:08:37,618 --> 00:08:39,833
+"Saat dia mendekatiku dari kejauhan,
+
+141
+00:08:40,758 --> 00:08:44,272
+hatiku mulai sedikit sakit."
+
+142
+00:08:47,898 --> 00:08:50,373
+"Saat hal-hal kecil yang dia lakukan
+
+143
+00:08:51,138 --> 00:08:53,642
+mulai memiliki makna besar dan kecil bagiku"
+
+144
+00:09:00,477 --> 00:09:01,552
+Halo.
+
+145
+00:09:05,018 --> 00:09:06,093
+Ayo.
+
+146
+00:09:07,487 --> 00:09:09,093
+"Akhirnya aku sadar
+
+147
+00:09:10,248 --> 00:09:13,493
+bahwa aku jatuh cinta kepadanya."
+
+148
+00:09:14,487 --> 00:09:15,703
+Cinta?
+
+149
+00:09:15,857 --> 00:09:16,932
+Dan Oh.
+
+150
+00:09:18,097 --> 00:09:19,172
+Apa yang kamu baca?
+
+151
+00:09:26,398 --> 00:09:28,943
+Hei, Haru. Hai.
+
+152
+00:09:29,168 --> 00:09:30,243
+Astaga.
+
+153
+00:09:30,268 --> 00:09:31,353
+Kamu baik-baik saja?
+
+154
+00:09:31,737 --> 00:09:33,552
+Tidak, itu...
+
+155
+00:09:34,178 --> 00:09:36,083
+Astaga. Ini...
+
+156
+00:09:38,717 --> 00:09:40,892
+Kenapa aku tidak melihat Peri Cumi Kering belakangan ini?
+
+157
+00:09:41,018 --> 00:09:43,323
+Aku merasa sudah lama tidak makan dengan nikmat.
+
+158
+00:09:43,758 --> 00:09:46,217
+Kamu selalu bilang begitu setelah menghabiskan makananmu.
+
+159
+00:09:46,217 --> 00:09:47,957
+Aku tidak berselera makan.
+
+160
+00:09:47,957 --> 00:09:50,158
+Lalu apa yang kamu makan? Apa itu suplemen gizi?
+
+161
+00:09:50,158 --> 00:09:52,073
+Aku punya perut lain untuk hidangan penutup.
+
+162
+00:09:52,697 --> 00:09:53,928
+Jujur saja.
+
+163
+00:09:53,928 --> 00:09:56,003
+Katakan itu sangat enak hingga kamu ingin satu porsi lagi.
+
+164
+00:09:56,298 --> 00:09:58,172
+Astaga, jangan mendekatiku.
+
+165
+00:09:58,597 --> 00:10:00,908
+Apa yang kamu lihat? Omong-omong, di mana Haru?
+
+166
+00:10:00,908 --> 00:10:02,837
+Haru? Kenapa?
+
+167
+00:10:02,837 --> 00:10:05,353
+Rasanya membosankan tanpa dia.
+
+168
+00:10:07,947 --> 00:10:09,076
+Aku menemukanmu.
+
+169
+00:10:09,077 --> 00:10:10,823
+- Apa? - Hai, Haru.
+
+170
+00:10:21,827 --> 00:10:23,262
+Kenapa tadi kamu pergi?
+
+171
+00:10:34,337 --> 00:10:37,613
+Kawan-kawan, aku pergi lebih dahulu.
+
+172
+00:10:37,837 --> 00:10:39,083
+Dan Oh!
+
+173
+00:10:39,977 --> 00:10:41,152
+Dan Oh?
+
+174
+00:10:42,947 --> 00:10:44,022
+Apa?
+
+175
+00:10:44,248 --> 00:10:45,548
+Kenapa dia terlihat canggung di dekatmu?
+
+176
+00:10:45,548 --> 00:10:46,548
+Canggung?
+
+177
+00:10:46,548 --> 00:10:48,522
+Dia malu dengan makanan di sekitar mulutnya.
+
+178
+00:10:49,418 --> 00:10:50,733
+- Sae Mi. - Apa?
+
+179
+00:10:51,087 --> 00:10:52,262
+Bagaimana gigiku?
+
+180
+00:10:52,687 --> 00:10:54,062
+Astaga!
+
+181
+00:10:57,998 --> 00:11:00,073
+Sigma berarti "menambahkan".
+
+182
+00:11:00,597 --> 00:11:02,473
+Mari kita lihat contoh.
+
+183
+00:11:03,067 --> 00:11:06,642
+Sigma K berasal dari satu ke N, AK.
+
+184
+00:11:07,538 --> 00:11:09,107
+Tambahkan semuanya.
+
+185
+00:11:09,107 --> 00:11:11,382
+Kamu harus tambahkan sampai akhir.
+
+186
+00:11:12,008 --> 00:11:13,853
+Kamu juga bisa mengekspresikannya seperti ini.
+
+187
+00:12:32,487 --> 00:12:33,556
+Kamu mau ke mana?
+
+188
+00:12:33,557 --> 00:12:35,902
+Aku mau makan siang.
+
+189
+00:12:36,487 --> 00:12:37,802
+Ya, makan siang.
+
+190
+00:12:39,848 --> 00:12:41,023
+Kamu sudah makan siang.
+
+191
+00:12:41,677 --> 00:12:44,848
+Benar. Ya, sudah.
+
+192
+00:12:44,848 --> 00:12:47,618
+Tapi aku akan makan lagi.
+
+193
+00:12:47,618 --> 00:12:49,033
+Aku rakus.
+
+194
+00:12:50,257 --> 00:12:51,362
+Dan Oh.
+
+195
+00:12:51,858 --> 00:12:52,962
+Ya?
+
+196
+00:12:52,988 --> 00:12:54,703
+Kenapa kamu terlihat sangat malu hari ini?
+
+197
+00:12:55,527 --> 00:12:56,803
+Tidak.
+
+198
+00:13:02,198 --> 00:13:03,443
+Di mana dia?
+
+199
+00:13:03,738 --> 00:13:06,108
+Haru, kamu mau ikut?
+
+200
+00:13:06,108 --> 00:13:07,482
+Ya, ikut.
+
+201
+00:13:11,807 --> 00:13:12,982
+Sampai nanti.
+
+202
+00:13:14,177 --> 00:13:15,478
+Cepatlah.
+
+203
+00:13:15,478 --> 00:13:17,762
+- Ayo. - Ayo.
+
+204
+00:13:29,858 --> 00:13:32,673
+Haru.
+
+205
+00:13:34,238 --> 00:13:36,612
+Astaga, kamu terlalu tampan.
+
+206
+00:13:37,868 --> 00:13:39,807
+Dia sangat konsisten.
+
+207
+00:13:39,807 --> 00:13:41,783
+Wajahnya sama dengan cerita sebelumnya.
+
+208
+00:13:42,407 --> 00:13:45,453
+Tidak. Penulis kekurangan kreativitas.
+
+209
+00:13:45,907 --> 00:13:47,653
+Cerita yang sama berulang kali.
+
+210
+00:13:48,878 --> 00:13:50,762
+- Kamu terlalu menyukainya. - Astaga.
+
+211
+00:13:51,348 --> 00:13:52,992
+Siapa? Aku? Apa maksudmu?
+
+212
+00:13:53,147 --> 00:13:54,262
+Haru.
+
+213
+00:13:54,858 --> 00:13:56,063
+Apakah sejelas itu?
+
+214
+00:13:57,218 --> 00:13:59,002
+Memangnya kenapa?
+
+215
+00:13:59,187 --> 00:14:00,557
+Aku tidak mau dengar figuran tidak bisa melakukan ini
+
+216
+00:14:00,557 --> 00:14:02,773
+atau aku akan mengubah dunia.
+
+217
+00:14:03,728 --> 00:14:07,102
+Semua orang berhak menyukai seseorang.
+
+218
+00:14:08,167 --> 00:14:10,838
+Entah itu karakter utama atau figuran.
+
+219
+00:14:10,838 --> 00:14:13,443
+Astaga. Sulit kupercaya kamu mengatakan itu.
+
+220
+00:14:13,807 --> 00:14:15,352
+Ada apa? Kamu menyukai seseorang?
+
+221
+00:14:16,307 --> 00:14:17,482
+Dahulu ada.
+
+222
+00:14:17,647 --> 00:14:19,982
+Siapa? Apa aku mengenalnya?
+
+223
+00:14:20,147 --> 00:14:21,423
+Dia tidak ada di dunia ini.
+
+224
+00:14:22,047 --> 00:14:23,622
+Penulis tidak menambahkannya.
+
+225
+00:14:24,718 --> 00:14:26,063
+Mungkin ada baiknya.
+
+226
+00:14:27,248 --> 00:14:29,592
+Aku harus berterima kasih kepada penulis.
+
+227
+00:14:30,088 --> 00:14:31,203
+Sebaiknya
+
+228
+00:14:32,228 --> 00:14:33,632
+aku tidak menemuinya lagi.
+
+229
+00:14:34,098 --> 00:14:35,332
+Itu bagus?
+
+230
+00:14:36,698 --> 00:14:39,643
+Kamu harus menemui orang yang kamu suka kapan pun kamu mau.
+
+231
+00:14:40,267 --> 00:14:42,198
+Karena hanya figuran,
+
+232
+00:14:42,198 --> 00:14:44,482
+kita harus berusaha keras menemukan cinta.
+
+233
+00:14:44,868 --> 00:14:48,082
+Tapi penulis sekalipun tidak bisa menghentikanku menyukai seseorang.
+
+234
+00:14:48,838 --> 00:14:51,122
+Penulis tidak punya apa-apa.
+
+235
+00:14:53,948 --> 00:14:55,122
+Yang benar saja.
+
+236
+00:14:55,517 --> 00:14:57,823
+Kamu menghukumku karena menjelek-jelekkanmu?
+
+237
+00:15:07,057 --> 00:15:10,257
+Aku akan memaafkanmu karena Haru ada di panggung ini.
+
+238
+00:15:10,257 --> 00:15:11,443
+Katakan saja.
+
+239
+00:15:12,728 --> 00:15:14,212
+Haru tidak perlu pergi.
+
+240
+00:15:16,198 --> 00:15:17,372
+Baiklah.
+
+241
+00:15:19,368 --> 00:15:21,553
+Hei, itu hadiahku.
+
+242
+00:15:22,378 --> 00:15:23,738
+Kamu pasti menyukainya.
+
+243
+00:15:23,738 --> 00:15:26,982
+Sebenarnya, Haru membantuku memilihnya.
+
+244
+00:15:29,118 --> 00:15:31,823
+Aku sudah punya banyak, jadi, jangan membelikanku lagi.
+
+245
+00:15:33,517 --> 00:15:35,362
+- Baiklah. - Jangan membuat masalah.
+
+246
+00:15:36,488 --> 00:15:38,762
+Jangan pingsan dan membuatku mengunjungi rumah sakit lagi.
+
+247
+00:15:39,787 --> 00:15:42,403
+Setiap kali ke sana, aku ingin menggila.
+
+248
+00:15:43,328 --> 00:15:45,498
+Maaf karena aku sakit.
+
+249
+00:15:45,498 --> 00:15:47,002
+Bukan itu maksudku.
+
+250
+00:15:47,568 --> 00:15:49,738
+- Lihat dia. - Apa masalahnya?
+
+251
+00:15:49,738 --> 00:15:51,767
+- Apa dia mengganggunya? - Dia melakukannya lagi?
+
+252
+00:15:51,767 --> 00:15:54,183
+- Aku kasihan kepada Dan Oh. - Aku juga.
+
+253
+00:15:54,378 --> 00:15:55,482
+Hei.
+
+254
+00:15:56,108 --> 00:15:57,722
+Kamu selalu seperti ini.
+
+255
+00:15:58,878 --> 00:16:00,793
+Kamu selalu membuatku menjadi orang jahat.
+
+256
+00:16:02,948 --> 00:16:04,622
+- Maafkan aku. - Hentikan!
+
+257
+00:16:06,187 --> 00:16:08,293
+Simpan ini atau buang saja.
+
+258
+00:16:17,427 --> 00:16:18,643
+- Ayo. - Hei.
+
+259
+00:16:20,698 --> 00:16:22,643
+Aku tahu kamu tidak serius,
+
+260
+00:16:24,238 --> 00:16:25,543
+tapi itu menyakitiku.
+
+261
+00:16:26,208 --> 00:16:27,482
+Dan Oh, dengar...
+
+262
+00:16:29,407 --> 00:16:30,482
+Hei!
+
+263
+00:16:32,348 --> 00:16:33,582
+Sudah kuperingatkan.
+
+264
+00:16:34,578 --> 00:16:36,053
+Berhentilah mengganggunya.
+
+265
+00:16:43,488 --> 00:16:45,803
+Aku penasaran kenapa dia baik kepadanya belakangan ini.
+
+266
+00:16:45,887 --> 00:16:47,872
+Dia memperlakukan Dan Oh semaunya.
+
+267
+00:16:48,598 --> 00:16:50,673
+Bisakah kalian berhenti bertengkar?
+
+268
+00:16:56,937 --> 00:16:58,212
+Sejak kapan
+
+269
+00:17:00,778 --> 00:17:02,183
+kamu menjadi tokoh utama?
+
+270
+00:17:11,447 --> 00:17:12,522
+Kamu melihatnya?
+
+271
+00:17:25,467 --> 00:17:26,643
+"'Rahasia'"
+
+272
+00:17:32,644 --> 00:17:37,644
+<font color="#8080ff">[VIU Ver] </font>
+<font color="#ff8080">MBC E19 'Extra-ordinary You' </font>
+<font color="#ff5fa2">-♥ Ruo Xi ♥-</font>
+
+273
+00:17:43,177 --> 00:17:45,022
+Karya sebelumnya tidak ada kaitannya dengan ini.
+
+274
+00:17:45,747 --> 00:17:47,893
+Itu sudah berakhir, jadi, tidak punya kekuatan.
+
+275
+00:17:52,828 --> 00:17:55,032
+"Eun Dan Oh, Haru"
+
+276
+00:18:05,207 --> 00:18:06,782
+Lalu kenapa dia terus ikut campur
+
+277
+00:18:08,437 --> 00:18:10,153
+padahal hanya figuran?
+
+278
+00:18:26,758 --> 00:18:28,628
+Di antara semua bintang yang pernah kulihat,
+
+279
+00:18:28,628 --> 00:18:30,873
+itu yang paling besar, paling terang,
+
+280
+00:18:31,427 --> 00:18:33,802
+dan paling cantik.
+
+281
+00:18:35,568 --> 00:18:38,242
+Pasti sulit menemukannya.
+
+282
+00:18:38,707 --> 00:18:39,913
+Terima kasih.
+
+283
+00:18:41,407 --> 00:18:44,552
+Terima kasih sudah menunjukkan langit malam yang indah kepadaku
+
+284
+00:18:44,977 --> 00:18:48,093
+dan mengingat keinginanku.
+
+285
+00:19:06,028 --> 00:19:07,143
+Mimpi itu lagi.
+
+286
+00:19:07,897 --> 00:19:10,242
+Karena itu aku tidak bisa memberimu jawaban soal awal hidupmu.
+
+287
+00:19:11,008 --> 00:19:13,583
+Rahasia awal hidupmu tidak ada di sini.
+
+288
+00:19:58,818 --> 00:20:00,363
+- Hei. - Tunggu!
+
+289
+00:20:05,457 --> 00:20:06,663
+- Hai. - Hei.
+
+290
+00:20:06,687 --> 00:20:07,772
+Dan Oh.
+
+291
+00:20:09,098 --> 00:20:10,173
+Apa?
+
+292
+00:20:12,328 --> 00:20:14,042
+Perkataanku di panggung kita...
+
+293
+00:20:22,578 --> 00:20:24,212
+Kamu ingin minta maaf, bukan?
+
+294
+00:20:25,407 --> 00:20:27,278
+Kamu tidak tahu cara meminta maaf karena belum pernah melakukannya.
+
+295
+00:20:27,278 --> 00:20:29,322
+Kamu juga tidak tahu cara tersenyum karena tidak pernah.
+
+296
+00:20:30,677 --> 00:20:32,417
+Tokohmu juga sulit dimainkan.
+
+297
+00:20:32,417 --> 00:20:35,656
+Di saat seperti ini, lebih baik menjadi figuran tanpa persiapan.
+
+298
+00:20:35,657 --> 00:20:36,732
+Bukan begitu?
+
+299
+00:20:37,758 --> 00:20:39,128
+Tapi bagaimana denganku?
+
+300
+00:20:39,128 --> 00:20:41,903
+Aku figuran. Tapi situasiku payah seperti masalah jantungku.
+
+301
+00:20:42,528 --> 00:20:43,957
+Menurutmu lebih baik menjadi figuran?
+
+302
+00:20:43,957 --> 00:20:45,628
+Ya, contohnya Haru.
+
+303
+00:20:45,628 --> 00:20:46,828
+Karena tidak punya situasi,
+
+304
+00:20:46,828 --> 00:20:48,373
+dia bisa mengubah panggung.
+
+305
+00:20:48,598 --> 00:20:50,512
+Kenapa kamu membahasnya sekarang?
+
+306
+00:20:51,108 --> 00:20:53,512
+- Apa? - Bahkan di panggung kita,
+
+307
+00:20:54,137 --> 00:20:55,782
+kamu menatapnya saat berbicara.
+
+308
+00:20:57,637 --> 00:20:58,883
+Kamu menyukainya?
+
+309
+00:21:01,518 --> 00:21:04,093
+Lupakan saja. Jangan dijawab.
+
+310
+00:21:07,518 --> 00:21:08,593
+Begini...
+
+311
+00:21:17,727 --> 00:21:18,873
+Kyung.
+
+312
+00:21:20,197 --> 00:21:22,643
+Kyung. Kamu ingin melihat ini.
+
+313
+00:21:23,437 --> 00:21:25,207
+- Jauhkan itu dariku. - Ada apa?
+
+314
+00:21:25,207 --> 00:21:26,608
+Kamu malu membaca buku komik romansa?
+
+315
+00:21:26,608 --> 00:21:28,778
+Apa buruknya itu? Kita ada di buku komik romansa.
+
+316
+00:21:28,778 --> 00:21:30,183
+Jauhkan itu dariku.
+
+317
+00:21:31,947 --> 00:21:34,282
+Baik. Aku harus meminjamkan ini kepada Haru dahulu.
+
+318
+00:21:37,147 --> 00:21:38,848
+- Haru? - Dia tidak tahu apa-apa.
+
+319
+00:21:38,848 --> 00:21:41,863
+Dia harus membaca ini agar dapat pacar. Lihat.
+
+320
+00:21:42,288 --> 00:21:44,288
+"'Mawar Untukmu'"
+
+321
+00:21:44,288 --> 00:21:46,628
+Kenapa kalian sangat memperhatikan figuran?
+
+322
+00:21:46,628 --> 00:21:47,897
+Apa salahnya menjadi figuran?
+
+323
+00:21:47,897 --> 00:21:49,633
+Aku agak iri kepada Haru.
+
+324
+00:21:50,058 --> 00:21:52,667
+Pikirkanlah. Saat kita berjalan dengan Nam Ju seperti trio,
+
+325
+00:21:52,667 --> 00:21:54,197
+bukankah itu membuatmu malu?
+
+326
+00:21:54,197 --> 00:21:56,437
+Setiap kali adegan itu dimulai, aku sangat malu.
+
+327
+00:21:56,437 --> 00:21:58,068
+Cahaya itu,
+
+328
+00:21:58,068 --> 00:22:00,537
+tatapan kita, dan musiknya...
+
+329
+00:22:00,538 --> 00:22:02,613
+- Dia sangat tampan. - Dia sangat seksi.
+
+330
+00:22:04,707 --> 00:22:05,878
+A3.
+
+331
+00:22:05,878 --> 00:22:08,193
+Hei, mereka tampan sekali!
+
+332
+00:22:08,318 --> 00:22:09,977
+Aku harus menjaga ucapanku.
+
+333
+00:22:09,977 --> 00:22:12,288
+Aku yakin penulis melihat kita.
+
+334
+00:22:12,288 --> 00:22:13,788
+Apa yang kamu lakukan? Terlalu dini untuk itu.
+
+335
+00:22:13,788 --> 00:22:15,032
+Sudah cukup.
+
+336
+00:22:15,288 --> 00:22:16,687
+Pertahankan martabat A3.
+
+337
+00:22:16,687 --> 00:22:19,203
+Martabatku adalah balas menyapa saat disapa.
+
+338
+00:22:19,558 --> 00:22:20,558
+Norak sekali.
+
+339
+00:22:20,558 --> 00:22:22,933
+Aku merasa kita akan bertemu Ju Da.
+
+340
+00:22:25,298 --> 00:22:26,927
+Dia sering menangis di laboratorium sains.
+
+341
+00:22:26,927 --> 00:22:29,167
+Dia tampak baik-baik saja. Syukurlah.
+
+342
+00:22:29,167 --> 00:22:31,268
+Jadikan dia pesuruh untuk menggoda adalah cara menjaga harga diri?
+
+343
+00:22:31,268 --> 00:22:32,268
+Nam Ju.
+
+344
+00:22:32,268 --> 00:22:34,578
+- Hei. - Ya. Metodemu kekanak-kanakan.
+
+345
+00:22:34,578 --> 00:22:35,707
+Jadi, kapan kamu akan berkencan dengannya?
+
+346
+00:22:35,707 --> 00:22:37,707
+- Nam Ju. - Ya.
+
+347
+00:22:37,707 --> 00:22:40,583
+Terima kasih sudah membantuku di laboratorium sains.
+
+348
+00:22:41,618 --> 00:22:43,647
+Apa terjadi sesuatu di antara kalian?
+
+349
+00:22:43,647 --> 00:22:45,518
+Nam Ju...
+
+350
+00:22:45,518 --> 00:22:46,722
+Itu?
+
+351
+00:22:47,887 --> 00:22:49,193
+Kamu tidak perlu tahu.
+
+352
+00:22:49,887 --> 00:22:52,302
+Kurasa dia menyelamatkan Ju Da.
+
+353
+00:22:52,727 --> 00:22:55,203
+Nam Ju adalah protagonis sejati.
+
+354
+00:22:57,227 --> 00:22:59,628
+Jadi, kapan kamu akan mengatakan keinginanmu?
+
+355
+00:22:59,628 --> 00:23:00,696
+Hari ini.
+
+356
+00:23:00,697 --> 00:23:01,772
+Hari ini?
+
+357
+00:23:02,937 --> 00:23:04,512
+Temui aku di auditorium
+
+358
+00:23:05,008 --> 00:23:06,143
+setelah kelas berakhir.
+
+359
+00:23:06,268 --> 00:23:07,343
+Baiklah.
+
+360
+00:23:14,717 --> 00:23:15,977
+Hei. Kalian...
+
+361
+00:23:15,977 --> 00:23:17,962
+Nam Ju. Aku baik-baik saja sekarang.
+
+362
+00:23:21,457 --> 00:23:23,292
+Apa pun yang terjadi kepadaku,
+
+363
+00:23:23,588 --> 00:23:25,532
+kamu akan datang menyelamatkanku.
+
+364
+00:23:30,727 --> 00:23:33,302
+Nam Ju, kami akan pergi.
+
+365
+00:23:33,798 --> 00:23:34,943
+Do Hwa, ayo.
+
+366
+00:23:47,848 --> 00:23:49,953
+Seharusnya kubuang saja biola ini.
+
+367
+00:23:50,247 --> 00:23:52,462
+Tidak mungkin. Apa dia akan datang sekarang?
+
+368
+00:24:00,288 --> 00:24:02,633
+Aku bertanya-tanya dari mana melodi indah ini berasal.
+
+369
+00:24:03,758 --> 00:24:05,943
+Itu berasal dari jari-jarimu.
+
+370
+00:24:06,798 --> 00:24:07,943
+Itu pujian.
+
+371
+00:24:08,467 --> 00:24:11,583
+Kamu berpacaran dengan Nam Ju?
+
+372
+00:24:12,308 --> 00:24:13,613
+Bukan begitu.
+
+373
+00:24:14,008 --> 00:24:15,212
+Syukurlah.
+
+374
+00:24:15,378 --> 00:24:17,982
+Lagu apa yang baru saja kamu mainkan?
+
+375
+00:24:18,177 --> 00:24:20,782
+Perasaanku, yang kuharap kamu ketahui.
+
+376
+00:24:23,177 --> 00:24:24,492
+Judul lagu ini adalah
+
+377
+00:24:24,987 --> 00:24:26,562
+"Love's Sorrow".
+
+378
+00:24:34,598 --> 00:24:35,798
+"Love's Sorrow"?
+
+379
+00:24:35,798 --> 00:24:37,628
+Penulis membuat kalimat itu terdengar sangat norak.
+
+380
+00:24:37,628 --> 00:24:39,443
+Bagaimana bisa begitu norak dan mudah ditebak?
+
+381
+00:24:40,227 --> 00:24:42,137
+Entah kenapa adegan kita selalu sama.
+
+382
+00:24:42,137 --> 00:24:43,568
+Aku selalu memainkan biola ini.
+
+383
+00:24:43,568 --> 00:24:45,568
+Saat ini, peranku bukan deuteragonis.
+
+384
+00:24:45,568 --> 00:24:47,183
+Aku hanya musisi latar belakang.
+
+385
+00:24:48,477 --> 00:24:49,853
+Ini memalukan.
+
+386
+00:24:50,538 --> 00:24:51,623
+Do Hwa.
+
+387
+00:24:52,707 --> 00:24:55,522
+- Aku suka saat kamu bermain. - Apa?
+
+388
+00:24:55,548 --> 00:24:57,093
+Itu menenangkanku.
+
+389
+00:24:57,177 --> 00:24:58,792
+Aku memikirkannya saat kesulitan.
+
+390
+00:25:02,217 --> 00:25:04,558
+Jangan tersenyum. Aku serius sekarang.
+
+391
+00:25:04,558 --> 00:25:07,133
+Kamu hanya mengingat hal-hal baik, jadi, tidak apa-apa.
+
+392
+00:25:08,727 --> 00:25:10,727
+Ju Da, kamu tidak masuk kelas seni?
+
+393
+00:25:10,727 --> 00:25:12,042
+Baiklah, Nam Ju.
+
+394
+00:25:16,637 --> 00:25:20,282
+Tapi aku suka lagu yang kamu mainkan sebelumnya.
+
+395
+00:25:21,378 --> 00:25:23,153
+Aku tidak suka "Love's Sorrow",
+
+396
+00:25:24,038 --> 00:25:25,123
+tapi "Love's Joy".
+
+397
+00:25:45,227 --> 00:25:47,972
+Kita harus menjaga jarak, ya?
+
+398
+00:25:56,378 --> 00:25:57,453
+Hei, Kyung.
+
+399
+00:25:57,878 --> 00:25:59,147
+Seperti yang kamu tahu,
+
+400
+00:25:59,147 --> 00:26:01,378
+Nam Ju dan Ju Da adalah tokoh utama "Rahasia".
+
+401
+00:26:01,378 --> 00:26:03,492
+Dan aku hanya figuran yang tidak penting.
+
+402
+00:26:04,048 --> 00:26:06,187
+- Lalu kenapa? - Aku memutuskan untuk mendukung
+
+403
+00:26:06,187 --> 00:26:09,232
+cinta tokoh utama demi mendoakan kebahagiaan Ju Da.
+
+404
+00:26:09,387 --> 00:26:11,903
+Sulit mengetahui perasaanku di atas panggung.
+
+405
+00:26:12,187 --> 00:26:13,387
+Tapi kamu pernah menyatakan perasaanmu padanya.
+
+406
+00:26:13,387 --> 00:26:14,387
+Benar.
+
+407
+00:26:14,387 --> 00:26:17,333
+Tapi Nam Ju seharusnya menyatakan perasaannya di panggung.
+
+408
+00:26:17,628 --> 00:26:18,703
+Apa maksudmu?
+
+409
+00:26:18,727 --> 00:26:20,427
+Menurut papan cerita Dan Oh,
+
+410
+00:26:20,427 --> 00:26:23,568
+Nam Ju yang mengumumkan Ju Da sebagai pacarnya.
+
+411
+00:26:23,568 --> 00:26:25,838
+Tapi karena aku menyatakan perasaanku kepadanya,
+
+412
+00:26:25,838 --> 00:26:28,083
+kamu dan Dan Oh mengambil alih adegan itu.
+
+413
+00:26:30,778 --> 00:26:32,423
+Mulai sekarang,
+
+414
+00:26:33,808 --> 00:26:35,123
+Dan Oh adalah satu-satunya wanita untukku.
+
+415
+00:26:39,518 --> 00:26:42,333
+Berkat Haru, aku juga bisa menyatakan perasaanku.
+
+416
+00:26:42,618 --> 00:26:44,088
+Tapi itu tidak mengubah apa pun.
+
+417
+00:26:44,088 --> 00:26:45,232
+Jadi,
+
+418
+00:26:46,858 --> 00:26:48,673
+panggungnya berubah?
+
+419
+00:26:48,828 --> 00:26:49,903
+Ya.
+
+420
+00:26:49,927 --> 00:26:51,333
+Bagaimana mungkin?
+
+421
+00:26:51,598 --> 00:26:52,843
+Karena Haru.
+
+422
+00:26:53,128 --> 00:26:54,798
+Aku tahu. Lalu apa yang dilakukan si berengsek itu?
+
+423
+00:26:54,798 --> 00:26:57,512
+Entahlah. Apa dia punya cara khusus untuk melakukannya?
+
+424
+00:26:57,897 --> 00:26:59,913
+Entahlah. Bagaimana dia melakukannya?
+
+425
+00:27:13,147 --> 00:27:14,663
+Jika panggungnya berubah,
+
+426
+00:27:15,957 --> 00:27:17,693
+apa tokohnya bisa berubah?
+
+427
+00:27:18,227 --> 00:27:20,133
+Kudengar Haru bisa mengubah panggung.
+
+428
+00:27:22,828 --> 00:27:24,103
+Jika aku mengubahnya,
+
+429
+00:27:25,028 --> 00:27:26,268
+apa akan ada yang berubah?
+
+430
+00:27:26,268 --> 00:27:27,373
+Tidak akan.
+
+431
+00:27:29,768 --> 00:27:32,183
+Tidak semua orang bisa mengubah panggung.
+
+432
+00:27:33,008 --> 00:27:35,282
+Jadi, kenapa Haru bisa melakukan itu?
+
+433
+00:27:36,707 --> 00:27:37,782
+Entahlah.
+
+434
+00:27:38,278 --> 00:27:41,492
+Bahkan tokoh utama dan aku tidak bisa melakukan itu.
+
+435
+00:27:42,118 --> 00:27:43,893
+Tapi figuran, Haru, bisa melakukannya.
+
+436
+00:27:48,758 --> 00:27:51,062
+Mungkin menjadi figuran akan lebih membantu.
+
+437
+00:27:51,558 --> 00:27:53,433
+Kita tidak bisa menipu penulis
+
+438
+00:27:53,457 --> 00:27:55,873
+karena peran kita di setiap adegan sudah ditetapkan.
+
+439
+00:27:55,957 --> 00:27:59,373
+Selain itu, apa pun niat penulis akan terjadi
+
+440
+00:27:59,828 --> 00:28:02,242
+terlepas dari cara terjadinya
+
+441
+00:28:03,967 --> 00:28:07,083
+karena perubahan panggung yang digambar penulis.
+
+442
+00:28:18,848 --> 00:28:20,717
+Ini. Kamu memintaku membelikan ini untukmu.
+
+443
+00:28:20,717 --> 00:28:21,792
+Baiklah.
+
+444
+00:28:24,687 --> 00:28:25,762
+Haru.
+
+445
+00:28:28,457 --> 00:28:29,603
+Terima kasih.
+
+446
+00:28:30,058 --> 00:28:31,843
+- Sama-sama. - Jika...
+
+447
+00:28:32,768 --> 00:28:34,703
+Jika kamu tidak punya banyak waktu lagi,
+
+448
+00:28:35,667 --> 00:28:37,143
+apa yang paling ingin kamu lakukan?
+
+449
+00:28:38,207 --> 00:28:39,282
+Kenapa?
+
+450
+00:28:39,618 --> 00:28:40,893
+Aku ingin melakukan segalanya
+
+451
+00:28:43,058 --> 00:28:44,163
+untuk Dan Oh.
+
+452
+00:28:45,328 --> 00:28:46,703
+Jika aku menjadi dia,
+
+453
+00:28:47,497 --> 00:28:49,572
+aku selalu ingin bersamamu.
+
+454
+00:28:51,428 --> 00:28:52,943
+Dia sangat menyukaimu.
+
+455
+00:28:53,937 --> 00:28:55,082
+Dan Oh.
+
+456
+00:29:11,517 --> 00:29:13,362
+Kurasa Dan Oh benar-benar tidur.
+
+457
+00:29:14,358 --> 00:29:16,933
+- Pergilah. Aku akan tetap di sini. - Minggir.
+
+458
+00:29:16,957 --> 00:29:19,403
+Kenapa tidak mengikuti peranmu saja seperti sebelumnya?
+
+459
+00:29:20,358 --> 00:29:22,973
+Kamu tidak bisa melakukan apa pun untuk Dan Oh di atas panggung.
+
+460
+00:29:23,398 --> 00:29:26,012
+Kamu hampir tidak bisa melakukan apa pun yang kuminta.
+
+461
+00:29:26,168 --> 00:29:27,713
+Tapi kamu bisa mengubah takdirnya?
+
+462
+00:29:28,467 --> 00:29:29,943
+Apa ada yang berubah?
+
+463
+00:29:32,277 --> 00:29:33,913
+Kamu tidak bisa mengalahkanku.
+
+464
+00:29:34,777 --> 00:29:36,082
+Kamu hanya figuran.
+
+465
+00:29:43,477 --> 00:29:46,366
+
+
+466
+00:29:48,089 --> 00:29:48,773
+Semuanya!
+
+467
+00:29:48,774 --> 00:29:50,288
+Hasil tes sudah keluar. Kemari dan lihatlah.
+
+468
+00:29:50,288 --> 00:29:51,788
+- Astaga. - Nanti saja.
+
+469
+00:29:51,788 --> 00:29:52,863
+Siapa yang mau memeriksa itu?
+
+470
+00:29:52,989 --> 00:29:54,759
+Aku yakin Nam Ju peringkat pertama.
+
+471
+00:29:54,759 --> 00:29:57,228
+Hei, Nam Ju tidak mengikuti tes karena acara untuk Serinne.
+
+472
+00:29:57,228 --> 00:29:58,699
+Lantas, menurutmu siapa yang peringkat satu
+
+473
+00:29:58,699 --> 00:30:01,298
+di kelas 2-7 tanpa Nam Ju? Jelas saja aku.
+
+474
+00:30:01,298 --> 00:30:02,638
+Hei, kamu nomor satu.
+
+475
+00:30:02,638 --> 00:30:04,044
+Dari belakang!
+
+476
+00:30:05,009 --> 00:30:06,039
+Kamu bodoh.
+
+477
+00:30:06,039 --> 00:30:07,778
+- Kamu benar! - Astaga.
+
+478
+00:30:07,778 --> 00:30:09,039
+Lagi pula, aku senang menjadi nomor satu.
+
+479
+00:30:09,039 --> 00:30:11,679
+Hei, menurutmu siapa peringkat satu yang menggantikan Nam Ju?
+
+480
+00:30:11,679 --> 00:30:12,978
+Jika siswa nomor satu SMA Seuli tidak ada,
+
+481
+00:30:12,978 --> 00:30:14,193
+siapa yang bisa mengisinya?
+
+482
+00:30:14,948 --> 00:30:18,349
+Tentu saja, Kyung-ku tersayang, dasar kalian orang bodoh.
+
+483
+00:30:18,349 --> 00:30:19,448
+- Orang bodoh? - Ya!
+
+484
+00:30:19,448 --> 00:30:21,319
+Aku belajar semalaman,
+
+485
+00:30:21,319 --> 00:30:22,819
+tapi peringkat ketiga lagi.
+
+486
+00:30:22,819 --> 00:30:23,829
+Itu lumayan.
+
+487
+00:30:23,829 --> 00:30:24,904
+Tunggu.
+
+488
+00:30:25,829 --> 00:30:28,074
+Apa? Kyung bukan yang terbaik.
+
+489
+00:30:28,599 --> 00:30:29,899
+Lalu siapa?
+
+490
+00:30:29,899 --> 00:30:32,069
+Astaga, Haru. Apa kamu memang sepintar itu?
+
+491
+00:30:32,069 --> 00:30:33,868
+Astaga, keren sekali.
+
+492
+00:30:33,868 --> 00:30:35,273
+Apa? Haru?
+
+493
+00:30:35,969 --> 00:30:38,609
+Apa ini? Aku kecewa pada Kyung.
+
+494
+00:30:38,609 --> 00:30:41,679
+Guru kita ingin siswa terbaik membantu Dan Oh mengejar pelajaran.
+
+495
+00:30:41,679 --> 00:30:43,548
+- Biar aku saja. - Dia menyuruh siswa terbaik.
+
+496
+00:30:43,548 --> 00:30:44,624
+Itu aku.
+
+497
+00:30:46,108 --> 00:30:47,254
+Aku akan melakukannya.
+
+498
+00:30:48,248 --> 00:30:49,323
+Kenapa?
+
+499
+00:30:49,748 --> 00:30:51,624
+Kenapa kamu tidak menang melawan figuran?
+
+500
+00:30:51,918 --> 00:30:54,193
+- Apa? - Kurasa kamu tidak menduga ini.
+
+501
+00:30:55,418 --> 00:30:57,204
+Minggir, Bodoh.
+
+502
+00:30:57,259 --> 00:30:59,789
+Haru, kamu bisa mengajariku juga?
+
+503
+00:30:59,789 --> 00:31:04,129
+Hei. Kuharap seseorang bisa mengajariku juga.
+
+504
+00:31:04,129 --> 00:31:06,243
+- Kamu lebih baik daripada Kyung. - Hei, aku juga.
+
+505
+00:31:06,328 --> 00:31:07,674
+Bisa jelaskan tentang soal ini?
+
+506
+00:31:13,838 --> 00:31:16,454
+Kamu tidak bisa melakukan apa pun untuk Dan Oh saat di panggung.
+
+507
+00:31:16,879 --> 00:31:18,454
+Tapi kamu bisa mengubah takdirnya?
+
+508
+00:31:19,179 --> 00:31:20,653
+Apa ada yang berubah?
+
+509
+00:31:20,879 --> 00:31:22,523
+Kamu tidak bisa mengalahkanku.
+
+510
+00:31:23,179 --> 00:31:24,493
+Kamu hanya figuran.
+
+511
+00:31:28,459 --> 00:31:29,693
+- Haru. - Astaga.
+
+512
+00:31:31,388 --> 00:31:34,204
+- Ya? - Apa yang kamu pikirkan?
+
+513
+00:31:35,429 --> 00:31:36,629
+Ada yang membuatku kesal.
+
+514
+00:31:36,629 --> 00:31:37,704
+Apa?
+
+515
+00:31:39,968 --> 00:31:42,814
+Tentang bagaimana aku bisa pingsan?
+
+516
+00:31:43,198 --> 00:31:45,344
+Kenapa? Kamu menungguku begitu lama?
+
+517
+00:31:45,509 --> 00:31:48,578
+Kukira aku akan baik-baik saja begitu panggung berakhir,
+
+518
+00:31:48,578 --> 00:31:50,854
+tapi sakit dadaku makin parah belakangan ini.
+
+519
+00:31:54,418 --> 00:31:57,589
+Tidak, itu tidak memburuk.
+
+520
+00:31:57,589 --> 00:31:59,589
+Tidak, aku baik-baik saja. Sungguh.
+
+521
+00:31:59,589 --> 00:32:00,764
+Aku baik-baik saja.
+
+522
+00:32:00,988 --> 00:32:02,194
+Aku tahu kamu kesakitan.
+
+523
+00:32:04,189 --> 00:32:05,264
+Dan Oh.
+
+524
+00:32:06,759 --> 00:32:08,773
+Aku ingin mengubah karaktermu.
+
+525
+00:32:10,828 --> 00:32:11,903
+Mari kita lakukan.
+
+526
+00:32:12,599 --> 00:32:13,773
+Biarkan aku melakukannya.
+
+527
+00:32:15,099 --> 00:32:17,984
+Bagaimana jika kamu menghilang lagi seperti waktu itu?
+
+528
+00:32:18,869 --> 00:32:21,183
+Kini aku punya peran sebagai teman Kyung.
+
+529
+00:32:22,379 --> 00:32:24,183
+Aku tidak akan hilang semudah itu.
+
+530
+00:32:25,048 --> 00:32:28,294
+Kamu teman Kyung dan aku tunangan Kyung.
+
+531
+00:32:28,578 --> 00:32:31,789
+Astaga, penulisnya pasti sangat mencintai Kyung.
+
+532
+00:32:31,789 --> 00:32:34,894
+Karakternya lebih baik dari Do Hwa, yang menjadi pemeran pendukung...
+
+533
+00:32:35,689 --> 00:32:37,134
+Benar.
+
+534
+00:32:37,858 --> 00:32:39,704
+Bagaimana jika Kyung yang bisa mengubah takdirmu,
+
+535
+00:32:41,499 --> 00:32:43,074
+dan bukan aku?
+
+536
+00:32:48,599 --> 00:32:49,743
+Ini tidak bagus.
+
+537
+00:32:56,108 --> 00:32:57,249
+Aku baik-baik saja.
+
+538
+00:32:57,249 --> 00:32:59,324
+Aku tidak kesakitan. Kenapa ini berbunyi?
+
+539
+00:32:59,409 --> 00:33:01,153
+Panggungnya akan segera dimulai.
+
+540
+00:33:05,219 --> 00:33:06,364
+Aku akan mengubah
+
+541
+00:33:07,388 --> 00:33:08,533
+kisahmu.
+
+542
+00:33:12,988 --> 00:33:14,074
+Sae Mi.
+
+543
+00:33:14,328 --> 00:33:15,574
+Hei, Haru.
+
+544
+00:33:17,029 --> 00:33:20,228
+- Kamu. Kamu memegang... - Apa yang terjadi?
+
+545
+00:33:20,228 --> 00:33:22,674
+Kamu mungkin akan pingsan selama di panggung ini.
+
+546
+00:33:24,268 --> 00:33:26,044
+Kyung akan datang menyelamatkanmu.
+
+547
+00:33:27,978 --> 00:33:29,954
+Jika ini panggungmu
+
+548
+00:33:30,279 --> 00:33:32,324
+dan jika kamu butuh ini untuk memerankannya,
+
+549
+00:33:32,948 --> 00:33:34,424
+sesuatu mungkin berubah dengan ini.
+
+550
+00:33:35,578 --> 00:33:36,653
+Lihat.
+
+551
+00:33:36,988 --> 00:33:39,093
+Masih berbunyi meski sudah dilepas.
+
+552
+00:33:44,089 --> 00:33:45,334
+Apa yang kamu lakukan, Haru?
+
+553
+00:33:45,559 --> 00:33:46,734
+Apa yang dia lakukan?
+
+554
+00:33:49,659 --> 00:33:51,544
+Tapi semuanya mungkin kembali seperti semula.
+
+555
+00:33:54,499 --> 00:33:56,398
+Hei, kenapa berbunyi terus?
+
+556
+00:33:56,398 --> 00:33:57,843
+Apa kamu menyukaiku?
+
+557
+00:33:58,908 --> 00:34:00,653
+Tidak mungkin. Diam.
+
+558
+00:34:01,239 --> 00:34:02,483
+Ada apa denganmu?
+
+559
+00:34:02,538 --> 00:34:04,983
+Mungkin akan berbunyi lebih cepat jika aku memegang tanganmu.
+
+560
+00:34:07,528 --> 00:34:09,569
+Tidak, ini pasti rusak.
+
+561
+00:34:09,569 --> 00:34:12,098
+Tunggu, jantungmu berdetak lebih cepat karena aku?
+
+562
+00:34:12,098 --> 00:34:13,644
+Tidak, ini...
+
+563
+00:34:16,869 --> 00:34:17,954
+Dan Oh.
+
+564
+00:34:19,738 --> 00:34:21,209
+- Ini buruk. - Tidak.
+
+565
+00:34:21,209 --> 00:34:23,209
+- Dia baik-baik saja? - Kita harus bagaimana?
+
+566
+00:34:23,209 --> 00:34:24,293
+Tunggu dan lihatlah
+
+567
+00:34:24,718 --> 00:34:26,993
+kamu atau aku yang menjadi pemeran utama panggung ini.
+
+568
+00:34:27,119 --> 00:34:29,088
+- Tidak. - Bawa dia ke UKS.
+
+569
+00:34:29,088 --> 00:34:30,293
+- Tidak. - Minggir.
+
+570
+00:34:33,088 --> 00:34:34,559
+- Kamu baik-baik saja? - Kamu tidak apa-apa?
+
+571
+00:34:34,559 --> 00:34:35,634
+Kenapa kamu di sini?
+
+572
+00:34:36,259 --> 00:34:37,334
+Di mana Dan Oh?
+
+573
+00:34:40,929 --> 00:34:42,728
+Astaga, Nam Ju sangat seksi
+
+574
+00:34:42,728 --> 00:34:43,939
+sampai jantungku hampir copot.
+
+575
+00:34:43,939 --> 00:34:45,873
+- Ayo. - Apa itu tadi?
+
+576
+00:34:46,199 --> 00:34:47,384
+Sae Mi.
+
+577
+00:34:48,309 --> 00:34:49,384
+- Astaga. - Hei.
+
+578
+00:34:49,869 --> 00:34:51,379
+Jangan sakit tanpa seizinku.
+
+579
+00:34:51,379 --> 00:34:54,607
+Sudah kubilang jangan meniru perkataan Nam Ju.
+
+580
+00:34:54,608 --> 00:34:56,053
+Sial.
+
+581
+00:34:56,278 --> 00:34:58,353
+Kamu baik-baik saja? Aku terkejut.
+
+582
+00:35:31,679 --> 00:35:33,519
+Akan kulakukan apa pun yang dia lakukan untukmu.
+
+583
+00:35:33,519 --> 00:35:35,923
+Aku bisa membantumu mengubah ceritanya.
+
+584
+00:35:36,088 --> 00:35:38,264
+Hanya Haru yang bisa melakukan itu.
+
+585
+00:35:54,309 --> 00:35:57,084
+"Pasangan resmi SMA Seuli, Oh Nam Ju dan Yeo Ju Da"
+
+586
+00:36:05,548 --> 00:36:07,423
+Sudah kuduga ada yang aneh.
+
+587
+00:36:08,019 --> 00:36:10,658
+Anak nakal itu memengaruhimu.
+
+588
+00:36:10,658 --> 00:36:12,288
+Jangan bicara begitu tentang dia.
+
+589
+00:36:12,288 --> 00:36:14,063
+Apa kamu sudah gila?
+
+590
+00:36:14,689 --> 00:36:16,534
+Teganya kamu melakukan ini kepada ibu?
+
+591
+00:36:16,559 --> 00:36:18,904
+- Tahukah betapa keras usaha ibu... - Untuk mempertahankan posisiku?
+
+592
+00:36:19,499 --> 00:36:20,904
+Maksudnya posisi Ibu?
+
+593
+00:36:21,199 --> 00:36:24,014
+Aku hanya seperti hiasan bagi Ibu, bukan?
+
+594
+00:36:24,898 --> 00:36:26,369
+Aku hanyalah cangkang.
+
+595
+00:36:26,369 --> 00:36:29,284
+Kamu. Tutup mulutmu.
+
+596
+00:36:32,179 --> 00:36:33,949
+Kembalilah. Segera pulang.
+
+597
+00:36:33,949 --> 00:36:35,123
+Aku tidak bisa.
+
+598
+00:36:37,778 --> 00:36:39,918
+Sesulit itukah bagimu untuk hidup sebagai penerus
+
+599
+00:36:39,918 --> 00:36:41,493
+dari Serinne?
+
+600
+00:36:47,528 --> 00:36:48,988
+"Pas Naik"
+
+601
+00:36:48,988 --> 00:36:51,103
+Ibu yakin kamu tahu
+
+602
+00:36:51,658 --> 00:36:53,303
+betapa pentingnya ini.
+
+603
+00:36:54,629 --> 00:36:55,999
+Meski hanya cangkang, pergilah.
+
+604
+00:36:55,999 --> 00:36:57,173
+Ibu!
+
+605
+00:36:57,538 --> 00:36:59,499
+Kalau begitu, ceritakan semuanya kepada Pimpinan!
+
+606
+00:36:59,499 --> 00:37:01,983
+Ceritakan tentang Ju Da dan rahasiamu!
+
+607
+00:37:03,338 --> 00:37:04,754
+Tidak boleh ada
+
+608
+00:37:05,809 --> 00:37:07,954
+satu kesalahan pun dalam hidup ibu.
+
+609
+00:37:08,648 --> 00:37:10,154
+Kamu putra Cha Ji Hyun,
+
+610
+00:37:11,478 --> 00:37:13,154
+Oh Nam Ju.
+
+611
+00:37:28,398 --> 00:37:30,473
+"Pasangan resmi SMA Seuli, Oh Nam Ju dan Yeo Ju Da"
+
+612
+00:37:42,879 --> 00:37:45,679
+Nomor yang Anda tuju tidak tersedia. Anda akan dialihkan ke kotak suara.
+
+613
+00:37:45,679 --> 00:37:47,993
+Silakan tinggalkan pesan setelah nada berikut.
+
+614
+00:37:58,298 --> 00:37:59,933
+Nam Ju mungkin sudah mengakui perasaannya, bukan?
+
+615
+00:38:02,629 --> 00:38:04,714
+Sedang apa kamu di sini, Do Hwa?
+
+616
+00:38:23,488 --> 00:38:25,293
+Permisi. Apa Ju Da di sini?
+
+617
+00:38:25,758 --> 00:38:27,929
+- Apa kamu temannya? - Ya.
+
+618
+00:38:27,929 --> 00:38:29,888
+- Apa terjadi sesuatu padanya? - Apa?
+
+619
+00:38:29,888 --> 00:38:32,299
+Dia tidak mengangkat teleponnya dan belum muncul juga.
+
+620
+00:38:32,299 --> 00:38:34,104
+Dia belum pernah seperti ini.
+
+621
+00:38:35,199 --> 00:38:37,313
+Jawablah, kumohon.
+
+622
+00:38:53,149 --> 00:38:54,189
+Apa kamu bodoh?
+
+623
+00:38:54,189 --> 00:38:55,293
+Hei, Do Hwa.
+
+624
+00:38:55,488 --> 00:38:58,264
+Kamu akan menunggu di sini sampai kapan?
+
+625
+00:38:58,758 --> 00:39:01,104
+Nam Ju ingin bertemu denganku di sini.
+
+626
+00:39:01,888 --> 00:39:03,604
+Dia akan segera datang.
+
+627
+00:39:03,628 --> 00:39:04,833
+Yang benar saja!
+
+628
+00:39:10,598 --> 00:39:12,043
+Aku tidak tahan dengan ini.
+
+629
+00:39:12,998 --> 00:39:14,484
+Aku tahu kamu tidak menyadari dirimu,
+
+630
+00:39:15,409 --> 00:39:17,713
+tapi pikirkan dirimu sendiri.
+
+631
+00:39:19,638 --> 00:39:21,254
+Utamakan dirimu.
+
+632
+00:39:21,608 --> 00:39:23,183
+Lantas, aku harus bagaimana?
+
+633
+00:39:24,049 --> 00:39:25,453
+Apa yang bisa kulakukan?
+
+634
+00:39:26,049 --> 00:39:27,764
+Para gadis itu merundungku di sekolah.
+
+635
+00:39:29,789 --> 00:39:31,319
+Lalu di luar sekolah, aku sibuk bekerja paruh waktu untuk membayar
+
+636
+00:39:31,319 --> 00:39:32,433
+biaya rumah sakit nenekku.
+
+637
+00:39:32,689 --> 00:39:33,959
+Kuharap orang tuaku bisa membayar
+
+638
+00:39:33,959 --> 00:39:35,703
+biaya sekolahku seperti kalian.
+
+639
+00:39:35,888 --> 00:39:37,628
+Aku tidak mau kerja paruh waktu setelah sekolah.
+
+640
+00:39:37,628 --> 00:39:39,234
+Aku ingin bermain dengan teman-temanku.
+
+641
+00:39:41,598 --> 00:39:43,244
+Aku juga ingin mengambil kelas ekstrakurikuler.
+
+642
+00:39:45,199 --> 00:39:47,173
+Aku ingin menjadi murid SMA Seuli sejati.
+
+643
+00:39:49,108 --> 00:39:52,884
+Nam Ju adalah orang pertama yang menawarkan tangannya.
+
+644
+00:39:54,179 --> 00:39:55,323
+Jadi,
+
+645
+00:39:56,279 --> 00:39:58,649
+meski menurutmu aku orang bodoh
+
+646
+00:39:58,649 --> 00:40:00,154
+yang sedang menunggu seseorang yang bahkan tidak datang,
+
+647
+00:40:03,118 --> 00:40:05,663
+aku hanya bisa menunggunya.
+
+648
+00:40:07,829 --> 00:40:11,104
+Karena tidak ada yang bisa kulakukan sendiri.
+
+649
+00:40:35,919 --> 00:40:37,734
+- Halo. - Kamu mau ke mana?
+
+650
+00:40:38,189 --> 00:40:40,063
+- Ke sekolah. - Tapi ini akhir pekan.
+
+651
+00:40:40,689 --> 00:40:42,234
+Aku hendak menemui Nam Ju...
+
+652
+00:40:44,258 --> 00:40:47,474
+Setidaknya punyalah akal sehat jika kamu lamban memahami.
+
+653
+00:40:49,199 --> 00:40:52,443
+Nam Ju sedang melalui masa kritis.
+
+654
+00:40:54,838 --> 00:40:56,484
+Beraninya gadis sepertimu...
+
+655
+00:41:05,848 --> 00:41:06,923
+Bu.
+
+656
+00:41:08,248 --> 00:41:09,423
+Sudah cukup.
+
+657
+00:41:10,689 --> 00:41:12,593
+Anda tidak akan mengubah apa pun.
+
+658
+00:41:19,299 --> 00:41:20,673
+Apa?
+
+659
+00:41:21,669 --> 00:41:24,474
+"Pasangan resmi SMA Seuli, Oh Nam Ju dan Yeo Ju Da"
+
+660
+00:41:29,108 --> 00:41:31,014
+- Ju Da, soal kemarin... - Maafkan aku.
+
+661
+00:41:32,439 --> 00:41:33,614
+Aku tidak bisa datang kemarin.
+
+662
+00:41:34,149 --> 00:41:35,149
+Kamu tidak datang?
+
+663
+00:41:35,149 --> 00:41:37,494
+Tolong jangan mengatakan hal yang bisa menimbulkan salah paham.
+
+664
+00:41:37,978 --> 00:41:40,923
+Berkat yayasanmu, aku bisa bersekolah di sekolah kita.
+
+665
+00:41:42,189 --> 00:41:43,894
+Aku tidak mau menyebabkan kesalahpahaman.
+
+666
+00:41:44,289 --> 00:41:46,134
+"Salah paham"?
+
+667
+00:41:46,258 --> 00:41:47,333
+Ya.
+
+668
+00:41:48,088 --> 00:41:50,829
+Tidak ada apa-apa di antara kita.
+
+669
+00:41:50,829 --> 00:41:53,374
+Kamu tidak tahu upayaku untuk sampai sejauh ini.
+
+670
+00:41:54,829 --> 00:41:56,604
+- Aku menyerahkan segalanya... - Kumohon
+
+671
+00:41:56,998 --> 00:41:58,644
+bersihkanlah semuanya hari ini.
+
+672
+00:41:59,439 --> 00:42:00,713
+Terima kasih sebelumnya.
+
+673
+00:42:06,738 --> 00:42:09,154
+"Rumah Sakit Hani"
+
+674
+00:42:11,518 --> 00:42:13,378
+Kamu sering memeriksa monitor detak jantungmu, bukan?
+
+675
+00:42:13,378 --> 00:42:15,588
+Kamu harus bilang jika hal aneh terjadi.
+
+676
+00:42:15,588 --> 00:42:16,693
+Baiklah.
+
+677
+00:42:17,888 --> 00:42:20,293
+Ada gejala selain sakit dada?
+
+678
+00:42:22,289 --> 00:42:25,459
+Bagaimana bilangnya, ya? Hatiku terasa tersengat
+
+679
+00:42:25,459 --> 00:42:27,104
+dan geli-geli.
+
+680
+00:42:27,399 --> 00:42:29,644
+- Napasmu? - Aku merasa sesak.
+
+681
+00:42:30,468 --> 00:42:33,043
+Tapi kemudian, aku merasa baik-baik saja.
+
+682
+00:42:34,169 --> 00:42:36,014
+Kapan biasanya kamu merasa seperti itu?
+
+683
+00:42:38,539 --> 00:42:41,453
+- Haru... - Apa? Setiap hari?
+
+684
+00:42:45,348 --> 00:42:47,994
+Kenapa di sini terasa sangat serius?
+
+685
+00:42:48,419 --> 00:42:49,823
+Bahkan ayahku di sini.
+
+686
+00:42:54,888 --> 00:42:56,189
+"Dokter Lee Ju Hwa"
+
+687
+00:42:56,189 --> 00:42:58,529
+Kamu sering memeriksa monitor detak jantungmu, bukan?
+
+688
+00:42:58,529 --> 00:43:00,628
+Kamu harus bilang jika hal aneh terjadi.
+
+689
+00:43:00,628 --> 00:43:02,073
+Sebenarnya,
+
+690
+00:43:03,299 --> 00:43:05,713
+aku merasa lebih sakit belakangan ini.
+
+691
+00:43:07,368 --> 00:43:08,543
+Dan Oh.
+
+692
+00:43:09,638 --> 00:43:10,878
+Bagaimana jika kamu dirawat di sini
+
+693
+00:43:10,878 --> 00:43:13,053
+dan menjalani pemeriksaan lengkap?
+
+694
+00:43:13,579 --> 00:43:16,984
+Aku harus dirawat untuk pemeriksaan?
+
+695
+00:43:17,149 --> 00:43:19,449
+Hanya pemeriksaan biasa. Jangan khawatir.
+
+696
+00:43:19,449 --> 00:43:21,224
+Jangan membohongiku.
+
+697
+00:43:21,388 --> 00:43:23,319
+Jujurlah.
+
+698
+00:43:23,319 --> 00:43:26,063
+Apa aku sakit parah?
+
+699
+00:43:57,319 --> 00:43:58,833
+Kenapa sakit sekali?
+
+700
+00:44:01,858 --> 00:44:03,034
+Jangan bilang
+
+701
+00:44:04,899 --> 00:44:06,874
+aku akan menjalani operasi.
+
+702
+00:44:11,968 --> 00:44:15,169
+Jadi, bagiku, kamu bukan sekadar figuran.
+
+703
+00:44:15,169 --> 00:44:17,953
+Kamu luar biasa.
+
+704
+00:44:37,529 --> 00:44:39,203
+Aku tidak mau mati.
+
+705
+00:44:48,468 --> 00:44:49,843
+Aku merindukanmu.
+
+706
+00:45:08,388 --> 00:45:09,534
+Haru!
+
+707
+00:45:15,728 --> 00:45:17,203
+Aku benci penulisnya.
+
+708
+00:45:17,529 --> 00:45:19,539
+Kita selalu berpisah.
+
+709
+00:45:19,539 --> 00:45:21,539
+Tapi aku lebih membenci tokohku.
+
+710
+00:45:21,539 --> 00:45:23,008
+Aku bodoh karena mengakui perasaanku
+
+711
+00:45:23,008 --> 00:45:24,413
+meskipun sudah ditolak berkali-kali.
+
+712
+00:45:24,909 --> 00:45:26,654
+Aku suka karaktermu.
+
+713
+00:45:27,978 --> 00:45:30,524
+Dia manis, cantik,
+
+714
+00:45:31,378 --> 00:45:32,593
+dan jujur.
+
+715
+00:45:34,988 --> 00:45:36,063
+Ada apa?
+
+716
+00:45:36,218 --> 00:45:37,293
+Teruskan.
+
+717
+00:45:40,118 --> 00:45:43,364
+Ayolah. Kukira kamu suka sifat jujurku.
+
+718
+00:45:45,959 --> 00:45:47,799
+Karena ini akhir pekan, tidak ada orang di sini.
+
+719
+00:45:47,799 --> 00:45:50,429
+Cuacanya indah dan aku punya banyak waktu luang.
+
+720
+00:45:50,429 --> 00:45:52,043
+Apa yang harus kulakukan?
+
+721
+00:45:52,799 --> 00:45:53,943
+Kalau begitu,
+
+722
+00:45:55,069 --> 00:45:56,284
+maukah kamu bermain denganku?
+
+723
+00:45:57,909 --> 00:46:00,754
+"Bahasa Inggris"
+
+724
+00:46:02,209 --> 00:46:05,018
+Hai, Semuanya. Namaku Betty.
+
+725
+00:46:05,018 --> 00:46:07,963
+Aku guru bahasa Inggris. Ini buku yang sangat lucu.
+
+726
+00:46:15,588 --> 00:46:16,803
+Cobalah.
+
+727
+00:46:22,804 --> 00:46:27,804
+<font color="#8080ff">[VIU Ver] </font>
+<font color="#ff8080">MBC E20 'Extra-ordinary You' </font>
+<font color="#ff5fa2">-♥ Ruo Xi ♥-</font>
+
+728
+00:46:34,679 --> 00:46:35,784
+Aku merasa sangat malu.
+
+729
+00:46:42,388 --> 00:46:44,093
+Apa kakiku terlihat panjang?
+
+730
+00:46:48,459 --> 00:46:49,704
+Apa ini?
+
+731
+00:46:51,328 --> 00:46:54,034
+Aku ingin kakiku terlihat panjang.
+
+732
+00:46:55,429 --> 00:46:56,628
+Apa ini?
+
+733
+00:46:56,629 --> 00:46:57,914
+Kakimu tampak panjang.
+
+734
+00:47:06,939 --> 00:47:08,153
+Kemarilah.
+
+735
+00:47:09,449 --> 00:47:10,853
+Mari berfoto dengan pohon ini.
+
+736
+00:47:11,619 --> 00:47:12,754
+Baiklah.
+
+737
+00:47:16,788 --> 00:47:19,093
+Kamu bisa berjinjit?
+
+738
+00:47:19,189 --> 00:47:20,264
+Baiklah.
+
+739
+00:47:21,089 --> 00:47:22,264
+Aku akan jongkok.
+
+740
+00:47:22,659 --> 00:47:23,734
+Terima kasih.
+
+741
+00:48:43,169 --> 00:48:45,478
+Pemandangan dari atas sini
+
+742
+00:48:45,478 --> 00:48:47,613
+membuat semuanya terlihat sangat kecil.
+
+743
+00:48:49,078 --> 00:48:51,379
+Seperti inikah perasaan penulis saat dia melihat kita?
+
+744
+00:48:51,379 --> 00:48:52,518
+Penulis melihat kita dari atas,
+
+745
+00:48:52,518 --> 00:48:53,718
+dan kita bergerak persis seperti yang digambar
+
+746
+00:48:53,718 --> 00:48:55,293
+dan berhenti saat penulis menghapus gambar.
+
+747
+00:48:55,548 --> 00:48:57,994
+Kita bisa bergerak meski tidak digambar dalam adegan.
+
+748
+00:48:59,558 --> 00:49:01,903
+Benar. Itu benar.
+
+749
+00:49:05,859 --> 00:49:08,174
+Haru, apa impianmu?
+
+750
+00:49:08,669 --> 00:49:12,073
+- Impianku? - Ya. Seperti pekerjaan impianmu.
+
+751
+00:49:12,599 --> 00:49:15,613
+Entahlah. Bagaimana denganmu?
+
+752
+00:49:16,939 --> 00:49:18,083
+Aku ingin menjadi
+
+753
+00:49:18,679 --> 00:49:22,553
+orang biasa yang bisa menghabiskan hari biasa seperti ini.
+
+754
+00:49:23,278 --> 00:49:25,724
+Seseorang yang bisa melakukan apa pun yang dia inginkan.
+
+755
+00:49:32,359 --> 00:49:35,363
+Apa akhir cerita yang digambarkan penulis?
+
+756
+00:49:38,498 --> 00:49:42,228
+Aku penasaran apa aku bisa mencapai usia 19 tahun.
+
+757
+00:49:42,228 --> 00:49:45,113
+Kamu akan berada di sampingku saat usiamu 19 tahun
+
+758
+00:49:45,339 --> 00:49:46,714
+dan 20 tahun.
+
+759
+00:49:48,008 --> 00:49:50,744
+Kita menciptakan kisah kita sendiri.
+
+760
+00:49:53,778 --> 00:49:55,853
+Apa itu tadi?
+
+761
+00:49:56,609 --> 00:49:59,994
+Benar. Pohon saat kita berfoto tadi.
+
+762
+00:50:00,349 --> 00:50:02,149
+- Ya. - Semua orang bilang
+
+763
+00:50:02,149 --> 00:50:04,349
+itu pohon tertua di sekolah kita.
+
+764
+00:50:04,349 --> 00:50:07,419
+Mereka bilang tanggal 10 Oktober adalah ulang tahunnya yang ke-300.
+
+765
+00:50:07,419 --> 00:50:08,664
+Ulang tahun ke-300?
+
+766
+00:50:08,929 --> 00:50:12,129
+Ya, tapi aku yakin penulisnya yang mengarang soal itu.
+
+767
+00:50:12,129 --> 00:50:14,929
+Meski begitu, fakta bahwa pohon itu berada di sini paling lama
+
+768
+00:50:14,929 --> 00:50:16,944
+membuatnya terasa istimewa.
+
+769
+00:50:18,699 --> 00:50:21,639
+Entah di panggung atau bayangan,
+
+770
+00:50:21,639 --> 00:50:23,484
+mari bertemu di sana pada tanggal 10 Oktober.
+
+771
+00:50:28,248 --> 00:50:31,653
+Jika melakukan itu, aku merasa kita mungkin
+
+772
+00:50:32,248 --> 00:50:34,863
+akan bertemu untuk waktu lama seperti pohon ini.
+
+773
+00:50:39,959 --> 00:50:41,633
+Saat kita 19 tahun
+
+774
+00:50:42,589 --> 00:50:44,133
+dan 20 tahun.
+
+775
+00:51:30,639 --> 00:51:35,083
+"10 Oktober"
+
+776
+00:51:36,748 --> 00:51:37,823
+Sudah selesai.
+
+777
+00:51:40,718 --> 00:51:43,593
+Kamu akan berada di sampingku saat usiamu 19 tahun
+
+778
+00:51:44,149 --> 00:51:45,563
+dan 20 tahun.
+
+779
+00:51:45,889 --> 00:51:48,504
+Kita menciptakan kisah kita sendiri.
+
+780
+00:51:51,629 --> 00:51:54,929
+Astaga. Dia sama saja seperti menyatakan perasaannya kepadaku.
+
+781
+00:51:54,929 --> 00:51:58,813
+Bagaimana dia bisa mengatakan hal seperti itu tanpa tersipu?
+
+782
+00:52:13,379 --> 00:52:14,619
+Aku merindukannya.
+
+783
+00:52:14,619 --> 00:52:16,793
+Mana bisa aku menunggu sampai pagi?
+
+784
+00:52:20,659 --> 00:52:22,664
+Mana bisa aku menunggu sampai pagi?
+
+785
+00:52:31,939 --> 00:52:33,038
+Apa aku di rumah sakit? Kapan?
+
+786
+00:52:33,038 --> 00:52:34,643
+Ini mimpi. Benar, bukan? Pasti!
+
+787
+00:52:46,949 --> 00:52:48,224
+Ini tidak mungkin!
+
+788
+00:52:48,449 --> 00:52:49,664
+Hari ini.
+
+789
+00:52:57,629 --> 00:52:58,828
+Hei, kamu sudah dengar?
+
+790
+00:52:58,828 --> 00:53:00,498
+Hari ini ulang tahun ke-300 pohon itu.
+
+791
+00:53:00,498 --> 00:53:02,268
+Tidak mungkin. Sudah tua sekali.
+
+792
+00:53:02,268 --> 00:53:04,798
+Hei, jangan sebut pohonnya tua.
+
+793
+00:53:04,798 --> 00:53:07,343
+Pohon ini seperti Ellen dari suatu keluarga.
+
+794
+00:53:07,498 --> 00:53:09,709
+"Orang tua" dalam keluarga.
+
+795
+00:53:09,709 --> 00:53:11,268
+- Hei, aku tahu. - Astaga.
+
+796
+00:53:11,268 --> 00:53:13,109
+Itulah yang kukatakan. Sama saja.
+
+797
+00:53:13,109 --> 00:53:15,184
+- Itu memalukan. - Hei. Sial.
+
+798
+00:53:44,409 --> 00:53:46,883
+Kami akan merawatnya di sini beberapa hari dan mengawasinya.
+
+799
+00:53:47,008 --> 00:53:48,254
+Dia akan baik-baik saja, bukan?
+
+800
+00:53:48,709 --> 00:53:49,778
+Sejujurnya,
+
+801
+00:53:49,778 --> 00:53:51,454
+aku khawatir tiap kali hasil tes keluar.
+
+802
+00:53:52,818 --> 00:53:55,494
+Aku tidak yakin Dan Oh bisa melewati ini.
+
+803
+00:53:56,119 --> 00:53:57,464
+Dia pasti bisa.
+
+804
+00:53:57,689 --> 00:53:59,563
+Dia berani.
+
+805
+00:54:02,459 --> 00:54:03,758
+Benar. Aku berani.
+
+806
+00:54:03,758 --> 00:54:05,734
+Jadi, cepatlah. Kumohon.
+
+807
+00:54:10,498 --> 00:54:12,274
+Hei, Dan Oh. Apa yang kamu lakukan?
+
+808
+00:54:12,798 --> 00:54:13,869
+Kamu mau ke mana dengan kondisi seperti itu?
+
+809
+00:54:13,869 --> 00:54:16,714
+Ayah. Aku baik-baik saja. Aku punya janji penting.
+
+810
+00:54:26,379 --> 00:54:27,593
+Tidak.
+
+811
+00:54:36,058 --> 00:54:37,704
+Ini saatnya kamu minum obat.
+
+812
+00:54:38,929 --> 00:54:40,103
+Apa yang harus kulakukan?
+
+813
+00:54:49,909 --> 00:54:51,244
+Hei, Haru.
+
+814
+00:54:55,478 --> 00:54:57,109
+Kurasa kondisi Dan Oh memburuk.
+
+815
+00:54:57,109 --> 00:54:58,524
+Dia sudah cukup lama di rumah sakit.
+
+816
+00:54:58,748 --> 00:55:00,224
+Apa yang harus kita lakukan?
+
+817
+00:55:01,689 --> 00:55:02,764
+Dia di sana?
+
+818
+00:55:40,288 --> 00:55:42,103
+Kapan Dan Oh akan kembali?
+
+819
+00:55:42,189 --> 00:55:44,164
+Aku bosan tanpa Dan Oh.
+
+820
+00:55:46,298 --> 00:55:47,934
+Mari kita jenguk dia dan bermain dengannya.
+
+821
+00:55:48,968 --> 00:55:50,873
+- Hei, Su Chul. - Apa?
+
+822
+00:55:51,099 --> 00:55:52,498
+Itu ide bagus. Kamu genius!
+
+823
+00:55:52,498 --> 00:55:54,268
+- Benar, bukan? - Mari beli banyak makanan enak.
+
+824
+00:55:54,268 --> 00:55:55,414
+Bagus. Ayo.
+
+825
+00:55:55,839 --> 00:55:57,843
+Dia suka apa?
+
+826
+00:56:06,318 --> 00:56:07,849
+Dan Oh!
+
+827
+00:56:07,849 --> 00:56:08,919
+Dan Oh!
+
+828
+00:56:08,919 --> 00:56:12,218
+- Dan Oh. - Dan Oh.
+
+829
+00:56:12,218 --> 00:56:13,793
+Aku sangat merindukanmu.
+
+830
+00:56:14,419 --> 00:56:15,689
+Hei, apa penyakitmu parah?
+
+831
+00:56:15,689 --> 00:56:17,758
+Kami datang ke sini untuk berjaga-jaga jika kamu bosan.
+
+832
+00:56:17,758 --> 00:56:19,929
+Teman-teman, terima kasih banyak.
+
+833
+00:56:19,929 --> 00:56:22,199
+Kamu harus berhenti sakit sekarang.
+
+834
+00:56:22,199 --> 00:56:23,468
+Omong-omong, pergelangan tanganku sakit.
+
+835
+00:56:23,468 --> 00:56:24,968
+- Apa kamu punya koyok? - Teman-teman.
+
+836
+00:56:24,968 --> 00:56:26,268
+Aku menghargai ini,
+
+837
+00:56:26,268 --> 00:56:28,143
+- tapi bagaimana dengan Haru? - Itu sangat berat.
+
+838
+00:57:01,038 --> 00:57:04,014
+Entah di panggung atau bayangan,
+
+839
+00:57:04,369 --> 00:57:06,254
+mari bertemu di sana pada tanggal 10 Oktober.
+
+840
+00:57:07,008 --> 00:57:10,424
+Jika melakukan itu, aku merasa kita mungkin
+
+841
+00:57:11,048 --> 00:57:13,653
+akan bertemu untuk waktu lama seperti pohon ini.
+
+842
+00:57:41,949 --> 00:57:43,123
+Kumohon.
+
+843
+00:57:52,959 --> 00:57:54,664
+Saatnya disuntik.
+
+844
+00:58:09,209 --> 00:58:12,214
+Baiklah. Siapa kali ini?
+
+845
+00:58:14,478 --> 00:58:15,623
+Kyung.
+
+846
+00:58:15,909 --> 00:58:18,053
+Ambillah. Aku hanya memilih yang kamu suka.
+
+847
+00:58:18,919 --> 00:58:20,123
+Terima kasih.
+
+848
+00:58:21,478 --> 00:58:23,664
+- Ini... - Aku tahu.
+
+849
+00:58:24,488 --> 00:58:26,694
+Aku akan mengatakan hal baik kepada Ayah.
+
+850
+00:58:27,288 --> 00:58:28,764
+Terima kasih, Kyung.
+
+851
+00:58:35,869 --> 00:58:37,343
+Apa yang kamu lakukan?
+
+852
+00:58:39,968 --> 00:58:41,073
+Dan Oh.
+
+853
+00:58:43,238 --> 00:58:44,468
+Lepaskan aku. Aku harus pergi.
+
+854
+00:58:44,468 --> 00:58:46,014
+Kamu mau ke mana dengan kondisi seperti ini?
+
+855
+00:58:46,038 --> 00:58:47,184
+Menemui Haru.
+
+856
+00:59:00,919 --> 00:59:02,563
+Jika itu tidak berubah,
+
+857
+00:59:03,328 --> 00:59:07,434
+jika hidupku akan berjalan sesuai keinginan penulis,
+
+858
+00:59:08,568 --> 00:59:10,504
+aku ingin menghabiskan waktu yang kumiliki
+
+859
+00:59:11,528 --> 00:59:13,873
+denganmu, Haru.
+
+860
+00:59:17,609 --> 00:59:18,784
+Haru!
+
+861
+00:59:23,679 --> 00:59:24,853
+Haru.
+
+862
+00:59:31,488 --> 00:59:32,633
+Haru...
+
+863
+00:59:44,768 --> 00:59:45,914
+Haru!
+
+864
+01:00:01,578 --> 01:00:04,224
+Aku merindukanmu.
+
+865
+01:00:06,258 --> 01:00:07,393
+Aku merindukanmu, Haru.
+
+866
+01:00:15,798 --> 01:00:16,974
+Haru...
+
+867
+01:00:34,419 --> 01:00:35,593
+Dan Oh.
+
+868
+01:00:40,988 --> 01:00:42,204
+Haru.
+
+869
+01:01:04,109 --> 01:01:05,353
+Aku merindukanmu.
+
+870
+01:01:10,149 --> 01:01:11,264
+Aku menyukaimu.
+
+871
+01:01:12,919 --> 01:01:13,994
+Apa?
+
+872
+01:01:14,419 --> 01:01:17,063
+Aku menyukaimu, Dan Oh.
+
+873
+01:01:32,738 --> 01:01:33,883
+Maafkan aku.
+
+874
+01:02:40,978 --> 01:02:42,754
+"Extra-ordinary You"
+
+875
+01:02:42,799 --> 01:02:44,758
+Aku ingin waktu berhenti seperti ini.
+
+876
+01:02:44,758 --> 01:02:47,069
+Aku terus memikirkanmu sepanjang hari, Haru.
+
+877
+01:02:47,069 --> 01:02:48,938
+Kamu mencintai siapa pun yang bisa mengubah panggung?
+
+878
+01:02:48,938 --> 01:02:49,998
+Itu tidak penting lagi.
+
+879
+01:02:49,998 --> 01:02:52,909
+Haru dan aku sudah cukup bahagia di luar panggung.
+
+880
+01:02:52,909 --> 01:02:54,409
+Aku menggila
+
+881
+01:02:54,409 --> 01:02:56,238
+tiap kali bedebah itu mengacaukan panggungku
+
+882
+01:02:56,238 --> 01:02:58,778
+dan tiap kali kamu menunjukkan wajah yang tidak pernah kamu tunjukkan.
+
+883
+01:02:58,778 --> 01:03:01,079
+Kenangan yang kulupakan terus kuingat kembali.
+
+884
+01:03:01,079 --> 01:03:02,579
+Bahkan saat itu, Kyung adalah
+
+885
+01:03:02,579 --> 01:03:05,248
+- tunangannya. - Kamu cintaku satu-satunya.
+
+886
+01:03:05,248 --> 01:03:07,688
+Dan Oh dan kamu tidak bisa bersama.
+
+887
+01:03:07,688 --> 01:03:09,718
+Kamu harus menghentikan orang yang mengubah panggung.
+
+888
+01:03:09,718 --> 01:03:11,319
+Jangan ulangi kesalahan yang sama.
+
+889
+01:03:11,319 --> 01:03:12,359
+- Siapa ini? - Murid baru
+
+890
+01:03:12,359 --> 01:03:13,389
+- di kelas kami. - Hai.
+
+891
+01:03:13,389 --> 01:03:16,059
+Pasti akan kutemukan apa pun yang kamu sembunyikan.
+
+892
+01:03:16,059 --> 01:03:18,198
+Kenapa aku merasa sangat gelisah?
+
+893
+01:03:18,198 --> 01:03:19,369
+Kamu sungguh akan mati?
+
+894
+01:03:19,369 --> 01:03:20,928
+Belum terlambat bagi kita.
+
+895
+01:03:20,928 --> 01:03:22,773
+Aku akan melakukan apa pun untukmu.
+
