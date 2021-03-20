@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Img\" />
     <Folder Include="Sub\It%27s Okay to Not Be Okay\Malay\" />
   </ItemGroup>
 
