@@ -1,0 +1,7549 @@
+1
+00:00:28,400 --> 00:00:32,350
+<i>Tesseract telah bangkit.</i>
+
+2
+00:00:33,200 --> 00:00:38,150
+<i>Di sebuah dunia kecil, dunia milik manusia.</i>
+
+3
+00:00:38,870 --> 00:00:42,200
+<i>Mereka ingin menggunakan kekuatannya,</i>
+
+4
+00:00:42,580 --> 00:00:48,240
+<i>tapi  hanya sekutu kami yang tahu cara kerjanya,
+tidak seperti mereka.</i>
+
+5
+00:00:49,800 --> 00:00:52,870
+<i>Dia siap untuk memimpin</i>
+
+6
+00:00:53,090 --> 00:00:58,500
+<i>dan pasukan kami, Chitauri, akan mengikutinya.</i>
+
+7
+00:01:00,140 --> 00:01:02,510
+<i>Dunia akan menjadi miliknya.</i>
+
+8
+00:01:02,730 --> 00:01:05,840
+<i>Alam semesta, milikmu.</i>
+
+9
+00:01:06,060 --> 00:01:11,930
+<i>Dan umat manusia, apa yang bisa
+mereka lakukan selain hanya musnah?</i>
+
+10
+00:01:26,170 --> 00:01:32,320
+<i>Semua personel diharap menuju kendaraan
+masing-masing untuk evakuasi seluruh tempat.</i>
+
+11
+00:01:35,130 --> 00:01:42,120
+<i>Ini bukan latihan. Semuanya diharapkan
+untuk segera evakuasi diri.</i>
+
+12
+00:02:01,620 --> 00:02:03,070
+Seburuk apakah keadaannya?
+
+13
+00:02:03,290 --> 00:02:06,570
+Itu permasalahannya, pak.
+Kami tidak tahu.
+
+14
+00:02:10,170 --> 00:02:13,080
+Empat jam yang lalu, Dr. Selvig menangkap
+gelombang energi dari Tesseract.
+
+15
+00:02:13,210 --> 00:02:15,080
+NASA melarang Selvig melakukan uji coba.
+
+16
+00:02:15,300 --> 00:02:17,460
+Beliau tidak sedang mengujinya.
+Bahkan beliau tidak sedang di ruangannya.
+
+17
+00:02:17,680 --> 00:02:18,670
+Kejadiannya terjadi begitu saja.
+
+18
+00:02:18,840 --> 00:02:19,950
+Benda itu aktif sendiri?
+
+19
+00:02:20,180 --> 00:02:21,200
+Sekarang energinya berada di tingkat berapa?
+
+20
+00:02:21,430 --> 00:02:23,590
+Terus naik. Ketika Selvig tak dapat
+menghentikannya, kami perintahkan evakuasi.
+
+21
+00:02:23,810 --> 00:02:25,000
+Butuh berapa lama untuk mengeluarkan semua orang?
+
+22
+00:02:25,220 --> 00:02:26,550
+Tempat ini harus kosong
+dalam waktu setengah jam ke depan.
+
+23
+00:02:26,770 --> 00:02:28,010
+Percepat.
+
+24
+00:02:28,980 --> 00:02:30,930
+Pak, evakuasi mungkin sia-sia.
+
+25
+00:02:31,150 --> 00:02:32,510
+Jadi, kita mau mengabaikan mereka
+begitu saja?
+
+26
+00:02:32,730 --> 00:02:34,930
+Jika kita tak dapat mengendalikan
+energi dari Tesseract,
+
+27
+00:02:35,150 --> 00:02:37,480
+kemungkinan tidak akan ada yang aman.
+
+28
+00:02:37,610 --> 00:02:38,630
+Aku ingin kau memastikan...
+
+29
+00:02:38,780 --> 00:02:40,440
+semua prototip Tahap 2
+telah dibawa pergi.
+
+30
+00:02:40,620 --> 00:02:42,650
+Pak, apakah itu lebih penting?
+
+31
+00:02:42,870 --> 00:02:44,570
+Walaupun sebentar lagi dunia akan kiamat,
+
+32
+00:02:44,700 --> 00:02:46,740
+kita harus besikap seperti tidak
+terjadi apa-apa.
+
+33
+00:02:47,710 --> 00:02:49,070
+Benahi seluruh peralatan yang ada di bawah.
+
+34
+00:02:49,290 --> 00:02:51,770
+Masukan semua perkembangan tahap 2
+ke dalam truk, lalu pergilah.
+
+35
+00:02:52,000 --> 00:02:53,080
+Baik, pak.
+
+36
+00:02:53,500 --> 00:02:54,660
+Ikut aku.
+
+37
+00:02:57,760 --> 00:02:58,750
+Coba jelaskan, Dokter.
+
+38
+00:03:00,550 --> 00:03:01,920
+Direktur.
+
+39
+00:03:02,140 --> 00:03:03,790
+Apa kita sudah tahu penyebabnya?
+
+40
+00:03:04,010 --> 00:03:06,260
+Tesseract berperilaku menyimpang.
+
+41
+00:03:06,470 --> 00:03:09,260
+- Apakah ini bercanda?
+- Tidak, tidak sama sekali.
+
+42
+00:03:09,480 --> 00:03:12,970
+Tesseract bukan hanya aktif
+tapi juga menunjukkan perilaku.
+
+43
+00:03:13,190 --> 00:03:14,180
+Aku kira kau sudah mematikannya.
+
+44
+00:03:14,400 --> 00:03:16,100
+Benda ini memiliki sumber energi sendiri.
+
+45
+00:03:16,320 --> 00:03:19,350
+Kalau kita matikan listrik,
+benda ini akan menyala kembali.
+
+46
+00:03:19,570 --> 00:03:20,640
+Jika benda ini mencapai puncaknya,
+
+47
+00:03:20,860 --> 00:03:24,270
+Kami juga ikut mempersiapkan ini, Dokter.
+Benda ini menarik energi dari luar angkasa.
+
+48
+00:03:24,490 --> 00:03:25,860
+Tapi kita tidak menginginkan hal itu.
+
+49
+00:03:25,990 --> 00:03:27,270
+Perhitunganku masih jauh dari sempurna.
+
+50
+00:03:27,830 --> 00:03:30,360
+Dan benda ini juga melepaskan radiasi.
+
+51
+00:03:30,580 --> 00:03:32,280
+Tidak berbahaya,
+hanya radiasi gamma tingkat rendah.
+
+52
+00:03:33,210 --> 00:03:35,030
+Itu bisa berbahaya.
+
+53
+00:03:35,250 --> 00:03:36,660
+Mana Agen Barton?
+
+54
+00:03:36,840 --> 00:03:38,540
+<i>Hawk? (=elang)</i>
+
+55
+00:03:39,420 --> 00:03:41,460
+Seperti biasa, ada di sarangnya.
+
+56
+00:03:42,930 --> 00:03:44,710
+<i>Agen Barton, laporanmu.</i>
+
+57
+00:03:45,600 --> 00:03:46,750
+<i>Aku sudah menjelaskan semuanya padamu,</i>
+
+58
+00:03:46,890 --> 00:03:48,460
+<i>agar kau bisa mengawasi semuanya.</i>
+
+59
+00:03:48,680 --> 00:03:50,050
+Aku melihat lebih jelas dari kejauhan.
+
+60
+00:03:50,270 --> 00:03:52,220
+Kira-kira, apa kau tahu siapa yang mungkin
+bisa mematikan benda ini?
+
+61
+00:03:52,690 --> 00:03:54,800
+Dokter, benda ini bereaksi lagi.
+
+62
+00:03:55,020 --> 00:03:56,390
+Aku tidak melihat siapa-siapa.
+
+63
+00:03:56,610 --> 00:03:58,220
+Bahkan Selvig pun tidak.
+
+64
+00:03:58,440 --> 00:04:00,730
+Tidak ada jejak yang ditinggalkan.
+
+65
+00:04:01,240 --> 00:04:03,020
+Seandainya ada yang menyusup, pasti
+bukan berasal dari tempat ini.
+
+66
+00:04:04,950 --> 00:04:06,310
+Apa maksudmu?
+
+67
+00:04:06,530 --> 00:04:10,360
+Ya, Cuba (Kubus) ini adalah gerbang menuju
+ruang angkasa, bukan?
+
+68
+00:04:12,210 --> 00:04:13,480
+Gerbang itu terbuka dari kedua sisi.
+
+69
+00:04:14,250 --> 00:04:15,570
+Belum.
+
+70
+00:05:23,490 --> 00:05:26,600
+Tolong letakkan tombak itu.
+
+71
+00:06:05,940 --> 00:06:07,100
+Kau punya hati.
+
+72
+00:06:37,680 --> 00:06:39,180
+Jangan.
+
+73
+00:06:40,980 --> 00:06:42,170
+Aku masih membutuhkannya.
+
+74
+00:06:42,400 --> 00:06:43,850
+Aku tidak mau benda ini semakin
+membuat kekacauan.
+
+75
+00:06:44,070 --> 00:06:45,250
+Sudah jelas.
+
+76
+00:06:45,480 --> 00:06:47,350
+Aku datang jauh-jauh hanya untuk
+benda itu.
+
+77
+00:06:49,320 --> 00:06:52,100
+Aku Loki, dari Asgard.
+
+78
+00:06:52,820 --> 00:06:55,190
+dan aku dibebani tugas yang mulia.
+
+79
+00:06:55,410 --> 00:06:56,820
+Loki,
+
+80
+00:06:57,330 --> 00:06:58,600
+Kakak-nya Thor.
+
+81
+00:06:58,830 --> 00:07:01,280
+Kami tak bermasalah dengan orang-orangmu.
+
+82
+00:07:01,500 --> 00:07:04,450
+Semut juga tak bermasalah dengan sepatu.
+
+83
+00:07:05,040 --> 00:07:06,700
+Kau berencana menginjak kami?
+
+84
+00:07:07,050 --> 00:07:10,120
+Aku datang membawa kabar gembira...
+
+85
+00:07:11,380 --> 00:07:13,290
+untuk membebaskan dunia ini.
+
+86
+00:07:13,680 --> 00:07:14,670
+Membebaskan dari apa?
+
+87
+00:07:14,890 --> 00:07:16,210
+Kebebasan.
+
+88
+00:07:16,760 --> 00:07:19,380
+Kebebasan adalah kebohongan terbesar
+dalam hidup.
+
+89
+00:07:19,600 --> 00:07:23,010
+Sekali kau menerimanya, di hatimu,
+
+90
+00:07:27,530 --> 00:07:29,390
+kau akan mengerti kedamaian.
+
+91
+00:07:29,690 --> 00:07:32,140
+Ya, kau bilang "kedamaian,"
+
+92
+00:07:32,360 --> 00:07:34,190
+kurasa maksudmu justru sebaliknya.
+
+93
+00:07:34,410 --> 00:07:36,890
+Tuan, Direktur Fury sedang mengulur waktu.
+
+94
+00:07:37,120 --> 00:07:38,440
+Tempat ini hampir meledak...
+
+95
+00:07:38,580 --> 00:07:40,280
+dan mengubur kita dalam-dalam.
+
+96
+00:07:41,790 --> 00:07:42,810
+Dia bermaksud mengubur kita.
+
+97
+00:07:43,040 --> 00:07:44,150
+Seperti Firaun di zaman dahulu.
+
+98
+00:07:44,380 --> 00:07:46,330
+Dia benar. Portal itu
+akan runtuh dengan sendirinya.
+
+99
+00:07:46,540 --> 00:07:48,740
+Kita mungkin cuma punya waktu 2 menit
+sebelum keadaan bertambah parah.
+
+100
+00:07:49,130 --> 00:07:50,120
+Baiklah.
+
+101
+00:08:05,900 --> 00:08:06,970
+Aku memerlukan kendaraan-kendaraan ini.
+
+102
+00:08:11,070 --> 00:08:13,190
+- Siapa dia?
+- Aku tak diberitahu.
+
+103
+00:08:16,410 --> 00:08:17,650
+<i>Hill!</i>
+
+104
+00:08:18,080 --> 00:08:19,350
+Kau dengar?
+
+105
+00:08:20,080 --> 00:08:21,400
+<i>Barton telah berubah.</i>
+
+106
+00:08:34,470 --> 00:08:37,290
+Mereka membawa Tesseract!
+Hentikan mereka!
+
+107
+00:09:13,710 --> 00:09:15,910
+Segera pergi. Tidak, tinggalkan saja.
+Cepat!
+
+108
+00:09:32,400 --> 00:09:34,520
+Lantai atas sudah dikosongkan, pak.
+Anda harus segera pergi.
+
+109
+00:11:06,490 --> 00:11:07,820
+<i>Direktur?</i>
+
+110
+00:11:08,160 --> 00:11:09,650
+Direktur Fury, anda mendengar?
+
+111
+00:11:09,870 --> 00:11:12,150
+Tesseract berada di tangan musuh.
+
+112
+00:11:12,420 --> 00:11:14,810
+Ada yang terluka di sini. Hill?
+
+113
+00:11:15,170 --> 00:11:17,030
+Masih banyak orang di bawah.
+
+114
+00:11:17,250 --> 00:11:18,950
+Aku tak tahu berapa yang selamat.
+
+115
+00:11:19,170 --> 00:11:20,330
+<i>Hubungi semua anggota.</i>
+
+116
+00:11:20,550 --> 00:11:22,250
+Aku ingin setiap petugas penyelamatan
+yang sedang tidak bertugas...
+
+117
+00:11:22,380 --> 00:11:23,370
+untuk mencari koper itu.
+
+118
+00:11:23,590 --> 00:11:24,620
+Dimengerti.
+
+119
+00:11:24,840 --> 00:11:28,130
+Coulson, kembali ke markas.
+Ini keadaan gawat darurat.
+
+120
+00:11:29,220 --> 00:11:30,800
+<i>Mulai saat ini,</i>
+
+121
+00:11:31,020 --> 00:11:32,470
+kita sedang berperang.
+
+122
+00:11:34,190 --> 00:11:35,460
+Apa rencana kita?
+
+123
+00:12:12,350 --> 00:12:16,040
+Bukan ini yang kuinginkan sore ini.
+
+124
+00:12:16,190 --> 00:12:17,800
+Aku tahu yang kau
+inginkan sore ini.
+
+125
+00:12:18,020 --> 00:12:19,100
+Percayalah,
+
+126
+00:12:19,230 --> 00:12:20,250
+ini lebih baik.
+
+127
+00:12:21,230 --> 00:12:23,100
+Kau bekerja untuk siapa?
+
+128
+00:12:23,490 --> 00:12:25,060
+Lermentov, kah?
+
+129
+00:12:27,030 --> 00:12:28,480
+Apa dia pikir...
+
+130
+00:12:29,120 --> 00:12:30,900
+kami harus bergantung padanya...
+
+131
+00:12:31,200 --> 00:12:32,650
+untuk memindahkan kargo kami?
+
+132
+00:12:33,910 --> 00:12:38,450
+Kupikir hanya Jenderal Solohob yang memiliki
+bisnis ekspor.
+
+133
+00:12:38,790 --> 00:12:40,740
+Solohob
+
+134
+00:12:40,960 --> 00:12:43,000
+pedagang keliling, sebagai kedok.
+
+135
+00:12:45,470 --> 00:12:49,630
+Ternyata informasi lama ini
+yang telah mengkhianatimu.
+
+136
+00:12:51,220 --> 00:12:53,960
+Black Widow yang terkenal...
+
+137
+00:12:55,640 --> 00:13:00,010
+menjadi perempuan biasa yang cantik.
+
+138
+00:13:00,900 --> 00:13:04,060
+Menurutmu aku cantik?
+
+139
+00:13:06,610 --> 00:13:08,850
+Katakan pada Lermentov
+bahwa kami tak memerlukannya
+
+140
+00:13:09,160 --> 00:13:12,730
+untuk bisnis tank itu.
+
+141
+00:13:13,700 --> 00:13:16,320
+Katakan bahwa ia tak lagi diperlukan.
+
+142
+00:13:16,750 --> 00:13:18,360
+Baiklah...
+
+143
+00:13:21,250 --> 00:13:22,990
+...sepertinya kau harus mencatatnya.
+
+144
+00:13:31,970 --> 00:13:33,420
+Ini untuknya.
+
+145
+00:13:36,890 --> 00:13:38,160
+Dengarkan baik-baik.
+
+146
+00:13:38,310 --> 00:13:40,880
+<i>Kau di Silensky Plaza nomer 1-14,
+lantai tiga.</i>
+
+147
+00:13:41,150 --> 00:13:43,260
+<i>Kami memiliki F-22
+berjarak delapan mil darimu.</i>
+
+148
+00:13:44,150 --> 00:13:46,100
+<i>Berikan telepon ini padanya,
+atau kuledakkan tempat itu</i>
+
+149
+00:13:46,320 --> 00:13:48,350
+<i>sebelum kau bisa melobi siapapun.</i>
+
+150
+00:13:54,830 --> 00:13:56,940
+<i>- Kami ingin kau ke sini.
+- Kau bercanda? Aku sedang bekerja.</i>
+
+151
+00:13:57,160 --> 00:13:58,430
+<i>Ini harus diutamakan.</i>
+
+152
+00:13:58,660 --> 00:14:00,280
+Aku sedang diinterogasi.
+
+153
+00:14:00,460 --> 00:14:02,240
+Si bodoh ini memberiku segalanya.
+
+154
+00:14:02,670 --> 00:14:05,290
+Aku tak memberikan segalanya.
+
+155
+00:14:06,710 --> 00:14:08,080
+Kau tak bisa menarikku
+tiba-tiba seperti ini.
+
+156
+00:14:08,220 --> 00:14:09,210
+<i>Natasha...</i>
+
+157
+00:14:10,800 --> 00:14:12,290
+Barton dalam bahaya.
+
+158
+00:14:15,510 --> 00:14:17,340
+Tahan sebentar.
+
+159
+00:14:59,100 --> 00:15:00,090
+Di manakah Barton sekarang?
+
+160
+00:15:00,270 --> 00:15:01,760
+<i>- Kami tidak tahu.
+- Apakah dia masih hidup?</i>
+
+161
+00:15:01,980 --> 00:15:04,760
+Kami pikir begitu. Akan kuberitahu
+semuanya setelah kau kembali.
+
+162
+00:15:05,020 --> 00:15:07,060
+Tapi sebelumnya, kami memintamu
+menemui si pria besar itu.
+
+163
+00:15:07,270 --> 00:15:10,350
+Coulson, kau tahu bahwa Starks mempercayaiku
+melebihi apapun.
+
+164
+00:15:10,570 --> 00:15:14,060
+Aku akan menemui Stark.
+Kau temui si pria besar.
+
+165
+00:15:38,810 --> 00:15:39,800
+Siapa kau?
+
+166
+00:15:40,270 --> 00:15:41,340
+Keluar!
+
+167
+00:15:41,470 --> 00:15:43,960
+Ada yang sakit di sini!
+
+168
+00:15:44,100 --> 00:15:45,090
+Kau dokter.
+
+169
+00:15:46,810 --> 00:15:48,090
+Ayahku tidak bisa bangun!
+
+170
+00:15:48,230 --> 00:15:50,060
+Beliau terserang demam dan sekarang terus mengerang
+
+171
+00:15:50,190 --> 00:15:51,270
+tapi matanya terus terpejam.
+
+172
+00:15:51,400 --> 00:15:52,390
+Pelan-pelan.
+
+173
+00:15:53,950 --> 00:15:55,020
+Ayahku...
+
+174
+00:15:57,410 --> 00:15:58,400
+Seperti mereka?
+
+175
+00:16:02,410 --> 00:16:03,650
+Tolong.
+
+176
+00:16:30,860 --> 00:16:33,140
+Harusnya kau minta pembayaran di awal, Banner.
+
+177
+00:16:33,360 --> 00:16:34,630
+Kau tahu, bagi seseorang...
+
+178
+00:16:34,780 --> 00:16:36,050
+yang harusnya menghindari tekanan...
+
+179
+00:16:36,280 --> 00:16:39,520
+kau justru memilih neraka
+sebagai tempat tinggal.
+
+180
+00:16:41,280 --> 00:16:43,480
+Menghindari tekanan bukanlah rahasianya.
+
+181
+00:16:43,700 --> 00:16:46,180
+Lalu apa? Yoga?
+
+182
+00:16:47,370 --> 00:16:50,530
+Kau menggiringku ke pinggiran kota.
+Cerdas.
+
+183
+00:16:51,130 --> 00:16:55,160
+Aku beranggapan seluruh tempat ini
+sudah terkepung.
+
+184
+00:16:55,630 --> 00:16:57,000
+Hanya kau dan aku.
+
+185
+00:16:58,260 --> 00:17:00,290
+Dan aktris cilikmu?
+
+186
+00:17:00,510 --> 00:17:02,460
+Apakah ia juga mata-mata?
+Mereka memulainya semuda itu?
+
+187
+00:17:02,890 --> 00:17:04,130
+Aku dulu begitu.
+
+188
+00:17:04,350 --> 00:17:05,370
+Siapa kau?
+
+189
+00:17:05,600 --> 00:17:06,710
+Natasha Romanoff.
+
+190
+00:17:10,060 --> 00:17:11,390
+Kau kemari untuk membunuhku,
+Nona Romanoff?
+
+191
+00:17:11,610 --> 00:17:14,310
+Tak ada seorangpun yang berhasil melakukannya.
+
+192
+00:17:14,530 --> 00:17:16,980
+Tentu saja tidak.
+Aku kemari atas kepentingan S.H.I.E.L.D.
+
+193
+00:17:18,740 --> 00:17:20,230
+S.H.I.E.L.D.
+
+194
+00:17:22,030 --> 00:17:23,020
+Bagaimana mereka bisa menemukanku?
+
+195
+00:17:23,200 --> 00:17:24,820
+Kami tak pernah kehilangan jejakmu, Dokter,
+
+196
+00:17:25,040 --> 00:17:26,030
+Selama ini kami jaga jarak saja.
+
+197
+00:17:26,250 --> 00:17:28,030
+Bahkan menjauhkan pihak yang berwajib...
+
+198
+00:17:28,210 --> 00:17:29,230
+dari dirimu.
+
+199
+00:17:29,750 --> 00:17:30,740
+Kenapa?
+
+200
+00:17:30,880 --> 00:17:33,240
+Nick Fury sepertinya mempercayaimu.
+
+201
+00:17:33,460 --> 00:17:35,080
+Tapi kini kami memintamu untuk bergabung.
+
+202
+00:17:36,050 --> 00:17:37,910
+Bagaimana jika aku menolak?
+
+203
+00:17:38,130 --> 00:17:40,250
+Aku akan mempengaruhimu.
+
+204
+00:17:42,390 --> 00:17:46,710
+Bagaimana jika diriku yang lain menolak?
+
+205
+00:17:47,430 --> 00:17:49,050
+Sudah lebih dari setahun,
+kau tak mengalami insiden.
+
+206
+00:17:49,270 --> 00:17:51,830
+Kurasa kau tak ingin
+merusak rekor itu.
+
+207
+00:17:54,060 --> 00:17:56,750
+Tidak selamanya aku mendapatkan
+apa yang kuinginkan.
+
+208
+00:17:57,740 --> 00:17:59,940
+Dokter, kita menghadapi
+potensi bahaya global.
+
+209
+00:18:00,780 --> 00:18:03,900
+Itulah yang kucoba hindari.
+
+210
+00:18:04,240 --> 00:18:06,270
+Ini...
+
+211
+00:18:06,490 --> 00:18:08,860
+Tesseract.
+
+212
+00:18:09,080 --> 00:18:11,860
+Benda ini memiliki energi yang berpotensi
+memusnahkan planet ini.
+
+213
+00:18:14,710 --> 00:18:16,870
+Fury memintaku melakukan apa, menelannya?
+
+214
+00:18:17,090 --> 00:18:19,540
+Beliau memintamu menemukannya.
+Benda itu telah direbut.
+
+215
+00:18:20,380 --> 00:18:24,540
+Benda ini memancarkan pancaran gamma
+yang terlalu kecil untuk kita lacak.
+
+216
+00:18:24,760 --> 00:18:27,780
+Tak ada seorangpun yang mengetahui
+radiasi gamma seperti anda.
+
+217
+00:18:27,890 --> 00:18:30,670
+Seandainya ada, aku pasti sudah ada
+di sana.
+
+218
+00:18:31,270 --> 00:18:33,430
+Jadi, yang Fury kejar bukan monster ini?
+
+219
+00:18:33,650 --> 00:18:34,940
+Dia tidak memberitahuku seperti itu.
+
+220
+00:18:35,110 --> 00:18:37,260
+Apa dia memberitahumu segalanya?
+
+221
+00:18:37,940 --> 00:18:39,310
+Bicaralah pada Fury. Dia membutuhkanmu.
+
+222
+00:18:39,440 --> 00:18:40,470
+Dia ingin mengurungku?
+
+223
+00:18:40,610 --> 00:18:41,600
+Tak seorangpun yang akan memasukanmu...
+
+224
+00:18:41,780 --> 00:18:42,800
+Berhentilah berbohong!
+
+225
+00:18:46,990 --> 00:18:49,610
+Maaf. Itu tadi kasar.
+
+226
+00:18:50,580 --> 00:18:52,740
+Aku hanya ingin melihat reaksimu.
+
+227
+00:18:53,960 --> 00:18:56,910
+Kenapa kita tidak mempermudahnya saja
+
+228
+00:18:57,130 --> 00:18:58,370
+kau tak memerlukan itu
+
+229
+00:18:58,590 --> 00:19:02,500
+dan diriku yang lain
+tidak mengacau.
+
+230
+00:19:03,300 --> 00:19:04,570
+Bisa?
+
+231
+00:19:05,590 --> 00:19:06,920
+Natasha?
+
+232
+00:19:12,600 --> 00:19:13,620
+Turunkan.
+
+233
+00:19:14,600 --> 00:19:16,140
+<i>Tidak ada masalah.</i>
+
+234
+00:19:17,980 --> 00:19:19,510
+"Hanya kau dan aku."
+
+235
+00:19:21,690 --> 00:19:24,260
+<i>Ini tak sesuai rencana, Direktur.</i>
+
+236
+00:19:24,490 --> 00:19:26,890
+<i>Kalian berhadapan dengan
+kekuatan yang tak bisa kalian kendalikan.</i>
+
+237
+00:19:27,320 --> 00:19:30,780
+Anda pernah terlibat dalam perang,
+anggota dewan? Dalam baku tembak?
+
+238
+00:19:30,990 --> 00:19:33,780
+Apakah anda merasakan
+pernah melihat hasrat ingin berkuasa?
+
+239
+00:19:34,000 --> 00:19:37,370
+<i>Maksudmu Asgard ingin
+menyatakan perang terhadap planet ini?</i>
+
+240
+00:19:37,500 --> 00:19:40,120
+Bukan Asgard. Loki.
+
+241
+00:19:40,340 --> 00:19:43,120
+<i>Dia tak mungkin bekerja sendirian.
+Bagaimana dengan yang satunya?</i>
+
+242
+00:19:43,260 --> 00:19:44,280
+<i>Adiknya.</i>
+
+243
+00:19:44,420 --> 00:19:46,460
+Menurut intelijen kami,
+Thor tidaklah berbahaya
+
+244
+00:19:46,680 --> 00:19:47,670
+tapi dia berada di dunia lain.
+
+245
+00:19:47,840 --> 00:19:49,630
+Kita tidak bisa mengharapkan bantuannya.
+
+246
+00:19:49,760 --> 00:19:50,750
+Semua ini tergantung pada kita.
+
+247
+00:19:50,890 --> 00:19:53,510
+<i>Inilah mengapa kalian
+harus fokus pada Phase 2.</i>
+
+248
+00:19:53,680 --> 00:19:54,960
+<i>Yang memang direncanakan untuk...</i>
+
+249
+00:19:55,190 --> 00:19:58,470
+Phase 2 belum siap.
+Sedangkan musuh kita sudah bersiap.
+
+250
+00:19:58,610 --> 00:20:00,140
+Kita butuh tim siaga.
+
+251
+00:20:00,360 --> 00:20:02,640
+<i>Prakarsa Avengers telah dihentikan.</i>
+
+252
+00:20:02,860 --> 00:20:04,640
+Ini bukan tentang Avengers.
+
+253
+00:20:04,860 --> 00:20:05,970
+<i>Kami sudah melihat daftarnya.</i>
+
+254
+00:20:06,200 --> 00:20:08,470
+<i>Kau menjalankan jaringan keamanan tersembunyi
+yang terbesar di dunia</i>
+
+255
+00:20:08,530 --> 00:20:10,150
+<i>dan kau ingin menyerahkan nasib
+seluruh umat manusia</i>
+
+256
+00:20:10,330 --> 00:20:11,570
+<i>di tangan sekumpulan orang aneh.</i>
+
+257
+00:20:11,700 --> 00:20:13,680
+Aku tak menyerahkan apapun
+kepada siapapun.
+
+258
+00:20:13,830 --> 00:20:16,030
+Kami membutuhkan Tim Siaga.
+
+259
+00:20:16,290 --> 00:20:18,990
+Orang-orang ini mungkin terisolasi,
+bahkan tak wajar
+
+260
+00:20:19,210 --> 00:20:23,430
+tapi aku percaya dengan sedikit dorongan
+mereka bisa menjadi apa yang kita butuhkan.
+
+261
+00:20:23,670 --> 00:20:24,940
+<i>Kau percaya?</i>
+
+262
+00:20:25,170 --> 00:20:28,750
+<i>Perang tak bisa dimenangkan
+hanya dengan perasaan, Direktur.</i>
+
+263
+00:20:29,470 --> 00:20:32,800
+Tidak,
+perang dimenangkan dengan pasukan.
+
+264
+00:20:52,450 --> 00:20:54,230
+<i>Tidak cukup waktu lagi.</i>
+
+265
+00:20:54,450 --> 00:20:55,990
+<i>Aku harus menenggelamkannya di air!</i>
+
+266
+00:21:01,380 --> 00:21:02,400
+<i>Kau tak akan sendirian.</i>
+
+267
+00:21:03,000 --> 00:21:04,490
+<i>Astaga.</i>
+
+268
+00:21:04,960 --> 00:21:06,120
+<i>Pria ini masih hidup!</i>
+
+269
+00:21:30,910 --> 00:21:32,650
+Tidak bisa tidur?
+
+270
+00:21:33,990 --> 00:21:36,660
+Aku sudah tertidur selama 70 tahun.
+Kurasa itu sudah cukup.
+
+271
+00:21:38,200 --> 00:21:42,110
+Keluarlah,
+rayakanlah, lihatlah dunia ini.
+
+272
+00:21:47,960 --> 00:21:50,790
+Saat aku tenggelam,
+dunia tengah dirundung perang.
+
+273
+00:21:51,010 --> 00:21:52,830
+Ketika aku terbangun,
+orang bilang kita sudah menang.
+
+274
+00:21:53,550 --> 00:21:55,090
+Tak ada yang menyebutkan tentang
+apa yang kita korbankan.
+
+275
+00:21:55,680 --> 00:21:58,010
+Selama itu pula, kami telah melakukan
+beberapa kesalahan.
+
+276
+00:21:58,430 --> 00:22:00,090
+Sebagian kesalahannya belum lama ini.
+
+277
+00:22:01,640 --> 00:22:02,830
+Apakah anda kemari
+dengan membawa misi, pak?
+
+278
+00:22:02,980 --> 00:22:03,970
+Benar.
+
+279
+00:22:04,100 --> 00:22:05,760
+Berusaha mengajakku kembali ke dunia?
+
+280
+00:22:06,270 --> 00:22:07,930
+Berusaha menyelamatkannya.
+
+281
+00:22:12,610 --> 00:22:14,600
+Senjata rahasia HYDRA.
+
+282
+00:22:14,820 --> 00:22:16,900
+Howard Stark menemukannya di lautan
+
+283
+00:22:17,030 --> 00:22:18,140
+saat dia tengah mencarimu.
+
+284
+00:22:18,700 --> 00:22:20,360
+Dia sepikiran dengan kami.
+
+285
+00:22:20,620 --> 00:22:24,740
+Tesseract bisa jadi kunci
+menuju sumber energi yang tak terbatas.
+
+286
+00:22:25,210 --> 00:22:29,040
+Hal itulah yang sangat
+diperlukan dunia ini.
+
+287
+00:22:30,550 --> 00:22:31,710
+Siapa yang merebutnya darimu?
+
+288
+00:22:31,920 --> 00:22:33,330
+Dia disebut Loki.
+
+289
+00:22:33,550 --> 00:22:36,170
+Dia tidak berasal dari sini.
+
+290
+00:22:36,640 --> 00:22:38,710
+Banyak yang harus kami
+sampaikan untuk membantumu
+
+291
+00:22:38,850 --> 00:22:40,040
+jika kau bergabung.
+
+292
+00:22:40,970 --> 00:22:43,010
+Dunia sudah semakin aneh
+
+293
+00:22:43,140 --> 00:22:44,220
+dari yang sudah kau tahu.
+
+294
+00:22:44,730 --> 00:22:47,290
+Untuk saat ini, aku tak yakin
+ada yang bisa mengejutkanku.
+
+295
+00:22:47,940 --> 00:22:49,600
+Aku bertaruh kau salah.
+
+296
+00:22:51,360 --> 00:22:52,730
+Ada beberapa paket tugas...
+
+297
+00:22:52,860 --> 00:22:55,230
+menantimu di apartemen.
+
+298
+00:22:57,620 --> 00:22:59,520
+Adakah yang ingin kau katakan
+mengenai Tesseract
+
+299
+00:22:59,660 --> 00:23:00,850
+yang mungkin perlu kami ketahui?
+
+300
+00:23:01,160 --> 00:23:03,450
+Kau harusnya meninggalkannya di lautan.
+
+301
+00:23:36,200 --> 00:23:39,060
+<i>Senang bisa bekerja sejauh ini.
+Selebihnya bergantung padamu.</i>
+
+302
+00:23:39,280 --> 00:23:40,610
+<i>Kau memutus
+jalur transmisi?</i>
+
+303
+00:23:40,740 --> 00:23:41,730
+<i>Apa pembicaraan kita terputus?</i>
+
+304
+00:23:41,870 --> 00:23:44,030
+Menara Stark segera menjadi sebuah suar
+
+305
+00:23:44,200 --> 00:23:45,650
+yang berisi tenaga ramah lingkungan.
+
+306
+00:23:45,790 --> 00:23:47,820
+<i>Anggap saja reaktor utamanya
+sudah disingkirkan...</i>
+
+307
+00:23:47,960 --> 00:23:49,150
+<i>dan sepertinya rencana kita berhasil.</i>
+
+308
+00:23:49,540 --> 00:23:50,820
+<i>Sepertinya begitu.</i>
+
+309
+00:23:51,340 --> 00:23:52,330
+Nyalakan.
+
+310
+00:23:57,880 --> 00:23:58,880
+<i>Seperti apa?</i>
+
+311
+00:23:59,050 --> 00:24:01,720
+Seperti pohon Natal, tapi lebih banyak namaku.
+
+312
+00:24:01,930 --> 00:24:03,670
+<i>Kita perlu memperluas
+kampanye kesadaran masyarakat.</i>
+
+313
+00:24:03,890 --> 00:24:04,910
+<i>Kau harus melakukan konferensi pers.</i>
+
+314
+00:24:05,560 --> 00:24:06,550
+<i>Aku akan ke DC besok,</i>
+
+315
+00:24:06,730 --> 00:24:08,290
+<i>Aku sedang berusaha menetapkan daerah
+untuk tiga bangunan lagi.</i>
+
+316
+00:24:08,400 --> 00:24:10,600
+<i>Pepper, kau bercanda.
+Momen kita, ingat?</i>
+
+317
+00:24:10,810 --> 00:24:11,840
+<i>Nikmatilah momen itu.</i>
+
+318
+00:24:12,070 --> 00:24:13,220
+<i>Kemarilah dan aku akan menikmatinya.</i>
+
+319
+00:24:16,570 --> 00:24:19,480
+<i>Pak, Agen Coulson dari
+S.H.I.E.L.D. menghubungi.</i>
+
+320
+00:24:20,070 --> 00:24:21,060
+<i>Aku tidak di tempat.</i>
+
+321
+00:24:21,740 --> 00:24:23,010
+Memang aku sedang keluar.
+
+322
+00:24:30,250 --> 00:24:32,870
+<i>Pak, sepertinya dia memaksa.</i>
+
+323
+00:24:33,090 --> 00:24:35,830
+Bersikaplah tak ramah, Jarvis.
+Aku ada kencan.
+
+324
+00:24:40,390 --> 00:24:43,340
+Levelnya tetap stabil, kurasa.
+
+325
+00:24:43,560 --> 00:24:45,710
+Tentu.
+Aku terlibat langsung.
+
+326
+00:24:45,930 --> 00:24:47,090
+Yang membuatku inggin bertanya.
+
+327
+00:24:47,270 --> 00:24:49,220
+Bagaimana rasanya menjadi jenius?
+
+328
+00:24:49,440 --> 00:24:51,680
+Aku tidak akan pernah tahu, kan?
+
+329
+00:24:51,900 --> 00:24:56,390
+Apa maksudmu?
+Semua ini berasal dari pemikiranmu.
+
+330
+00:24:56,610 --> 00:25:00,230
+Tidak, semua ini berasal dari sini.
+
+331
+00:25:00,450 --> 00:25:02,730
+Hargailah dirmu sendiri.
+
+332
+00:25:02,950 --> 00:25:04,730
+Menara Stark adalah buah hatimu.
+
+333
+00:25:04,950 --> 00:25:07,320
+Ambil saja 12%.
+
+334
+00:25:07,790 --> 00:25:08,890
+12%?
+
+335
+00:25:09,040 --> 00:25:10,140
+Jika tidak setuju, bisa kunaikkan jadi 15.
+
+336
+00:25:10,290 --> 00:25:11,860
+12%? Buah hatiku?
+
+337
+00:25:12,080 --> 00:25:13,660
+Aku yang melakukan semua kerja berat ini.
+
+338
+00:25:13,790 --> 00:25:15,660
+Secara harafiah, aku yang mengangkat
+semua benda berat itu.
+
+339
+00:25:15,920 --> 00:25:18,160
+Dan mengenai kekacauan itu?
+
+340
+00:25:18,300 --> 00:25:19,750
+Itu perbuatanmu.
+
+341
+00:25:19,920 --> 00:25:22,000
+- Lift pribadiku...
+- Maksudmu lift kita?
+
+342
+00:25:22,220 --> 00:25:24,890
+...dikerjakan oleh pekerja bangunan.
+
+343
+00:25:25,100 --> 00:25:27,420
+Aku akan membayar untuk
+komentar tentang presentase tadi
+
+344
+00:25:27,640 --> 00:25:29,590
+dengan cara yang halus nanti.
+
+345
+00:25:30,060 --> 00:25:31,250
+Tidak akan jadi sehalus itu.
+
+346
+00:25:31,480 --> 00:25:32,750
+Akan kuberitahu.
+
+347
+00:25:32,980 --> 00:25:35,430
+Gedung berikutnya akan mencantumkan
+nama "Potts" di menaranya.
+
+348
+00:25:35,650 --> 00:25:37,010
+Disetujui.
+
+349
+00:25:37,940 --> 00:25:40,060
+Hubungi ibumu. Bolehkah kau menginap?
+
+350
+00:25:40,280 --> 00:25:41,520
+<i>Pak, ada telepon.</i>
+
+351
+00:25:41,740 --> 00:25:44,100
+<i>Kurasa protokolku
+telah dikesampingkan.</i>
+
+352
+00:25:44,320 --> 00:25:46,270
+<i>Tuan Stark, kita harus bicara.</i>
+
+353
+00:25:46,580 --> 00:25:48,900
+Anda menemui model hidup dari Tony Stark.
+
+354
+00:25:49,160 --> 00:25:51,110
+<i>- Silahkan tinggalkan pesan.
+- Ini mendesak.</i>
+
+355
+00:25:51,330 --> 00:25:53,110
+Tinggalkan dengan mendesak.
+
+356
+00:25:54,670 --> 00:25:55,770
+Pelanggaran keamanan.
+
+357
+00:25:56,000 --> 00:25:58,700
+- Tuan Stark.
+- Phil! Masuklah.
+
+358
+00:25:58,880 --> 00:25:59,870
+"Phil"?
+
+359
+00:26:00,010 --> 00:26:01,030
+Tidak bisa ditunda lagi.
+
+360
+00:26:01,260 --> 00:26:02,450
+Nama depannya adalah "Agen."
+
+361
+00:26:02,680 --> 00:26:04,290
+Kemarilah. Kami sedang merayakan sesuatu.
+
+362
+00:26:04,510 --> 00:26:06,290
+Itulah sebabnya dia tak boleh di sini.
+
+363
+00:26:06,510 --> 00:26:08,460
+Kami minta anda memeriksa ini
+sesegera mungkin.
+
+364
+00:26:08,680 --> 00:26:09,700
+Aku tak suka diserahi sesuatu.
+
+365
+00:26:09,930 --> 00:26:11,380
+Tak apa, karena aku
+suka diserahi sesuatu.
+
+366
+00:26:11,600 --> 00:26:12,930
+Mari bertukar.
+
+367
+00:26:14,310 --> 00:26:15,800
+Terima kasih.
+
+368
+00:26:17,020 --> 00:26:19,220
+Konsultasi dilayani dari jam 8 sampai jam 5.
+
+369
+00:26:19,360 --> 00:26:20,350
+Hari Kamis setiap dua minggu.
+
+370
+00:26:20,530 --> 00:26:21,520
+Ini bukan konsultasi.
+
+371
+00:26:21,650 --> 00:26:22,890
+Apakah ini mengenai Avengers?
+
+372
+00:26:23,320 --> 00:26:25,150
+Yang tak kuketahui.
+
+373
+00:26:25,360 --> 00:26:27,900
+Prakarsa Avengers sudah dibatalkan, kurasa.
+
+374
+00:26:28,120 --> 00:26:29,480
+Aku bahkan tak memenuhi syarat.
+
+375
+00:26:29,700 --> 00:26:30,690
+Aku juga tak mengetahuinya.
+
+376
+00:26:30,870 --> 00:26:33,740
+Kelihatannya aku periang,
+terobsesi pada diri sendiri,
+
+377
+00:26:33,870 --> 00:26:35,110
+tidak bisa bekerjasama.
+
+378
+00:26:35,420 --> 00:26:36,410
+Yang itu aku tahu.
+
+379
+00:26:36,540 --> 00:26:38,160
+Ini bukan mengenai kepribadian lagi.
+
+380
+00:26:38,340 --> 00:26:40,660
+Apapun itu. Nona Potts, bisa kemari sebentar?
+
+381
+00:26:40,880 --> 00:26:41,870
+Tunggu sebentar.
+
+382
+00:26:47,180 --> 00:26:49,500
+Kurasa inilah momen kita bersama.
+
+383
+00:26:49,720 --> 00:26:51,300
+Aku cuma menikmati
+12% dari momen kita.
+
+384
+00:26:52,520 --> 00:26:54,970
+Ini sepertinya serius.
+Phil begitu bersemangat.
+
+385
+00:26:55,190 --> 00:26:57,210
+Dari mana kau tahu jika ini..
+Kenapa kau memanggilnya"Phil"?
+
+386
+00:26:57,350 --> 00:26:59,100
+Apa-apaan ini?
+
+387
+00:26:59,310 --> 00:27:00,850
+Inilah...
+
+388
+00:27:09,910 --> 00:27:11,270
+Aku akan terbang ke DC malam ini.
+
+389
+00:27:11,410 --> 00:27:12,430
+Besok.
+
+390
+00:27:12,580 --> 00:27:14,930
+Kau punya pekerjaan rumah.
+Kau punya banyak sekali pekerjaan rumah.
+
+391
+00:27:15,080 --> 00:27:16,780
+Bagaimana jika tidak?
+
+392
+00:27:17,420 --> 00:27:18,780
+- Jika tidak?
+- Ya.
+
+393
+00:27:19,000 --> 00:27:21,160
+Maksudmu jika kau sudah selesai?
+
+394
+00:27:22,250 --> 00:27:25,540
+Baiklah, lalu...
+
+395
+00:27:30,760 --> 00:27:32,040
+Sepakat. Jaga diri.
+
+396
+00:27:36,270 --> 00:27:37,370
+Bekerjalah yang baik.
+
+397
+00:27:40,270 --> 00:27:42,010
+Apakah kau lewat LaGuardia?
+
+398
+00:27:42,230 --> 00:27:44,970
+- Aku bisa mengantarmu.
+- Bagus.
+
+399
+00:27:45,110 --> 00:27:46,100
+Aku ingin dengar
+
+400
+00:27:46,240 --> 00:27:47,890
+mengenai si pemain cello.
+Masih adakah sesuatu dengannya?
+
+401
+00:27:48,110 --> 00:27:49,220
+Dia kembali ke Portland.
+
+402
+00:27:49,450 --> 00:27:52,570
+Apa?!
+
+403
+00:28:00,630 --> 00:28:03,020
+Kami berada sekitar 40 menit lagi
+dari markas, pak.
+
+404
+00:28:06,760 --> 00:28:10,420
+Jadi, Dr Banner berusaha membuat tiruan serum
+yang pernah dipakaikan padaku?
+
+405
+00:28:10,640 --> 00:28:12,170
+Banyak yang ingin mencoba.
+
+406
+00:28:12,390 --> 00:28:14,000
+Andalah pahlawan super pertama di dunia.
+
+407
+00:28:14,720 --> 00:28:17,420
+Banner berpikir radiasi gamma
+bisa jadi kunci untuk menemukan
+
+408
+00:28:17,600 --> 00:28:18,930
+formula asli Erskine.
+
+409
+00:28:19,980 --> 00:28:21,340
+Tapi penelitiannya sering gagal ya?
+
+410
+00:28:21,770 --> 00:28:23,220
+Tidak terlalu.
+
+411
+00:28:23,440 --> 00:28:26,270
+Saat dia tidak berubah, dia seperti
+Stephen Hawking.
+
+412
+00:28:28,320 --> 00:28:30,850
+Dia orang yang cerdas.
+
+413
+00:28:32,990 --> 00:28:34,100
+Menurut saya,
+
+414
+00:28:34,450 --> 00:28:36,850
+sebuah kehormatan bisa bertemu langsung
+dengan anda.
+
+415
+00:28:37,620 --> 00:28:39,110
+Saya pernah bertemu dengan anda.
+Maksud saya,
+
+416
+00:28:39,290 --> 00:28:41,070
+Saya melihat anda
+saat anda masih tertidur.
+
+417
+00:28:42,920 --> 00:28:45,180
+Maksud saya, saya hadir pada saat itu.
+
+418
+00:28:45,340 --> 00:28:48,620
+Saat anda tak sadarkan diri
+di dalam es.
+
+419
+00:28:48,840 --> 00:28:51,120
+Sungguh sebuah kehormatan besar
+
+420
+00:28:51,260 --> 00:28:53,210
+bisa sepesawat dengan anda...
+
+421
+00:28:53,600 --> 00:28:55,460
+Kuharap aku orang yang tepat
+untuk pekerjaan ini.
+
+422
+00:28:55,680 --> 00:28:58,550
+Pasti.
+
+423
+00:28:58,770 --> 00:29:01,630
+Kami sedikit memodifikasi
+seragam anda.
+
+424
+00:29:01,850 --> 00:29:03,340
+Saya memberikan sedikit tambahan disain.
+
+425
+00:29:03,560 --> 00:29:04,800
+Seragam?
+
+426
+00:29:05,020 --> 00:29:07,500
+Bukannya bintang-bintang dan garis itu sedikit...
+
+427
+00:29:08,690 --> 00:29:10,020
+ketinggalan jaman?
+
+428
+00:29:10,860 --> 00:29:13,020
+Setelah semua hal yang terjadi
+
+429
+00:29:13,240 --> 00:29:14,860
+dan hal yang akan terjadi,
+
+430
+00:29:15,740 --> 00:29:19,190
+orang-orang mungkin membutuhkan
+sesuatu yang agak ketinggalan jaman.
+
+431
+00:29:51,740 --> 00:29:54,690
+Chitauri semakin resah.
+
+432
+00:29:54,910 --> 00:29:56,610
+Biarkan mereka mencemooh
+diri mereka sendiri.
+
+433
+00:29:56,740 --> 00:29:58,520
+Aku akan memimpin mereka
+dalam peperangan yang agung.
+
+434
+00:29:58,740 --> 00:29:59,900
+Peperangan?
+
+435
+00:30:00,750 --> 00:30:03,820
+Melawan Bumi yang lemah?
+
+436
+00:30:04,040 --> 00:30:06,870
+Agung, tidak lama lagi.
+
+437
+00:30:07,080 --> 00:30:10,860
+Jika pasukanmu sedahsyat
+yang kau katakan.
+
+438
+00:30:11,090 --> 00:30:13,570
+Kau meragukan kami?
+
+439
+00:30:13,800 --> 00:30:15,920
+Kau meragukannya,
+
+440
+00:30:16,090 --> 00:30:18,540
+dia yang telah memberikan kekuasaan padamu?
+
+441
+00:30:18,760 --> 00:30:21,670
+Yang telah memberimu pengetahuan kuno
+dan tujuan baru...
+
+442
+00:30:21,890 --> 00:30:24,760
+saat kau terdampar, kalah?
+
+443
+00:30:24,980 --> 00:30:26,840
+Aku pernah jadi raja!
+
+444
+00:30:27,060 --> 00:30:29,260
+Raja yang sah dari Asgard,
+
+445
+00:30:29,770 --> 00:30:30,760
+dikhianati.
+
+446
+00:30:31,440 --> 00:30:34,060
+Ambisimu sangat kecil
+
+447
+00:30:34,280 --> 00:30:37,020
+dan kekanak-kanakan.
+
+448
+00:30:37,240 --> 00:30:39,230
+Kita melihat sesuatu yang melebih Bumi
+
+449
+00:30:39,450 --> 00:30:42,510
+untuk dunia yang lebih agung
+yang akan disingkap oleh Tesseract.
+
+450
+00:30:42,870 --> 00:30:44,280
+Kau belum memiliki Tesseract itu.
+
+451
+00:30:47,080 --> 00:30:48,070
+Aku tidak mengancam.
+
+452
+00:30:49,630 --> 00:30:52,190
+Sampai kubuka pintu itu,
+
+453
+00:30:52,420 --> 00:30:56,040
+sampai aku bisa memerintah pasukanmu,
+
+454
+00:30:56,800 --> 00:30:58,580
+kau bukanlah apa-apa.
+
+455
+00:30:58,800 --> 00:31:02,740
+Kau pasti akan berperang, orang Asgard.
+
+456
+00:31:04,560 --> 00:31:06,550
+Jika kau gagal,
+
+457
+00:31:07,560 --> 00:31:11,930
+jika Tesseract direnggut dari kami,
+
+458
+00:31:12,150 --> 00:31:16,520
+tak akan ada kerajaan, tak akan ada bulan ,
+
+459
+00:31:16,740 --> 00:31:20,020
+tak akan ada celah untukmu
+bersembunyi darinya.
+
+460
+00:31:21,620 --> 00:31:24,360
+Kau pikir kau tahu rasanya sakit?
+
+461
+00:31:24,580 --> 00:31:30,240
+Dia akan membuatmu merindukan
+perasaan senikmat rasa sakit.
+
+462
+00:31:59,450 --> 00:32:00,470
+Angkut peralatan Captain (Kapten).
+
+463
+00:32:00,610 --> 00:32:01,610
+Baik, pak.
+
+464
+00:32:03,160 --> 00:32:06,280
+Agen Romanoff, Kapten Rogers.
+
+465
+00:32:06,500 --> 00:32:07,770
+- Bu.
+- Hai.
+
+466
+00:32:07,960 --> 00:32:08,950
+Mereka membutuhkanmu di jembatan.
+
+467
+00:32:09,080 --> 00:32:10,650
+Mereka mulai proses pemetaan wajah.
+
+468
+00:32:10,790 --> 00:32:11,870
+Sampai jumpa di sana.
+
+469
+00:32:13,630 --> 00:32:17,750
+Banyak desas-desus di sini,
+tentang menemukanmu dalam balok es.
+
+470
+00:32:18,050 --> 00:32:20,610
+kukira Coulson akan pingsan.
+
+471
+00:32:20,840 --> 00:32:23,710
+Sudahkah dia memintamu menandatangani
+koleksi kartu Captain America-nya?
+
+472
+00:32:23,930 --> 00:32:25,120
+Koleksi kartu?
+
+473
+00:32:25,350 --> 00:32:27,510
+Sangat kuno. Dia sangat bangga akan itu.
+
+474
+00:32:29,270 --> 00:32:30,540
+Dr Banner.
+
+475
+00:32:32,560 --> 00:32:33,830
+Hai.
+
+476
+00:32:34,400 --> 00:32:35,590
+Mereka sudah bilang bahwa
+anda akan datang.
+
+477
+00:32:35,820 --> 00:32:37,090
+Kabarnya kau bisa menemukan Kubus itu.
+
+478
+00:32:38,150 --> 00:32:40,020
+Cuma itu kabar tentangku?
+
+479
+00:32:40,450 --> 00:32:41,600
+Cuma itu kabar yang kupedulikan.
+
+480
+00:32:44,200 --> 00:32:47,010
+Pasti sangat aneh bagimu, melihat semua ini...
+
+481
+00:32:47,490 --> 00:32:50,230
+Sebenarnya semua ini cukup familiar.
+
+482
+00:32:50,370 --> 00:32:52,940
+Saudara-saudara, anda diperkenankan
+untuk masuk sebentar lagi.
+
+483
+00:32:53,170 --> 00:32:55,910
+Semakin susah bernafas di sini.
+
+484
+00:32:57,170 --> 00:32:58,700
+<i>Seluruh awak pesawat, amankan galangan.</i>
+
+485
+00:33:03,220 --> 00:33:04,790
+Apakah ini kapal selam?
+
+486
+00:33:05,350 --> 00:33:06,340
+Benarkah?
+
+487
+00:33:06,470 --> 00:33:10,210
+Mereka ingin memasukanku di kapal logam,
+bawah air dan bertekanan tinggi?
+
+488
+00:33:36,630 --> 00:33:38,990
+Bukan, ini lebih buruk.
+
+489
+00:34:08,830 --> 00:34:11,530
+Pemeriksaan tenaga untuk terbang selesai.
+Posisi memutar
+
+490
+00:34:11,740 --> 00:34:14,140
+Tingkatkan tenaga kolektif sampai 8.0%.
+
+491
+00:34:19,250 --> 00:34:21,540
+Bersiap untuk lepas landas maksimal.
+
+492
+00:34:21,670 --> 00:34:23,160
+Tingkatkan jumlah total kapasitas.
+
+493
+00:34:23,340 --> 00:34:25,460
+Pembangkit daya bekerja sesuai kapasitas.
+
+494
+00:34:25,680 --> 00:34:27,120
+Semua beres.
+
+495
+00:34:27,340 --> 00:34:28,830
+Semua mesin sudah beroperasi.
+
+496
+00:34:29,050 --> 00:34:33,670
+Protokol Darurat S.H.I.E.L.D. 193.6 dijalankan.
+
+497
+00:34:33,930 --> 00:34:36,470
+- Kita sudah mencapai tingkat yang tepat, pak.
+- Bagus.
+
+498
+00:34:36,850 --> 00:34:37,840
+Saatnya menghilang.
+
+499
+00:34:38,060 --> 00:34:40,460
+Aktifkan panel reflektor cahaya.
+
+500
+00:34:56,250 --> 00:34:57,400
+Panel reflektor diaktifkan.
+
+501
+00:34:58,040 --> 00:34:59,410
+Saudara-saudara.
+
+502
+00:35:11,760 --> 00:35:12,870
+Dokter, terima kasih sudah datang.
+
+503
+00:35:14,890 --> 00:35:16,760
+Terima kasih telah meminta dengan baik.
+
+504
+00:35:16,980 --> 00:35:19,590
+Berapa lama saya akan tinggal?
+
+505
+00:35:19,810 --> 00:35:21,600
+Segera setelah kita mendapatkan Tesseract,
+
+506
+00:35:21,730 --> 00:35:22,920
+anda boleh pergi.
+
+507
+00:35:23,070 --> 00:35:24,890
+Di mana kau mencarinya?
+
+508
+00:35:25,110 --> 00:35:26,850
+Kami mengawasi seluruh
+
+509
+00:35:26,990 --> 00:35:27,980
+jaringan kamera nirkabel di planet ini.
+
+510
+00:35:28,570 --> 00:35:30,350
+Ponsel, laptop...
+
+511
+00:35:30,910 --> 00:35:34,190
+Jika terhubung dengan satelit,
+kami bisa mengintainya.
+
+512
+00:35:34,410 --> 00:35:35,770
+Cara itu masih belum bisa untuk
+menemukannya tepat waktu.
+
+513
+00:35:35,870 --> 00:35:36,860
+Kau harus mempersempit area pencarian.
+
+514
+00:35:37,080 --> 00:35:39,030
+Kau memiliki berapa banyak akses ke spektrometer?
+
+515
+00:35:39,250 --> 00:35:40,860
+- Berapa banyak?
+- Hubungi semua laboratorium yang kau tahu.
+
+516
+00:35:41,080 --> 00:35:42,780
+Suruh mereka memasang spektrometer di atap.
+
+517
+00:35:42,920 --> 00:35:44,370
+dan sesuaikan untuk sinar gamma.
+
+518
+00:35:44,590 --> 00:35:47,790
+Aku akan membuat garis besar algoritma
+pelacakan kita.
+
+519
+00:35:48,090 --> 00:35:50,490
+Setidaknya kita bisa mengesampingkan
+beberapa tempat.
+
+520
+00:35:50,760 --> 00:35:52,540
+Apa kau punya tempat kerja untukku?
+
+521
+00:35:52,800 --> 00:35:53,910
+Agen Romanoff,
+
+522
+00:35:54,100 --> 00:35:56,340
+Dapatkah kau tunjukkan laboratorium
+bagi Dr Banner?
+
+523
+00:35:57,470 --> 00:35:59,720
+Kau akan menyukainya, Dok.
+Kami memiliki semua peralatan.
+
+524
+00:36:00,270 --> 00:36:02,050
+Letakkan di sebelah sana.
+
+525
+00:36:04,060 --> 00:36:06,180
+Di mana kau menemukan semua orang ini?
+
+526
+00:36:06,400 --> 00:36:09,350
+S.H.I.E.L.D. tak pernah kekurangan musuh, Dokter.
+
+527
+00:36:09,820 --> 00:36:10,890
+Apakah semua ini yang kau perlukan?
+
+528
+00:36:11,070 --> 00:36:12,060
+Ya, iridium.
+
+529
+00:36:12,240 --> 00:36:14,860
+Ditemukan pada meteorit.
+Membentuk anti-proton.
+
+530
+00:36:15,080 --> 00:36:16,690
+Sangat susah menemukannya.
+
+531
+00:36:16,910 --> 00:36:18,440
+Apalagi jika S.H.I.E.L.D.
+tahu kau membutuhkannya.
+
+532
+00:36:18,660 --> 00:36:20,030
+Aku tidak tahu.
+
+533
+00:36:20,250 --> 00:36:21,440
+Hey!
+
+534
+00:36:21,670 --> 00:36:23,950
+Tesseract telah menunjukan banyak hal.
+
+535
+00:36:24,420 --> 00:36:26,330
+Ini lebih dari sekedar ilmu pengetahuan.
+Inilah kebenaran.
+
+536
+00:36:26,460 --> 00:36:27,450
+Aku tahu.
+
+537
+00:36:28,300 --> 00:36:30,210
+Apa yang kau lihat, Agen Barton?
+
+538
+00:36:31,180 --> 00:36:32,580
+Targetku selanjutnya.
+
+539
+00:36:32,760 --> 00:36:33,750
+Katakan apa yang kau butuhkan
+
+540
+00:36:37,260 --> 00:36:39,090
+Aku butuh pengalih.
+
+541
+00:36:40,020 --> 00:36:41,420
+Dan bola mata.
+
+542
+00:36:48,190 --> 00:36:50,730
+Kalau tidak merepotkan.
+
+543
+00:36:50,940 --> 00:36:51,970
+Tidak. Tak apa.
+
+544
+00:36:55,030 --> 00:36:56,610
+Mengenai koleksiku.
+
+545
+00:36:56,830 --> 00:36:59,110
+Butuh waktu beberapa tahun
+untuk mengumpulkan semuanya.
+
+546
+00:37:01,660 --> 00:37:02,740
+Nyaris sempurna.
+
+547
+00:37:02,960 --> 00:37:04,320
+Sedikit usang, tapi...
+
+548
+00:37:04,540 --> 00:37:07,160
+Kami menemukan sesuatu. Kecocokan 67%.
+
+549
+00:37:07,670 --> 00:37:09,290
+Tunggu. Pencocokan silang, 79%.
+
+550
+00:37:10,300 --> 00:37:11,290
+Lokasi?
+
+551
+00:37:11,470 --> 00:37:14,500
+Stuttgart, Germany. 28 Königstrasse.
+
+552
+00:37:14,720 --> 00:37:15,960
+Sepertinya dia memang tidak sembunyi.
+
+553
+00:37:16,180 --> 00:37:17,280
+Kapten,
+
+554
+00:37:17,640 --> 00:37:18,630
+kau ikut.
+
+555
+00:39:54,170 --> 00:39:55,270
+Berlututlah di hadapanku.
+
+556
+00:39:59,760 --> 00:40:01,030
+Kubilang
+
+557
+00:40:03,140 --> 00:40:05,290
+berlutut!
+
+558
+00:40:14,610 --> 00:40:17,970
+Bukannya ini lebih mudah?
+
+559
+00:40:19,530 --> 00:40:22,730
+Bukankah ini kebiasaan kalian?
+
+560
+00:40:25,030 --> 00:40:28,230
+Ini bagaikan kodrat manusia yang
+tidak bisa dijelaskan,
+
+561
+00:40:28,450 --> 00:40:30,820
+kalian sangat berhasrat untuk
+menaklukan segalanya.
+
+562
+00:40:31,370 --> 00:40:35,150
+Pesona kebebasan telah mengurangi
+kebahagiaan hidup kalian...
+
+563
+00:40:35,380 --> 00:40:37,940
+yang berubah bentuk menjadi
+perebutan kekuasaan,
+
+564
+00:40:39,800 --> 00:40:41,160
+akan identitas.
+
+565
+00:40:42,840 --> 00:40:46,170
+Kalian tercipta untuk dikuasai.
+
+566
+00:40:46,800 --> 00:40:48,420
+Pada akhirnya,
+
+567
+00:40:48,680 --> 00:40:50,960
+kalian akan terus berlutut.
+
+568
+00:40:58,360 --> 00:41:00,310
+Bukan pada orang sepertimu.
+
+569
+00:41:01,360 --> 00:41:03,270
+Tak ada orang sepertiku.
+
+570
+00:41:04,150 --> 00:41:07,020
+Selalu ada orang sepertimu.
+
+571
+00:41:08,330 --> 00:41:10,150
+Lihatlah orang tua ini, wahai manusia.
+
+572
+00:41:12,370 --> 00:41:13,780
+Jadikan ia teladan.
+
+573
+00:41:20,590 --> 00:41:23,150
+Terakhir kali aku berada di Jerman.
+
+574
+00:41:23,380 --> 00:41:26,540
+ada seorang pria yang berniat
+menguasai orang-orang.
+
+575
+00:41:26,760 --> 00:41:28,210
+kami saling bertentangan...
+
+576
+00:41:28,430 --> 00:41:30,380
+Prajurit.
+
+577
+00:41:32,430 --> 00:41:33,670
+Pahlawan kesiangan.
+
+578
+00:41:34,270 --> 00:41:35,510
+Aku bukan satu-satunya
+pahlawan kesiangan.
+
+579
+00:41:39,020 --> 00:41:41,560
+<i>Loki, jatuhkan senjatamu
+dan merunduk.</i>
+
+580
+00:42:01,920 --> 00:42:03,490
+Berlututlah.
+
+581
+00:42:03,630 --> 00:42:05,040
+Tidak hari ini!
+
+582
+00:42:07,130 --> 00:42:08,410
+Banyak orang di sana.
+
+583
+00:42:11,930 --> 00:42:14,260
+<i>Agen Romanoff. Kau merindukanku?</i>
+
+584
+00:42:30,990 --> 00:42:33,070
+<i>Menyerahlah, orang aneh.</i>
+
+585
+00:42:41,130 --> 00:42:42,580
+<i>Bagus.</i>
+
+586
+00:42:44,090 --> 00:42:45,360
+Tuan Stark.
+
+587
+00:42:46,050 --> 00:42:47,200
+<i>Captain.</i>
+
+588
+00:42:54,430 --> 00:42:56,050
+<i>Apakah dia mengatakan sesuatu?</i>
+
+589
+00:42:56,270 --> 00:42:57,510
+Tak sepatah katapun.
+
+590
+00:42:57,810 --> 00:42:59,720
+<i>Bawa saja dia kemari. Waktu kita tak banyak.</i>
+
+591
+00:43:02,770 --> 00:43:03,760
+Aku tak menyukainya.
+
+592
+00:43:04,150 --> 00:43:06,100
+Apakah, karena si penyanyi rock ini
+menyerah dengan sangat mudah?
+
+593
+00:43:06,320 --> 00:43:07,980
+Tak semudah itu.
+
+594
+00:43:08,150 --> 00:43:09,600
+Pria ini bertarung dengan keras.
+
+595
+00:43:09,820 --> 00:43:13,400
+Kau cukup gesit
+untuk ukuran orang tua.
+
+596
+00:43:14,450 --> 00:43:16,030
+Apa rahasiamu, Pilates?
+
+597
+00:43:16,200 --> 00:43:17,190
+Apa?
+
+598
+00:43:17,370 --> 00:43:18,360
+Semacam olahraga.
+
+599
+00:43:18,500 --> 00:43:20,540
+Sepertinya selain dijadikan
+Kapten yang hebat...
+
+600
+00:43:20,750 --> 00:43:22,370
+sudah banyak yang kau lewatkan ya.
+
+601
+00:43:24,290 --> 00:43:25,870
+Fury tidak bilang kalau akan mengundangmu juga.
+
+602
+00:43:26,090 --> 00:43:28,960
+Iya, banyak hal yang tidak dikatakan
+Fury padamu.
+
+603
+00:43:29,340 --> 00:43:30,920
+Darimana asalnya?
+
+604
+00:43:35,010 --> 00:43:37,590
+Kenapa? Apa kau takut dengan petir
+sekecil ini?
+
+605
+00:43:38,020 --> 00:43:40,300
+Aku tidak tahu apa yang akan terjadi
+selanjutnya.
+
+606
+00:43:58,120 --> 00:43:59,280
+Apa yang kau lakukan?
+
+607
+00:44:12,220 --> 00:44:13,680
+<i>Sepertinya kita kedatangan tamu lagi.</i>
+
+608
+00:44:13,880 --> 00:44:15,630
+Asgardian lagi?
+
+609
+00:44:15,850 --> 00:44:17,670
+<i>- Apa orang itu teman kita?
+- Tidak tahu.</i>
+
+610
+00:44:17,890 --> 00:44:20,460
+<i>Kalau dia membebaskan Loki atau membunuhnya,
+kita akan kehilangan Tesseract.</i>
+
+611
+00:44:20,680 --> 00:44:22,510
+Stark, kita harus membuat rencana
+untuk menyerangnya!
+
+612
+00:44:22,730 --> 00:44:25,020
+<i>Aku sudah membuat rencana. Serang.</i>
+
+613
+00:44:31,030 --> 00:44:32,820
+Aku tidak bisa berbuat banyak, Cap.
+
+614
+00:44:33,030 --> 00:44:34,020
+Aku juga tidak tahu, apa yang bisa aku lakukan.
+
+615
+00:44:34,240 --> 00:44:36,860
+Orang ini legenda.
+Pada dasarnya mereka adalah Dewa.
+
+616
+00:44:37,320 --> 00:44:38,610
+Hanya ada satu God (Tuhan/Dewa), Bu.
+
+617
+00:44:38,740 --> 00:44:41,120
+Dan aku yakin, Tuhan tidak berpakaian
+seperti itu.
+
+618
+00:44:56,590 --> 00:44:57,970
+Di mana Tesseract?
+
+619
+00:44:58,180 --> 00:44:59,460
+Aku juga merindukanmu.
+
+620
+00:44:59,680 --> 00:45:01,350
+Apa kelihatannya aku seperti sedang
+bermain-main?
+
+621
+00:45:02,060 --> 00:45:03,430
+Kau harusnya berterima kasih padaku.
+
+622
+00:45:03,890 --> 00:45:05,930
+Sejak Bifrost hilang, berapa banyak
+energi hitam...
+
+623
+00:45:06,150 --> 00:45:08,900
+yang harus dikumpulkan Allfather
+untuk memasukanmu ke dunia ini...
+
+624
+00:45:09,110 --> 00:45:10,480
+ke Bumi-mu yang berharga ini?
+
+625
+00:45:14,610 --> 00:45:15,890
+Kukira kau sudah mati.
+
+626
+00:45:17,530 --> 00:45:18,940
+Apa kau sudah berduka?
+
+627
+00:45:19,410 --> 00:45:21,200
+Kami semua berduka.
+Ayah kita...
+
+628
+00:45:21,540 --> 00:45:24,450
+Ayahmu.
+
+629
+00:45:26,330 --> 00:45:29,200
+Dia sudah memberitahumu tentang
+siapa orang tuaku sebenarnya, bukan?
+
+630
+00:45:31,750 --> 00:45:34,000
+Kita dibesarkan bersama-sama.
+
+631
+00:45:34,210 --> 00:45:36,840
+Kita bermain bersama, kita bertarung bersama.
+
+632
+00:45:37,340 --> 00:45:38,540
+Apa kau sudah tidak ingat?
+
+633
+00:45:38,760 --> 00:45:40,720
+Yang aku ingat hanyalah
+sesosok bayangan.
+
+634
+00:45:42,220 --> 00:45:45,260
+Yang berada di balik ke-agunganmu.
+
+635
+00:45:45,980 --> 00:45:48,600
+Yang aku ingat, kau mendorongku
+ke dalam jurang.
+
+636
+00:45:48,730 --> 00:45:50,720
+Aku lah yang seharusnya menjadi Raja!
+
+637
+00:45:50,940 --> 00:45:53,020
+Jadi, kau ingin menguasai Bumi yang aku
+cintai ini hanya untuk membalas dendam padaku...
+
+638
+00:45:53,150 --> 00:45:54,980
+hanya demi memuaskan ingatanmu
+yang tidak utuh itu?
+
+639
+00:45:55,190 --> 00:45:58,280
+Tidak. Bumi sekarang berada di bawah
+lindunganku, Loki.
+
+640
+00:45:59,700 --> 00:46:03,230
+Aku yakin kau sudah melakukan
+tugasmu dengan baik.
+
+641
+00:46:03,700 --> 00:46:05,660
+Tapi selama ini para manusia saling bunuh...
+
+642
+00:46:05,790 --> 00:46:07,580
+jadi aku rasa, sebenarnya selama ini kau
+bermalas-malasan.
+
+643
+00:46:07,790 --> 00:46:09,950
+Aku hanya ingin menjadi penguasa bagi
+mereka, kenapa tidak boleh?
+
+644
+00:46:10,170 --> 00:46:11,710
+Jadi kau merasa berada di atas mereka?
+
+645
+00:46:12,790 --> 00:46:13,790
+Iya.
+
+646
+00:46:14,000 --> 00:46:16,460
+Itu artinya pemahamanmu tentang
+menjadi penguasa salah, kakak.
+
+647
+00:46:17,300 --> 00:46:18,670
+Menurutku kekuasan justru akan membebanimu.
+
+648
+00:46:23,890 --> 00:46:26,640
+Aku pernah melihat dunia yang belum
+pernah kau lihat sebelumnya!
+
+649
+00:46:26,850 --> 00:46:31,010
+Selama masa pengasingan, aku besar di Odinson.
+
+650
+00:46:31,400 --> 00:46:33,350
+Aku sudah melihat kekuatan Tesseract
+yang sebenarnya,
+
+651
+00:46:33,480 --> 00:46:34,560
+dan nanti begitu aku menguasainya...
+
+652
+00:46:34,770 --> 00:46:36,520
+Siapa yang menunjukkan kekuatan itu
+padamu?
+
+653
+00:46:37,690 --> 00:46:39,020
+Siapa yang akan mengatur calon Raja itu?
+
+654
+00:46:39,240 --> 00:46:41,030
+- Aku ini Raja!
+- Tidak di sini!
+
+655
+00:46:41,240 --> 00:46:42,520
+Serahkan Tesseract!
+
+656
+00:46:42,660 --> 00:46:45,200
+Lupakan impian sesat ini!
+
+657
+00:46:47,910 --> 00:46:49,290
+Pulanglah.
+
+658
+00:46:54,250 --> 00:46:55,370
+Aku tidak punya rumah.
+
+659
+00:46:57,460 --> 00:46:59,260
+Kau membutuhkan Cube (kubus) itu
+untuk membawaku pulang.
+
+660
+00:46:59,380 --> 00:47:01,710
+Tapi aku sudah membuang kubus itu,
+dan sekarang aku tidak tahu dimana letaknya.
+
+661
+00:47:02,840 --> 00:47:04,670
+Dengar baik-baik, kakak.
+
+662
+00:47:06,640 --> 00:47:07,840
+Aku dengarkan.
+
+663
+00:47:16,980 --> 00:47:18,640
+Jangan sentuh aku lagi.
+
+664
+00:47:18,860 --> 00:47:20,440
+Kalau begitu jangan pernah
+mencuri dariku.
+
+665
+00:47:20,650 --> 00:47:22,900
+Kau tidak tahu sedang berurusan dengan siapa.
+
+666
+00:47:24,780 --> 00:47:25,780
+Shakespeare yang ada di Taman?
+
+667
+00:47:27,160 --> 00:47:30,280
+Apa Ibu-mu tahu, kalau kau menggunakan
+gorden-nya?
+
+668
+00:47:30,540 --> 00:47:33,290
+Semua ini di luar kekuasanmu, manusia besi.
+
+669
+00:47:33,500 --> 00:47:35,620
+Loki akan dihadapkan dengan
+Pengadilan Asgardian.
+
+670
+00:47:35,840 --> 00:47:39,200
+Setelah dia berikan kubus itu, kau boleh
+membawanya. Tapi sebelum itu,
+
+671
+00:47:39,590 --> 00:47:40,830
+<i>jangan mengganggu.</i>
+
+672
+00:47:42,380 --> 00:47:44,010
+<i>Orang aneh.</i>
+
+673
+00:47:49,390 --> 00:47:50,420
+Baiklah.
+
+674
+00:48:20,210 --> 00:48:23,130
+Tenaga berada di kapasitas 400%.
+
+675
+00:48:23,340 --> 00:48:24,880
+Bagaimana kalau begini?
+
+676
+00:49:25,190 --> 00:49:26,390
+Hei!
+
+677
+00:49:28,950 --> 00:49:30,150
+Cukup.
+
+678
+00:49:34,040 --> 00:49:35,740
+Aku tidak tahu apa rencanamu di sini.
+
+679
+00:49:35,950 --> 00:49:38,240
+Aku kemari untuk mengakhiri
+seluruh rencana Loki.
+
+680
+00:49:38,460 --> 00:49:41,000
+Kalau begitu tunjukkanlah... letakan palu itu.
+
+681
+00:49:41,130 --> 00:49:42,120
+Yaa.. tidak.
+
+682
+00:49:42,380 --> 00:49:43,840
+<i>Keputusanmu salah.
+Dia terlalu mencintai palunya.</i>
+
+683
+00:49:45,420 --> 00:49:47,660
+Kau ingin aku menaruh palu ini?
+
+684
+00:50:15,040 --> 00:50:16,700
+Apa kita sudah selesai?
+
+685
+00:51:04,580 --> 00:51:07,540
+Keadaannya semakin tidak jelas,
+
+686
+00:51:08,260 --> 00:51:10,050
+kalau kau berusaha kabur,
+
+687
+00:51:11,130 --> 00:51:13,420
+atau berusaha memecahkan kaca itu,
+
+688
+00:51:23,020 --> 00:51:26,970
+kau akan aku kurung di ruang baja
+yang letaknya 30.000 kaki di bawah sana.
+
+689
+00:51:27,520 --> 00:51:29,650
+Perlu aku jelaskan?
+
+690
+00:51:31,700 --> 00:51:34,320
+Semut, ini sepatu.
+
+691
+00:51:37,660 --> 00:51:39,400
+Ini ruang tahanan yang luar biasa.
+
+692
+00:51:40,330 --> 00:51:42,950
+Aku rasa ruang tahanan ini tidak sengaja
+dibuat untuk menahanku.
+
+693
+00:51:43,330 --> 00:51:45,740
+Ruangan ini dibuat untuk menahan
+makhluk yang lebih kuat darimu.
+
+694
+00:51:45,960 --> 00:51:47,830
+Oh, aku pernah mendengarnya.
+
+695
+00:51:48,840 --> 00:51:50,000
+<i>Monster yang tidak memiliki hati itu.</i>
+
+696
+00:51:51,010 --> 00:51:52,630
+<i>Tapi biar bagaimanapun dia masih tetap
+seorang manusia.</i>
+
+697
+00:51:53,720 --> 00:51:55,960
+<i>Kalian sungguh menyedihkan,</i>
+
+698
+00:51:56,180 --> 00:51:59,260
+<i>sampai bergantung pada makhluk itu
+untuk melindungi kalian?</i>
+
+699
+00:51:59,470 --> 00:52:01,800
+<i>Aku menyedihkan?</i>
+
+700
+00:52:02,020 --> 00:52:03,810
+Kau mengancam dunia-ku dengan peperangan.
+
+701
+00:52:04,020 --> 00:52:06,140
+Kau mencuri kekuatan, yang sebenarnya kau
+sendiri tidak tahu apa sanggup menguasainya.
+
+702
+00:52:06,350 --> 00:52:10,140
+Kau berbicara tentang perdamaian,
+tapi kau membunuh demi kesenanganmu.
+
+703
+00:52:10,360 --> 00:52:13,360
+Kau yang membuatku tertekan.
+
+704
+00:52:13,570 --> 00:52:15,480
+Harusnya kau tidak bangga atas perbuatanmu.
+
+705
+00:52:18,740 --> 00:52:22,030
+Kemusnahan kalian tinggal beberapa langkah lagi.
+
+706
+00:52:23,500 --> 00:52:26,200
+Menguasai Tesseract, untuk
+mendapatkan kekuatan,
+
+707
+00:52:27,000 --> 00:52:29,210
+kekuatan yang tidak terbatas.
+
+708
+00:52:29,420 --> 00:52:31,380
+Lalu apa yang kalian punya?
+
+709
+00:52:33,050 --> 00:52:36,840
+Cahaya yang aman bagi seluruh
+umat manusia.
+
+710
+00:52:37,090 --> 00:52:40,340
+Kalian harus diingatkan mengenai
+kekuatan yang sebenarnya.
+
+711
+00:52:44,430 --> 00:52:48,730
+Kalau begitu, nanti beritahu aku saja seandainya
+kekuatan yang kau maksud itu butuh sesuatu.
+
+712
+00:52:57,070 --> 00:52:58,530
+Dia sangat menarik, ya?
+
+713
+00:52:58,740 --> 00:53:00,650
+Loki pasti akan mencari jalan keluar.
+
+714
+00:53:00,870 --> 00:53:04,320
+Thor, apa rencananya?
+
+715
+00:53:04,540 --> 00:53:07,080
+Dia memiliki prajurit yang bernama Chitauri.
+
+716
+00:53:07,290 --> 00:53:10,210
+Mereka bukan berasal dari Asgard,
+atau dunia manapun yang aku ketahui.
+
+717
+00:53:10,630 --> 00:53:12,700
+Dia berniat memimpin mereka
+untuk melawan kalian.
+
+718
+00:53:12,920 --> 00:53:14,500
+Mereka akan membantunya menguasai Bumi,
+
+719
+00:53:14,630 --> 00:53:16,420
+aku rasa sebagai imbalannya adalah Tesseract.
+
+720
+00:53:16,630 --> 00:53:18,380
+Pasukan...
+
+721
+00:53:18,590 --> 00:53:20,250
+dari luar angkasa.
+
+722
+00:53:20,470 --> 00:53:22,880
+Jadi, dia akan membuka gerbang baru.
+
+723
+00:53:23,100 --> 00:53:24,430
+Itulah sebabnya, dia membutuhkan Erik Selvig.
+
+724
+00:53:24,560 --> 00:53:25,550
+Selvig?
+
+725
+00:53:25,730 --> 00:53:28,050
+- Dia adalah seorang pakar Astrofisika.
+- Dia adalah temanku.
+
+726
+00:53:28,270 --> 00:53:30,390
+Loki telah memberikan manteranya,
+
+727
+00:53:30,560 --> 00:53:32,060
+pada salah satu rekan kami.
+
+728
+00:53:32,270 --> 00:53:33,850
+Aku ingin tahu, kenapa Loki seperti
+sengaja menyerahkan diri.
+
+729
+00:53:33,980 --> 00:53:35,260
+Dia tidak akan bisa memimpin sekelompok
+pasukan dari sini.
+
+730
+00:53:35,480 --> 00:53:37,190
+Aku rasa kita tidak perlu lagi
+mengawasi Loki.
+
+731
+00:53:37,400 --> 00:53:39,190
+Otak orang itu memang sudah sakit.
+
+732
+00:53:39,320 --> 00:53:40,600
+Kalian pasti tahu kalau dia itu gila.
+
+733
+00:53:40,820 --> 00:53:42,570
+Jaga bicaramu.
+
+734
+00:53:43,120 --> 00:53:45,320
+Walaupun alasan Loki  masih belum jelas,
+tapi dia masih penghuni Asgard..
+
+735
+00:53:45,740 --> 00:53:46,820
+Dan dia itu kakakku.
+
+736
+00:53:47,040 --> 00:53:48,910
+Dalam 2 hari, dia telah membunuh 80 orang.
+
+737
+00:53:49,790 --> 00:53:50,790
+Dia anak angkat.
+
+738
+00:53:50,960 --> 00:53:53,250
+Aku rasa ini ada kaitannya dengan ilmu mekanis.
+
+739
+00:53:53,460 --> 00:53:55,420
+Iridium... Apa yang mereka inginkan
+dari iridium?
+
+740
+00:53:55,630 --> 00:53:56,630
+Untuk mewakili para Agen.
+
+741
+00:53:56,800 --> 00:53:58,080
+Aku hanya mengingatkan, coba kau
+pilih tanggal.
+
+742
+00:53:58,220 --> 00:53:59,760
+Aku akan mengirimmu ke Portland.
+
+743
+00:53:59,970 --> 00:54:01,510
+Carilah Istri di sana.
+
+744
+00:54:01,720 --> 00:54:03,590
+Tujuannya agar gerbang itu tidak turun
+ke tanah...
+
+745
+00:54:03,760 --> 00:54:05,590
+seperti halnya S.H.I.E.L.D.
+
+746
+00:54:05,810 --> 00:54:09,090
+Tidak bermaksud menghina, Jagoan.
+Pukulanmu sangat kuat.
+
+747
+00:54:09,310 --> 00:54:11,550
+Ditambah lagi, tujuannya agar lubang
+gerbang itu semakin besar...
+
+748
+00:54:11,770 --> 00:54:14,180
+dan semakin lama, sesuai yang
+diinginkan Loki.
+
+749
+00:54:14,900 --> 00:54:17,110
+Naikan tiangnya. Lebarkan layarnya.
+
+750
+00:54:18,820 --> 00:54:20,020
+<i>Orang itu sedang memainkan Galaga.</i>
+
+751
+00:54:21,070 --> 00:54:24,440
+Dia pikir kita tidak akan sadar,
+tapi ternyata kita sadar.
+
+752
+00:54:26,410 --> 00:54:27,790
+Bagaimana caranya Fury melihat ini?
+
+753
+00:54:27,950 --> 00:54:28,950
+Dia membaliknya.
+
+754
+00:54:29,250 --> 00:54:30,870
+Pasti melelahkan.
+
+755
+00:54:31,960 --> 00:54:33,120
+Sisanya adalah bahan murni,
+
+756
+00:54:33,330 --> 00:54:36,120
+Agen Barton pasti mudah mendapatkannya.
+
+757
+00:54:36,340 --> 00:54:37,710
+Hanya tersisa satu komponen penting
+yang dia butuhkan...
+
+758
+00:54:37,920 --> 00:54:41,420
+adalah sumber energi tegangan tinggi
+yang padat.
+
+759
+00:54:41,630 --> 00:54:44,880
+Sesuatu yang bisa menopang kubus itu.
+
+760
+00:54:45,100 --> 00:54:48,050
+Sejak kapan anda jadi pakar
+Astrofisika Termonuklir?
+
+761
+00:54:48,270 --> 00:54:49,260
+Kemarin malam.
+
+762
+00:54:49,770 --> 00:54:52,970
+Paket itu, catatannya Selvig,
+dokumen teori tentang pencabutan itu.
+
+763
+00:54:53,190 --> 00:54:54,180
+Apa hanya aku yang membacanya?
+
+764
+00:54:54,350 --> 00:54:57,140
+Apakah yang dibutuhkan Loki
+adalah sumber tenaga yang biasa saja?
+
+765
+00:54:57,360 --> 00:55:00,060
+Dia harus memanaskan kubus itu dengan
+120 juta Kilowatt...
+
+766
+00:55:00,280 --> 00:55:01,740
+tujuannya hanya untuk menembus
+penghalang itu saja.
+
+767
+00:55:01,950 --> 00:55:04,150
+Kecuali kalau Selvig sudah mengetahui
+cara menyeimbangkan...
+
+768
+00:55:04,360 --> 00:55:05,480
+akibat dari terowongan kuantum itu.
+
+769
+00:55:05,700 --> 00:55:06,700
+Seandainya dia bisa melakukan itu,
+
+770
+00:55:06,870 --> 00:55:09,320
+itu artinya dia bisa meleburkan seluruh ion berat
+yang terdapat di setiap reaktor di Bumi ini.
+
+771
+00:55:09,540 --> 00:55:11,940
+"Akhirnya ada yang mengerti ucapanku."
+
+772
+00:55:12,160 --> 00:55:14,120
+Benar begitu kan?
+
+773
+00:55:14,330 --> 00:55:16,330
+Senang bertemu denganmu, Dr Banner.
+
+774
+00:55:16,540 --> 00:55:19,580
+Pekerjaanmu mengenai tubrukan
+anti-elektron tidak ada tandingannya.
+
+775
+00:55:19,800 --> 00:55:21,590
+Dan aku ini penggemar beratmu, terlebih lagi
+kalau kau sudah emosi...
+
+776
+00:55:21,800 --> 00:55:23,840
+dan berubah jadi si Raksasa Hijau itu.
+
+777
+00:55:25,390 --> 00:55:26,420
+Terima kasih.
+
+778
+00:55:26,640 --> 00:55:29,130
+Di sini, hanya Dr Banner-lah yang bisa
+melacak keberadaan kubus itu.
+
+779
+00:55:29,350 --> 00:55:30,630
+Aku berharap kau mau membantunya.
+
+780
+00:55:30,850 --> 00:55:32,010
+Aku rasa kita harus memulai dari tongkatnya.
+
+781
+00:55:32,140 --> 00:55:33,170
+Sepertinya di tongkat itu terdapat sihir,
+
+782
+00:55:33,310 --> 00:55:34,590
+kekuatan tongkat itu sama hebatnya
+dengan senjatanya HYDRA.
+
+783
+00:55:34,730 --> 00:55:37,760
+Masih belum bisa dipastikan, tapi yang jelas
+kekuatannya berasal dari kubus itu.
+
+784
+00:55:38,060 --> 00:55:39,810
+Dan aku ingin tahu, bagaimana cara Loki...
+
+785
+00:55:40,030 --> 00:55:41,600
+merubah dua orang hebat yang aku kenal...
+
+786
+00:55:41,740 --> 00:55:43,530
+menjadi flying monkey
+(monyet sirkus/orang suruhannya).
+
+787
+00:55:43,900 --> 00:55:45,450
+Monyet? Aku tidak paham.
+
+788
+00:55:45,570 --> 00:55:46,570
+Aku mengerti.
+
+789
+00:55:49,580 --> 00:55:51,450
+Aku mengerti maksudnya.
+
+790
+00:55:52,370 --> 00:55:53,700
+Sudah bisa kita mulai, Dokter?
+
+791
+00:55:53,910 --> 00:55:55,620
+Lewat sini, Pak.
+
+792
+00:56:09,600 --> 00:56:11,170
+Pelacakan gamma sudah jelas sama...
+
+793
+00:56:11,390 --> 00:56:13,380
+dengan catatannya Selvig mengenai Tesseract.
+
+794
+00:56:13,770 --> 00:56:15,390
+Tapi dalam proses pengerjaannya
+tetap membutuhkan waktu yang lama.
+
+795
+00:56:15,600 --> 00:56:16,800
+Kalau kita berhasil melewati kerangka utama mereka...
+
+796
+00:56:16,940 --> 00:56:18,220
+dan langsung menuju pusatnya,
+
+797
+00:56:18,440 --> 00:56:21,520
+kita bisa menyesuaikan waktu saat ini
+sekitar 600 teraflop.
+
+798
+00:56:22,690 --> 00:56:24,650
+Aku hanya membawa sikat gigi.
+
+799
+00:56:25,740 --> 00:56:27,310
+Sepertinya kapan-kapan kau harus mampir
+ke menara Stark.
+
+800
+00:56:27,530 --> 00:56:29,570
+10 Lantai, semua lantai di isi Ilmu Pengetahuan.
+
+801
+00:56:29,910 --> 00:56:31,370
+Kau pasti menyukainya. Tempatku
+seperti istana permen.
+
+802
+00:56:31,580 --> 00:56:34,070
+Terima kasih, tapi terakhir kali aku berada
+di New York,
+
+803
+00:56:34,290 --> 00:56:36,830
+Sepertinya aku telah merusak Harlem.
+
+804
+00:56:37,040 --> 00:56:38,870
+Aku berjanji tidak akan ada gangguan apapun.
+
+805
+00:56:39,080 --> 00:56:40,880
+Tidak akan ada ketegangan, kejutan.
+
+806
+00:56:42,380 --> 00:56:43,870
+- Hei!
+- Tidak apa-apa?
+
+807
+00:56:44,090 --> 00:56:45,080
+Apa kau sudah gila?
+
+808
+00:56:45,210 --> 00:56:46,210
+Yang tidak berkepentingan keluar.
+
+809
+00:56:46,340 --> 00:56:47,460
+Ternyata kau bisa menahannya, ya?
+
+810
+00:56:47,590 --> 00:56:48,590
+Apa rahasiamu?
+
+811
+00:56:48,720 --> 00:56:50,180
+Alunan Jazz yang sendu, drum bongo,
+atau ganja sekarung penuh?
+
+812
+00:56:50,350 --> 00:56:51,460
+Apa kau anggap ini lucu?
+
+813
+00:56:51,760 --> 00:56:52,760
+Memang lucu.
+
+814
+00:56:52,890 --> 00:56:54,630
+Mengancam jiwa seluruh penumpang
+di kapal ini...
+
+815
+00:56:54,770 --> 00:56:56,010
+aku rasa ini tidak lucu.
+
+816
+00:56:56,140 --> 00:56:57,140
+Bukannya menghina, Dok.
+
+817
+00:56:57,270 --> 00:56:58,760
+Tidak apa-apa, aku tidak akan ikut
+penerbangan ini...
+
+818
+00:56:58,900 --> 00:57:01,730
+kalau aku tidak bisa mengatasi gangguan
+kecil seperti ini.
+
+819
+00:57:01,860 --> 00:57:04,430
+Nah itu jelas, kawan.
+Kau harus menunjukkannya.
+
+820
+00:57:04,570 --> 00:57:06,230
+Kau harusnya fokus pada masalah kita,
+Tn. Stark.
+
+821
+00:57:06,360 --> 00:57:07,860
+Memangnya kau pikir aku tidak serius?
+
+822
+00:57:07,990 --> 00:57:10,770
+Kenapa Fury memanggil kita?
+Kenapa harus sekarang? Bukan sebelumnya?
+
+823
+00:57:10,910 --> 00:57:12,650
+Apa yang tidak dia katakan pada kita?
+
+824
+00:57:12,780 --> 00:57:14,530
+Mana mungkin aku menemukan kepastiannya
+selama aku tidak mendapatkan informasi yang jelas.
+
+825
+00:57:15,160 --> 00:57:16,410
+Jadi menurutmu, Fury menyembunyikan
+sesuatu?
+
+826
+00:57:16,540 --> 00:57:19,700
+Dia itu mata-mata. Captain, mata-mata.
+
+827
+00:57:19,830 --> 00:57:21,580
+Di balik kerahasiaannya, masih
+ada yang dia rahasiakan.
+
+828
+00:57:21,710 --> 00:57:23,200
+Dia juga terganggu, benarkan?
+
+829
+00:57:25,800 --> 00:57:27,590
+Aku hanya berusaha menyelesaikan
+tugasku saja...
+
+830
+00:57:27,720 --> 00:57:28,710
+Dokter?
+
+831
+00:57:34,140 --> 00:57:36,510
+"Cahaya yang aman bagi seluruh umat manusia."
+
+832
+00:57:36,640 --> 00:57:38,720
+Itu yang Loki katakan pada Fury
+mengenai kubus itu.
+
+833
+00:57:38,850 --> 00:57:40,310
+Aku mendengarnya.
+
+834
+00:57:40,440 --> 00:57:42,730
+Aku rasa dia yang dia maksud adalah kau.
+
+835
+00:57:43,440 --> 00:57:46,390
+Walaupun Barton tidak memberitahu Loki
+tentang menaramu,
+
+836
+00:57:46,530 --> 00:57:47,610
+berita itu sudah tersebar luas.
+
+837
+00:57:47,740 --> 00:57:49,810
+Menara Stark? Bangunan besar dan jelek...
+
+838
+00:57:51,160 --> 00:57:52,400
+yang ada di New York?
+
+839
+00:57:52,530 --> 00:57:56,230
+Bangunan itu ditopang oleh tenaga reaktor pusat,
+sehingga menghasilkan sumber tenaga sendiri.
+
+840
+00:57:56,370 --> 00:57:58,780
+Berapa lama energi bangunan itu bisa
+bertahan, setahun ya?
+
+841
+00:57:58,910 --> 00:58:00,740
+Itu baru bentuk dasarnya saja.
+
+842
+00:58:00,870 --> 00:58:02,830
+Sepertinya saat ini, hanya aku satu-satunya
+orang yang perduli pada sumber energi yang aman.
+
+843
+00:58:03,250 --> 00:58:04,660
+Itu maksudnya.
+
+844
+00:58:04,790 --> 00:58:07,370
+Lalu, kenapa S.H.I.E.L.D. mengajak dia dalam
+proyek Tesseract ini?
+
+845
+00:58:07,510 --> 00:58:09,250
+Apa kepentingan mereka dalam...
+
+846
+00:58:09,380 --> 00:58:10,710
+usaha energi ini?
+
+847
+00:58:10,840 --> 00:58:13,800
+Mungkin aku bisa mengetahui maksudnya,
+seandainya program pen-deskripsian ku berhasil...
+
+848
+00:58:13,930 --> 00:58:16,090
+menembus seluruh berkas keamanan S.H.I.E.L.D.
+
+849
+00:58:16,220 --> 00:58:17,220
+Maaf. Jadi maksudmu...
+
+850
+00:58:17,350 --> 00:58:19,340
+Jarvis telah menelusurinya sejak
+aku menekan jembatan itu.
+
+851
+00:58:19,480 --> 00:58:21,050
+Dalam beberapa jam ke depan, aku akan
+mengetahui seluruh rahasia gelap...
+
+852
+00:58:21,190 --> 00:58:22,350
+yang sudah S.H.I.E.L.D. coba sembunyikan.
+
+853
+00:58:22,480 --> 00:58:23,470
+Blueberry?
+
+854
+00:58:23,600 --> 00:58:25,480
+Kau masih heran kenapa mereka tidak
+menginginkanmu di sekitar ini.
+
+855
+00:58:25,610 --> 00:58:28,440
+Sebuah organisasi Intelijen takut akan
+intelijensi yang lain?
+
+856
+00:58:28,570 --> 00:58:30,150
+Itu sudah terlalu kuno.
+
+857
+00:58:30,280 --> 00:58:32,570
+Menurutku Loki sedang coba memecah belah kita.
+
+858
+00:58:32,700 --> 00:58:34,270
+Pada dasarnya, orang ini memang sudah
+ingin menciptakan peperangan...
+
+859
+00:58:34,410 --> 00:58:35,950
+kalau kita tidak berhasil fokus, maka,
+dia yang akan berhasil.
+
+860
+00:58:37,240 --> 00:58:39,700
+Kita sudah diberi perintah.
+Seharusnya, kita mengikuti perintah itu.
+
+861
+00:58:40,200 --> 00:58:42,200
+Itu bukan gayaku.
+
+862
+00:58:43,420 --> 00:58:45,790
+Jadi kau lebih mementingkan gayamu, ya?
+
+863
+00:58:45,920 --> 00:58:46,950
+Diantara kita yang ada di sini,
+
+864
+00:58:47,090 --> 00:58:48,660
+siapakah orang yang memakai pakaian
+yang cukup mencolok,
+
+865
+00:58:48,800 --> 00:58:50,120
+dan tidak begitu berguna?
+
+866
+00:58:50,260 --> 00:58:54,590
+Steve, jangan bilang kau tidak merasa
+ada kejanggalan di tempat ini.
+
+867
+00:58:57,300 --> 00:58:58,340
+Cepat temukan Kubus itu.
+
+868
+00:59:11,280 --> 00:59:13,190
+Itu orang yang selalu dibicarakan Ayahku?
+
+869
+00:59:13,650 --> 00:59:16,440
+Aku heran, kenapa dia tidak dibiarkan
+membeku saja.
+
+870
+00:59:17,280 --> 00:59:18,990
+Orang itu tidak salah dalam menilai Loki.
+
+871
+00:59:19,120 --> 00:59:20,860
+Dia memang memiliki rencana pada kita.
+
+872
+00:59:20,990 --> 00:59:23,700
+Itu artinya dia sedang memasang bom bunuh diri.
+
+873
+00:59:23,830 --> 00:59:25,660
+Suatu saat bom itu akan melukai dirinya sendiri.
+
+874
+00:59:25,790 --> 00:59:28,080
+Dan saat itu terjadi, aku pasti berada
+di tempat itu.
+
+875
+00:59:28,380 --> 00:59:30,540
+Ya, aku sudah pernah baca tentang itu.
+
+876
+00:59:32,670 --> 00:59:33,950
+Apa kau bisa cocok dengan kami?
+
+877
+00:59:35,550 --> 00:59:39,130
+Seperti yang kau lihat, aku tidak
+memiliki jubah.
+
+878
+00:59:39,260 --> 00:59:42,600
+Aku mudah meledak. Ini semacam gangguan.
+
+879
+00:59:42,720 --> 00:59:44,470
+Seperti mimpi buruk.
+
+880
+00:59:44,600 --> 00:59:47,390
+Aku sendiri memiliki sebuah potongan meriam...
+
+881
+00:59:47,520 --> 00:59:49,510
+yang ada tepat di tengah jantungku.
+
+882
+00:59:49,650 --> 00:59:51,690
+Seandainya ini berhenti.
+
+883
+00:59:51,820 --> 00:59:54,140
+Cahaya kecil ini, sudah menjadi bagian
+dari diriku,
+
+884
+00:59:55,360 --> 00:59:57,020
+sudah bukan perisai lagi.
+
+885
+00:59:57,700 --> 01:00:00,150
+Ini merupakan keistimewaan yang berbahaya.
+
+886
+01:00:00,490 --> 01:00:02,860
+- Tapi kau bisa mengendalikannya.
+- Karena aku mempelajarinya.
+
+887
+01:00:02,990 --> 01:00:03,990
+Ini berbeda.
+
+888
+01:00:04,330 --> 01:00:07,660
+Hei, aku sudah membaca terkait
+kecelakaanmu.
+
+889
+01:00:07,790 --> 01:00:11,120
+Harusnya ledakan sinar gamma sebesar itu
+telah membunuhmu.
+
+890
+01:00:11,250 --> 01:00:13,710
+Jadi maksudmu Hulk...
+
+891
+01:00:15,170 --> 01:00:17,550
+sisi lain diriku itu telah menyelamatkanku?
+
+892
+01:00:18,050 --> 01:00:19,170
+Bagus.
+
+893
+01:00:20,050 --> 01:00:23,840
+Usaha pendekatan yang bagus.
+Untuk apa dia menyelamatkanku?
+
+894
+01:00:25,140 --> 01:00:27,050
+Sepertinya sebentar lagi, kita akan tahu jawabannya.
+
+895
+01:00:28,770 --> 01:00:30,430
+Mungkin kau tidak akan menyukai jawaban itu.
+
+896
+01:00:30,560 --> 01:00:32,520
+Dan setelah itu, kau hanya bisa berpikir.
+
+897
+01:01:31,750 --> 01:01:33,130
+<i>Begitu Loki mengambil dokter,</i>
+
+898
+01:01:33,250 --> 01:01:34,990
+Kita memindahkan Jane Foster.
+
+899
+01:01:35,130 --> 01:01:37,500
+Mereka mempunyai sebuah observatorium
+yang sangat baik di Tromso.
+
+900
+01:01:37,630 --> 01:01:41,170
+Mendadak dia diminta untuk
+berkonsultasi di sana.
+
+901
+01:01:41,300 --> 01:01:45,080
+Bayarannya bagus, pesawat pribadi,
+Sangat terpencil.
+
+902
+01:01:45,970 --> 01:01:47,000
+Dia akan aman.
+
+903
+01:01:47,140 --> 01:01:48,520
+Terima kasih.
+
+904
+01:01:50,310 --> 01:01:52,350
+Itu bukan kebetulan, Loki mengambil Erik Selvig.
+
+905
+01:01:53,350 --> 01:01:55,930
+Aku takut dengan apa yang direncanakan untuknya
+setelah dia selesai mengerjakan yang dia mau
+
+906
+01:01:56,070 --> 01:01:57,180
+Erik adalah pria baik.
+
+907
+01:01:57,320 --> 01:01:58,310
+Dia banyak membicarakanmu.
+
+908
+01:02:00,190 --> 01:02:02,190
+Kau merubah hidupnya.
+
+909
+01:02:03,910 --> 01:02:05,780
+Kau merubah segalanya di sini.
+
+910
+01:02:05,910 --> 01:02:08,030
+Mereka menjadi baik karena diri mereka sendiri.
+
+911
+01:02:08,620 --> 01:02:10,700
+Kita berpura-pura di Asgard
+bahwa kita jauh lebih maju
+
+912
+01:02:10,830 --> 01:02:14,530
+tapi kami datang kemari, bertempur
+seperti selayaknya pekerja lambung kapal.
+
+913
+01:02:14,670 --> 01:02:16,490
+- Seperti apa?
+- Pekerja lambung kapal.
+
+914
+01:02:16,630 --> 01:02:19,660
+Kau tahulah, besar, kulit bersisik
+punya tanduk besar.
+
+915
+01:02:20,460 --> 01:02:22,260
+- Kau punya itu?
+- Aku pikir tidak.
+
+916
+01:02:22,380 --> 01:02:24,260
+begitulah, Mereka menjijikkan.
+
+917
+01:02:25,590 --> 01:02:27,840
+Dan mereka menghancurkan semua
+yang menghalangi jalan mereka.
+
+918
+01:02:35,520 --> 01:02:38,850
+Ketika aku pertama kali datang ke bumu,
+kegilaan Loki mengikutiku,
+
+919
+01:02:38,980 --> 01:02:41,310
+Dan masyarakatmu yang harus membayarnya.
+
+920
+01:02:41,440 --> 01:02:43,240
+Dan sekarang, lagi.
+
+921
+01:02:45,780 --> 01:02:48,240
+Pada masa mudaku, aku menginginkan perang.
+
+922
+01:02:49,990 --> 01:02:51,990
+perang belum dimulai.
+
+923
+01:02:53,120 --> 01:02:54,910
+kau pikir kau dapat membuat
+Loki mengatakannya pada kita
+
+924
+01:02:55,040 --> 01:02:56,320
+di mana Tesseract berada?
+
+925
+01:02:56,460 --> 01:02:59,710
+Aku tidak tahu. Pikiran Loki tak terjangkau.
+
+926
+01:02:59,840 --> 01:03:04,550
+Ini bukan hanya bicara soal kekuasaan,
+Ini adalah sebuah dendam, kepadaku.
+
+927
+01:03:04,680 --> 01:03:06,800
+Tidak ada rasa sakit yang dapat
+melebihi kebutuhannya akan dendam itu
+
+928
+01:03:07,890 --> 01:03:10,090
+Kebanyakan pria berpikir seperti itu
+
+929
+01:03:10,220 --> 01:03:11,720
+Sampai rasa sakit dimulai.
+
+930
+01:03:14,020 --> 01:03:15,510
+kau memintaku untuk melakukan apa?
+
+931
+01:03:15,640 --> 01:03:19,230
+Aku bertanya,
+apa yang sudah kau persiapkan?
+
+932
+01:03:19,360 --> 01:03:20,390
+Loki adalah tawanan.
+
+933
+01:03:20,520 --> 01:03:22,850
+Lalu mengapa aku merasa dia adalah
+satu-satunya orang yang ada di kapal ini
+
+934
+01:03:22,990 --> 01:03:24,560
+yang ingin berada di sini?
+
+935
+01:03:37,170 --> 01:03:40,250
+Tidak banyak orang yang bisa
+menyelinap dariku
+
+936
+01:03:40,380 --> 01:03:42,040
+Tapi kau mengetahui kedatanganku.
+
+937
+01:03:42,710 --> 01:03:44,290
+Sesudah.
+
+938
+01:03:45,170 --> 01:03:48,590
+Sesudah apapun siksaan yang
+Fury dapat ciptakan,
+
+939
+01:03:48,720 --> 01:03:52,380
+Kau akan muncul sebagai
+seorang teman, seperti balsam.
+
+940
+01:03:53,350 --> 01:03:55,010
+Dan aku akan bekerja sama.
+
+941
+01:03:55,140 --> 01:03:57,130
+Aku ingin tahu apa yang
+kau lakukan terhadap agen Barton.
+
+942
+01:03:57,270 --> 01:03:59,260
+Aku akan mengatakan bahwa
+aku mengembangkan pikirannya.
+
+943
+01:04:01,860 --> 01:04:03,770
+Dan sekali kau menang,
+
+944
+01:04:04,650 --> 01:04:05,930
+saat itu kau akan jadi raja segala raja,
+
+945
+01:04:08,070 --> 01:04:10,560
+Apa yang terjadi pada pikirannya?
+
+946
+01:04:11,830 --> 01:04:13,620
+Apakah ini sebuah cinta, Agen Romanoff?
+
+947
+01:04:13,740 --> 01:04:16,580
+Cinta itu untuk anak-anak.
+Aku berhutang kepadanya.
+
+948
+01:04:20,460 --> 01:04:22,330
+Katakan padaku.
+
+949
+01:04:26,670 --> 01:04:29,920
+Sebelum aku bekerja untuk SHIELD..aku...
+
+950
+01:04:32,350 --> 01:04:36,260
+Yah, aku sudah punya nama.
+
+951
+01:04:36,390 --> 01:04:39,390
+Aku punya kemampuan khusus.
+
+952
+01:04:39,520 --> 01:04:43,180
+Aku tidak peduli kemampuanku itu
+aku gunakan untuk apa, atau kepada siapa.
+
+953
+01:04:44,190 --> 01:04:47,690
+Aku dipantau oleh Radar SHIELD.
+Dalam konotasi yang jelek.
+
+954
+01:04:48,860 --> 01:04:51,780
+Agen Barton dikirim untuk membunuhku.
+
+955
+01:04:52,820 --> 01:04:54,370
+Dia membuat hal yang berbeda.
+
+956
+01:04:56,330 --> 01:04:59,360
+Dan apa yang akan kalau lakukan
+jika aku berjanji untuk menyelamatkannya?
+
+957
+01:04:59,750 --> 01:05:01,080
+Tidak akan membiarkanmu keluar.
+
+958
+01:05:01,210 --> 01:05:03,080
+Tidak, tapi aku suka ini.
+
+959
+01:05:04,000 --> 01:05:07,420
+Posisi kita seimbang,dan kau
+melakukan tawar menawar untuk satu pria.
+
+960
+01:05:07,550 --> 01:05:09,620
+Rejim jatuh setiap hari.
+
+961
+01:05:09,760 --> 01:05:12,300
+Aku cenderung untuk tidak menangisinya.
+Aku orang Rusia.
+
+962
+01:05:12,430 --> 01:05:13,420
+Setidaknya dulu.
+
+963
+01:05:14,720 --> 01:05:16,380
+Dan apa kau sekarang?
+
+964
+01:05:16,850 --> 01:05:19,800
+Itu bukanlah hal yang rumit.
+
+965
+01:05:19,930 --> 01:05:24,010
+Aku punya catatan yang buruk,
+aku ingin menghapusnya.
+
+966
+01:05:25,020 --> 01:05:26,570
+Bisakah kau?
+
+967
+01:05:27,900 --> 01:05:31,690
+Bisakah kau menghapus catatan buruk itu?
+
+968
+01:05:32,860 --> 01:05:34,660
+Anak perempuan Dreykov,
+
+969
+01:05:36,080 --> 01:05:37,900
+Sao Paulo,
+
+970
+01:05:38,950 --> 01:05:41,440
+Penembakan di rumah sakit itu?
+
+971
+01:05:42,290 --> 01:05:44,660
+Barton mengatakan semuanya padaku.
+
+972
+01:05:44,790 --> 01:05:47,880
+Catatanmu pelan-pelan menetes.
+Dan berubah menjadi buruk
+
+973
+01:05:48,000 --> 01:05:50,500
+dan kau pikir dengan menyelamatkan seseorang
+kau jadi bisa lebih baik
+
+974
+01:05:50,630 --> 01:05:52,010
+akan merubah semuanya?
+
+975
+01:05:52,130 --> 01:05:54,800
+Ini adalah hal yang paling dasar
+dari rasa sentimental.
+
+976
+01:05:54,930 --> 01:05:57,170
+Ini doanya anak-anak.
+
+977
+01:05:57,310 --> 01:05:58,590
+Sinting!
+
+978
+01:05:59,390 --> 01:06:01,960
+<i>Kau berbohong dan membunuh</i>
+
+979
+01:06:02,100 --> 01:06:05,140
+<i>masuk dalam golongan penipu dan pembunuh.</i>
+
+980
+01:06:08,230 --> 01:06:11,400
+<i>Kau berpura-pura terpisah dari golongan itu,
+punya kode tersendiri,</i>
+
+981
+01:06:11,530 --> 01:06:14,230
+<i>Sesuatu yang memperbaiki
+semua kengerian itu.</i>
+
+982
+01:06:15,410 --> 01:06:17,810
+<i>tapi mereka adalah bagian dari dirimu.</i>
+
+983
+01:06:17,950 --> 01:06:21,730
+<i>dan mereka tidak akan membiarkanmu pergi.</i>
+
+984
+01:06:22,330 --> 01:06:25,830
+Aku tidak akan menyentuh Barton,
+tidak sampai nanti dia membunuhmu.
+
+985
+01:06:25,960 --> 01:06:28,200
+dengan perlahan, dengan keintiman,
+
+986
+01:06:28,340 --> 01:06:30,710
+pada setiap cara yang dia tahu apa
+yang jadi ketakutanmu.
+
+987
+01:06:30,840 --> 01:06:33,920
+Dan lalu dia akan terbangun untuk
+melihat pekerjaan yang telah dilakukannya
+
+988
+01:06:34,050 --> 01:06:37,500
+dan ketika dia berteriak, aku akan
+membelah tengkoraknya.
+
+989
+01:06:37,640 --> 01:06:40,760
+Inilah penawaranku, kemaluan merintih.
+
+990
+01:06:42,350 --> 01:06:43,930
+Kau monster.
+
+991
+01:06:46,150 --> 01:06:47,640
+Oh, tidak.
+
+992
+01:06:48,520 --> 01:06:50,100
+Kau membawa monster itu.
+
+993
+01:06:53,110 --> 01:06:54,690
+Jadi, Banner.
+
+994
+01:06:55,740 --> 01:06:56,900
+Ini giliranmu.
+
+995
+01:06:57,030 --> 01:06:58,060
+Apa?
+
+996
+01:06:59,030 --> 01:07:00,690
+Loki berniat melepaskan Hulk.
+
+997
+01:07:00,830 --> 01:07:02,290
+Biarkan Banner tetap di Lab.
+Aku sedang dalam perjalanan.
+
+998
+01:07:02,410 --> 01:07:03,490
+Kirim Thor juga.
+
+999
+01:07:05,160 --> 01:07:06,490
+Terima kasih
+
+1000
+01:07:06,620 --> 01:07:08,780
+untuk kerja samanya.
+
+1001
+01:07:16,300 --> 01:07:17,760
+Apa yang kau lakukan, Tn Stark?
+
+1002
+01:07:17,890 --> 01:07:20,380
+Bertanya-tanya tentang hal
+yang sama tentang kau.
+
+1003
+01:07:20,510 --> 01:07:22,390
+Kau seharusnya melacak keberadaan Tesseract.
+
+1004
+01:07:22,520 --> 01:07:24,090
+Memang. jejaknya sudah terkunci
+
+1005
+01:07:24,230 --> 01:07:25,510
+sekarang kita sedang mencari tanda-tandanya.
+
+1006
+01:07:25,640 --> 01:07:26,640
+Ketika kita diserang,
+
+1007
+01:07:26,770 --> 01:07:28,730
+Kita punya lokasi dalam radius
+setengah mil.
+
+1008
+01:07:28,850 --> 01:07:33,100
+Ya, lalu kau akan mendapatkan
+kubusmu kembali. Tanpa kekacauan sama sekali.
+
+1009
+01:07:33,230 --> 01:07:34,350
+Apa 'fase 2' itu?
+
+1010
+01:07:36,570 --> 01:07:39,410
+Fase 2 adalah S.H.I.E.L.D. menggunakan
+kubus itu untuk membuat senjata
+
+1011
+01:07:39,530 --> 01:07:41,280
+Maaf, komputernya terlalu lambat
+buatku.
+
+1012
+01:07:41,410 --> 01:07:44,110
+Rogers, kita kumpulkan semua
+yang ada hubungannya dengan Tesseract.
+
+1013
+01:07:44,240 --> 01:07:45,700
+Itu tidak berarti kita membuat...
+
+1014
+01:07:45,830 --> 01:07:46,830
+Maafkan aku, Nick.
+
+1015
+01:07:46,960 --> 01:07:49,240
+Apa yang kau sembunyikan?
+
+1016
+01:07:49,380 --> 01:07:50,620
+Aku salah, Direktur.
+
+1017
+01:07:50,750 --> 01:07:51,780
+Dunia sudah sedikit berubah.
+
+1018
+01:07:51,920 --> 01:07:52,950
+Apa kau tahu soal ini?
+
+1019
+01:07:53,090 --> 01:07:54,420
+Kau berpikir akan memindahkan
+dirimu sendiri
+
+1020
+01:07:54,550 --> 01:07:55,880
+dari lingkungan ini, dokter?
+
+1021
+01:07:56,010 --> 01:07:58,170
+Aku dulu di Kalkuta.
+Aku dipindahkan dengan baik.
+
+1022
+01:07:58,300 --> 01:07:59,460
+Loki sedang memanipulasi mu.
+
+1023
+01:07:59,590 --> 01:08:01,170
+dan sesungguhnya kau sedang melakukan apa?
+
+1024
+01:08:01,300 --> 01:08:02,960
+Kau tidak datang ke sini karena
+aku menitipkan bulu mataku padamu.
+
+1025
+01:08:03,100 --> 01:08:04,210
+Ya, dan aku tidak pergi
+
+1026
+01:08:04,350 --> 01:08:05,630
+Karena tiba-tiba kau menjadi gugup.
+
+1027
+01:08:05,770 --> 01:08:07,390
+Aku ingin tahu mengapa S.H.I.E.L.D.
+
+1028
+01:08:07,520 --> 01:08:11,220
+menggunakan Tesseract
+untuk membuat senjata pembunuh masal.
+
+1029
+01:08:11,860 --> 01:08:12,970
+Karena dia.
+
+1030
+01:08:14,270 --> 01:08:15,270
+Aku?
+
+1031
+01:08:16,240 --> 01:08:18,610
+Tahun lalu, bumi mendapat kunjungan
+tamu dari planet lain
+
+1032
+01:08:18,740 --> 01:08:21,900
+yang membawa dendam dan mengakibatkan
+ratanya sebuah kota kecil.
+
+1033
+01:08:22,030 --> 01:08:24,240
+Kami belajar bahwa kita tidak
+sendiri
+
+1034
+01:08:24,370 --> 01:08:27,950
+tapi kita putus asa, tak punya senjata
+
+1035
+01:08:28,080 --> 01:08:30,320
+Rakyatku tidak menginginkan
+apapun kecuali perdamaian dengan planet ini.
+
+1036
+01:08:30,460 --> 01:08:32,410
+Tapi kau bukan satu-satunya orang
+diluar sana, bukan?
+
+1037
+01:08:32,540 --> 01:08:34,500
+dan kau bukan satu-satunya yang jadi ancaman.
+
+1038
+01:08:34,630 --> 01:08:37,800
+Dunia penuh orang yang tak bisa ditandingi,
+
+1039
+01:08:38,470 --> 01:08:39,660
+Yang tidak bisa dikendalikan.
+
+1040
+01:08:39,800 --> 01:08:40,910
+Seperti kau mengontrol kubus itu?
+
+1041
+01:08:41,050 --> 01:08:42,300
+Kau bekerja dengan Tesseract
+
+1042
+01:08:42,430 --> 01:08:45,000
+yang membuat Loki datang kemari, bersama
+para sekutunya.
+
+1043
+01:08:45,140 --> 01:08:46,510
+Itu merupakan sinyal kepada seluruh dunia
+
+1044
+01:08:46,640 --> 01:08:49,310
+bahwa bumi bersiap untuk perang yang
+lebih besar.
+
+1045
+01:08:49,430 --> 01:08:50,510
+Lebih besar dari?
+
+1046
+01:08:50,640 --> 01:08:51,640
+Kau memaksa kami.
+
+1047
+01:08:51,770 --> 01:08:52,770
+Kami harus melakukan sesuatu.
+
+1048
+01:08:52,900 --> 01:08:53,890
+Sebuah penangkal nuklir.
+
+1049
+01:08:54,020 --> 01:08:56,020
+Sebab hal itu selalu bisa membawa ketenangan.
+
+1050
+01:08:56,150 --> 01:08:58,520
+Ingatkan aku darimana kau mendapat kekayaan, Stark.
+
+1051
+01:08:58,650 --> 01:09:01,020
+Aku yakin jika saja dia masih membuat senjata,
+Stark akan terlibat jauh...
+
+1052
+01:09:01,150 --> 01:09:02,780
+Tunggu. Mengapa sekarang yang dibahas aku?
+
+1053
+01:09:02,910 --> 01:09:04,020
+Maaf, bukankan itu benar?
+
+1054
+01:09:04,160 --> 01:09:06,030
+Aku pikir manusia lebih beradab dari ini.
+
+1055
+01:09:06,160 --> 01:09:09,030
+Maaf, apakah kami datang ke
+planetmu dan membuatnya hancur?
+
+1056
+01:09:09,160 --> 01:09:11,040
+Kalian memperlakukan pahlawan
+dengan ketidakpercayaan.
+
+1057
+01:09:11,160 --> 01:09:12,620
+Apa kalian begitu naifnya?
+
+1058
+01:09:12,750 --> 01:09:14,620
+S.H.I.E.L.D. mengawasi ancaman yang potensial.
+
+1059
+01:09:14,750 --> 01:09:16,030
+Captain America diawasi?
+
+1060
+01:09:16,170 --> 01:09:17,170
+Kita semua.
+
+1061
+01:09:17,300 --> 01:09:18,710
+Tunggu, Kau ada dalam daftar?
+
+1062
+01:09:18,840 --> 01:09:20,380
+Kau berada di bawah atau di atas?
+
+1063
+01:09:20,510 --> 01:09:22,630
+Stark, demi Tuhan,
+kalau kau lelucon sekali lagi...
+
+1064
+01:09:22,760 --> 01:09:24,000
+Ancaman! Ancaman verbal.
+Aku merasa terancam.
+
+1065
+01:09:24,140 --> 01:09:26,630
+- Tunjukanlah rasa hormat.
+- Rasa hormat apa?
+
+1066
+01:09:33,980 --> 01:09:36,900
+<i>Transport enam-enam-Bravo,
+Silahkan kirim kode konfirmasi.</i>
+
+1067
+01:09:37,020 --> 01:09:39,180
+<i>Kau ada dalam catatan komputer,
+tapi tidak untuk hari ini.</i>
+
+1068
+01:09:39,320 --> 01:09:41,390
+<i>Apa muatanmu? Ganti.</i>
+
+1069
+01:09:41,530 --> 01:09:44,150
+<i>Senjata dan amunisi. Ganti.</i>
+
+1070
+01:09:52,500 --> 01:09:54,700
+Kau bicara soal kontrol,
+tapi yang terjadi adalah kekacauan.
+
+1071
+01:09:54,830 --> 01:09:56,540
+Ini modus operandinya, kan?
+
+1072
+01:09:56,670 --> 01:09:57,910
+Maksudku, apakah kita, sebuah tim?
+
+1073
+01:09:58,040 --> 01:10:01,000
+Tidak, kita adalah makhluk percobaan
+yang membuat kekacauan.
+
+1074
+01:10:01,130 --> 01:10:03,090
+Kita adalah bom waktu.
+
+1075
+01:10:03,220 --> 01:10:05,040
+Kau perlu untuk menjauh.
+
+1076
+01:10:05,180 --> 01:10:07,000
+Kenapa kau tidak membiarkannya sedikit
+marah?
+
+1077
+01:10:07,140 --> 01:10:09,260
+Kau tahu alasannya. Mundur!
+
+1078
+01:10:09,390 --> 01:10:11,600
+Aku mulai ingin agar kau membuatku marah.
+
+1079
+01:10:11,720 --> 01:10:15,340
+Ya. Manusia berbaju zirah.
+
+1080
+01:10:15,480 --> 01:10:16,940
+coba lepas itu, Jadi apa kau?
+
+1081
+01:10:17,060 --> 01:10:19,390
+Jenius, milyuner,
+playboy, dermawan.
+
+1082
+01:10:20,280 --> 01:10:23,440
+Aku tahu orang yang berharga sepuluh
+kali dibandingkan denganmu.
+
+1083
+01:10:23,570 --> 01:10:24,570
+Aku sudah melihat rekamannya.
+
+1084
+01:10:24,700 --> 01:10:26,940
+Satu-satunya yang ingin kau perjuangkan
+adalah dirimu sendiri.
+
+1085
+01:10:28,410 --> 01:10:30,320
+Kau bukanlah pria yang bersedia
+berkorban,
+
+1086
+01:10:30,450 --> 01:10:32,940
+untuk menghadapi kabel pada sebuah bom dan
+membiarkan yang lain pergi
+
+1087
+01:10:33,080 --> 01:10:35,200
+Aku pikir aku cukup memotong kabelnya.
+
+1088
+01:10:37,830 --> 01:10:40,040
+Selalu saja berkilah.
+
+1089
+01:10:40,170 --> 01:10:41,410
+Kau mungkin bukan ancaman
+
+1090
+01:10:41,550 --> 01:10:43,460
+tapi kau sebaiknya berhenti berlagak
+kalau kau adalah seorang pahlawan.
+
+1091
+01:10:43,590 --> 01:10:46,050
+Pahlawan? Seperti kau?
+
+1092
+01:10:46,180 --> 01:10:48,220
+Kau hasil percobaan laboratorium, Rogers.
+
+1093
+01:10:48,340 --> 01:10:51,960
+Semua kelebihanmu berasal dari ramuan.
+
+1094
+01:11:17,250 --> 01:11:20,080
+Pakai bajumu. Ayo kita bertanding.
+
+1095
+01:11:21,090 --> 01:11:24,540
+Kalian begitu picik dan menyedihkan.
+
+1096
+01:11:24,670 --> 01:11:25,670
+Ya, ini adalah sebuah tim.
+
+1097
+01:11:25,800 --> 01:11:27,040
+Agen Romanoff, maukah kau menemani
+
+1098
+01:11:27,170 --> 01:11:28,290
+Dr Banner kembali ke...
+
+1099
+01:11:28,430 --> 01:11:30,090
+kemana? kau mengambil alih kamarku.
+
+1100
+01:11:30,220 --> 01:11:31,680
+Sel hanya untuk jaga-jaga saja...
+
+1101
+01:11:31,800 --> 01:11:33,350
+Jaga-jaga jika kau berniat
+untuk membunuhku.
+
+1102
+01:11:33,470 --> 01:11:36,390
+Tapi kau takkan bisa. Aku tahu, Aku pernah coba.
+
+1103
+01:11:39,100 --> 01:11:42,020
+Aku putus asa. Aku tidak melihat jalan akhir.
+
+1104
+01:11:42,150 --> 01:11:46,610
+Jadi, aku menembakkan peluru ke mulutku,
+dan laki-laki lain itu memuntahkannya.
+
+1105
+01:11:47,190 --> 01:11:48,390
+Jadi kulanjutkan hidupku.
+
+1106
+01:11:48,530 --> 01:11:51,360
+Aku fokus untuk membantu orang lain.
+Aku cukup bagus untuk itu.
+
+1107
+01:11:51,490 --> 01:11:53,700
+Sampai kau menyeretku ke pertunjukkan
+orang-orang aneh ini
+
+1108
+01:11:53,830 --> 01:11:55,200
+dan membahayakan nyawa semua orang.
+
+1109
+01:11:55,330 --> 01:11:57,400
+Kau ingin tahu rahasiaku,
+Agen Romanoff?
+
+1110
+01:11:57,540 --> 01:11:59,370
+Kau ingin tahu bagaimana caranya
+supaya aku bisa dalam keadaan tenang?
+
+1111
+01:12:02,170 --> 01:12:04,330
+Dr Banner,
+
+1112
+01:12:05,130 --> 01:12:06,460
+Letakkan tongkat itu.
+
+1113
+01:12:15,220 --> 01:12:16,390
+Baiklah.
+
+1114
+01:12:17,220 --> 01:12:18,220
+Maaf, nak,
+
+1115
+01:12:18,350 --> 01:12:20,090
+Bagaimanapun juga kalian
+tidak dapat melihat rahasiaku.
+
+1116
+01:12:20,230 --> 01:12:21,220
+Kau dapat lokasi Tesseract?
+
+1117
+01:12:21,350 --> 01:12:22,350
+Aku bisa ke sana lebih cepat.
+
+1118
+01:12:22,480 --> 01:12:24,600
+Tesseract milik Asgard.
+Tak ada manusia yang mampu menandinginya.
+
+1119
+01:12:24,730 --> 01:12:26,060
+- Kau tak akan pergi sendiri.
+- Kau ingin menghentikanku?
+
+1120
+01:12:26,190 --> 01:12:27,190
+Pakai baju itu, kita cari tahu.
+
+1121
+01:12:27,320 --> 01:12:28,600
+Aku tidak takut menghajar pria tua.
+
+1122
+01:12:28,740 --> 01:12:29,730
+Pakai baju itu.
+
+1123
+01:12:32,610 --> 01:12:34,240
+Oh, Tuhan.
+
+1124
+01:12:49,760 --> 01:12:50,750
+Pakai baju itu.
+
+1125
+01:12:50,880 --> 01:12:52,160
+Ya.
+
+1126
+01:12:54,930 --> 01:12:56,670
+<i>Semuanya ke pos masing-masing.</i>
+
+1127
+01:13:00,810 --> 01:13:02,600
+<i>- Hill!
+- Peledakan luar.</i>
+
+1128
+01:13:02,730 --> 01:13:03,970
+Mesin nomer tiga mati.
+
+1129
+01:13:04,100 --> 01:13:05,100
+Kita tertembak.
+
+1130
+01:13:05,230 --> 01:13:06,390
+- Bisakah mereka menyalakannya?
+- Api di mesin tiga!
+
+1131
+01:13:06,520 --> 01:13:07,520
+Katakan padaku.
+
+1132
+01:13:07,650 --> 01:13:09,270
+Turbin tampaknya sebagian besar masih utuh
+
+1133
+01:13:09,400 --> 01:13:11,280
+Tapi tidak mungkin ke luar sana
+untuk memperbaikinya
+
+1134
+01:13:11,400 --> 01:13:12,810
+ketika kita sedang terbang.
+
+1135
+01:13:12,950 --> 01:13:15,480
+Jika kita kehilangan satu mesin lagi,
+kita tidak akan terbang.
+
+1136
+01:13:15,620 --> 01:13:17,610
+Seseorang harus keluar
+dan memperbaiki mesinnya.
+
+1137
+01:13:17,740 --> 01:13:19,450
+<i>- Stark, kau dengar itu?
+- Aku sedang ke sana.</i>
+
+1138
+01:13:19,580 --> 01:13:22,860
+<i>Coulson, mulailah sistem pengunci defensif
+di ruang tahanan</i>
+
+1139
+01:13:23,000 --> 01:13:23,990
+<i>lalu ambil persenjataan.</i>
+
+1140
+01:13:24,120 --> 01:13:25,240
+Romanoff?
+
+1141
+01:13:28,880 --> 01:13:30,340
+kita baik-baik saja.
+
+1142
+01:13:32,920 --> 01:13:34,170
+Kita baik-baik saja, kan?
+
+1143
+01:13:46,770 --> 01:13:47,970
+- Jaga mesinnya agar tetap mati!
+- Siap, tuan.
+
+1144
+01:13:48,110 --> 01:13:49,810
+Ruang tahanan, tunggu sampai kameranya mati.
+
+1145
+01:13:49,940 --> 01:13:51,730
+- Paham.
+- Tetap berdekatan.
+
+1146
+01:13:53,490 --> 01:13:54,980
+Ayo, Level 4.
+
+1147
+01:13:55,950 --> 01:13:58,730
+Mesin tiga. aku akan bertemu kau di sana.
+
+1148
+01:14:06,920 --> 01:14:08,080
+Dokter?
+
+1149
+01:14:10,460 --> 01:14:11,460
+Bruce?
+
+1150
+01:14:11,760 --> 01:14:15,420
+Kau harus melawannya.
+Inilah yang Loki inginkan.
+
+1151
+01:14:16,800 --> 01:14:17,830
+Kita akan baik-baik saja. Dengarkan aku.
+
+1152
+01:14:17,970 --> 01:14:18,970
+Kau terluka?
+
+1153
+01:14:22,270 --> 01:14:24,470
+Kita akan baik-baik saja. Iya kan?
+
+1154
+01:14:24,600 --> 01:14:27,350
+Aku berjanji demi hidupku,
+Aku akan mengeluarkanmu dari sini.
+
+1155
+01:14:27,480 --> 01:14:28,850
+Kau akan pergi dan tidak akan pernah...
+
+1156
+01:14:28,980 --> 01:14:31,060
+Hidupmu?
+
+1157
+01:14:47,580 --> 01:14:48,580
+Bruce.
+
+1158
+01:15:25,450 --> 01:15:28,610
+Arahkan pesawat menuju ke 1-8-0,
+Arah selatan!
+
+1159
+01:15:28,750 --> 01:15:30,620
+- Bawa kita ke perairan!
+- Kita terbang tanpa radar.
+
+1160
+01:15:30,750 --> 01:15:32,740
+Navigasinya kacau setelah kerusakan mesin.
+
+1161
+01:15:32,880 --> 01:15:34,620
+Matahari masih bersinar?
+
+1162
+01:15:35,380 --> 01:15:37,590
+- Ya, Pak.
+- Kalu begitu terbangkan ke kiri.
+
+1163
+01:15:37,720 --> 01:15:39,380
+Menuju ke perairan.
+
+1164
+01:15:39,510 --> 01:15:41,580
+Satu turbin lagi mati,
+dan kita jatuh.
+
+1165
+01:15:43,850 --> 01:15:45,130
+Terima kasih.
+
+1166
+01:15:48,480 --> 01:15:49,640
+Stark!
+
+1167
+01:15:52,360 --> 01:15:54,020
+Stark, aku di sini!
+
+1168
+01:15:54,150 --> 01:15:55,640
+<i>Bagus.</i>
+
+1169
+01:15:56,860 --> 01:15:58,850
+<i>Mari kita lihat apa yang kita dapat.</i>
+
+1170
+01:15:58,990 --> 01:16:00,650
+Aku harus memperbaiki sistem pendingin
+superkonduktor ini
+
+1171
+01:16:00,780 --> 01:16:01,780
+kembali terpasang
+
+1172
+01:16:01,910 --> 01:16:03,360
+Sebelum aku masuk ke rotornya,
+
+1173
+01:16:03,490 --> 01:16:05,320
+membuang kepingan yang menyumbatnya.
+
+1174
+01:16:07,870 --> 01:16:09,410
+<i>Aku ingin kau menuju ke sana
+kontrol panel mesin</i>
+
+1175
+01:16:09,540 --> 01:16:13,200
+<i>dan katakan padaku relay mana
+yang kelebihan muatan.</i>
+
+1176
+01:16:25,510 --> 01:16:27,060
+<i>dan apa yang tampak terlihat di sana?</i>
+
+1177
+01:16:27,770 --> 01:16:30,300
+Ini tampak seperti komponen listrik.
+
+1178
+01:16:30,430 --> 01:16:32,180
+yah, kau tidak salah.
+
+1179
+01:17:36,000 --> 01:17:38,830
+Kami bukan musuhmu, Banner.
+
+1180
+01:17:38,960 --> 01:17:39,960
+Cobalah untuk berpikir!
+
+1181
+01:17:50,100 --> 01:17:51,970
+<i>Oke, Relaynya sudah tersambung.</i>
+
+1182
+01:17:52,100 --> 01:17:53,560
+Apa langkah kita selanjutnya?
+
+1183
+01:17:53,680 --> 01:17:54,680
+<i>Walau jika aku membersihkan rotornya,</i>
+
+1184
+01:17:54,810 --> 01:17:57,020
+<i>benda ini tidak akan
+menyala tanpa dorongan.</i>
+
+1185
+01:17:57,150 --> 01:17:58,520
+Aku harus masuk ke sana dan mendorongnya.
+
+1186
+01:17:58,650 --> 01:18:00,390
+Jika benda itu bergerak semakin cepat,
+kau akan hancur.
+
+1187
+01:18:00,520 --> 01:18:02,520
+Unit kontrol stator bisa
+membalikkan polaritas
+
+1188
+01:18:02,650 --> 01:18:04,060
+cukup lama untuk melepaskan
+maglev dan itu bisa...
+
+1189
+01:18:04,190 --> 01:18:05,520
+Bicara dalam Bahasa Inggris!
+
+1190
+01:18:06,860 --> 01:18:07,980
+kau melihat tuas merah?
+
+1191
+01:18:09,280 --> 01:18:11,410
+<i>Itu akan melambatkan rotor
+cukup lama untuk membuatku keluar.</i>
+
+1192
+01:18:11,540 --> 01:18:13,330
+Siapkan itu. Tunggu perintahku.
+
+1193
+01:19:05,920 --> 01:19:07,710
+Kita butuh untuk mengevakuasi hangar
+paling bawah.
+
+1194
+01:19:10,930 --> 01:19:11,960
+Granat!
+
+1195
+01:19:27,110 --> 01:19:28,440
+<i>Kita kedatangan penyusup!</i>
+
+1196
+01:19:28,570 --> 01:19:30,610
+<i>Musuh telah berada di dalam S.H.I.E.L.D..</i>
+
+1197
+01:19:30,740 --> 01:19:32,810
+<i>Tutup seluruh gerbang.</i>
+
+1198
+01:19:40,120 --> 01:19:42,330
+<i>Hulk dan Thor berada di Ruang Penelitian
+lantai 4.</i>
+
+1199
+01:19:42,460 --> 01:19:44,000
+<i>Lantai 2 dan 3 sudah lumpuh.</i>
+
+1200
+01:19:44,130 --> 01:19:46,250
+Pak, Hulk bisa menghancurkan tempat ini!
+
+1201
+01:19:47,460 --> 01:19:48,460
+Alihkan perhatiannya.
+
+1202
+01:19:48,590 --> 01:19:52,750
+Escort 6-0, segera menuju
+bagian sayap dan serang musuh yang ada.
+
+1203
+01:19:52,890 --> 01:19:54,170
+<i>Jangan terlalu dekat.</i>
+
+1204
+01:19:54,300 --> 01:19:55,680
+<i>Baik.</i>
+
+1205
+01:20:07,610 --> 01:20:08,980
+<i>Sasaran sudah terlihat.</i>
+
+1206
+01:20:13,280 --> 01:20:14,280
+<i>Sasaran terkunci.</i>
+
+1207
+01:20:25,920 --> 01:20:27,460
+<i>Sasaran marah, sasaran marah!</i>
+
+1208
+01:21:35,860 --> 01:21:38,070
+Mereka tidak akan bisa masuk ke sini,
+lalu apa...
+
+1209
+01:21:56,470 --> 01:21:58,710
+<i>Mesin utama mati.</i>
+
+1210
+01:22:07,140 --> 01:22:09,300
+Sebentar lagi kita akan jatuh.
+
+1211
+01:22:09,440 --> 01:22:11,310
+<i>Pak, kita kehilangan seluruh tenaga
+di mesin utama.</i>
+
+1212
+01:22:11,860 --> 01:22:13,680
+<i>Ini Barton. Dia telah melumpuhkan
+sistem kita.</i>
+
+1213
+01:22:13,820 --> 01:22:16,310
+<i>Dia sedang menuju lantai Tahanan.</i>
+
+1214
+01:22:16,450 --> 01:22:18,400
+<i>Ada yang bisa mendengar?</i>
+
+1215
+01:22:19,570 --> 01:22:21,700
+Ini Agen Romanoff.
+
+1216
+01:22:21,830 --> 01:22:23,280
+Aku dengar.
+
+1217
+01:22:27,910 --> 01:22:28,910
+<i>Stark, kami akan terjatuh.</i>
+
+1218
+01:22:29,040 --> 01:22:30,500
+Iya, aku tahu.
+
+1219
+01:22:59,530 --> 01:23:00,560
+Tidak!
+
+1220
+01:23:08,160 --> 01:23:10,870
+Apa kau masih belum mau menyerah?
+
+1221
+01:23:53,880 --> 01:23:56,120
+Para manusia berpikir kita ini abadi.
+
+1222
+01:23:57,210 --> 01:23:58,750
+Apa perlu kita mengujinya?
+
+1223
+01:24:01,550 --> 01:24:02,750
+Tolong, minggir.
+
+1224
+01:24:07,220 --> 01:24:08,720
+Kau suka ini?
+
+1225
+01:24:09,680 --> 01:24:12,930
+Kami mulai mengerjakan tiruan senjata ini
+setelah kau mengirim the Destroyer (sang Penghancur).
+
+1226
+01:24:14,150 --> 01:24:16,390
+Walaupun sebenarnya aku tidak tahu kegunaannya.
+
+1227
+01:24:17,190 --> 01:24:18,440
+Apa kau mau coba?
+
+1228
+01:24:20,440 --> 01:24:21,900
+Tidak!
+
+1229
+01:25:31,430 --> 01:25:32,840
+Natasha?
+
+1230
+01:26:04,420 --> 01:26:06,170
+Kau pasti kalah.
+
+1231
+01:26:08,220 --> 01:26:09,420
+Benarkah?
+
+1232
+01:26:10,720 --> 01:26:13,210
+Itu sudah takdirmu.
+
+1233
+01:26:15,390 --> 01:26:17,720
+Seluruh Pahlawan kalian telah
+berpencar.
+
+1234
+01:26:17,850 --> 01:26:21,550
+Dan saat ini benteng pertahanan udara kalian
+sedang jatuh.
+
+1235
+01:26:21,690 --> 01:26:23,310
+Lalu, di mana letak ketidak beruntunganku?
+
+1236
+01:26:23,980 --> 01:26:26,060
+Kau tidak memastikannya.
+
+1237
+01:26:26,900 --> 01:26:27,900
+Aku rasa, aku tidak...
+
+1238
+01:26:34,740 --> 01:26:36,450
+Itulah yang aku maksud.
+
+1239
+01:26:38,540 --> 01:26:41,660
+<i>Seluruh petugas harap  menuju
+titik kerusakannya.</i>
+
+1240
+01:27:09,280 --> 01:27:10,270
+Cap, tekan tuas itu.
+
+1241
+01:27:10,650 --> 01:27:13,230
+Tunggu sebentar!
+
+1242
+01:27:13,370 --> 01:27:14,440
+Tuas-nya...
+
+1243
+01:27:14,570 --> 01:27:15,690
+sekarang!
+
+1244
+01:27:27,670 --> 01:27:28,790
+<i>Tolong!</i>
+
+1245
+01:28:04,420 --> 01:28:05,790
+Maaf, Bos.
+
+1246
+01:28:05,920 --> 01:28:07,630
+si Dewa kelinci itu.
+
+1247
+01:28:07,750 --> 01:28:09,210
+Bertahanlah.
+
+1248
+01:28:09,340 --> 01:28:10,960
+Lihat aku.
+
+1249
+01:28:11,090 --> 01:28:12,630
+Tidak, aku tidak akan selamat.
+
+1250
+01:28:12,760 --> 01:28:14,250
+Jangan banyak alasan.
+
+1251
+01:28:15,260 --> 01:28:17,220
+Tidak apa-apa, Bos.
+
+1252
+01:28:19,140 --> 01:28:21,180
+Alat ini tidak akan teruji...
+
+1253
+01:28:21,310 --> 01:28:22,590
+seandainya mereka tidak...
+
+1254
+01:28:23,940 --> 01:28:25,480
+ingin...
+
+1255
+01:28:54,590 --> 01:28:56,420
+<i>Agen Coulson tewas.</i>
+
+1256
+01:28:57,800 --> 01:28:59,510
+<i>Tim Medis sedang menuju tempat anda.</i>
+
+1257
+01:28:59,640 --> 01:29:01,100
+<i>Mereka sudah ada di sini.</i>
+
+1258
+01:29:04,310 --> 01:29:05,930
+<i>Mereka sudah dipanggil.</i>
+
+1259
+01:29:22,410 --> 01:29:24,030
+Ini yang ada di dalam jas Phil Coulson.
+
+1260
+01:29:27,370 --> 01:29:29,500
+Sepertinya dia tidak sempat
+meminta tanda-tanganmu.
+
+1261
+01:29:33,000 --> 01:29:34,660
+Kita terjebak di sini.
+
+1262
+01:29:34,800 --> 01:29:37,880
+Komunikasi kita,
+lokasi Cube (kubus)  itu,
+
+1263
+01:29:38,010 --> 01:29:40,420
+Banner, Thor...
+
+1264
+01:29:41,720 --> 01:29:43,630
+Aku sudah tidak ada apa-apa lagi.
+
+1265
+01:29:43,760 --> 01:29:46,680
+Aku pernah kehilangan 1 mata.
+
+1266
+01:29:49,730 --> 01:29:52,730
+Harusnya aku terbiasa akan hal  seperti ini.
+
+1267
+01:29:56,940 --> 01:29:58,220
+Ya,
+
+1268
+01:29:59,410 --> 01:30:02,740
+kita akan membuat senjata itu
+dengan the Tesseract.
+
+1269
+01:30:04,200 --> 01:30:06,110
+Selama ini aku terlalu ragu untuk
+melakukannya,
+
+1270
+01:30:06,250 --> 01:30:09,280
+tapi ternyata aku justru menjalankan
+sebuah permainan yang berbahaya.
+
+1271
+01:30:13,250 --> 01:30:17,380
+Ada satu ide, Stark tahu tentang ini,
+
+1272
+01:30:19,260 --> 01:30:22,590
+ide ini adalah insiatif the Avengers.
+
+1273
+01:30:23,800 --> 01:30:25,930
+Awalnya ide ini adalah untuk membentuk
+satu kelompok,
+
+1274
+01:30:26,060 --> 01:30:28,590
+yang terdiri dari orang-orang yang luar biasa.
+
+1275
+01:30:29,390 --> 01:30:32,230
+berharap mereka bisa menjadi sesuatu
+yang lebih hebat lagi.
+
+1276
+01:30:33,610 --> 01:30:37,770
+Berharap mereka bisa bekerja sama saat
+kami membutuhkan mereka,
+
+1277
+01:30:37,900 --> 01:30:41,240
+untuk melawan peperangan yang tidak bisa
+kami lawan.
+
+1278
+01:30:43,990 --> 01:30:48,820
+Saat Phil Coulson tewas, dia masih percaya.
+
+1279
+01:30:51,170 --> 01:30:52,830
+Pada heroes (para pahlawan).
+
+1280
+01:31:00,920 --> 01:31:02,470
+Ternyata,
+
+1281
+01:31:03,340 --> 01:31:06,010
+ini hanya bisa jadi gagasan belaka saja.
+
+1282
+01:31:26,320 --> 01:31:28,820
+<i>Kau jatuh dari langit.</i>
+
+1283
+01:31:42,840 --> 01:31:44,340
+Apa aku melukai seseorang?
+
+1284
+01:31:44,470 --> 01:31:47,500
+Untungnya tidak ada siapa-siapa disini.
+
+1285
+01:31:47,640 --> 01:31:50,920
+Tapi yang pasti, kau sudah menakuti
+burung-burung dara itu.
+
+1286
+01:31:51,770 --> 01:31:52,800
+Untunglah.
+
+1287
+01:31:52,930 --> 01:31:54,560
+Sepertinya kau memang mengarahkannya.
+
+1288
+01:31:54,690 --> 01:31:56,260
+Saat kau jatuh, kau masih sadar.
+
+1289
+01:31:58,360 --> 01:32:00,400
+- Kau lihat?
+- Jelas sekali.
+
+1290
+01:32:00,530 --> 01:32:02,150
+Kau menembus atap ini.
+
+1291
+01:32:02,280 --> 01:32:06,230
+Raksasa hijau dan telanjang bulat.
+
+1292
+01:32:06,360 --> 01:32:07,480
+Ini.
+
+1293
+01:32:08,870 --> 01:32:11,030
+Aku kira celana ini tidak akan muat, kalau
+kau tidak menyusut...
+
+1294
+01:32:11,160 --> 01:32:13,570
+ke ukuran manusia normal.
+
+1295
+01:32:15,920 --> 01:32:17,200
+Terima kasih.
+
+1296
+01:32:18,210 --> 01:32:19,450
+Apa kau alien?
+
+1297
+01:32:20,050 --> 01:32:21,240
+Apa?
+
+1298
+01:32:21,550 --> 01:32:22,870
+Alien, makhluk dari luar angkasa.
+
+1299
+01:32:23,510 --> 01:32:24,500
+Bukan.
+
+1300
+01:32:24,880 --> 01:32:28,000
+Berarti ada masalah di dirimu, nak.
+
+1301
+01:32:38,860 --> 01:32:41,180
+Clint. Kau akan baik-baik saja.
+
+1302
+01:32:44,530 --> 01:32:46,600
+Kau tahu apa?
+
+1303
+01:32:47,450 --> 01:32:49,320
+Apa itu yang kau tahu?
+
+1304
+01:32:51,780 --> 01:32:54,660
+Aku tidak ingat.
+
+1305
+01:32:55,460 --> 01:32:56,830
+Aku harus mengeluarkannya.
+
+1306
+01:32:57,750 --> 01:32:59,580
+Kau tadi tidak sadar.
+Sebaiknya kau istirahat.
+
+1307
+01:32:59,710 --> 01:33:01,250
+Kau tidak mengerti.
+
+1308
+01:33:03,210 --> 01:33:06,460
+Apa kau pernah merasakan, ada seseorang
+yang bermain di dalam otakmu?
+
+1309
+01:33:07,260 --> 01:33:11,420
+Kemudian dia menarikmu dan menggantikannya
+dengan yang lain?
+
+1310
+01:33:14,600 --> 01:33:16,970
+Apa kau pernah merasakan seperti
+orang yang tak berdaya?
+
+1311
+01:33:18,520 --> 01:33:20,890
+Kau pasti tahu, aku pernah merasakannya.
+
+1312
+01:33:28,490 --> 01:33:29,520
+Kenapa aku kembali?
+
+1313
+01:33:30,660 --> 01:33:32,030
+Bagaimana caramu mengeluarkannya?
+
+1314
+01:33:32,160 --> 01:33:34,990
+Teori Peneraan Ulang.
+
+1315
+01:33:35,120 --> 01:33:37,820
+Aku pukul kepalamu dengan keras.
+
+1316
+01:33:37,960 --> 01:33:39,040
+Terima kasih.
+
+1317
+01:33:43,340 --> 01:33:45,080
+Natasha...
+
+1318
+01:33:45,760 --> 01:33:46,830
+Sudah berapa banyak Agen yang aku...
+
+1319
+01:33:46,960 --> 01:33:48,420
+Jangan.
+
+1320
+01:33:48,550 --> 01:33:50,760
+Jangan perlakukan dirimu seperti itu, Clint.
+
+1321
+01:33:51,340 --> 01:33:53,050
+Ini perbuatan Loki.
+
+1322
+01:33:53,180 --> 01:33:55,800
+Dia monster dan penuh dengan kekuatan gaib,
+
+1323
+01:33:55,930 --> 01:33:57,560
+kita tidak pernah dilatih untuk menghadapinya.
+
+1324
+01:33:57,680 --> 01:33:59,230
+Loki, apakah dia berhasil kabur?
+
+1325
+01:33:59,350 --> 01:34:00,350
+Iya.
+
+1326
+01:34:00,690 --> 01:34:02,930
+Aku rasa kau tidak tahu dia kemana.
+
+1327
+01:34:03,060 --> 01:34:04,860
+Aku tidak ingin tahu.
+
+1328
+01:34:04,980 --> 01:34:06,730
+Aku tidak menanyakannya.
+
+1329
+01:34:09,990 --> 01:34:12,480
+Tapi yang pasti, sebentar lagi dia akan
+mulai memainkan rencananya.
+
+1330
+01:34:12,820 --> 01:34:13,820
+Hari ini.
+
+1331
+01:34:13,950 --> 01:34:15,280
+Kita harus menghentikannya.
+
+1332
+01:34:15,950 --> 01:34:17,200
+Benarkah? Kita siapa?
+
+1333
+01:34:17,330 --> 01:34:19,290
+Entahlah. Siapa saja yang tersisa.
+
+1334
+01:34:20,500 --> 01:34:21,830
+Baiklah,
+
+1335
+01:34:23,540 --> 01:34:25,700
+seandainya aku bisa memanah
+bola matanya Loki,
+
+1336
+01:34:25,840 --> 01:34:28,540
+Aku rasa, aku baru akan bisa tidur
+dengan tenang
+
+1337
+01:34:31,380 --> 01:34:32,960
+Ini baru kau yang sebenarnya.
+
+1338
+01:34:33,680 --> 01:34:35,140
+Tapi kau tidak.
+
+1339
+01:34:37,060 --> 01:34:39,890
+Kau ini mata-mata, bukan Tentara.
+
+1340
+01:34:40,020 --> 01:34:44,760
+Tapi sekarang kau ingin terlibat dalam
+perang ini. Kenapa?
+
+1341
+01:34:46,520 --> 01:34:48,480
+Apa yang telah Loki lakukan padamu?
+
+1342
+01:34:49,230 --> 01:34:51,640
+Tidak ada. Aku hanya...
+
+1343
+01:34:55,410 --> 01:34:56,950
+Natasha.
+
+1344
+01:34:59,040 --> 01:35:01,030
+Aku pernah bekerja sama dengannya.
+
+1345
+01:35:04,120 --> 01:35:06,250
+Aku sudah mendapat nilai buruk.
+
+1346
+01:35:08,380 --> 01:35:10,460
+Sekarang saatnya untuk memperbaikinya.
+
+1347
+01:35:26,480 --> 01:35:27,970
+Dia sudah menikah?
+
+1348
+01:35:28,110 --> 01:35:29,520
+Tidak.
+
+1349
+01:35:29,650 --> 01:35:33,860
+Menurutku yang pasti dia itu pemain celo.
+
+1350
+01:35:35,450 --> 01:35:36,860
+Aku turut berduka.
+
+1351
+01:35:37,570 --> 01:35:39,230
+Sepertinya dia orang yang baik.
+
+1352
+01:35:40,540 --> 01:35:41,620
+Dia itu bodoh.
+
+1353
+01:35:41,750 --> 01:35:43,990
+Kenapa? Karena kepercayaannya?
+
+1354
+01:35:44,120 --> 01:35:45,530
+Karena melawan Loki sendirian.
+
+1355
+01:35:45,670 --> 01:35:47,370
+Dia hanya menjalankan tugasnya.
+
+1356
+01:35:47,500 --> 01:35:50,040
+Dia bukan bagian dari Liga ini.
+Harusnya dia menunggu saja.
+
+1357
+01:35:50,170 --> 01:35:51,200
+Harusnya dia...
+
+1358
+01:35:51,340 --> 01:35:52,920
+Terkadang ada saatnya sesuatu itu tidak
+bisa dihindari Tony.
+
+1359
+01:35:53,050 --> 01:35:55,170
+Oh iya. Aku pernah dengar itu.
+
+1360
+01:35:55,300 --> 01:35:56,790
+Apa ini pertama kalinya kau kehilangan
+soldier (Tentara/Rekan)mu?
+
+1361
+01:35:56,930 --> 01:35:58,720
+Kami bukan Tentara.
+
+1362
+01:36:03,180 --> 01:36:04,930
+Aku tidak pernah ikut upacara baris berbaris.
+
+1363
+01:36:05,060 --> 01:36:06,220
+Aku juga tidak.
+
+1364
+01:36:06,350 --> 01:36:08,560
+Dia memiliki tanggung jawab yang sama
+atas perbuatan Loki.
+
+1365
+01:36:08,690 --> 01:36:10,060
+Tapi sekarang, kita singkirkan itu dulu...
+
+1366
+01:36:10,190 --> 01:36:12,400
+dan selesaikan masalah ini.
+
+1367
+01:36:12,530 --> 01:36:13,520
+Loki membutuhkan sumber tenaga.
+
+1368
+01:36:13,650 --> 01:36:14,650
+Kalau kita bisa menyatukan seluruh daftar...
+
+1369
+01:36:14,780 --> 01:36:15,770
+Dia sengaja menyerang pribadi.
+
+1370
+01:36:15,950 --> 01:36:16,980
+Bukan itu tujuannya.
+
+1371
+01:36:17,110 --> 01:36:19,490
+Itu tujuannya. Itu tujuannnya Loki.
+
+1372
+01:36:19,620 --> 01:36:21,530
+Dia sengaja menyerang tempat tinggal kita.
+Kenapa?
+
+1373
+01:36:21,660 --> 01:36:22,660
+Untuk memisahkan kita.
+
+1374
+01:36:22,790 --> 01:36:24,660
+Iya, memecah belah kita dan mengalahkan kita...
+
+1375
+01:36:24,790 --> 01:36:27,240
+dia juga tahu kan, dia harus mengalahkan kita
+dulu kalau ingin menang?
+
+1376
+01:36:27,370 --> 01:36:28,920
+Itulah yang dia inginkan.
+
+1377
+01:36:29,040 --> 01:36:31,530
+Dia ingin mengalahkan kita, dan dia
+ingin dilihat saat berhasil melakukannya.
+
+1378
+01:36:31,670 --> 01:36:32,780
+Dia menginginkan penonton.
+
+1379
+01:36:33,510 --> 01:36:35,170
+Iya. Aku sudah melihat pertunjukkannya
+di Stuttgart.
+
+1380
+01:36:35,300 --> 01:36:38,220
+Itu hanya pendahuluannya saja.
+Sekaranglah malam pembukaannya.
+
+1381
+01:36:38,340 --> 01:36:40,880
+Dan Loki, dia orang yang sangat ingin
+di puja, bukan?
+
+1382
+01:36:41,010 --> 01:36:42,590
+Dia menginginkan bunga, pawai.
+
+1383
+01:36:42,720 --> 01:36:46,510
+Dia menginginkan sebuah tugu yang tinggi
+yang memakai namanya...
+
+1384
+01:36:48,270 --> 01:36:49,850
+Sial.
+
+1385
+01:37:01,120 --> 01:37:02,150
+Saatnya berangkat
+
+1386
+01:37:02,280 --> 01:37:03,830
+- Kemana?
+- Aku akan memberitahumu di perjalanan.
+
+1387
+01:37:03,950 --> 01:37:04,950
+Kau bisa menerbangkan pesawat-pesawat itu?
+
+1388
+01:37:06,540 --> 01:37:07,780
+Aku bisa.
+
+1389
+01:37:11,670 --> 01:37:12,700
+Kau ada seragam?
+
+1390
+01:37:12,840 --> 01:37:13,830
+Iya.
+
+1391
+01:37:13,960 --> 01:37:15,420
+Kalau begitu pakailah.
+
+1392
+01:37:43,070 --> 01:37:44,350
+Hei, kalian tidak diijinkan ke sini.
+
+1393
+01:37:44,490 --> 01:37:46,820
+Nak, jangan.
+
+1394
+01:37:48,870 --> 01:37:49,870
+Pak.
+
+1395
+01:37:50,000 --> 01:37:51,200
+Agen Hill.
+
+1396
+01:37:51,750 --> 01:37:53,290
+Kartu-kartu itu,
+
+1397
+01:37:55,420 --> 01:37:59,880
+kartu-kartu itu ada di lemarinya Coulson,
+bukan di jas-nya.
+
+1398
+01:38:04,300 --> 01:38:05,880
+Mereka perlu dorongan.
+
+1399
+01:38:08,980 --> 01:38:11,260
+<i>Ada penerbangan ilegal dari Teluk 6.</i>
+
+1400
+01:38:12,140 --> 01:38:13,470
+Mereka menemukannya.
+
+1401
+01:38:14,310 --> 01:38:18,010
+Segera perbaiki komunikasi kita,
+jangan ada alasan.
+
+1402
+01:38:18,150 --> 01:38:20,390
+- Aku ingin memantau semuanya.
+- Baik, Pak.
+
+1403
+01:38:33,960 --> 01:38:35,700
+<i>Pak, saya telah mematikan reaktor busurnya...</i>
+
+1404
+01:38:35,840 --> 01:38:39,670
+<i>tapi alat ini sudah terlanjur bergerak sendiri.</i>
+
+1405
+01:38:39,800 --> 01:38:41,960
+<i>Matikan alat itu, Dr Selvig.</i>
+
+1406
+01:38:42,630 --> 01:38:43,910
+Terlambat!
+
+1407
+01:38:45,970 --> 01:38:47,430
+Sudah tidak bisa dihentikan.
+
+1408
+01:38:48,470 --> 01:38:50,930
+Dia ingin menunjukkan sesuatu pada kita!
+
+1409
+01:38:51,060 --> 01:38:53,100
+Sebuah alam semesta yang baru
+
+1410
+01:38:53,230 --> 01:38:54,770
+<i>Baiklah.</i>
+
+1411
+01:39:01,820 --> 01:39:03,690
+<i>Penghalang ini adalah energi murni.</i>
+
+1412
+01:39:03,820 --> 01:39:05,700
+<i>Tidak bisa ditembus.</i>
+
+1413
+01:39:05,820 --> 01:39:07,610
+<i>Iya, aku tahu.</i>
+
+1414
+01:39:08,830 --> 01:39:09,820
+<i>Rencana B.</i>
+
+1415
+01:39:11,000 --> 01:39:13,070
+<i>Pak, Mark 7
+belum bisa digunakan.</i>
+
+1416
+01:39:13,210 --> 01:39:15,450
+Kalau begitu, jangan banyak basa-basi.
+Kita sudah tidak ada waktu.
+
+1417
+01:39:35,190 --> 01:39:38,220
+Tolong katakan, kau ingin memohon
+belas kasihanku.
+
+1418
+01:39:39,360 --> 01:39:41,730
+Justru aku ke sini ingin mengancammu.
+
+1419
+01:39:41,860 --> 01:39:43,320
+Jadi, kau melepaskan jubahmu
+untuk melakukan ini.
+
+1420
+01:39:43,440 --> 01:39:44,850
+Iya.
+
+1421
+01:39:44,990 --> 01:39:46,070
+Ini sudah keterlaluan,
+
+1422
+01:39:46,200 --> 01:39:48,820
+dan kau memiliki tongkat takdir yang
+bercahaya itu.
+
+1423
+01:39:49,620 --> 01:39:51,910
+Kau mau minum?
+
+1424
+01:39:52,040 --> 01:39:53,150
+Percuma saja kau mendekatiku.
+
+1425
+01:39:53,290 --> 01:39:55,410
+Tidak, tidak. Ini ancaman.
+
+1426
+01:39:55,540 --> 01:39:56,910
+Tidak mau minum? Apa kau yakin?
+
+1427
+01:39:57,040 --> 01:39:58,580
+Aku mau buat.
+
+1428
+01:39:59,630 --> 01:40:03,540
+Chitauri sudah akan datang.
+Tidak ada yang bisa merubah itu.
+
+1429
+01:40:04,420 --> 01:40:05,830
+Apa lagi yang perlu kutakuti?
+
+1430
+01:40:05,970 --> 01:40:07,670
+The Avengers (Para Penuntut Balas).
+
+1431
+01:40:09,760 --> 01:40:12,090
+Begitulah kami menamai diri kami.
+Kami semacam tim.
+
+1432
+01:40:12,220 --> 01:40:13,850
+"Pahlawan Bumi yang terkuat" seperti itulah.
+
+1433
+01:40:13,970 --> 01:40:15,850
+Aku pernah bertemu dengan mereka
+
+1434
+01:40:15,980 --> 01:40:17,010
+Iya.
+
+1435
+01:40:17,140 --> 01:40:18,310
+Memang tidak sulit untuk mengetahui kami,
+
+1436
+01:40:18,440 --> 01:40:19,430
+aku yakin kau juga berpikir hal yang sama.
+
+1437
+01:40:19,560 --> 01:40:21,770
+Tapi, biar kuperjelas lagi ya.
+
+1438
+01:40:21,900 --> 01:40:24,390
+Adikmu, si manusia setengah dewa,
+
+1439
+01:40:26,110 --> 01:40:29,690
+tentara super, yang selama ini dianggap
+sebagai legenda.
+
+1440
+01:40:29,820 --> 01:40:32,990
+Orang yang memiliki masalah dengan emosinya,
+
+1441
+01:40:33,120 --> 01:40:36,200
+sepasang pembunuh terhebat,
+dan kau, kawan,
+
+1442
+01:40:36,830 --> 01:40:39,780
+kau telah berhasil membuat mereka semua
+marah.
+
+1443
+01:40:39,920 --> 01:40:40,910
+Memang itu rencanaku.
+
+1444
+01:40:41,040 --> 01:40:43,040
+Rencanamu kacau.
+
+1445
+01:40:43,170 --> 01:40:45,210
+Saat mereka datang,
+
+1446
+01:40:45,340 --> 01:40:46,800
+mereka pasti,
+
+1447
+01:40:46,920 --> 01:40:48,170
+mereka pasti akan mengejarmu.
+
+1448
+01:40:48,300 --> 01:40:49,300
+Aku memiliki pasukan.
+
+1449
+01:40:49,430 --> 01:40:50,590
+Kami punya Hulk.
+
+1450
+01:40:51,090 --> 01:40:52,470
+Sepertinya monster itu sudah pergi jauh.
+
+1451
+01:40:52,600 --> 01:40:54,510
+Kau tidak tangkap maksudku.
+Tidak akan ada takhta.
+
+1452
+01:40:54,640 --> 01:40:58,640
+Tidak akan ada yang berhasil menang
+dalam situasi ini.
+
+1453
+01:40:58,770 --> 01:41:01,090
+Mungkin pasukanmu akan datang dan
+jumlahnya sangat banyak bagi kami,
+
+1454
+01:41:01,230 --> 01:41:03,220
+tapi kami semua akan mengincarmu.
+
+1455
+01:41:04,020 --> 01:41:05,100
+Seandainya kami tidak berhasil melindungi Bumi,
+
+1456
+01:41:05,280 --> 01:41:08,400
+ingatlah ini, kami pasti akan menuntut balas.
+
+1457
+01:41:10,450 --> 01:41:13,480
+Bagaimana mungkin teman-temanmu itu
+memiliki waktu berhadapan denganku...
+
+1458
+01:41:13,620 --> 01:41:15,410
+sementara mereka semua sibuk
+melawanmu?
+
+1459
+01:41:22,830 --> 01:41:23,870
+Biasanya ini berfungsi.
+
+1460
+01:41:24,000 --> 01:41:26,840
+Sekedar mengingatkan saja,
+ada beberapa hal yang tidak biasanya.
+
+1461
+01:41:26,960 --> 01:41:28,870
+Satu kemungkinan dari lima...
+
+1462
+01:41:30,340 --> 01:41:30,880
+Jarvis, siapkan sekarang.
+
+1463
+01:41:30,880 --> 01:41:33,260
+Jarvis, luncurkan sekarang.
+
+1464
+01:41:35,010 --> 01:41:37,760
+Kalian semua tidak akan bisa menghadapiku.
+
+1465
+01:41:37,890 --> 01:41:39,270
+Luncurkan!
+
+1466
+01:41:39,390 --> 01:41:40,800
+Luncurkan!
+
+1467
+01:42:08,000 --> 01:42:10,960
+<i>Ada satu orang lagi yang sudah kau buat marah.</i>
+
+1468
+01:42:12,090 --> 01:42:13,340
+<i>Namanya adalah Phil.</i>
+
+1469
+01:42:37,120 --> 01:42:38,610
+Bagus.
+
+1470
+01:42:38,740 --> 01:42:39,990
+Pasukannya.
+
+1471
+01:43:52,360 --> 01:43:53,640
+Loki!
+
+1472
+01:43:53,780 --> 01:43:55,820
+Matikan Tesseract, atau aku akan
+menghancurkannya.
+
+1473
+01:43:55,950 --> 01:43:56,980
+Tidak akan bisa.
+
+1474
+01:43:57,110 --> 01:43:58,990
+Tidak ada yang bisa menghentikannya.
+
+1475
+01:43:59,110 --> 01:44:00,910
+Hanya ada satu cara...
+
+1476
+01:44:01,030 --> 01:44:02,150
+perang.
+
+1477
+01:44:02,280 --> 01:44:03,400
+Baiklah kalau begitu.
+
+1478
+01:44:25,520 --> 01:44:27,260
+<i>Stark, kami bertiga sedang menuju
+arah timur laut.</i>
+
+1479
+01:44:27,390 --> 01:44:29,520
+Apa? Kalian sempat mampir
+beli makanan dulu?
+
+1480
+01:44:29,650 --> 01:44:31,350
+Langsung menuju Taman. Aku akan
+coba mengalihkan perhatian mereka.
+
+1481
+01:44:49,410 --> 01:44:50,740
+<i>Pak, makin banyak yang mengikuti kita.</i>
+
+1482
+01:44:50,870 --> 01:44:52,620
+Tidak masalah. Biarkan mereka
+mengejar kita.
+
+1483
+01:44:59,510 --> 01:45:01,380
+- Nat?
+- Aku melihatnya.
+
+1484
+01:45:45,720 --> 01:45:47,930
+Kita harus membantu di sana.
+
+1485
+01:46:39,270 --> 01:46:40,930
+Stark, apa kau lihat ini?
+
+1486
+01:46:41,690 --> 01:46:44,150
+<i>Lihat. Tapi masih sulit percaya.</i>
+
+1487
+01:46:44,280 --> 01:46:45,650
+Mana Banner?
+Apa dia sudah muncul?
+
+1488
+01:46:45,780 --> 01:46:46,810
+<i>Banner?</i>
+
+1489
+01:46:46,950 --> 01:46:47,980
+Kabari aku terus.
+
+1490
+01:46:48,700 --> 01:46:50,860
+<i>Jarvis, carikan tempat yang aman.</i>
+
+1491
+01:46:53,120 --> 01:46:54,990
+Lihat ini!
+
+1492
+01:46:55,120 --> 01:46:56,120
+Lihat sekelilingmu!
+
+1493
+01:46:57,130 --> 01:47:00,990
+Apa kau pikir semua kegilaan ini
+bisa berakhir dibawah kekuasaanmu?
+
+1494
+01:47:01,130 --> 01:47:02,620
+Sudah terlambat.
+
+1495
+01:47:04,130 --> 01:47:05,380
+Tidak ada kata terlambat untuk
+menghentikannya.
+
+1496
+01:47:05,510 --> 01:47:09,380
+Tidak. Selama kita bersama, kita
+bisa menghentikannya.
+
+1497
+01:47:15,980 --> 01:47:18,100
+Terlalu perasaan.
+
+1498
+01:47:45,670 --> 01:47:48,210
+Ada beberapa orang yang terjebak di sana.
+
+1499
+01:47:49,390 --> 01:47:50,380
+Loki.
+
+1500
+01:48:02,020 --> 01:48:03,810
+Mereka tidak bisa kemana-mana.
+
+1501
+01:48:09,280 --> 01:48:11,240
+Biar kami yang mengurus ini.
+Pergilah.
+
+1502
+01:48:11,370 --> 01:48:12,740
+Apa kalian yakin bisa menahan mereka?
+
+1503
+01:48:12,870 --> 01:48:13,860
+Kapten,
+
+1504
+01:48:15,870 --> 01:48:18,710
+ini adalah sebuah kehormatan bagiku.
+
+1505
+01:48:45,570 --> 01:48:47,270
+Ini seperti di Budapest lagi.
+
+1506
+01:48:47,900 --> 01:48:50,390
+Sepertinya ingatan kita tentang Budapest
+sangat berbeda.
+
+1507
+01:49:06,550 --> 01:49:07,540
+Waktunya tinggal sebentar lagi...
+
+1508
+01:49:07,670 --> 01:49:08,950
+sebelum akhirnya mereka berhasil
+melumpuhkan Sistem Keamanan Nasional.
+
+1509
+01:49:09,090 --> 01:49:10,880
+Keamanan Nasional?
+
+1510
+01:49:11,840 --> 01:49:13,340
+Apa pasukan pengaman tahu tentang hal ini?
+
+1511
+01:49:13,590 --> 01:49:14,590
+Kita ini apa?
+
+1512
+01:49:15,800 --> 01:49:17,000
+Segera kirimkan pasukanmu
+ke gedung ini.
+
+1513
+01:49:17,140 --> 01:49:18,630
+Ada orang-orang di dalam gedung itu
+dan mereka sedang berlarian...
+
+1514
+01:49:18,770 --> 01:49:19,960
+menuju arah api di sana.
+
+1515
+01:49:20,100 --> 01:49:22,010
+Kalian bawa mereka menuju lantai dasar,
+kemudian telusuri jalan bawah tanahnya.
+
+1516
+01:49:22,140 --> 01:49:23,720
+Jauhkan mereka dari jalanan.
+
+1517
+01:49:23,850 --> 01:49:26,480
+Aku ingin jalan 39th segera di tutup.
+
+1518
+01:49:26,610 --> 01:49:28,230
+Kenapa aku harus mengikuti perintahmu?
+
+1519
+01:49:42,290 --> 01:49:43,490
+Segera kirim orang ke gedung itu.
+
+1520
+01:49:43,620 --> 01:49:45,700
+Bawa orang-orang menuju ke bawah
+dan jauhi mereka dari jalanan.
+
+1521
+01:49:45,830 --> 01:49:48,410
+Kita harus segera menutup jalan 39th.
+
+1522
+01:49:58,810 --> 01:50:00,380
+Kita sudah berhasil menarik perhatian mereka.
+
+1523
+01:50:00,520 --> 01:50:02,390
+<i>Lalu bagaimana langkah selanjutnya?</i>
+
+1524
+01:50:31,920 --> 01:50:32,920
+Bagaimana keadaan di atas?
+
+1525
+01:50:33,050 --> 01:50:34,960
+Kekutan yang melindungi the Cube
+tidak dapat ditembus.
+
+1526
+01:50:35,090 --> 01:50:37,710
+<i>Thor benar. Kita harus melawan
+mereka dulu.</i>
+
+1527
+01:50:37,840 --> 01:50:39,470
+- Bagaimana caranya?
+- Sebagai sebuah Tim.
+
+1528
+01:50:39,600 --> 01:50:40,880
+Aku masih ada urusan yang belum
+selesai dengan Loki.
+
+1529
+01:50:41,430 --> 01:50:42,460
+Benarkah? Kita sama.
+
+1530
+01:50:42,600 --> 01:50:43,590
+Tahan dulu.
+
+1531
+01:50:43,730 --> 01:50:45,050
+Loki memang sengaja membiarkan
+peperangan ini untuk mengincar kita,
+
+1532
+01:50:45,190 --> 01:50:46,220
+itulah yang kita perlukan.
+
+1533
+01:50:46,350 --> 01:50:48,010
+Kalau tidak ada dia, semua ini
+bisa semakin kacau.
+
+1534
+01:50:48,150 --> 01:50:51,100
+Di atas kita memiliki Stark.
+He's going to need us to...
+
+1535
+01:50:58,450 --> 01:51:02,230
+Kelihatannya keadaannya buruk sekali ya.
+
+1536
+01:51:02,700 --> 01:51:03,820
+Aku pernah lihat yang lebih buruk lagi.
+
+1537
+01:51:04,370 --> 01:51:05,370
+Maaf.
+
+1538
+01:51:05,500 --> 01:51:08,170
+Tidak, kita bisa menggunakan si buruk itu.
+
+1539
+01:51:08,290 --> 01:51:10,700
+<i>- Stark, kami telah menemuinya.
+- Banner?</i>
+
+1540
+01:51:10,840 --> 01:51:12,080
+Seperti yang kau minta.
+
+1541
+01:51:12,210 --> 01:51:14,920
+Kalau begitu suruh dia bersiap-siap,
+aku akan membawa pestanya ke tempat kalian.
+
+1542
+01:51:21,390 --> 01:51:23,460
+Aku rasa itu bukan pesta.
+
+1543
+01:51:31,310 --> 01:51:32,310
+Dr. Banner.
+
+1544
+01:51:34,070 --> 01:51:35,860
+Mungkin sekarang saat yang tepat
+kalau kau ingin marah.
+
+1545
+01:51:36,900 --> 01:51:39,360
+Itulah rahasiaku, Captain (Kapten).
+
+1546
+01:51:41,070 --> 01:51:42,320
+Aku selalu marah.
+
+1547
+01:51:53,790 --> 01:51:55,420
+<i>Bertahanlah!</i>
+
+1548
+01:52:25,330 --> 01:52:26,870
+Kirimkan yang lain.
+
+1549
+01:52:33,630 --> 01:52:34,870
+Teman-teman.
+
+1550
+01:52:35,000 --> 01:52:36,200
+<i>Lanjutkan, Captain.</i>
+
+1551
+01:52:36,340 --> 01:52:37,500
+Baiklah, dengarkan.
+
+1552
+01:52:37,630 --> 01:52:40,420
+Sebelum kita berhasil menutup gerbang itu,
+tugas kita adalah menahan mereka.
+
+1553
+01:52:40,550 --> 01:52:41,880
+Barton, aku ingin kau berada di atap.
+
+1554
+01:52:42,010 --> 01:52:43,880
+Awasi semuanya
+Awasi seluruh jalan dan musuh yang ada.
+
+1555
+01:52:44,010 --> 01:52:45,390
+Stark, kau yang berjaga-jaga.
+
+1556
+01:52:45,510 --> 01:52:46,680
+Apapun yang keluar 3 blok dari lingkungan ini,
+
+1557
+01:52:46,810 --> 01:52:48,350
+segera habisi mereka.
+
+1558
+01:52:48,470 --> 01:52:49,670
+<i>- Bisa tolong antar aku?
+- Baiklah.</i>
+
+1559
+01:52:49,810 --> 01:52:50,890
+<i>Sebaiknya kau pegangan, Legolas.</i>
+
+1560
+01:52:54,480 --> 01:52:56,850
+Thor, coba kau halangi gerbang itu.
+
+1561
+01:52:56,980 --> 01:52:58,150
+Halangi mereka.
+
+1562
+01:52:58,280 --> 01:53:00,430
+Kau punya petir.
+Sambar mereka semua.
+
+1563
+01:53:02,740 --> 01:53:04,360
+Kau dan aku, kita tetap di sini.
+
+1564
+01:53:04,490 --> 01:53:05,520
+Kita lawan mereka dari sini.
+
+1565
+01:53:05,660 --> 01:53:06,650
+Dan kau Hulk...
+
+1566
+01:53:09,370 --> 01:53:10,450
+Smash (Hantam).
+
+1567
+01:54:04,050 --> 01:54:05,160
+Pak.
+
+1568
+01:54:06,220 --> 01:54:07,210
+Para Dewan sudah terhubung.
+
+1569
+01:54:12,100 --> 01:54:15,350
+Stark, tampaknya banyak musuh
+yang mengikutimu.
+
+1570
+01:54:17,190 --> 01:54:19,230
+Aku sedang berusaha menjauhkan
+mereka dari jalanan.
+
+1571
+01:54:19,360 --> 01:54:21,600
+Sepertinya usahamu itu sia-sia.
+
+1572
+01:54:21,730 --> 01:54:22,900
+Kalau begitu kau cari saja tempat yang aman
+
+1573
+01:54:23,030 --> 01:54:24,350
+Aku akan segera mengurus mereka.
+
+1574
+01:54:47,340 --> 01:54:48,510
+Ya ampun.
+
+1575
+01:54:55,520 --> 01:54:57,140
+Keputusan yang bagus.
+
+1576
+01:54:57,270 --> 01:54:58,470
+Apa lagi yang kau dapat?
+
+1577
+01:54:58,600 --> 01:55:01,390
+<i>Thor sedang melawan beberapa pasukan
+di lokasi 6.</i>
+
+1578
+01:55:01,520 --> 01:55:03,730
+Dan dia tidak mengajakku.
+
+1579
+01:55:43,230 --> 01:55:44,860
+Captain, semua ini akan sia-sia...
+
+1580
+01:55:44,980 --> 01:55:46,230
+kalau kita tidak berhasil menutup
+gerbang itu.
+
+1581
+01:55:46,360 --> 01:55:48,020
+Senjata terbesar kita tidak bisa
+mencapai gerbang itu.
+
+1582
+01:55:48,150 --> 01:55:50,390
+Mungkin masalahnya bukan ada
+di senjata.
+
+1583
+01:55:52,320 --> 01:55:54,280
+Kalau kau mau naik ke atas sana,
+kita memerlukan tumpangan
+
+1584
+01:55:55,370 --> 01:55:56,450
+Aku sudah menemukannya.
+
+1585
+01:55:57,580 --> 01:55:58,610
+Tapi aku butuh bantuan.
+
+1586
+01:56:01,210 --> 01:56:02,200
+Apa kau yakin?
+
+1587
+01:56:02,670 --> 01:56:05,210
+Iya, ini pasti menyenangkan.
+
+1588
+01:56:32,240 --> 01:56:34,110
+Belok, belok.
+
+1589
+01:56:34,240 --> 01:56:35,980
+Terlalu banyak!
+
+1590
+01:57:58,700 --> 01:58:01,650
+<i>Captain, di Bank yang ada
+di jalan 42nd lewat dari Madison.</i>
+
+1591
+01:58:01,790 --> 01:58:03,530
+<i>Mereka telah mengepung orang-orang
+di sana.</i>
+
+1592
+01:58:03,660 --> 01:58:05,570
+Aku segera ke sana.
+
+1593
+01:58:25,680 --> 01:58:27,480
+Semuanya keluarlah!
+
+1594
+01:58:57,380 --> 01:58:59,040
+<i>Direckrtur Fury,</i>
+
+1595
+01:58:59,180 --> 01:59:00,970
+<i>para Dewan telah membuat keputusan.</i>
+
+1596
+01:59:01,090 --> 01:59:03,850
+Aku sadar kalau kalian para Dewan
+telah membuat keputusan.
+
+1597
+01:59:03,970 --> 01:59:05,550
+Tapi menurutku, memberikan senjata itu
+adalah sebuah keputusan yang sangat bodoh,
+
+1598
+01:59:05,680 --> 01:59:07,090
+aku memiliki hak untuk mengabaikannya.
+
+1599
+01:59:07,230 --> 01:59:10,560
+<i>Direktur, diantara kita, kaulah yang paling
+dekat dengan lokasi.</i>
+
+1600
+01:59:10,690 --> 01:59:11,680
+<i>Kau rebut kapal itu...</i>
+
+1601
+01:59:11,810 --> 01:59:14,520
+Pulau itu bernama Manhattan,
+anggota Dewan.
+
+1602
+01:59:14,650 --> 01:59:16,730
+Sebelum aku tahu Tim-ku sudah tidak
+sanggup lagi,
+
+1603
+01:59:16,860 --> 01:59:18,820
+aku tidak akan meluncurkan nuklir...
+
+1604
+01:59:18,990 --> 01:59:20,400
+ketengah-tengah populasi masyarakat.
+
+1605
+01:59:20,530 --> 01:59:22,940
+<i>Kalau kita tidak menahan mereka di sini,
+kita akan kehilangan segalanya.</i>
+
+1606
+01:59:23,070 --> 01:59:25,830
+Aku akan segera mengeluarkan
+pesawat-pesawat itu kalau sudah waktunya.
+
+1607
+01:59:29,580 --> 01:59:31,290
+Kau.
+
+1608
+01:59:33,540 --> 01:59:34,710
+Hawkeye!
+
+1609
+01:59:36,170 --> 01:59:37,170
+Nat, apa yang kau lakukan?
+
+1610
+01:59:38,090 --> 01:59:39,090
+Bisa bantu?
+
+1611
+01:59:44,390 --> 01:59:45,380
+Aku berhasil mendapatkannya.
+
+1612
+02:00:11,960 --> 02:00:12,950
+Cukup!
+
+1613
+02:00:13,290 --> 02:00:15,750
+Kalian semua harusnya berada dibawahku!
+
+1614
+02:00:15,880 --> 02:00:18,630
+Aku ini Dewa, dasar makhluk bodoh.
+
+1615
+02:00:18,760 --> 02:00:20,250
+Dan aku tidak bisa disakiti oleh...
+
+1616
+02:00:30,100 --> 02:00:31,970
+Dewa lemah.
+
+1617
+02:00:40,110 --> 02:00:41,570
+Tongkat itu...
+
+1618
+02:00:42,740 --> 02:00:43,940
+Dokter.
+
+1619
+02:00:45,820 --> 02:00:48,660
+Tongkatnya Loki. Pusat kekuatannya.
+
+1620
+02:00:48,780 --> 02:00:50,440
+Tesseract tidak bisa melawannya,
+
+1621
+02:00:50,580 --> 02:00:52,620
+tapi kau tidak bisa berbuat apa-apa
+saat melawan dirimu sendiri.
+
+1622
+02:00:52,750 --> 02:00:53,740
+Itu bukan salahmu.
+
+1623
+02:00:53,870 --> 02:00:55,120
+Saat melakukannya kau sedang dalam
+keadaan tidak sadar.
+
+1624
+02:00:58,170 --> 02:01:00,330
+Sebenarnya aku sadar.
+
+1625
+02:01:00,460 --> 02:01:03,420
+Aku membangunnya di dalam ruang rahasia
+agar mereka tidak bisa menggunakan kekuatan mereka.
+
+1626
+02:01:04,630 --> 02:01:06,040
+Tongkat Loki.
+
+1627
+02:01:06,180 --> 02:01:08,750
+Mungkin hanya tongkat itu yang bisa
+menutup gerbangnya.
+
+1628
+02:01:10,850 --> 02:01:13,010
+Dan saat ini aku sedang melihatnya.
+
+1629
+02:01:24,990 --> 02:01:28,860
+<i>Pak, sepertinya kita akan tenaga sebelum
+berhasil menembus kulitnya.</i>
+
+1630
+02:01:35,500 --> 02:01:38,780
+Jarvis, kau pernah dengar dongeng tentang Jonah?
+
+1631
+02:01:38,920 --> 02:01:41,290
+<i>Saya rasa dia tidak bisa dijadikan
+panutannya.</i>
+
+1632
+02:02:50,910 --> 02:02:52,700
+<i>Direktur Fury sudah bukan yang berkuasa.</i>
+
+1633
+02:02:52,820 --> 02:02:54,860
+<i>7-Alpha- 1- 1 diperintahkan untuk segera
+mengambil alih.</i>
+
+1634
+02:02:54,990 --> 02:02:57,570
+<i>7- Alpha- 1- 1, menerima.
+Kami akan segera lepas meluncur.</i>
+
+1635
+02:02:58,460 --> 02:03:00,530
+Pak, ada pesawat yang bergerak!
+
+1636
+02:03:01,040 --> 02:03:03,030
+Siapapun yang ada di geladak,
+ada pesawat yang memberontak.
+
+1637
+02:03:03,170 --> 02:03:04,450
+Kita harus menghentikannya!
+
+1638
+02:03:04,590 --> 02:03:06,790
+Aku ulangi, lekas hentikan pesawat itu,
+karena tidak ada ijinnya.
+
+1639
+02:03:37,330 --> 02:03:39,490
+Stark, kau dengar aku?
+
+1640
+02:03:39,620 --> 02:03:41,740
+Ada rudal yang sedang menuju ke arah kota.
+
+1641
+02:03:42,290 --> 02:03:43,670
+<i>Berapa lama lagi waktunya?</i>
+
+1642
+02:03:43,790 --> 02:03:45,870
+<i>Paling lama 3 menit.</i>
+
+1643
+02:03:46,000 --> 02:03:47,630
+<i>Muatannya bisa menghancurkan
+seluruh kota.</i>
+
+1644
+02:03:47,750 --> 02:03:49,790
+Jarvis, segera siapkan semua tenaga yang kita punya
+di mesin pendorong ini.
+
+1645
+02:03:49,920 --> 02:03:51,580
+<i>Sudah Pak.</i>
+
+1646
+02:04:04,480 --> 02:04:05,810
+<i>Rudalnya sudah ditembakkan.</i>
+
+1647
+02:04:05,940 --> 02:04:09,060
+<i>Ledakannya akan terjadi sekitar
+2 menit 30 detik lagi.</i>
+
+1648
+02:04:31,840 --> 02:04:34,210
+Apa kau siap untuk pertempuran yang lain?
+
+1649
+02:04:34,880 --> 02:04:35,920
+Kenapa, apa kau sudah mengantuk?
+
+1650
+02:04:41,520 --> 02:04:43,260
+Tepat di tengahnya!
+
+1651
+02:04:49,270 --> 02:04:51,070
+Aku bisa mendekatinya.
+
+1652
+02:04:51,190 --> 02:04:53,230
+Ada yang bisa mendengar?
+
+1653
+02:04:53,360 --> 02:04:54,480
+Aku bisa menutup gerbang ini.
+
+1654
+02:04:54,610 --> 02:04:56,650
+<i>- Lakukan!
+- Tunggu.</i>
+
+1655
+02:04:56,780 --> 02:04:58,030
+Stark, mereka akan datang terus.
+
+1656
+02:04:58,160 --> 02:04:59,150
+Ada rudal yang sedang mendekat.
+
+1657
+02:04:59,280 --> 02:05:01,190
+Ledakannya akan terjadi kurang dari 1 menit.
+
+1658
+02:05:10,880 --> 02:05:12,710
+Aku tahu tempat yang bagus untuk
+menaruhnya.
+
+1659
+02:05:19,890 --> 02:05:22,260
+<i>Stark, kau tahu kan kesempatanmu
+hanya 1 kali.</i>
+
+1660
+02:05:22,390 --> 02:05:23,770
+Sisakan tenaga untuk balik, J.
+
+1661
+02:05:23,890 --> 02:05:27,970
+<i>Pak, apa saya perlu menghubungi
+nona Potts?</i>
+
+1662
+02:05:28,100 --> 02:05:30,140
+Boleh juga.
+
+1663
+02:05:32,070 --> 02:05:34,440
+<i>Jalan-jalan di kota New York berubah
+menjadi medan pertempuran.</i>
+
+1664
+02:05:34,570 --> 02:05:37,270
+<i>Para pasukan pengaman di kota ini
+sedang berusaha menahan serangan...</i>
+
+1665
+02:05:37,410 --> 02:05:38,860
+<i>tapi jelas terlihat, jumlahnya kalah telak.</i>
+
+1666
+02:05:38,990 --> 02:05:41,280
+<i>Dan harus saya katakan, sepanjang
+karir saya sebagai jurnalis,</i>
+
+1667
+02:05:41,410 --> 02:05:44,330
+<i>saya tidak pernah melihat kejadian
+seperti ini.</i>
+
+1668
+02:05:44,450 --> 02:05:45,950
+<i>Kami kekurangan informasi tentang
+siapa yang ada di dalam tim...</i>
+
+1669
+02:05:46,080 --> 02:05:49,830
+<i>tapi yang kami tahu Iron Man milik
+Bilioner Tony Stark...</i>
+
+1670
+02:07:03,160 --> 02:07:04,980
+Ayo, Stark.
+
+1671
+02:07:11,620 --> 02:07:12,740
+Tutuplah.
+
+1672
+02:07:32,810 --> 02:07:33,810
+Sial.
+
+1673
+02:07:38,570 --> 02:07:40,190
+Dia tidak semakin pelan.
+
+1674
+02:07:58,250 --> 02:07:59,710
+Apa dia bernafas?
+
+1675
+02:08:27,570 --> 02:08:28,990
+Ada apa?
+
+1676
+02:08:31,700 --> 02:08:33,830
+Apa yang baru saja terjadi?
+
+1677
+02:08:33,960 --> 02:08:36,240
+Tolong bilang, tidak ada yang menciumku kan.
+
+1678
+02:08:40,550 --> 02:08:42,210
+Kita menang.
+
+1679
+02:08:44,550 --> 02:08:45,830
+Baiklah!
+
+1680
+02:08:45,970 --> 02:08:47,920
+Hore. Bagus, teman-teman.
+
+1681
+02:08:48,050 --> 02:08:51,260
+Besok tidak perlu masuk..
+Istirahat saja.
+
+1682
+02:08:52,140 --> 02:08:53,720
+Apa kalian pernah coba shawarma?
+
+1683
+02:08:54,140 --> 02:08:56,430
+Sekitar dua block dari sini ada
+restoran shawarma.
+
+1684
+02:08:56,560 --> 02:08:58,220
+Sebenarnya aku tidak tahu itu apa,
+tapi aku ingin mencobanya.
+
+1685
+02:08:58,650 --> 02:09:00,110
+Tugas kita masih belum selesai.
+
+1686
+02:09:05,070 --> 02:09:07,190
+Kalau begitu, shawarma-nya nanti saja.
+
+1687
+02:09:28,840 --> 02:09:31,090
+Jadi kalian semua rupanya,
+
+1688
+02:09:34,390 --> 02:09:36,050
+sepertinya aku butuh minum sekarang.
+
+1689
+02:09:43,940 --> 02:09:45,980
+<i>Penyebab kehancuran yang terjadi
+telah dinyatakan sebagai...</i>
+
+1690
+02:09:46,110 --> 02:09:47,820
+<i>bentuk serangan dari luar angkasa,</i>
+
+1691
+02:09:47,950 --> 02:09:49,490
+<i>namun beberapa Pahlawan luar biasa,</i>
+
+1692
+02:09:49,610 --> 02:09:51,570
+<i>yang tergabung dalam kelompok the Avengers</i>
+
+1693
+02:09:51,700 --> 02:09:53,240
+<i>tidak hanya menciptakan sebuah kedamaian,</i>
+
+1694
+02:09:53,370 --> 02:09:54,360
+<i>tapi juga perayaan.</i>
+
+1695
+02:09:54,490 --> 02:09:56,900
+<i>Kita harus bersyukur, karena ternyata masih
+ada orang di luar sana yang melindungi kita.</i>
+
+1696
+02:09:57,040 --> 02:09:58,830
+<i>Orang-orang itu yang menjaga kita.</i>
+
+1697
+02:09:58,960 --> 02:10:00,150
+<i>Aku mencintaimu, Thor!</i>
+
+1698
+02:10:00,290 --> 02:10:02,000
+<i>Orang-orang ini seperti...</i>
+
+1699
+02:10:02,130 --> 02:10:03,450
+<i>Lalu udaranya jadi...</i>
+
+1700
+02:10:03,590 --> 02:10:04,960
+<i>Kemudian makhluk hijau itu bangun,
+lalu...</i>
+
+1701
+02:10:05,090 --> 02:10:06,120
+<i>Aku tidak tahu.</i>
+
+1702
+02:10:06,260 --> 02:10:08,710
+<i>Justru adanya mereka, aku jadi merasa
+tidak aman.</i>
+
+1703
+02:10:08,840 --> 02:10:11,930
+<i>Sepertinya masih banyak hal yang
+mereka sembunyikan dari kita.</i>
+
+1704
+02:10:12,050 --> 02:10:15,470
+<i>Superheroes (pahlawan super) di New York?
+Yang benar saja.</i>
+
+1705
+02:10:15,600 --> 02:10:17,510
+<i>Mereka yang di sebut "heroes (pahlawan)"...</i>
+
+1706
+02:10:17,640 --> 02:10:18,920
+<i>harusnya yang bertanggung jawab atas...</i>
+
+1707
+02:10:19,060 --> 02:10:21,220
+<i>kerusakan yang terjadi di kota ini.</i>
+
+1708
+02:10:21,350 --> 02:10:23,480
+<i>Ini kan pertempuran mereka.
+Di mana mereka sekarang?</i>
+
+1709
+02:10:23,610 --> 02:10:26,430
+<i>Masih banyak yang mempertanyakan tentang
+the Avengers itu sendiri.</i>
+
+1710
+02:10:26,570 --> 02:10:27,560
+<i>Kemunculan mereka yang tiba-tiba...</i>
+
+1711
+02:10:27,690 --> 02:10:29,070
+<i>kemudian menghilang begitu saja...</i>
+
+1712
+02:10:29,200 --> 02:10:31,980
+<i>Apa, mereka yang dianggap bersalah?</i>
+
+1713
+02:10:34,030 --> 02:10:37,200
+<i>Captain America telah menyelamatkan hidupku.</i>
+
+1714
+02:10:39,330 --> 02:10:42,830
+<i>Dimanapun dia berada, atau dimanapun
+mereka berada,</i>
+
+1715
+02:10:42,960 --> 02:10:44,450
+<i>Aku hanya ingin...</i>
+
+1716
+02:10:45,250 --> 02:10:47,540
+<i>Aku hanya ingin mengucapkan terima kasih.</i>
+
+1717
+02:10:50,010 --> 02:10:51,500
+<i>Dimana the Avengers?</i>
+
+1718
+02:10:51,630 --> 02:10:54,040
+Aku tidak ada hak untuk melacak
+keberadaan mereka.
+
+1719
+02:10:54,180 --> 02:10:56,340
+Aku pernah bilang pada mereka kalau
+mereka bebas mengambil cuti.
+
+1720
+02:10:56,470 --> 02:10:58,050
+<i>Lalu dimana Tesseract itu?</i>
+
+1721
+02:10:58,180 --> 02:11:00,420
+<i>Tesseract telah berada di tempat asalnya.</i>
+
+1722
+02:11:00,850 --> 02:11:03,180
+<i>Kita tidak bisa ke sana.</i>
+
+1723
+02:11:03,310 --> 02:11:04,850
+<i>Itu bukan wewenangmu.</i>
+
+1724
+02:11:04,980 --> 02:11:06,010
+Memang bukan.
+
+1725
+02:11:06,150 --> 02:11:08,390
+Tapi aku tidak akan berdebat pada Dewa
+untuk urusan itu.
+
+1726
+02:11:08,530 --> 02:11:10,320
+<i>Jadi, kau membiarkan dia membawanya...</i>
+
+1727
+02:11:10,440 --> 02:11:12,070
+<i>dan si tahanan perang, Loki,</i>
+
+1728
+02:11:12,200 --> 02:11:13,900
+<i>siapa yang bisa diminta tanggung jawab
+atas perbuatannya.</i>
+
+1729
+02:11:14,030 --> 02:11:16,600
+<i>Aku rasa dia akan
+mempertanggung jawabkannya.</i>
+
+1730
+02:11:30,090 --> 02:11:32,760
+<i>Aku rasa kau tidak mengerti apa yang sedang
+kau lakukan saat ini,</i>
+
+1731
+02:11:32,880 --> 02:11:35,340
+<i>membiarakan para the Avengers
+bebas berkeliaran di dunia ini.</i>
+
+1732
+02:11:35,890 --> 02:11:36,880
+<i>Mereka berbahaya.</i>
+
+1733
+02:11:37,010 --> 02:11:40,680
+<i>Memang benar, dan seluruh dunia
+tahu hal itu..</i>
+
+1734
+02:11:41,230 --> 02:11:43,800
+Seluruh dunia tahu.
+
+1735
+02:11:44,230 --> 02:11:46,300
+<i>Lalu apa lagi yang diharapkan?</i>
+
+1736
+02:11:46,440 --> 02:11:48,180
+<i>Sebuah pengakuan?</i>
+
+1737
+02:11:50,900 --> 02:11:52,360
+<i>Sebuah janji.</i>
+
+1738
+02:12:01,080 --> 02:12:02,620
+<i>Pak, lalu apa tugas kita sekarang?</i>
+
+1739
+02:12:03,750 --> 02:12:05,740
+Mereka semua pergi ke arah yang berbeda.
+
+1740
+02:12:05,870 --> 02:12:08,790
+Beberapa diantara mereka justru
+ada yang pergi jauh sekali.
+
+1741
+02:12:09,540 --> 02:12:11,450
+Kalau kita mendapat serangan seperti ini lagi,
+
+1742
+02:12:11,590 --> 02:12:13,130
+lalu apa yang akan terjadi?
+
+1743
+02:12:13,260 --> 02:12:14,250
+Mereka akan kembali.
+
+1744
+02:12:15,760 --> 02:12:17,470
+Apa anda yakin?
+
+1745
+02:12:17,590 --> 02:12:18,590
+Yakin.
+
+1746
+02:12:20,220 --> 02:12:21,420
+Kenapa?
+
+1747
+02:12:22,470 --> 02:12:24,680
+Karena kita memang akan membutuhkan
+mereka lagi.
+
+1748
+02:15:16,270 --> 02:15:18,760
+Manusia.
+
+1749
+02:15:20,070 --> 02:15:24,400
+Mereka tidak setakut yang kita kira.
+
+1750
+02:15:25,360 --> 02:15:27,520
+Mereka bertahan.
+
+1751
+02:15:28,370 --> 02:15:34,820
+Mereka melawan,
+karena itulah mereka tidak bisa kita kuasai.
+
+1752
+02:15:41,800 --> 02:15:44,670
+Untuk menghadapi mereka...
+
+1753
+02:15:44,800 --> 02:15:48,500
+harus diberlakukan pengadilan neraka.
+
