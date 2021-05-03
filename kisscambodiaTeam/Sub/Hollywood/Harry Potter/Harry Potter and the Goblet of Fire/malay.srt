@@ -1,0 +1,7147 @@
+﻿1
+00:01:03,502 --> 00:01:10,459
+HARRY POTTER DAN PIALA API
+
+2
+00:01:48,167 --> 00:01:49,957
+Tak guna punya budak.
+
+3
+00:02:36,930 --> 00:02:40,600
+Cerewet betul awak ya, Wormtail.
+
+4
+00:02:40,770 --> 00:02:45,051
+Sebelum ini, awak tak kisah
+tinggal di paip pembetungan.
+
+5
+00:02:45,502 --> 00:02:50,166
+Adakah menjaga saya ini telah
+menyusahkan awak?
+
+6
+00:02:50,871 --> 00:02:53,285
+Sudah tentu tidak, Lord Voldemort.
+
+7
+00:02:53,370 --> 00:02:54,864
+Maksud saya...
+
+8
+00:02:54,896 --> 00:02:57,914
+Mungkin lebih baik kita lakukannya
+tanpa budak itu.
+
+9
+00:02:57,992 --> 00:03:00,611
+Tidak! Budak itu penting!
+
+10
+00:03:00,696 --> 00:03:04,236
+Kita tak boleh lakukan tanpanya
+dan ia perlu dilakukan!
+
+11
+00:03:04,321 --> 00:03:06,081
+Ikut seperti yang saya arahkan.
+
+12
+00:03:07,536 --> 00:03:09,293
+Saya takkan kecewakan tuan.
+
+13
+00:03:09,868 --> 00:03:10,868
+Bagus.
+
+14
+00:03:10,953 --> 00:03:14,088
+Pertama, kumpulkan sekutu lama kita.
+
+15
+00:03:14,173 --> 00:03:15,874
+Hantarkan petanda.
+
+16
+00:03:28,437 --> 00:03:31,937
+Nagini beritahu saya yang
+penjaga Muggle yang tua itu...
+
+17
+00:03:32,017 --> 00:03:35,046
+...berdiri di luar pintu sana.
+
+18
+00:03:35,525 --> 00:03:40,944
+Ke tepi, Wormtail.
+Saya nak bertemu dengannya.
+
+19
+00:03:41,346 --> 00:03:43,228
+<i>Avada Kedavra!</i>
+
+20
+00:03:48,199 --> 00:03:49,184
+Harry.
+
+21
+00:03:50,483 --> 00:03:51,634
+Harry!
+
+22
+00:03:53,466 --> 00:03:54,563
+Awak tak apa-apa?
+
+23
+00:03:55,908 --> 00:03:57,778
+Hermione. Saya bermimpi buruk.
+
+24
+00:03:58,350 --> 00:04:00,985
+-Bila awak sampai ke sini?
+-Baru sahaja. Awak?
+
+25
+00:04:01,708 --> 00:04:02,958
+Malam semalam.
+
+26
+00:04:03,118 --> 00:04:05,113
+Bangun! Bangunlah, Ronald!
+
+27
+00:04:05,472 --> 00:04:06,599
+Terkejut saya.
+
+28
+00:04:07,125 --> 00:04:08,513
+Pergi pakai bajulah.
+
+29
+00:04:09,385 --> 00:04:10,958
+Jangan tidur semula pula.
+
+30
+00:04:11,252 --> 00:04:14,533
+Ayuhlah, Ron!
+Mak awak dah sediakan sarapan!
+
+31
+00:04:21,298 --> 00:04:23,686
+-Ron, kita nak ke mana sebenarnya?
+-Entahlah.
+
+32
+00:04:24,587 --> 00:04:27,728
+-Hei, Ayah. Kita nak ke mana?
+-Ayah pun tak tahu.
+
+33
+00:04:27,913 --> 00:04:28,848
+Jalan sajalah!
+
+34
+00:04:32,060 --> 00:04:33,431
+Arthur!
+
+35
+00:04:34,092 --> 00:04:36,035
+Dah tiba masanya, nak.
+
+36
+00:04:36,120 --> 00:04:37,213
+Maaf, Amos.
+
+37
+00:04:37,645 --> 00:04:39,973
+Ada orang terlajak tidur tadi.
+
+38
+00:04:40,787 --> 00:04:43,103
+Perkenalkan, ini Amos Diggory.
+
+39
+00:04:43,388 --> 00:04:45,586
+Dia bekerja bersama saya
+di Kementerian Sihir.
+
+40
+00:04:46,869 --> 00:04:49,210
+Pemuda yang gagah ini pula
+pastinya Cedric, kan?
+
+41
+00:04:49,295 --> 00:04:50,246
+Ya, encik.
+
+42
+00:04:50,693 --> 00:04:51,793
+Ikut arah sini.
+
+43
+00:04:53,958 --> 00:04:57,503
+Oh, tak sangka betul!
+Awak pastinya Harry Potter!
+
+44
+00:04:57,588 --> 00:05:00,493
+-Ya, encik.
+-Gembira bertemu awak.
+
+45
+00:05:00,578 --> 00:05:01,871
+Gembira bertemu awak juga.
+
+46
+00:05:04,959 --> 00:05:06,707
+Ya, ia di sebelah sana.
+
+47
+00:05:09,904 --> 00:05:11,082
+-Mari pergi?
+-Oh, ya!
+
+48
+00:05:11,924 --> 00:05:13,023
+Kita tak naklah terlewat.
+
+49
+00:05:13,108 --> 00:05:16,708
+Marilah! Dah nak hampir sampai.
+Beratur di posisi yang masing-masing.
+
+50
+00:05:18,506 --> 00:05:20,531
+Kenapa semua orang mengelilingi
+but usang itu?
+
+51
+00:05:20,616 --> 00:05:23,230
+-Itu bukan but usang biasa.
+-Ia Kunci Portal.
+
+52
+00:05:23,315 --> 00:05:24,245
+Masa untuk pergi!
+
+53
+00:05:24,963 --> 00:05:26,318
+Apa itu Kunci Portal?
+
+54
+00:05:26,689 --> 00:05:31,095
+-Sedia! Kiraan tiga. Satu, dua...
+-Harry!
+
+55
+00:05:31,180 --> 00:05:32,260
+...tiga!
+
+56
+00:05:43,183 --> 00:05:44,108
+Lepaskannya!
+
+57
+00:05:44,193 --> 00:05:46,487
+-Apa?
+-Lepaskannya!
+
+58
+00:05:59,225 --> 00:06:01,608
+Mesti dah sembuh selsemanya, kan?
+
+59
+00:06:02,932 --> 00:06:05,089
+-Bertebaran semua orang, macam selalu.
+-Terima kasih.
+
+60
+00:06:10,906 --> 00:06:12,564
+Hei, cuba tengok itu!
+
+61
+00:06:13,393 --> 00:06:17,155
+Selamat datang ke
+Piala Dunia Quidditch!
+
+62
+00:06:20,903 --> 00:06:23,408
+Jalan bersama-sama!
+Teruskan!
+
+63
+00:06:25,102 --> 00:06:26,114
+Tengok!
+
+64
+00:06:27,346 --> 00:06:29,475
+Ayuh! Terus berjalan!
+
+65
+00:06:36,423 --> 00:06:37,408
+Terkejut!
+
+66
+00:06:38,088 --> 00:06:39,776
+Saya pergi arah lain dulu, ya.
+
+67
+00:06:39,861 --> 00:06:41,265
+-Jumpa di perlawanan nanti.
+-Jumpa lagi.
+
+68
+00:06:41,350 --> 00:06:43,103
+-Cedric.
+-Ced, jom.
+
+69
+00:06:43,188 --> 00:06:44,391
+Jumpa lagi, Cedric.
+
+70
+00:06:49,374 --> 00:06:50,618
+Penginapan kamu.
+
+71
+00:06:53,154 --> 00:06:54,098
+Apa?
+
+72
+00:07:02,243 --> 00:07:04,113
+-Bagus betul.
+-Ginny, tengoklah!
+
+73
+00:07:04,283 --> 00:07:05,613
+-Tengok bilik airnya.
+-Tengoklah.
+
+74
+00:07:05,698 --> 00:07:07,840
+Hei, pilih katil masing-masing
+dan kemas barang.
+
+75
+00:07:08,948 --> 00:07:11,368
+Ron, keluar dari dapur tu.
+Semua orang pun lapar.
+
+76
+00:07:11,453 --> 00:07:13,871
+-Ya, keluar dari dapur tu, Ron!
+-Kaki, letak di bawah!
+
+77
+00:07:13,956 --> 00:07:15,734
+-Letak kaki di bawah!
+-Letak kaki di bawah!
+
+78
+00:07:17,623 --> 00:07:19,142
+Saya sukakan sihir.
+
+79
+00:07:35,143 --> 00:07:38,170
+Dapatkan aturcara Piala Dunia Quidditch
+anda di sini!
+
+80
+00:07:38,879 --> 00:07:41,297
+Aduhai, Ayah.
+Dah jauh mana kita naik?
+
+81
+00:07:42,105 --> 00:07:43,798
+Beginilah...
+
+82
+00:07:43,823 --> 00:07:45,106
+Kalau hujan...
+
+83
+00:07:45,693 --> 00:07:47,432
+...awak yang akan kena dululah.
+
+84
+00:07:48,823 --> 00:07:51,202
+Saya dan ayah akan duduk
+di kotak kementerian sihir,...
+
+85
+00:07:51,333 --> 00:07:54,693
+...atas jemputan Cornelius Fudge
+sendiri, tahu?
+
+86
+00:07:54,778 --> 00:07:56,525
+Jangan bisinglah, Draco.
+
+87
+00:07:57,410 --> 00:07:59,139
+Tak perlu nak beritahu mereka.
+
+88
+00:08:01,753 --> 00:08:04,253
+Semoga awak berseronoklah.
+
+89
+00:08:04,633 --> 00:08:05,749
+Selagi boleh.
+
+90
+00:08:19,903 --> 00:08:22,022
+Ayuh, cari tempat duduk.
+
+91
+00:08:22,107 --> 00:08:24,208
+Saya dah kata tempat duduk inilah
+yang terbaik.
+
+92
+00:08:24,670 --> 00:08:25,815
+Ayuh!
+
+93
+00:08:28,981 --> 00:08:30,650
+Pasukan Ireland!
+Itulah Troy!
+
+94
+00:08:30,735 --> 00:08:32,428
+-Dan Mullet!
+-Dan Moran!
+
+95
+00:08:38,503 --> 00:08:41,383
+Ireland!
+
+96
+00:08:45,633 --> 00:08:48,414
+-Itu pula Pasukan Bulgaria!
+-Ya!
+
+97
+00:08:54,893 --> 00:08:56,263
+Siapa itu?
+
+98
+00:08:57,063 --> 00:08:59,564
+Itulah Pencari yang terbaik
+di dunia ini.
+
+99
+00:09:02,103 --> 00:09:05,653
+Krum! Krum! Krum!
+
+100
+00:09:05,738 --> 00:09:10,318
+Krum! Krum! Krum!
+
+101
+00:09:10,403 --> 00:09:11,613
+Krum!
+
+102
+00:09:12,134 --> 00:09:13,156
+Ya!
+
+103
+00:09:21,253 --> 00:09:23,099
+Selamat malam!
+
+104
+00:09:23,657 --> 00:09:26,907
+Sebagai Menteri Sihir,...
+
+105
+00:09:26,987 --> 00:09:29,837
+...saya berbesar hati,...
+
+106
+00:09:30,576 --> 00:09:34,033
+...untuk mengalu-alukan kedatangan
+anda semua...
+
+107
+00:09:34,513 --> 00:09:39,470
+...ke pusingan akhir
+Piala Dunia Quidditch ke-422.
+
+108
+00:09:41,023 --> 00:09:42,423
+Mari mulakan...
+
+109
+00:09:42,773 --> 00:09:43,959
+...perlawanan ini!
+
+110
+00:09:50,483 --> 00:09:52,653
+Krum! Krum! Krum!
+
+111
+00:10:00,493 --> 00:10:02,163
+Tiada yang sehebat Krum.
+
+112
+00:10:02,248 --> 00:10:03,941
+-Krum?
+-Krum yang dungu itu?
+
+113
+00:10:04,026 --> 00:10:06,470
+Dia seperti burung,
+meluncur melepasi angin.
+
+114
+00:10:07,428 --> 00:10:10,338
+-Dia lebih daripada sekadar atlet.
+-Krum dungu.
+
+115
+00:10:10,423 --> 00:10:11,605
+Dia seorang seniman.
+
+116
+00:10:11,690 --> 00:10:13,960
+-Awak sukakannya, Ron.
+-Diamlah.
+
+117
+00:10:14,242 --> 00:10:15,803
+<i>Viktor, daku mencintaimu</i>
+
+118
+00:10:15,888 --> 00:10:17,518
+<i>Victor, betul itu</i>
+
+119
+00:10:17,603 --> 00:10:21,181
+<i>Ketika berpisah
+Jantungku berdegup hanya untukmu</i>
+
+120
+00:10:21,266 --> 00:10:23,509
+Nampaknya pihak Ireland
+ada sesuatu untuk dibanggakan.
+
+121
+00:10:23,784 --> 00:10:25,190
+Hei, hentikannya!
+
+122
+00:10:26,273 --> 00:10:27,553
+Bukan pihak Ireland.
+
+123
+00:10:29,201 --> 00:10:30,978
+Kita perlu pergi dari sini.
+Sekarang!
+
+124
+00:10:33,283 --> 00:10:35,841
+Keluar semua!
+Death Eaters telah muncul!
+
+125
+00:10:35,926 --> 00:10:38,718
+Kembali ke Kunci Portal
+dan kekal bersama!
+
+126
+00:10:39,282 --> 00:10:42,048
+Fred, George!
+Tolong jagakan Ginny.
+
+127
+00:10:42,503 --> 00:10:43,623
+Pergi!
+
+128
+00:10:44,503 --> 00:10:45,581
+Harry!
+
+129
+00:11:01,143 --> 00:11:03,313
+-Terus bergerak!
+-Harry!
+
+130
+00:11:04,563 --> 00:11:06,866
+Harry! Harry!
+
+131
+00:11:54,363 --> 00:11:55,863
+<i>Morsmordre!</i>
+
+132
+00:12:22,593 --> 00:12:24,093
+Harry!
+
+133
+00:12:25,603 --> 00:12:28,813
+-Di mana awak?
+-Harry!
+
+134
+00:12:30,063 --> 00:12:31,909
+Penat kami mencari awak!
+
+135
+00:12:33,773 --> 00:12:35,329
+Kami ingatkan awak dah hilang.
+
+136
+00:12:36,443 --> 00:12:37,812
+Apa itu?
+
+137
+00:12:41,468 --> 00:12:43,126
+<i>Stupefy!</i>
+
+138
+00:12:43,802 --> 00:12:45,142
+Berhenti!
+
+139
+00:12:45,227 --> 00:12:46,881
+Itu anak sayalah!
+
+140
+00:12:48,583 --> 00:12:51,363
+-Ron, Harry, Hermione, kamu okey?
+-Kami cari Harry tadi.
+
+141
+00:12:51,448 --> 00:12:52,748
+Siapa yang lakukannya?
+
+142
+00:12:52,799 --> 00:12:54,849
+-Crouch, takkanlah...
+-Jangan menipu!
+
+143
+00:12:55,154 --> 00:12:57,173
+Kamu dijumpai di lokasi jenayah ini.
+
+144
+00:12:57,258 --> 00:12:59,468
+-Jenayah?
+-Barty! Mereka cuma budak-budaklah.
+
+145
+00:12:59,553 --> 00:13:00,855
+Jenayah apa?
+
+146
+00:13:01,075 --> 00:13:03,355
+Itu Tanda Kuasa Jahat, Harry.
+Tandanya.
+
+147
+00:13:03,811 --> 00:13:05,191
+Tanda Voldemort?
+
+148
+00:13:06,223 --> 00:13:10,188
+Orang yang bertopeng tadi,
+semuanya sekutunya, ya?
+
+149
+00:13:10,273 --> 00:13:11,695
+-Pengikutnya?
+-Ya.
+
+150
+00:13:12,693 --> 00:13:13,751
+Death Eater.
+
+151
+00:13:15,313 --> 00:13:18,463
+-Ikut saya.
+-Tadi, ada seorang lelaki.
+
+152
+00:13:19,823 --> 00:13:20,767
+Di sana!
+
+153
+00:13:21,323 --> 00:13:23,060
+Kamu semua, ikut sini!
+
+154
+00:13:24,363 --> 00:13:25,544
+Ada seorang lelaki?
+
+155
+00:13:26,123 --> 00:13:27,228
+Siapa?
+
+156
+00:13:27,993 --> 00:13:29,191
+Saya tak tahu.
+
+157
+00:13:31,413 --> 00:13:33,022
+Saya tak nampak wajahnya.
+
+158
+00:13:49,853 --> 00:13:52,085
+Ada sesiapa mahu beli apa-apa?
+
+159
+00:13:52,170 --> 00:13:53,898
+KEJADIAN SERAM DI
+PIALA DUNIA QUIDDITCH
+
+160
+00:13:53,983 --> 00:13:56,211
+Ada sesiapa mahu beli apa-apa?
+
+161
+00:14:01,137 --> 00:14:02,858
+Ada sesiapa mahu beli apa-apa tak?
+
+162
+00:14:02,934 --> 00:14:04,196
+Sepaket gula-gula Drooble,...
+
+163
+00:14:04,315 --> 00:14:06,619
+...dan Liquorice Wand.
+
+164
+00:14:08,658 --> 00:14:10,748
+Tak mengapalah,
+nak gula-gula Drooble saja.
+
+165
+00:14:10,833 --> 00:14:14,082
+-Tak mengapa, biar saya belikan.
+-Gula-gula Drooble saja. Terima kasih.
+
+166
+00:14:16,083 --> 00:14:17,941
+Saya nak dua Pumpkin Pasties.
+
+167
+00:14:23,883 --> 00:14:25,018
+Terima kasih.
+
+168
+00:14:26,133 --> 00:14:27,705
+Ada apa-apa yang awak mahu?
+
+169
+00:14:29,255 --> 00:14:30,749
+Tak mengapa, saya tak lapar.
+Terima kasih.
+
+170
+00:14:32,330 --> 00:14:34,518
+Ada sesiapa mahu beli apa-apa?
+
+171
+00:14:34,603 --> 00:14:35,776
+Dahsyat betullah.
+
+172
+00:14:37,023 --> 00:14:39,305
+Bagaimana Kementerian tak tahu
+siapa yang lakukannya?
+
+173
+00:14:40,028 --> 00:14:41,778
+Takkan tiada
+kawalan keselamatan atau...
+
+174
+00:14:41,863 --> 00:14:43,878
+Ada ramai pengawal, kata ayah.
+
+175
+00:14:45,017 --> 00:14:48,032
+Itulah yang mereka risaukan.
+Ia berlaku betul-betul di depan mata.
+
+176
+00:14:51,453 --> 00:14:53,852
+Parut awak,
+ia mula menyakitkan, kan?
+
+177
+00:14:54,905 --> 00:14:55,942
+Saya okey saja.
+
+178
+00:14:58,713 --> 00:15:00,955
+Awak tahu Sirius pasti nak tahu
+tentang hal ini...
+
+179
+00:15:01,828 --> 00:15:04,901
+Tentang apa yang awak lihat
+di Piala Dunia dan dalam mimpi itu.
+
+180
+00:15:14,183 --> 00:15:16,500
+Hedwig. Terbanglah.
+
+181
+00:15:56,420 --> 00:15:58,028
+Kosongkan landasan!
+
+182
+00:16:04,273 --> 00:16:06,298
+Itulah sesuatu yang jarang dilihat.
+
+183
+00:16:31,013 --> 00:16:33,610
+Oleh sebab semua dah berkumpul,...
+
+184
+00:16:33,673 --> 00:16:35,350
+...saya nak buat pengumuman.
+
+185
+00:16:36,933 --> 00:16:40,033
+Istana ini bukan saja akan menjadi
+penginapan kamu tahun ini,...
+
+186
+00:16:40,113 --> 00:16:42,985
+...tapi juga penginapan kepada
+beberapa tetamu istimewa.
+
+187
+00:16:44,023 --> 00:16:46,603
+Begini, Hogwarts telah dipilih...
+
+188
+00:16:47,613 --> 00:16:48,836
+Ya, apa dia?
+
+189
+00:16:49,323 --> 00:16:50,288
+Apa dia?
+
+190
+00:16:53,033 --> 00:16:55,749
+Suruh mereka tunggu.
+
+191
+00:16:56,533 --> 00:17:02,300
+Jadi, Hogwarts telah dipilih sebagai
+tuan rumah acara yang terunggul.
+
+192
+00:17:02,663 --> 00:17:04,713
+Kejohanan Ahli Sihir Trio.
+
+193
+00:17:05,253 --> 00:17:07,303
+-Kepada sesiapa yang tak tahu...
+-Bagus.
+
+194
+00:17:07,388 --> 00:17:10,609
+Kejohanan Ahli Sihir Trio membabitkan
+tiga buah sekolah,...
+
+195
+00:17:10,680 --> 00:17:12,987
+...bertanding dalam pertandingan sihir.
+
+196
+00:17:13,072 --> 00:17:16,452
+Bagi setiap sekolah, seorang pelajar
+akan dipilih untuk bertanding.
+
+197
+00:17:16,771 --> 00:17:18,441
+Saya nak jelaskan.
+
+198
+00:17:18,651 --> 00:17:21,498
+Jika terpilih,
+awak perlu bertanding bersendirian.
+
+199
+00:17:21,813 --> 00:17:23,807
+Percayalah,...
+
+200
+00:17:23,832 --> 00:17:26,405
+...pertandingan ini bukan untuk
+orang yang lemah.
+
+201
+00:17:27,193 --> 00:17:28,749
+Itu akan dihuraikan nanti.
+
+202
+00:17:28,834 --> 00:17:31,518
+Sekarang, saya ingin mempersilakan,...
+
+203
+00:17:31,585 --> 00:17:35,472
+...gadis rupawan dari
+Akademi Sihir Beauxbaton,...
+
+204
+00:17:35,608 --> 00:17:39,021
+...dan pengetua mereka,
+Madame Maxime.
+
+205
+00:17:52,423 --> 00:17:53,700
+Dahsyat betul.
+
+206
+00:18:01,853 --> 00:18:04,183
+Tinggi betul wanita itu.
+
+207
+00:18:26,347 --> 00:18:28,217
+Mempersilakan kawan kita
+dari bahagian utara.
+
+208
+00:18:28,302 --> 00:18:31,202
+Inilah para pemuda dari Durmstrang,...
+
+209
+00:18:31,282 --> 00:18:34,027
+...bersama pengetua mereka,
+Igor Karkaroff.
+
+210
+00:18:57,323 --> 00:18:58,588
+Oh, itu Krum!
+
+211
+00:18:58,988 --> 00:19:00,308
+Wah, itu dialah!
+
+212
+00:19:00,616 --> 00:19:01,795
+Viktor Krum!
+
+213
+00:19:11,503 --> 00:19:12,923
+Albus.
+
+214
+00:19:13,008 --> 00:19:13,986
+Igor.
+
+215
+00:19:28,433 --> 00:19:32,154
+Profesor Dumberdore,
+kuda kami telah mengembara jauh.
+
+216
+00:19:32,239 --> 00:19:34,686
+-Kuda itu perlu dijaga.
+-Jangan risau, Madame Maxime.
+
+217
+00:19:34,771 --> 00:19:37,684
+Penjaga kami, Hagrid pasti
+akan menguruskan mereka dengan baik.
+
+218
+00:19:38,693 --> 00:19:41,247
+Tapi, Encik Hagrid...
+
+219
+00:19:41,443 --> 00:19:43,743
+Kuda itu hanya minum satu tong wiski.
+
+220
+00:19:49,741 --> 00:19:50,954
+Tak guna!
+
+221
+00:19:56,713 --> 00:19:58,348
+Perhatian semua!
+
+222
+00:20:00,835 --> 00:20:02,783
+Saya nak katakan sesuatu.
+
+223
+00:20:04,973 --> 00:20:06,708
+Kemenangan abadi.
+
+224
+00:20:07,533 --> 00:20:11,135
+Itulah yang menanti pelajar
+yang memenangi Kejohanan Ahli Sihir Trio.
+
+225
+00:20:11,611 --> 00:20:15,426
+Untuk mendapatkannya, pelajar itu
+perlu jalani tiga cabaran.
+
+226
+00:20:15,896 --> 00:20:20,135
+Tiga cabaran yang sangat berbahaya.
+
+227
+00:20:20,518 --> 00:20:21,608
+-Dahsyat.
+-Dahsyat.
+
+228
+00:20:21,693 --> 00:20:25,332
+Oleh sebab itu, pihak Kementerian
+telah menggubal peraturan baru.
+
+229
+00:20:26,108 --> 00:20:27,621
+Bagi menjelaskannya...
+
+230
+00:20:27,692 --> 00:20:30,988
+...dijemput Ketua Jabatan Kerjasama
+Sihir Antarabangsa,...
+
+231
+00:20:31,054 --> 00:20:32,711
+...Encik Batermius Crouch.
+
+232
+00:20:47,933 --> 00:20:50,434
+Aduhai. Itu Mad-Eye Moody.
+
+233
+00:20:51,382 --> 00:20:54,501
+-Alastor Moody? Si Auror?
+-Auror?
+
+234
+00:20:54,586 --> 00:20:56,211
+Penangkap ahli sihir hitam.
+
+235
+00:20:56,296 --> 00:20:58,477
+Separuh sel penjara di Azkaban penuh
+disebabkan dialah.
+
+236
+00:20:58,903 --> 00:21:01,442
+Kebelakangan ini, dia memang
+nampak agak dahsyat.
+
+237
+00:21:13,873 --> 00:21:17,107
+-Kawan lama, terima kasih kerana datang.
+-Tak guna pula siling.
+
+238
+00:21:18,016 --> 00:21:19,007
+Terima kasih.
+
+239
+00:21:25,423 --> 00:21:27,303
+Awak rasa apa yang dia minum tu?
+
+240
+00:21:27,723 --> 00:21:29,977
+Entahlah, tapi rasanya itu bukan
+jus labu.
+
+241
+00:21:37,603 --> 00:21:39,566
+Selepas dipertimbangkan,...
+
+242
+00:21:39,720 --> 00:21:42,733
+...pihak Kementerian telah menyatakan
+bahawa demi keselamatan,...
+
+243
+00:21:42,816 --> 00:21:45,822
+...pelajar di bawah umur 17 tahun,...
+
+244
+00:21:45,910 --> 00:21:49,565
+...tidak boleh bertanding dalam
+Kejohanan Ahli Sihir Trio.
+
+245
+00:21:49,650 --> 00:21:52,222
+-Ini keputusan muktamad.
+-Mengarutlah!
+
+246
+00:21:52,307 --> 00:21:54,992
+Mengarutlah!
+Kenapa buat peraturan sebegitu!
+
+247
+00:21:55,423 --> 00:21:58,495
+-Diam semua!
+-Mereka tak gembira tentangnya.
+
+248
+00:22:18,588 --> 00:22:20,250
+Inilah Piala Api.
+
+249
+00:22:21,746 --> 00:22:24,498
+Sesiapa yang ingin menyertai
+kejohanan ini,...p
+
+250
+00:22:24,643 --> 00:22:27,551
+...perlu menulis nama pada
+sekeping kertas kulit,...
+
+251
+00:22:27,710 --> 00:22:30,903
+...dan masukkan ke dalam api ini sebelum
+waktu yang sama pada malam Khamis.
+
+252
+00:22:31,945 --> 00:22:33,964
+Jangan ambil ringan perkara ini.
+
+253
+00:22:34,623 --> 00:22:37,411
+Jika awak terpilih,
+awak terpaksa menerimanya.
+
+254
+00:22:38,373 --> 00:22:42,442
+Mulai saat ini, Kejohanan Ahli Sihir Trio
+telah bermula.
+
+255
+00:23:09,483 --> 00:23:10,681
+Alastor Moody.
+
+256
+00:23:13,493 --> 00:23:14,823
+Bekas Auror...
+
+257
+00:23:16,753 --> 00:23:18,253
+Menteri yang tak puas hati...
+
+258
+00:23:19,538 --> 00:23:21,958
+Kini, guru Kelas Pertahanan
+Terhadap Ilmu Hitam.
+
+259
+00:23:22,049 --> 00:23:25,733
+Saya datang sebab Dumbledore suruh.
+Itu sahaja.
+
+260
+00:23:26,629 --> 00:23:27,646
+Ada soalan lain?
+
+261
+00:23:31,593 --> 00:23:33,303
+Apabila berkaitan Ilmu Hitam,...
+
+262
+00:23:34,723 --> 00:23:36,598
+...saya lebih sukakan pendekatan praktikal.
+
+263
+00:23:37,447 --> 00:23:42,613
+Pertama sekali, siapa boleh beritahu
+berapa jumlah Sumpahan Terlarang?
+
+264
+00:23:43,773 --> 00:23:45,970
+-Ada tiga, tuan.
+-Kenapa ia dinamakan begitu?
+
+265
+00:23:46,273 --> 00:23:47,751
+Sebab ia tak boleh digunakan.
+
+266
+00:23:48,058 --> 00:23:49,608
+Jika salah satunya digunakan...
+
+267
+00:23:49,693 --> 00:23:53,674
+Kamu akan dihumban
+ke penjara Azkaban. Betul!
+
+268
+00:23:54,058 --> 00:23:56,750
+Pihak Kementerian tak benarkan
+kamu saksikan sumpahan ini.
+
+269
+00:23:56,835 --> 00:23:58,017
+Saya pula nafikannya!
+
+270
+00:23:58,465 --> 00:24:00,421
+Kamu perlu tahu tentang sumpahan ini!
+
+271
+00:24:00,506 --> 00:24:02,075
+Kamu perlu bersedia.
+
+272
+00:24:02,865 --> 00:24:04,753
+Awak perlu cari tempat lain
+untuk letakkan gula getah itu,...
+
+273
+00:24:04,846 --> 00:24:07,122
+...dan bukannya di bawah meja awak,
+En. Finnigan!
+
+274
+00:24:07,328 --> 00:24:08,409
+Takkanlah...
+
+275
+00:24:08,514 --> 00:24:10,564
+Orang tua ini boleh nampak
+segala macam pula.
+
+276
+00:24:11,673 --> 00:24:13,423
+Saya boleh dengarlah!
+
+277
+00:24:15,589 --> 00:24:18,640
+Jadi, sumpahan mana yang kamu
+nak belajar dulu?
+
+278
+00:24:19,190 --> 00:24:20,475
+-Weasley!
+-Ya?
+
+279
+00:24:20,663 --> 00:24:21,610
+Berdiri.
+
+280
+00:24:25,313 --> 00:24:26,422
+Namakan satu sumpahan.
+
+281
+00:24:27,313 --> 00:24:31,198
+Ayah saya ada beritahu tentang
+satu sumpahan.
+
+282
+00:24:31,783 --> 00:24:33,107
+Sumpahan Imperius.
+
+283
+00:24:33,192 --> 00:24:36,442
+Ya, ayah awak pasti tahu tentangnya.
+
+284
+00:24:36,965 --> 00:24:39,465
+Sebab itulah pihak Kementerian
+agak risau beberapa tahun lalu.
+
+285
+00:24:39,993 --> 00:24:42,493
+Mungkin ini akan tunjukkan sebabnya.
+
+286
+00:24:50,020 --> 00:24:51,110
+Helo.
+
+287
+00:24:52,982 --> 00:24:54,546
+Si kecil yang cantik.
+
+288
+00:24:57,851 --> 00:24:59,123
+<i>Engorgio.</i>
+
+289
+00:25:00,303 --> 00:25:01,519
+<i>Imperio!</i>
+
+290
+00:25:06,353 --> 00:25:08,119
+Jangan risau. Ia tak berbahaya.
+
+291
+00:25:14,912 --> 00:25:16,365
+Jika ia menggigit,...
+
+292
+00:25:17,193 --> 00:25:18,226
+...ia boleh membawa maut.
+
+293
+00:25:21,243 --> 00:25:22,557
+Apa yang awak ketawakan?
+
+294
+00:25:24,294 --> 00:25:25,262
+Halaulah!
+
+295
+00:25:28,203 --> 00:25:29,475
+Hebat, bukan?
+
+296
+00:25:30,163 --> 00:25:32,529
+Apa patut saya suruh ia buat?
+Lompat ke luar tingkap?
+
+297
+00:25:35,481 --> 00:25:36,474
+Lemaskannya?
+
+298
+00:25:48,620 --> 00:25:52,247
+Beberapa ahli sihir menyatakan,...
+
+299
+00:25:52,310 --> 00:25:55,550
+...yang mereka lakukan bidaan
+Kamu-Tahu-Siapa,...
+
+300
+00:25:56,388 --> 00:25:58,648
+...di bawah pengaruh Sumpahan Imperius.
+
+301
+00:25:58,727 --> 00:25:59,827
+Tapi beginilah...
+
+302
+00:26:00,993 --> 00:26:03,521
+Macam mana kita nak tahu
+tentang penipu itu?
+
+303
+00:26:06,323 --> 00:26:07,405
+Cuba jawab.
+
+304
+00:26:08,956 --> 00:26:10,050
+Angkat tangan.
+
+305
+00:26:10,685 --> 00:26:11,726
+Nama awak Longbottom, kan?
+
+306
+00:26:12,915 --> 00:26:13,799
+Bangun.
+
+307
+00:26:16,503 --> 00:26:20,303
+Profesor Sprout kata awak
+berbakat dalam bidang herbologi.
+
+308
+00:26:22,263 --> 00:26:23,459
+Ada...
+
+309
+00:26:24,133 --> 00:26:26,134
+Sumpahan Cruciatus.
+
+310
+00:26:26,219 --> 00:26:28,583
+Betul. Mari sini.
+
+311
+00:26:29,313 --> 00:26:30,556
+Sumpahan yang jahat.
+
+312
+00:26:33,983 --> 00:26:35,469
+Sumpahan yang Menyiksa.
+
+313
+00:26:36,813 --> 00:26:38,548
+<i>Crucio!</i>
+
+314
+00:26:51,512 --> 00:26:52,661
+Hentikannya!
+
+315
+00:26:52,746 --> 00:26:55,031
+Awak tak nampakkah ia mengganggu?
+Hentikannya!
+
+316
+00:27:13,224 --> 00:27:16,481
+Mungkin awak boleh namakan Sumpahan
+Terlarang yang terakhir, Cik Granger.
+
+317
+00:27:19,245 --> 00:27:20,264
+Tak nak?
+
+318
+00:27:21,938 --> 00:27:23,087
+<i>Avada Kedavra!</i>
+
+319
+00:27:27,993 --> 00:27:29,205
+Sumpahan yang Membunuh.
+
+320
+00:27:30,655 --> 00:27:33,962
+Hanya seorang saja yang pernah
+terselamat daripadanya,...
+
+321
+00:27:34,243 --> 00:27:35,832
+...dan dia ada di dalam bilik ini.
+
+322
+00:28:08,236 --> 00:28:09,597
+Hebat, kan?
+
+323
+00:28:10,283 --> 00:28:11,873
+Dia memang gila.
+
+324
+00:28:11,958 --> 00:28:14,333
+Tapi, lagi menakutkan berada
+di bilik yang sama dengannya...
+
+325
+00:28:14,418 --> 00:28:15,957
+...tapi dia pasti pernah
+merasainya, kan?
+
+326
+00:28:16,219 --> 00:28:17,605
+Dia nampak kejam juga.
+
+327
+00:28:17,690 --> 00:28:20,172
+Ada sebab kenapa sumpahan
+itu dilarang.
+
+328
+00:28:20,369 --> 00:28:22,090
+Dia pula tunjukkannya di dalam kelas...
+
+329
+00:28:22,175 --> 00:28:24,126
+Awak tak nampak muka Neville tadi?
+
+330
+00:28:27,467 --> 00:28:28,594
+Neville?
+
+331
+00:28:29,263 --> 00:28:30,122
+Nak?
+
+332
+00:28:31,053 --> 00:28:32,022
+Awak okey?
+
+333
+00:28:33,305 --> 00:28:36,408
+Jom, kita minum teh.
+Saya nak tunjukkan sesuatu.
+
+334
+00:28:51,573 --> 00:28:53,173
+Kita akan terlambat!
+
+335
+00:29:06,609 --> 00:29:08,991
+Ayuh, Cedric. Letak nama awak!
+
+336
+00:29:25,178 --> 00:29:27,405
+Kemenangan abadi.
+Hebat, bukan?
+
+337
+00:29:27,916 --> 00:29:30,233
+Tiga tahun dari sekarang,
+kita dah layak terpilih.
+
+338
+00:29:30,318 --> 00:29:31,824
+Ya, lebih baik awak daripada saya.
+
+339
+00:29:32,403 --> 00:29:34,484
+Ya!
+
+340
+00:29:36,533 --> 00:29:38,354
+Terima kasih.
+
+341
+00:29:38,471 --> 00:29:41,551
+-Kami dah lakukannya.
+-Kami hasilkannya pagi tadi.
+
+342
+00:29:41,780 --> 00:29:43,503
+Ia takkan berkesanlah.
+
+343
+00:29:45,213 --> 00:29:47,013
+-Oh, ya?
+-Kenapa pula, Granger?
+
+344
+00:29:47,788 --> 00:29:50,623
+Nampak tak? Ini Garisan Umur.
+
+345
+00:29:50,975 --> 00:29:52,487
+Dumbledore sendiri yang lukisnya.
+
+346
+00:29:52,779 --> 00:29:53,698
+Jadi?
+
+347
+00:29:55,915 --> 00:29:59,695
+Jadi, seorang genius seperti Dumbledore
+takkan tertipu,...
+
+348
+00:29:59,837 --> 00:30:02,779
+...dengan sesuatu benda sedungu
+Posyen Penuaan.
+
+349
+00:30:02,864 --> 00:30:04,166
+Sebab itulah posyen itu bagus.
+
+350
+00:30:04,238 --> 00:30:06,471
+Sebab ia sangat dungu.
+
+351
+00:30:08,927 --> 00:30:10,617
+-Sedia, Fred?
+-Sedia, George.
+
+352
+00:30:11,017 --> 00:30:12,153
+-Minumlah.
+-Minumlah.
+
+353
+00:30:16,331 --> 00:30:18,323
+-Ya!
+-Ya!
+
+354
+00:30:19,044 --> 00:30:20,038
+Ya!
+
+355
+00:30:21,674 --> 00:30:22,745
+Ya!
+
+356
+00:30:23,770 --> 00:30:24,741
+Sedia?
+
+357
+00:30:28,673 --> 00:30:30,297
+-Ya!
+-Ya!
+
+358
+00:30:39,343 --> 00:30:40,786
+-Awak kata menjadi!
+-Awak yang kata!
+
+359
+00:30:42,305 --> 00:30:45,725
+-Awak memang nak kena, ya?
+-Saya cabut telinga awak!
+
+360
+00:30:45,810 --> 00:30:48,320
+-Ah, kelakarlah sangat!
+-Nah! Rasakan!
+
+361
+00:30:48,405 --> 00:30:51,293
+Gaduh! Gaduh! Gaduh!
+
+362
+00:30:55,198 --> 00:30:56,790
+Kita dah tualah, kan?
+
+363
+00:30:56,875 --> 00:30:58,407
+Ya, tapi awak lagi tua bangka!
+
+364
+00:31:30,773 --> 00:31:32,818
+Semua, sila duduk.
+
+365
+00:31:36,480 --> 00:31:38,999
+Inilah saat yang kita semua
+tunggu-tunggu.
+
+366
+00:31:39,913 --> 00:31:41,525
+Pemilihan calon juara.
+
+367
+00:32:13,450 --> 00:32:16,402
+Calon juara Durmstrang adalah
+Viktor Krum.
+
+368
+00:32:33,213 --> 00:32:35,463
+Calon juara untuk Beauxbatons...
+
+369
+00:32:35,705 --> 00:32:37,251
+...Fleur Delacour.
+
+370
+00:32:48,353 --> 00:32:50,733
+Calon juara Hogwarts, Cedric Diggory!
+
+371
+00:33:01,181 --> 00:33:02,580
+Bagus!
+
+372
+00:33:02,665 --> 00:33:05,231
+Sekarang kita dah ada tiga
+calon juara.
+
+373
+00:33:05,945 --> 00:33:09,641
+Tapi pada akhirnya, hanya ada
+seorang saja boleh menjadi juara.
+
+374
+00:33:10,223 --> 00:33:13,700
+Hanya seorang saja yang bakal
+menjulang simbol kejohanan ini,...
+
+375
+00:33:13,873 --> 00:33:16,279
+...simbol kemenangan ini,...
+
+376
+00:33:16,968 --> 00:33:18,399
+...Piala Ahli Sihir Trio!
+
+377
+00:33:50,084 --> 00:33:51,117
+Harry Potter.
+
+378
+00:33:53,913 --> 00:33:55,054
+Harry Potter?
+
+379
+00:33:59,851 --> 00:34:01,304
+Takkanlah.
+
+380
+00:34:02,633 --> 00:34:03,988
+Harry Potter!
+
+381
+00:34:04,213 --> 00:34:05,128
+Pergilah, Harry.
+
+382
+00:34:06,053 --> 00:34:07,163
+Harry, pergilah sana.
+
+383
+00:34:39,293 --> 00:34:40,526
+Dia penipu!
+
+384
+00:34:41,198 --> 00:34:43,070
+Dia belum berusia 17 tahun lagi!
+
+385
+00:35:11,453 --> 00:35:14,994
+-Ini salahlah!
+-Tak guna betul.
+
+386
+00:35:15,079 --> 00:35:18,150
+-Ini semua teori konspirasi!
+-Diamlah! Saya nak berfikir!
+
+387
+00:35:18,235 --> 00:35:20,299
+-Semuanya teori konspirasi!
+-Saya bantah.
+
+388
+00:35:20,384 --> 00:35:21,637
+-Harry.
+-Saya bantah!
+
+389
+00:35:21,722 --> 00:35:23,677
+Harry, adakah awak letak nama
+sendiri dalam Piala Api?
+
+390
+00:35:23,762 --> 00:35:26,088
+-Tidak, tuan.
+-Awak minta pelajar lebih tua,...
+
+391
+00:35:26,173 --> 00:35:27,513
+-...untuk letakkannya?
+-Tidak, tuan.
+
+392
+00:35:27,598 --> 00:35:30,087
+-Awak pasti?
+-Ya, tuan.
+
+393
+00:35:30,950 --> 00:35:33,224
+-Tapi dia pasti berbohong.
+-Memang betullah!
+
+394
+00:35:33,309 --> 00:35:35,815
+Piala Api adalah objek ajaib
+yang sangat kuat.
+
+395
+00:35:35,900 --> 00:35:38,973
+Hanya Jampi Confundus yang kuat
+boleh mengubahnya.
+
+396
+00:35:39,058 --> 00:35:41,108
+Itu sihir yang melebihi kemampuan
+pelajar tahun keempat.
+
+397
+00:35:41,185 --> 00:35:44,601
+Awak seperti tahu saja
+tentangnya, Mad-Eye.
+
+398
+00:35:44,687 --> 00:35:47,356
+Dahulu, tugas saya memikirkan
+apa yang ahli sihir hitam lakukan.
+
+399
+00:35:47,412 --> 00:35:49,357
+Kalau awak ingatlah, Karkaroff.
+
+400
+00:35:49,442 --> 00:35:51,183
+Ini tak membantu, Alastor.
+
+401
+00:35:52,823 --> 00:35:54,258
+Saya serahkan kepada awak, Barty.
+
+402
+00:35:56,493 --> 00:35:57,793
+Peraturannya muktamad.
+
+403
+00:35:59,913 --> 00:36:03,070
+Piala Api mengeluarkan
+kontrak sihir terikat.
+
+404
+00:36:05,130 --> 00:36:06,746
+En. Potter tiada pilihan lain.
+
+405
+00:36:08,102 --> 00:36:10,602
+Pada malam ini,...
+
+406
+00:36:12,275 --> 00:36:13,845
+...dia adalah calon juara
+Ahli Sihir Trio.
+
+407
+00:36:42,293 --> 00:36:43,850
+Ini tak boleh diteruskan, Albus.
+
+408
+00:36:44,753 --> 00:36:47,175
+Mula-mula, ada Tanda Kuasa Jahat.
+Sekarang, ini pula?
+
+409
+00:36:47,753 --> 00:36:49,083
+Apa cadangan awak, Minerva?
+
+410
+00:36:50,923 --> 00:36:52,145
+Hentikan semua ini.
+
+411
+00:36:53,463 --> 00:36:55,267
+Jangan benarkan Potter bertanding.
+
+412
+00:36:55,633 --> 00:36:57,764
+Awak dah dengar kata Barty.
+Peraturannya muktamad.
+
+413
+00:36:58,263 --> 00:37:01,253
+Pedulikan Barty dan peraturannya.
+
+414
+00:37:01,338 --> 00:37:03,673
+Sejak bila pula awak mengikuti
+kata-kata Kementerian?
+
+415
+00:37:03,758 --> 00:37:07,828
+Pengetua, saya juga tak percaya
+kalau ini cuma kebetulan.
+
+416
+00:37:07,913 --> 00:37:11,985
+Namun, jika kita mahu ketahui
+hikmah di sebalik semua ini,...
+
+417
+00:37:12,098 --> 00:37:15,455
+...mungkin buat sementara ini,...
+
+418
+00:37:16,653 --> 00:37:18,617
+...kita biarkan saja.
+
+419
+00:37:19,073 --> 00:37:20,994
+Tak perlu bertindak?
+
+420
+00:37:21,499 --> 00:37:23,047
+Biarkan dia pergi sebagai umpan?
+
+421
+00:37:24,012 --> 00:37:26,899
+Potter itu seorang manusia,
+bukannya daging.
+
+422
+00:37:27,793 --> 00:37:28,793
+Saya setuju,...
+
+423
+00:37:29,471 --> 00:37:30,513
+...dengan Severus.
+
+424
+00:37:31,093 --> 00:37:33,509
+Alastor, awasi Harry, boleh?
+
+425
+00:37:34,213 --> 00:37:36,489
+-Saya boleh lakukannya.
+-Jangan sampai dia tahu.
+
+426
+00:37:36,870 --> 00:37:39,294
+Dia pasti dah cukup bimbang,...
+
+427
+00:37:40,550 --> 00:37:42,177
+...dengan semua yang bakal terjadi.
+
+428
+00:37:43,494 --> 00:37:45,729
+Kita semua pun risau juga.
+
+429
+00:37:49,272 --> 00:37:52,402
+HARRY POTTER
+
+430
+00:38:01,002 --> 00:38:02,134
+Bagaimana awak lakukannya?
+
+431
+00:38:04,460 --> 00:38:06,620
+Tak mengapalah.
+Tak kisah pun.
+
+432
+00:38:07,177 --> 00:38:09,002
+Tak payahlah beritahu kawan awak ni.
+
+433
+00:38:09,087 --> 00:38:12,067
+-Beritahu apa?
+-Buat-buat tak tahu pula.
+
+434
+00:38:12,739 --> 00:38:14,980
+Saya tak minta pun dipilih, Ron.
+
+435
+00:38:15,463 --> 00:38:16,372
+Okey?
+
+436
+00:38:17,263 --> 00:38:19,592
+-Awak ni mengarutlah.
+-Ya, itulah saya.
+
+437
+00:38:19,901 --> 00:38:22,619
+Ron Weasley, kawan Harry Potter
+yang mengarut.
+
+438
+00:38:27,254 --> 00:38:29,322
+Saya tak letak nama sendiri
+dalam piala itu.
+
+439
+00:38:29,563 --> 00:38:32,249
+Saya tak mahu kemenangan abadi.
+Saya cuma...
+
+440
+00:38:35,209 --> 00:38:37,662
+Dengar, saya tak tahu
+apa yang berlaku malam ini,...
+
+441
+00:38:37,687 --> 00:38:39,087
+...dan saya tak tahu sebabnya.
+
+442
+00:38:39,902 --> 00:38:41,018
+Ia terus berlaku.
+
+443
+00:38:41,913 --> 00:38:42,814
+Okey?
+
+444
+00:38:52,245 --> 00:38:53,400
+Lantaklah!
+
+445
+00:39:09,063 --> 00:39:11,153
+Peserta yang berkarisma.
+
+446
+00:39:12,853 --> 00:39:13,845
+Helo.
+
+447
+00:39:15,363 --> 00:39:17,524
+Saya Rita Skeeter.
+
+448
+00:39:18,062 --> 00:39:20,572
+Saya penulis rencana "Daily Prophet".
+
+449
+00:39:21,461 --> 00:39:23,028
+Tapi sudah tentu kamu kenal, kan?
+
+450
+00:39:23,527 --> 00:39:25,743
+Tapi kami tak kenal kamu.
+
+451
+00:39:26,833 --> 00:39:28,294
+Kamu semua topik utama.
+
+452
+00:39:28,714 --> 00:39:32,815
+Apakah kelebihan di sebalik
+pipi gebu ini?
+
+453
+00:39:33,213 --> 00:39:36,757
+Apakah misteri
+di sebalik badan yang tegap ini?
+
+454
+00:39:36,842 --> 00:39:40,052
+Adakah muncul keberanian
+di sebalik diri ini?
+
+455
+00:39:40,137 --> 00:39:42,801
+Apapun, apa yang buatkan
+diri kamu layak menjadi juara?
+
+456
+00:39:43,803 --> 00:39:45,557
+Saya sendiri mahu tahu tentangnya.
+
+457
+00:39:45,642 --> 00:39:47,500
+Termasuklah pembaca setia saya.
+
+458
+00:39:48,099 --> 00:39:50,210
+Jadi, siapa mahu berkongsi rahsia?
+
+459
+00:39:54,055 --> 00:39:56,372
+Mari mulakan dengan yang
+paling muda? Boleh saja.
+
+460
+00:40:08,850 --> 00:40:09,905
+Selesa betul.
+
+461
+00:40:11,333 --> 00:40:12,623
+Ini almari penyapu.
+
+462
+00:40:13,277 --> 00:40:14,854
+Awak patut selesakan diri.
+
+463
+00:40:15,815 --> 00:40:17,921
+Tak kisah kan kalau saya gunakan
+Pen Petikan Pantas?
+
+464
+00:40:18,796 --> 00:40:19,649
+Boleh saja.
+
+465
+00:40:20,745 --> 00:40:22,081
+Jadi, beritahu saya, Harry.
+
+466
+00:40:22,820 --> 00:40:25,843
+Awak merupakan pelajar
+berumur 12 tahun...
+
+467
+00:40:25,928 --> 00:40:27,496
+Maaf, saya 14 tahun.
+
+468
+00:40:27,683 --> 00:40:30,751
+Awak akan bertanding melawan
+tiga orang pelajar,...
+
+469
+00:40:30,816 --> 00:40:34,163
+...yang bukan saja lebih matang
+dari segi emosi,...
+
+470
+00:40:34,266 --> 00:40:36,897
+...tapi juga pakar dalam jampi
+yang awak tak pernah lakukan,...
+
+471
+00:40:36,938 --> 00:40:38,746
+...sebelum ini.
+
+472
+00:40:39,863 --> 00:40:41,089
+Risau tak?
+
+473
+00:40:43,073 --> 00:40:45,846
+Entahlah. Saya tak terfikir pula
+tentangnya.
+
+474
+00:40:45,931 --> 00:40:47,298
+Jangan pedulikan pen itu.
+
+475
+00:40:48,413 --> 00:40:50,953
+Awak cuma budak 12 tahun
+yang biasa, kan?
+
+476
+00:40:51,038 --> 00:40:53,023
+-14 tahun.
+-Kisah hidup awak bagai lagenda.
+
+477
+00:40:54,538 --> 00:40:56,618
+Awak rasa trauma pada masa lalu,...
+
+478
+00:40:56,703 --> 00:40:59,987
+...telah buatkan awak teringin
+untuk sertai kejohanan yang bahaya ini?
+
+479
+00:41:00,072 --> 00:41:01,794
+Tak, bukan saya nak mahu.
+
+480
+00:41:01,879 --> 00:41:03,048
+Sudah tentulah.
+
+481
+00:41:06,013 --> 00:41:07,664
+Semua orang suka memberontak, Harry.
+
+482
+00:41:09,973 --> 00:41:11,178
+Buangkan yang itu.
+
+483
+00:41:12,263 --> 00:41:15,136
+Bercakap tentang ibu bapa awak,
+jika mereka masih hidup,...
+
+484
+00:41:15,224 --> 00:41:16,483
+...apa agaknya perasaan mereka?
+
+485
+00:41:16,568 --> 00:41:17,416
+Bangga?
+
+486
+00:41:17,501 --> 00:41:18,568
+Atau risau,...
+
+487
+00:41:18,663 --> 00:41:22,264
+...sebab perilaku awak menunjukkan
+betapa perlunya perhatian,...
+
+488
+00:41:22,515 --> 00:41:24,499
+...atau mungkin ini niat bunuh diri?
+
+489
+00:41:26,091 --> 00:41:30,397
+Hei, saya tak sentiasa "hidup
+bergelumang dengan masa lalu".
+
+490
+00:42:03,531 --> 00:42:05,968
+<i>Harry, saya tak boleh hantar Hedwig.</i>
+
+491
+00:42:06,191 --> 00:42:09,241
+<i>Sejak Piala Dunia, pihak Kementerian
+sibuk memeriksa burung hantu,...</i>
+
+492
+00:42:09,326 --> 00:42:11,119
+<i>...dan Hedwig senang dicam.</i>
+
+493
+00:42:11,863 --> 00:42:14,511
+<i>Kita perlu bersemuka, Harry.</i>
+
+494
+00:42:14,913 --> 00:42:19,055
+<i>Jumpa saya di bilik rehat Gryffindor,
+jam 1:00 pagi Sabtu.</i>
+
+495
+00:42:19,140 --> 00:42:20,614
+<i>Pastikan awak bersendirian.</i>
+
+496
+00:42:21,095 --> 00:42:22,113
+<i>Sirius.</i>
+
+497
+00:42:22,635 --> 00:42:24,147
+<i>Lupa nak beritahu...</i>
+
+498
+00:42:24,479 --> 00:42:25,882
+<i>Burung ini suka mengigit.</i>
+
+499
+00:42:36,683 --> 00:42:37,717
+Sirius?
+
+500
+00:42:41,974 --> 00:42:45,323
+TRAGEDI REMAJA:
+HARRY POTTER DAN PIALA AHLI SIHIR TRIO
+
+501
+00:42:54,866 --> 00:42:57,173
+<i>Harry Potter, berumur 12 tahun,...</i>
+
+502
+00:42:57,258 --> 00:43:00,043
+<i>...peserta tak disangka bagi
+Kejohanan Ahli Sihir Trio.</i>
+
+503
+00:43:00,128 --> 00:43:02,493
+<i>Dirinya masih bergelumang
+dengan masa lalunya,...</i>
+
+504
+00:43:02,578 --> 00:43:04,047
+<i>...dan menahan tangisan...</i>
+
+505
+00:43:19,942 --> 00:43:22,532
+Sirius. Bagaimana...
+
+506
+00:43:22,858 --> 00:43:25,505
+Saya tak cukup masa, Harry.
+Biar saya cakap terus.
+
+507
+00:43:25,590 --> 00:43:28,285
+Adakah awak letak nama sendiri
+dalam Piala Api?
+
+508
+00:43:28,370 --> 00:43:29,308
+Taklah!
+
+509
+00:43:30,613 --> 00:43:31,903
+Lagi satu, nak tanya.
+
+510
+00:43:31,988 --> 00:43:34,716
+Ceritakan tentang mimpi awak itu.
+
+511
+00:43:34,801 --> 00:43:36,915
+Awak ada sebut pasal Wormtail
+dan Voldemort.
+
+512
+00:43:37,000 --> 00:43:39,287
+Tapi, siapa lelaki ketiga dalam
+bilik itu?
+
+513
+00:43:39,575 --> 00:43:42,075
+-Saya tak tahu.
+-Tak dengar apa-apa nama?
+
+514
+00:43:42,953 --> 00:43:43,917
+Tidak.
+
+515
+00:43:45,413 --> 00:43:49,126
+Voldermort berikannya tugas.
+Tugas yang penting.
+
+516
+00:43:49,218 --> 00:43:50,518
+Apa tugasnya?
+
+517
+00:43:52,628 --> 00:43:53,779
+Dia ingin...
+
+518
+00:43:54,593 --> 00:43:55,530
+...dapatkan saya.
+
+519
+00:43:56,803 --> 00:43:58,261
+Saya tak tahu kenapa.
+
+520
+00:43:58,346 --> 00:44:00,298
+Tapi dia akan gunakan lelaki ini
+untuk dapatkan saya.
+
+521
+00:44:02,594 --> 00:44:04,517
+Tapi, itu cuma mimpi sahaja, kan?
+
+522
+00:44:04,856 --> 00:44:06,322
+Ya.
+
+523
+00:44:06,705 --> 00:44:07,980
+Ia cuma mimpi.
+
+524
+00:44:09,262 --> 00:44:10,285
+Dengar, Harry.
+
+525
+00:44:10,855 --> 00:44:14,205
+Kemunculan Death Eaters di Piala Dunia.
+Nama awak muncul dari piala...
+
+526
+00:44:14,285 --> 00:44:15,557
+Itu bukan kebetulan.
+
+527
+00:44:15,642 --> 00:44:17,892
+Hogwarts sudah tidak selamat lagi.
+
+528
+00:44:18,493 --> 00:44:19,573
+Apa maksud awak?
+
+529
+00:44:19,658 --> 00:44:22,697
+Maksud saya, penjahat ada di dalamnya.
+
+530
+00:44:22,782 --> 00:44:24,143
+Igor Karkaroff?
+
+531
+00:44:24,232 --> 00:44:25,366
+Dia dulunya Death Eater.
+
+532
+00:44:25,648 --> 00:44:28,878
+Tiada sesiapa pun akan berhenti
+menjadi Death Eater.
+
+533
+00:44:28,963 --> 00:44:31,478
+Ada pula si Barty Crouch.
+Si hati batu itu.
+
+534
+00:44:31,563 --> 00:44:33,862
+Dia sendiri penjarakan anaknya
+di Azkaban.
+
+535
+00:44:39,111 --> 00:44:40,990
+Awak rasa mereka yang
+letak nama saya di dalam piala?
+
+536
+00:44:41,075 --> 00:44:43,276
+Saya tak tahu siapa yang letak
+nama awak dalam piala itu, Harry...
+
+537
+00:44:43,361 --> 00:44:45,187
+...tapi orang itu memang musuh awak.
+
+538
+00:44:45,272 --> 00:44:47,669
+Orang boleh mati dalam kejohanan ini.
+
+539
+00:44:47,754 --> 00:44:50,834
+-Saya tak bersedia lagi, Sirius.
+-Awak tiada pilihan.
+
+540
+00:44:54,863 --> 00:44:57,109
+-Ada orang datang.
+-Rapatlah dengan kawan awak, Harry.
+
+541
+00:45:00,649 --> 00:45:02,503
+-Awak cakap dengan siapa?
+-Apa?
+
+542
+00:45:02,597 --> 00:45:05,036
+-Siapa kata saya bercakap dengan orang?
+-Saya dengar suara.
+
+543
+00:45:05,413 --> 00:45:06,814
+Mungkin terbayang saja.
+
+544
+00:45:07,687 --> 00:45:08,873
+Ini bukan kali pertama.
+
+545
+00:45:10,083 --> 00:45:12,525
+Awak mungkin sedang berlatih
+untuk temubual seterusnya, kan?
+
+546
+00:45:39,243 --> 00:45:40,236
+Menakjubkan.
+
+547
+00:45:42,823 --> 00:45:45,969
+-Menakjubkan!
+-Neville! Awak buat perangai lagi.
+
+548
+00:45:47,083 --> 00:45:48,062
+Oh, maaflah.
+
+549
+00:45:49,310 --> 00:45:52,218
+"Tumbuhan Air Ajaib dari
+Tasik Tinggi"?
+
+550
+00:45:52,473 --> 00:45:55,112
+Moody berikannya kepada saya
+pada hari kami minum teh bersama.
+
+551
+00:45:57,412 --> 00:45:58,929
+Dia dah bertemu ramai orang.
+
+552
+00:45:59,014 --> 00:46:01,101
+Kenapa awak tak pergi
+berjumpanya sendiri?
+
+553
+00:46:02,562 --> 00:46:05,025
+Ron, ini masalah awak.
+Bukan saya.
+
+554
+00:46:05,375 --> 00:46:06,625
+Apa awak nak saya katakan?
+
+555
+00:46:07,433 --> 00:46:08,313
+Pergi.
+
+556
+00:46:11,748 --> 00:46:16,031
+Ronald nak saya beritahu awak
+yang Seamus beritahu dia...
+
+557
+00:46:16,452 --> 00:46:20,148
+...yang Dean kata, Parvati beritahu
+yang Hagrid cari awak.
+
+558
+00:46:20,233 --> 00:46:22,189
+Betulkah?
+
+559
+00:46:22,823 --> 00:46:23,752
+Apa?
+
+560
+00:46:28,375 --> 00:46:30,955
+-Betulkah awak tak nak beritahu?
+-Pergilah.
+
+561
+00:46:34,753 --> 00:46:37,378
+Parvati beritahu Dean yang...
+
+562
+00:46:39,098 --> 00:46:40,768
+Janganlah buat saya ulang lagi.
+
+563
+00:46:41,553 --> 00:46:43,030
+Hagrid cari awak.
+
+564
+00:46:43,608 --> 00:46:46,040
+-Awak beritahu Ronald...
+-Saya bukan tukang penyampai!
+
+565
+00:46:57,314 --> 00:46:59,264
+Awak bawa tak jubah ayah awak
+seperti yang saya suruh?
+
+566
+00:46:59,446 --> 00:47:02,148
+Ya, saya bawa jubah itu.
+Hagrid, kita nak ke mana?
+
+567
+00:47:02,233 --> 00:47:03,399
+Nanti awak tahulah.
+
+568
+00:47:03,870 --> 00:47:05,472
+Tumpukan perhatian.
+Ini penting.
+
+569
+00:47:07,815 --> 00:47:08,949
+Kenapa bawa bunga itu?
+
+570
+00:47:10,333 --> 00:47:12,125
+Hagrid, awak sikat rambut?
+
+571
+00:47:13,033 --> 00:47:14,362
+Ya, betul tu.
+
+572
+00:47:14,777 --> 00:47:17,377
+Saya mungkin perlu lakukannya selalu.
+
+573
+00:47:26,763 --> 00:47:28,045
+Hagrid?
+
+574
+00:47:32,143 --> 00:47:33,667
+Pakai jubah itu!
+
+575
+00:47:40,563 --> 00:47:41,755
+Selamat malam, Olympe.
+
+576
+00:47:42,414 --> 00:47:43,692
+Oh, Hagrid.
+
+577
+00:47:44,238 --> 00:47:46,093
+Saya ingatkan awak tak datang.
+
+578
+00:47:46,704 --> 00:47:50,003
+Saya ingatkan awak dah lupakan saya.
+
+579
+00:47:51,076 --> 00:47:52,710
+Saya takkan lupakan awak, Olympe.
+
+580
+00:47:53,711 --> 00:47:55,321
+Apa yang awak nak tunjukkan?
+
+581
+00:47:57,003 --> 00:48:00,403
+Ketika kita berbual sebelum ini,
+nada awak...
+
+582
+00:48:00,543 --> 00:48:01,851
+...sangat gembira.
+
+583
+00:48:02,725 --> 00:48:04,800
+Saya gembira awak datang ke sini.
+Percayalah.
+
+584
+00:48:15,952 --> 00:48:17,309
+Boleh kita pergi lebih dekat?
+
+585
+00:48:25,613 --> 00:48:26,627
+Naga?
+
+586
+00:48:27,299 --> 00:48:28,863
+Itu cabaran pertama saya?
+
+587
+00:48:29,185 --> 00:48:31,284
+-Biar betul.
+-Ayuhlah, Harry.
+
+588
+00:48:32,561 --> 00:48:35,016
+Inilah makhluk yang sangat
+disalah erti.
+
+589
+00:48:36,440 --> 00:48:37,736
+Oh, alamak!
+
+590
+00:48:38,228 --> 00:48:40,761
+Walaupun, saya perlu akui,...
+
+591
+00:48:40,825 --> 00:48:43,288
+...naga Horntail itu agak ganas juga.
+
+592
+00:48:43,994 --> 00:48:46,399
+Ron hampir pengsan apabila
+nampak naga itu.
+
+593
+00:48:48,213 --> 00:48:50,300
+-Ron pernah ke sini?
+-Sudah tentulah.
+
+594
+00:48:50,385 --> 00:48:53,454
+Abangnya, Charlie bantu bawakan
+naga itu dari Romania.
+
+595
+00:48:54,224 --> 00:48:55,513
+Ron tak beritahu awak?
+
+596
+00:48:57,473 --> 00:48:58,467
+Dia tak beritahu pun.
+
+597
+00:48:59,524 --> 00:49:00,792
+Dia tak beritahu apa-apa pun.
+
+598
+00:49:10,033 --> 00:49:11,168
+POTTER BUSUK
+
+599
+00:49:11,253 --> 00:49:13,994
+-Penipu punya Potter.
+-Busuk punya Potter.
+
+600
+00:49:15,961 --> 00:49:18,519
+-Selamat berjayalah, Potter.
+-Potter busuk!
+
+601
+00:49:18,604 --> 00:49:21,090
+-Cedric lagi hebat.
+-Terima kasih.
+
+602
+00:49:22,480 --> 00:49:23,633
+Suka tak lencana ini?
+
+603
+00:49:25,111 --> 00:49:26,037
+Tumpang lalu.
+
+604
+00:49:30,644 --> 00:49:31,690
+Harry.
+
+605
+00:49:32,897 --> 00:49:34,817
+Tengoklah lencana itu, Potter!
+
+606
+00:49:34,902 --> 00:49:35,858
+Boleh jumpa sekejap?
+
+607
+00:49:37,393 --> 00:49:39,877
+-Boleh saja.
+-Busuk punya Potter!
+
+608
+00:49:39,962 --> 00:49:42,038
+-Potter busuk!
+-Harry Potter busuk!
+
+609
+00:49:44,943 --> 00:49:47,210
+Naga. Itu cabaran pertama.
+
+610
+00:49:47,733 --> 00:49:50,303
+-Semua akan diberikan naga.
+-Ayuh, Ced!
+
+611
+00:49:50,983 --> 00:49:52,359
+Biar betul?
+
+612
+00:49:53,686 --> 00:49:57,061
+Fleur dan Krum, adakah mereka...
+
+613
+00:49:57,146 --> 00:49:59,274
+-Ya.
+-Ayuh, Ced, tinggalkan dia.
+
+614
+00:49:59,351 --> 00:50:00,871
+-Betul.
+-Tak payah nak berbuallah.
+
+615
+00:50:00,964 --> 00:50:03,258
+-Baca lencana tu, Potter!
+-Hei, tentang lencana itu...
+
+616
+00:50:03,812 --> 00:50:05,889
+-Saya minta mereka tanggalkan tapi...
+-Jangan risaulah.
+
+617
+00:50:06,923 --> 00:50:09,376
+Bukannya saya nak buatkan
+keadaan jadi kecoh.
+
+618
+00:50:10,128 --> 00:50:11,588
+Kebetulan saja berlaku begitu.
+
+619
+00:50:11,673 --> 00:50:14,099
+Apapun, ia agak menakjubkan.
+
+620
+00:50:14,758 --> 00:50:16,628
+Awak ni pengkhianat betul. Tahu tak?
+
+621
+00:50:16,973 --> 00:50:18,549
+-Oh, begitu?
+-Ya, begitulah.
+
+622
+00:50:19,353 --> 00:50:20,427
+Ada apa lagi tak?
+
+623
+00:50:20,900 --> 00:50:23,510
+-Ya, jauhkan diri dari saya.
+-Baiklah.
+
+624
+00:50:26,733 --> 00:50:29,724
+-Itulah Potter si Penipu.
+-Kenapa bengang sangat, Potter?
+
+625
+00:50:31,113 --> 00:50:33,008
+Saya dan ayah bertaruh.
+
+626
+00:50:33,693 --> 00:50:36,202
+Saya tak rasa awak boleh bertahan
+10 minit dalam kejohanan itu.
+
+627
+00:50:39,453 --> 00:50:42,603
+Ayah tak setuju.
+Dia rasa 5 minit pun awak dah kalah.
+
+628
+00:50:42,688 --> 00:50:45,764
+Saya tak pedulilah apa
+yang ayah awak fikirkan, Malfoy!
+
+629
+00:50:46,663 --> 00:50:49,989
+Dia jahat dan kejam.
+Awak pula menyedihkan.
+
+630
+00:50:51,688 --> 00:50:53,658
+-Menyedihkan?
+-Jangan nak beranilah!
+
+631
+00:50:56,343 --> 00:50:58,520
+Saya akan ajar cara nak sumpah
+orang yang celupar begitu!
+
+632
+00:50:59,266 --> 00:51:03,248
+Dasar budak busuk, pengecut...
+
+633
+00:51:03,333 --> 00:51:05,013
+-Profesor Moody!
+-Suka tikam belakang...
+
+634
+00:51:05,313 --> 00:51:06,475
+Apa yang awak buat ni?
+
+635
+00:51:07,067 --> 00:51:08,153
+Mengajar.
+
+636
+00:51:09,233 --> 00:51:11,173
+Adakah itu pelajar kita?
+
+637
+00:51:11,252 --> 00:51:12,741
+Secara teknikalnya, itu ferret.
+
+638
+00:51:19,348 --> 00:51:20,631
+Jangan bergerak!
+
+639
+00:51:31,951 --> 00:51:34,218
+-Saya akan beritahu ayah saya!
+-Awak ugut saya?
+
+640
+00:51:34,303 --> 00:51:36,318
+-Profesor Moody!
+-Awak ugut saya?
+
+641
+00:51:36,403 --> 00:51:37,416
+Profesor!
+
+642
+00:51:38,354 --> 00:51:42,098
+Saya boleh bongkarkan cerita ayah
+awak yang akan memalukan awaklah!
+
+643
+00:51:42,183 --> 00:51:44,537
+-Alastor! Alastor.
+-Nahaslah awak nanti!
+
+644
+00:51:45,174 --> 00:51:48,904
+Kita tak boleh gunakan sihir
+penjelmaan sebagai hukuman!
+
+645
+00:51:48,989 --> 00:51:50,819
+Dumbledore pasti dah ingatkan awak.
+
+646
+00:51:51,773 --> 00:51:52,986
+Mungkin dia ada sebutkannya.
+
+647
+00:51:53,252 --> 00:51:55,769
+Awak pula sepatutnya ingat.
+
+648
+00:51:57,243 --> 00:51:58,131
+Bersurai!
+
+649
+00:52:01,913 --> 00:52:03,630
+Awak, ikut saya.
+
+650
+00:52:39,283 --> 00:52:40,965
+Itu Kaca Seteru.
+
+651
+00:52:42,325 --> 00:52:43,914
+Ia bantu saya perhatikan musuh.
+
+652
+00:52:44,842 --> 00:52:48,298
+Saya boleh nampak mereka
+jika mereka berdiri di belakang saya.
+
+653
+00:52:53,582 --> 00:52:55,383
+Saya boleh saja beritahu apa
+yang ada di dalam itu.
+
+654
+00:52:55,640 --> 00:52:56,899
+Tapi awak takkan percaya.
+
+655
+00:52:58,123 --> 00:52:59,501
+Sekarang...
+
+656
+00:53:01,593 --> 00:53:03,617
+Apa awak nak buat dengan
+naga itu nanti?
+
+657
+00:53:08,213 --> 00:53:09,913
+Saya ada terfikir...
+
+658
+00:53:12,103 --> 00:53:12,961
+Duduk.
+
+659
+00:53:17,521 --> 00:53:18,726
+Dengar cakap saya, Potter.
+
+660
+00:53:19,778 --> 00:53:20,990
+Kawan awak, Diggory?
+
+661
+00:53:21,277 --> 00:53:25,114
+Ketika sebaya awak, dia boleh tukarkan
+wisel kepada jam dan beritahu waktunya.
+
+662
+00:53:26,663 --> 00:53:27,913
+Cik Delacour?
+
+663
+00:53:28,307 --> 00:53:30,972
+Dia itu bijak orangnya
+sama seperti saya.
+
+664
+00:53:31,534 --> 00:53:34,684
+Krum pula?
+Dia mungkin tak bijak,...
+
+665
+00:53:34,773 --> 00:53:37,072
+...tapi Karkaroff bukan begitu.
+
+666
+00:53:37,475 --> 00:53:38,756
+Mereka mempunyai strategi.
+
+667
+00:53:39,633 --> 00:53:43,104
+Percayalah, ia pastinya ada
+kaitan dengan kekuatan Krum.
+
+668
+00:53:47,933 --> 00:53:49,109
+Ayuh, Potter.
+
+669
+00:53:49,748 --> 00:53:50,981
+Apakah kekuatan awak?
+
+670
+00:53:53,306 --> 00:53:54,346
+Saya tak tahu.
+
+671
+00:53:54,984 --> 00:53:57,439
+Saya boleh terbang.
+Saya pernah lakukannya tapi...
+
+672
+00:53:57,799 --> 00:53:59,287
+Awak memang pandai pun.
+
+673
+00:53:59,832 --> 00:54:01,153
+Tapi saya tak boleh gunakan penyapu.
+
+674
+00:54:02,005 --> 00:54:05,117
+Awak boleh bawa tongkat sakti.
+
+675
+00:54:12,123 --> 00:54:13,477
+Letakkan taruhan anda!
+
+676
+00:54:13,562 --> 00:54:15,998
+Taruhan dikumpul di sini!
+
+677
+00:54:16,083 --> 00:54:19,097
+Bangun semua! Siapa dah tak sabar
+nak lihat pertempuran hari ini?
+
+678
+00:54:19,182 --> 00:54:21,497
+Ada taruhan untuk Krum
+kekal bertahan?
+
+679
+00:54:22,083 --> 00:54:23,235
+Ya, encik?
+
+680
+00:54:23,951 --> 00:54:26,431
+Taruhan kepada Fleur. Nah.
+Terima kasih banyak.
+
+681
+00:54:27,303 --> 00:54:28,894
+Perhatian, semua.
+
+682
+00:54:29,421 --> 00:54:31,789
+Ini hari yang hebat untuk kita semua.
+
+683
+00:54:35,523 --> 00:54:39,323
+Tiga cabaran yang disediakan hari ini
+melibatkan bahaya yang dahsyat.
+
+684
+00:54:39,943 --> 00:54:42,338
+Sila kekal di tempat duduk
+ masing-masing.
+
+685
+00:54:42,537 --> 00:54:45,587
+Hal ini bagi mengurangkan risiko
+terkenanya bahaya.
+
+686
+00:54:45,672 --> 00:54:48,435
+-Harry? Itu awakkah?
+-Ya.
+
+687
+00:54:49,283 --> 00:54:51,078
+Kita semua berharap agar
+calon juara...
+
+688
+00:54:51,163 --> 00:54:53,919
+-Bagaimana keadaan awak? Okey?
+-...akan berjaya.
+
+689
+00:54:56,543 --> 00:54:59,885
+Awak cuma perlu tumpukan perhatian.
+Selepas itu, awak...
+
+690
+00:54:59,970 --> 00:55:01,047
+Kena lawan dengan naga.
+
+691
+00:55:06,184 --> 00:55:08,464
+Cinta orang muda.
+
+692
+00:55:09,425 --> 00:55:10,383
+Sangat...
+
+693
+00:55:13,183 --> 00:55:14,213
+...comel.
+
+694
+00:55:17,143 --> 00:55:20,430
+Kalau semuanya tidak
+berjalan lancar pada hari ini,...
+
+695
+00:55:20,533 --> 00:55:22,620
+...kamu berdua mungkin akan
+muncul di muka depan akhbar.
+
+696
+00:55:23,443 --> 00:55:25,570
+Jangan menyibuk di sinilah.
+
+697
+00:55:25,823 --> 00:55:27,723
+Khemah ini hanya untuk
+bakal juara...
+
+698
+00:55:28,193 --> 00:55:29,534
+...dan kawan-kawan mereka.
+
+699
+00:55:32,703 --> 00:55:36,648
+Tak kisahlah. Kami dah dapat
+apa yang kami mahu.
+
+700
+00:55:40,003 --> 00:55:42,833
+Salam sejahtera semua.
+Sila berkumpul.
+
+701
+00:55:42,918 --> 00:55:47,163
+Setelah lama menunggu,
+akhirnya masanya telah tiba.
+
+702
+00:55:47,248 --> 00:55:50,457
+Masa yang paling berharga
+untuk kamu berempat.
+
+703
+00:55:50,489 --> 00:55:52,039
+Apa awak buat di sini,
+Cik Granger?
+
+704
+00:55:54,183 --> 00:55:55,891
+Maaf, saya pergi dulu.
+
+705
+00:55:55,976 --> 00:55:57,324
+Barty, beg itu.
+
+706
+00:55:57,959 --> 00:55:59,857
+Calon juara, berada di sisi saya.
+
+707
+00:56:00,258 --> 00:56:02,790
+Cik Delacour, ke sini.
+En. Krum.
+
+708
+00:56:03,645 --> 00:56:06,695
+En. Potter pula, ke sini.
+Baiklah, sekarang...
+
+709
+00:56:07,578 --> 00:56:09,638
+Seluk ke dalam, Cik Delacour.
+
+710
+00:56:14,243 --> 00:56:15,573
+Naga Hijau Wales.
+
+711
+00:56:20,527 --> 00:56:21,599
+En. Krum.
+
+712
+00:56:24,873 --> 00:56:26,442
+Naga Bola Api China.
+
+713
+00:56:33,263 --> 00:56:35,101
+Naga Hidung Pendek Sweden.
+
+714
+00:56:36,143 --> 00:56:38,196
+-Tinggal...
+-Naga Horntail.
+
+715
+00:56:38,299 --> 00:56:40,002
+-Apa dia, nak?
+-Tiada apa-apa.
+
+716
+00:56:43,912 --> 00:56:46,265
+Naga Horntail Hungary.
+
+717
+00:56:48,563 --> 00:56:51,863
+Ini mewakili empat naga yang sebenar,...
+
+718
+00:56:51,943 --> 00:56:54,906
+...yang akan diberikan telur emas
+untuk dilindungi.
+
+719
+00:56:54,991 --> 00:56:56,760
+Tugas kamu mudah sahaja.
+
+720
+00:56:57,485 --> 00:56:58,732
+Dapatkan telur itu.
+
+721
+00:56:59,498 --> 00:57:02,645
+Hal ini kerana, setiap telur
+mengandungi petunjuk,...
+
+722
+00:57:02,709 --> 00:57:05,555
+...yang perlu digunakan untuk
+ke cabaran seterusnya.
+
+723
+00:57:06,031 --> 00:57:07,235
+Ada soalan?
+
+724
+00:57:08,583 --> 00:57:11,291
+Baiklah. Selamat berjaya, calon juara.
+
+725
+00:57:11,376 --> 00:57:13,538
+En. Diggory, untuk meriam itu,
+awak...
+
+726
+00:57:22,893 --> 00:57:26,733
+Diggory! Diggory! Diggory!
+
+727
+00:57:38,283 --> 00:57:41,290
+Tiga calon juara kita telah
+berdepan dengan naga masing-masing,...
+
+728
+00:57:41,695 --> 00:57:44,998
+...dan mereka akan mara ke
+cabaran seterusnya.
+
+729
+00:57:45,472 --> 00:57:48,660
+Sekarang, persilakan calon juara
+yang keempat.
+
+730
+00:57:50,963 --> 00:57:54,553
+Harry! Harry! Harry!
+
+731
+00:57:54,637 --> 00:57:57,680
+Harry! Harry! Harry!
+
+732
+00:59:01,653 --> 00:59:04,681
+Gunakan tongkat sakti awak, Harry!
+
+733
+00:59:05,073 --> 00:59:06,620
+<i>Accio Firebolt!</i>
+
+734
+00:59:36,113 --> 00:59:38,273
+-Ya!
+-Bagus!
+
+735
+00:59:47,138 --> 00:59:48,161
+Aduhai...
+
+736
+00:59:58,253 --> 01:00:01,616
+-Ya!
+-Ya! Syabaslah, naga!
+
+737
+01:02:33,573 --> 01:02:35,204
+Bagus!
+
+738
+01:02:55,958 --> 01:02:57,325
+Syabas, Harry!
+
+739
+01:02:58,917 --> 01:03:00,900
+-Syabas, Harry!
+-Kami tahu awak takkan kalah, Harry!
+
+740
+01:03:00,947 --> 01:03:01,755
+Bertaruh kaki?
+
+741
+01:03:01,811 --> 01:03:03,696
+-Atau tangan.
+-Atau kedua-duanya sekali?
+
+742
+01:03:03,781 --> 01:03:04,827
+-Dia takkan kalah!
+-Takkan kalah!
+
+743
+01:03:07,702 --> 01:03:08,685
+Diam!
+
+744
+01:03:09,555 --> 01:03:11,666
+Ayuh, Harry. Apa petunjuknya?
+
+745
+01:03:13,283 --> 01:03:16,162
+-Siapa nak saya bukanya?
+-Bukalah!
+
+746
+01:03:16,896 --> 01:03:20,104
+-Kamu nak saya bukanya?
+-Ya!
+
+747
+01:03:30,688 --> 01:03:32,451
+Apa jadahnya itu?
+
+748
+01:03:37,183 --> 01:03:39,692
+Baiklah, semua!
+Kembali ke bilik masing-masing.
+
+749
+01:03:40,103 --> 01:03:43,161
+Cukup-cukuplah buat bising tadi.
+
+750
+01:03:47,519 --> 01:03:50,774
+Memang gilalah kalau awak
+letak nama sendiri dalam Piala Api.
+
+751
+01:03:51,653 --> 01:03:54,330
+Dah tahulah, ya?
+Lama betul nak sedar.
+
+752
+01:03:55,761 --> 01:03:57,214
+Bukan saya seorang saja yang
+anggap begitu.
+
+753
+01:03:57,830 --> 01:03:59,489
+Semua orang pun kata begitu.
+
+754
+01:04:02,338 --> 01:04:04,751
+Baguslah. Itu buat saya
+rasa lebih baik.
+
+755
+01:04:06,527 --> 01:04:08,106
+Setidaknya saya ada beritahu
+tentang naga.
+
+756
+01:04:08,191 --> 01:04:09,877
+Hagrid yang beritahu saya tentang
+naga itu.
+
+757
+01:04:09,963 --> 01:04:11,463
+Taklah, saya yang beritahu.
+
+758
+01:04:11,633 --> 01:04:12,992
+Awak tak ingatkah?
+
+759
+01:04:13,464 --> 01:04:14,757
+Saya suruh Hermione beritahu awak...
+
+760
+01:04:14,842 --> 01:04:17,918
+...yang Seamus kata, Dean kata
+pada Parvati yang Hagrid cari awak.
+
+761
+01:04:18,968 --> 01:04:22,352
+Seamus tak kata apa-apa pun,
+saya saja yang kata.
+
+762
+01:04:24,023 --> 01:04:27,323
+Saya ingatkan kita akan berbaik...
+
+763
+01:04:27,403 --> 01:04:28,564
+...kalau awak tahu tentangnya.
+
+764
+01:04:29,406 --> 01:04:31,696
+Siapa saja boleh faham kalau
+awak kata begitu?
+
+765
+01:04:33,110 --> 01:04:34,346
+Bercampuk aduk betul.
+
+766
+01:04:34,431 --> 01:04:36,727
+Ya, betul pula, kan?
+
+767
+01:04:37,743 --> 01:04:39,320
+Mungkin saya agak bingung.
+
+768
+01:04:42,373 --> 01:04:43,359
+Ini orang...
+
+769
+01:05:08,523 --> 01:05:09,585
+-Hai, Harry.
+-Hai, Harry.
+
+770
+01:05:13,660 --> 01:05:15,688
+Cho, Harry pandang awaklah.
+
+771
+01:05:20,153 --> 01:05:21,236
+Diamlah!
+
+772
+01:05:22,488 --> 01:05:23,742
+Tengoklah tu!
+
+773
+01:05:26,106 --> 01:05:27,808
+Tak sangka betul!
+Dia buat perangai lagi.
+
+774
+01:05:29,528 --> 01:05:31,788
+"Cik Granger, gadis biasa yang
+bersemangat tinggi..."
+
+775
+01:05:31,873 --> 01:05:34,480
+"...nampaknya menyukai ahli sihir
+yang popular ini."
+
+776
+01:05:34,655 --> 01:05:36,949
+"Mangsa terbarunya, menurut sumber..."
+
+777
+01:05:37,034 --> 01:05:40,306
+"...adalah ahli sihir Bulgaria popular,
+Viktor Krum."
+
+778
+01:05:41,221 --> 01:05:44,524
+"Entah bagaimana perasaan Harry Potter
+jika tahu tentangnya."
+
+779
+01:05:46,473 --> 01:05:47,998
+Bungkusan untuk awak, En. Weasley.
+
+780
+01:05:48,571 --> 01:05:49,834
+Terima kasih, Nigel.
+
+781
+01:05:54,887 --> 01:05:56,011
+Bukan sekarang, Nigel.
+
+782
+01:05:57,007 --> 01:05:57,912
+Nanti-nantilah.
+
+783
+01:05:59,525 --> 01:06:00,361
+Pergilah.
+
+784
+01:06:06,429 --> 01:06:08,679
+Saya beritahu dia akan dapatkan
+autograf Harry.
+
+785
+01:06:11,413 --> 01:06:13,163
+Oh, mak saya hantar sesuatu.
+
+786
+01:06:21,382 --> 01:06:23,005
+Mak saya berikan bajulah.
+
+787
+01:06:23,130 --> 01:06:25,460
+Ia sepadan dengan mata awak.
+Ada topi tak?
+
+788
+01:06:27,603 --> 01:06:29,092
+Tak kelakarlah, Harry.
+
+789
+01:06:29,973 --> 01:06:32,523
+-Ginny, ini pasti untuk awak.
+-Saya tak naklah pakai baju tu.
+
+790
+01:06:32,603 --> 01:06:33,598
+Peliklah.
+
+791
+01:06:35,643 --> 01:06:36,778
+Dah kenapa ketawa?
+
+792
+01:06:37,618 --> 01:06:39,090
+Itu bukan untuk Ginny.
+
+793
+01:06:39,459 --> 01:06:40,574
+Itu untuk awaklah.
+
+794
+01:06:42,216 --> 01:06:45,507
+-Jubah gaun.
+-Jubah gaun? Untuk apa?
+
+795
+01:06:47,137 --> 01:06:48,589
+Majlis Yule,...
+
+796
+01:06:49,169 --> 01:06:53,927
+...merupakan tradisi bagi
+Kejohanan Ahli Sihir Trio,...
+
+797
+01:06:55,543 --> 01:06:57,203
+...sejak ia diadakan.
+
+798
+01:06:58,293 --> 01:07:01,968
+Pada malam sebelum Krismas,
+kita bersama tetamu,...
+
+799
+01:07:02,159 --> 01:07:03,986
+...berkumpul di Dewan Besar,...
+
+800
+01:07:04,011 --> 01:07:07,918
+...untuk meraikan majlis yang indah ini.
+
+801
+01:07:09,763 --> 01:07:12,162
+Sebagai tuan rumah kejohanan,...
+
+802
+01:07:12,257 --> 01:07:17,417
+...saya harap setiap pelajar
+akan lakukan yang terbaik.
+
+803
+01:07:17,692 --> 01:07:19,972
+Gunakan kaki kamu semua,...
+
+804
+01:07:20,305 --> 01:07:24,763
+...kerana majlis Yule ini merupakan,...
+
+805
+01:07:25,624 --> 01:07:26,984
+...adalah majlis tarian.
+
+806
+01:07:31,453 --> 01:07:32,685
+Diam!
+
+807
+01:07:33,528 --> 01:07:36,631
+Rumah Godric Gryffindor
+sangat dihormati,...
+
+808
+01:07:36,695 --> 01:07:39,132
+...oleh dunia ahli sihir sejak
+hampir 10 abad.
+
+809
+01:07:39,553 --> 01:07:43,227
+Saya takkan benarkan kamu
+merosakkan nama rumah ini,...
+
+810
+01:07:43,298 --> 01:07:47,401
+...dengan bersikap kurang sopan
+dan bising seperti babun.
+
+811
+01:07:48,702 --> 01:07:50,638
+Cuba ulang kata-katanya
+lima kali.
+
+812
+01:07:50,683 --> 01:07:52,241
+Tarian adalah,...
+
+813
+01:07:52,306 --> 01:07:55,332
+...untuk membenarkan tubuh
+kita bernafas.
+
+814
+01:07:56,235 --> 01:07:59,772
+Dalam diri setiap gadis,
+tersimpan jiwa angsa menunggu,...
+
+815
+01:07:59,868 --> 01:08:02,190
+...untuk melebarkan sayapnya
+dengan menawan.
+
+816
+01:08:02,215 --> 01:08:04,272
+Ada sesuatu yang akan
+muncul dari Eloise Midgen,...
+
+817
+01:08:04,343 --> 01:08:05,716
+...tapi bukan angsalah.
+
+818
+01:08:05,958 --> 01:08:09,662
+Dalam diri setiap lelaki,
+ada jiwa singa yang ingin menerkam.
+
+819
+01:08:09,747 --> 01:08:12,038
+-En. Weasley.
+-Ya.
+
+820
+01:08:12,123 --> 01:08:13,860
+Boleh menari dengan saya?
+
+821
+01:08:19,174 --> 01:08:22,756
+Sekarang, letak tangan kanan awak
+pada pinggang saya.
+
+822
+01:08:22,972 --> 01:08:25,191
+-Letak mana?
+-Pinggang saya.
+
+823
+01:08:25,554 --> 01:08:27,797
+Letak betul-betul.
+
+824
+01:08:28,567 --> 01:08:30,431
+En. Flich, pasangkan lagu.
+
+825
+01:08:33,723 --> 01:08:35,723
+Satu, dua, tiga.
+
+826
+01:08:35,808 --> 01:08:39,789
+Satu, dua, tiga.
+
+827
+01:08:42,754 --> 01:08:45,004
+Jangan lupa ejeknya nanti, ya?
+
+828
+01:08:45,368 --> 01:08:46,260
+-Sudah tentulah.
+-Sudah tentulah.
+
+829
+01:08:46,345 --> 01:08:50,173
+Semua orang ikut menari.
+Bangun semua!
+
+830
+01:09:13,469 --> 01:09:15,719
+Kenapa mereka bergerak
+dalam kumpulan?
+
+831
+01:09:15,804 --> 01:09:17,690
+Bagaimana nak minta orang
+tanyakan kepadanya?
+
+832
+01:09:26,313 --> 01:09:28,171
+Aduhai, Harry.
+Awak dah lawan naga.
+
+833
+01:09:28,196 --> 01:09:29,847
+Takkan tak mampu cari pasangan?
+
+834
+01:09:29,908 --> 01:09:31,632
+Saya lagi rela lawan naga lagilah.
+
+835
+01:09:38,381 --> 01:09:39,815
+Perangai saya seperti ibu saya.
+
+836
+01:09:40,163 --> 01:09:42,113
+Walaupun saya tak berapa
+mengenalinya.
+
+837
+01:09:42,193 --> 01:09:43,941
+Dia tinggalkan saya ketika
+saya berumur 3 tahun.
+
+838
+01:09:44,293 --> 01:09:46,261
+Tak, dia bukanlah sengaja.
+
+839
+01:09:46,346 --> 01:09:49,983
+Tapi dia buat ayah saya sedih.
+Ayah saya kecil betul.
+
+840
+01:09:50,194 --> 01:09:51,960
+Saya boleh angkat dia ketika
+berumur 6 tahun.
+
+841
+01:09:52,045 --> 01:09:53,743
+Angkat satu tangan, letak dia
+atas almari.
+
+842
+01:09:54,915 --> 01:09:56,650
+Dia terus gelak kuat waktu itu.
+
+843
+01:09:59,223 --> 01:10:00,299
+Kelakar betul.
+
+844
+01:10:07,023 --> 01:10:10,079
+Kemudian, dia meninggal dunia
+apabila saya mula bersekolah, jadi...
+
+845
+01:10:10,783 --> 01:10:13,283
+Saya perlu hidup berdikari
+mulai saat itu.
+
+846
+01:10:14,403 --> 01:10:16,623
+Itulah cerita saya.
+Bagaimana pula dengan awak?
+
+847
+01:10:33,913 --> 01:10:35,099
+Gila betullah.
+
+848
+01:10:35,184 --> 01:10:37,039
+Kalau begitu, tinggal kita sajalah...
+
+849
+01:10:37,124 --> 01:10:38,156
+...yang tiada pasangan.
+
+850
+01:10:40,977 --> 01:10:43,529
+Ya, kita dan Neville.
+
+851
+01:10:43,935 --> 01:10:46,135
+Ya, tapi dia boleh saja
+menari sendiri.
+
+852
+01:10:47,582 --> 01:10:49,880
+Kalau awak nak tahu,
+Neville dah ada pasangan.
+
+853
+01:10:53,323 --> 01:10:55,118
+Aduh, stress pula saya.
+
+854
+01:11:00,913 --> 01:11:03,403
+"Baik bertindak sekarang
+sebelum terlepas, nanti menyesal"
+
+855
+01:11:06,489 --> 01:11:07,909
+Awak dah ada pasangan?
+
+856
+01:11:11,133 --> 01:11:12,843
+-Angelina?
+-Apa?
+
+857
+01:11:12,928 --> 01:11:17,840
+Nak tak jadi pasangan saya
+ke majlis itu?
+
+858
+01:11:18,898 --> 01:11:20,019
+Majlis itu?
+
+859
+01:11:20,553 --> 01:11:21,648
+Ya, boleh saja.
+
+860
+01:11:25,707 --> 01:11:26,790
+Hermoine.
+
+861
+01:11:27,433 --> 01:11:28,369
+Awak seorang gadis.
+
+862
+01:11:29,273 --> 01:11:30,435
+Habis tu?
+
+863
+01:11:30,469 --> 01:11:31,669
+Nak tak menari dengan kami?
+
+864
+01:11:37,331 --> 01:11:40,026
+Jomlah. Sedih pula kalau
+datang seorang sahaja.
+
+865
+01:11:40,271 --> 01:11:41,692
+Lagi pula untuk seorang gadis.
+
+866
+01:11:42,020 --> 01:11:44,952
+Saya takkan datang seorang saja
+sebab ada orang dah ajak!
+
+867
+01:11:52,753 --> 01:11:54,245
+Dan saya nak pergi dengannya!
+
+868
+01:11:56,498 --> 01:11:57,801
+Biar betul.
+
+869
+01:11:58,267 --> 01:11:59,375
+Dia tipu, kan?
+
+870
+01:12:00,223 --> 01:12:01,388
+Kalau awak rasa begitulah.
+
+871
+01:12:02,143 --> 01:12:05,227
+Kita kena beranikan diri
+dan lakukannya.
+
+872
+01:12:05,744 --> 01:12:07,621
+Malam ini, apabila kita kembali
+ke bilik rehat,...
+
+873
+01:12:07,690 --> 01:12:09,496
+...kita berdua dah ada pasangan, setuju?
+
+874
+01:12:09,581 --> 01:12:10,521
+Setuju.
+
+875
+01:12:35,257 --> 01:12:36,683
+-Cho!
+-Harry!
+
+876
+01:12:40,598 --> 01:12:43,081
+Hati-hatilah berjalan.
+Agak licin di atas sana.
+
+877
+01:12:43,166 --> 01:12:44,451
+Okey, terima kasih.
+
+878
+01:12:49,473 --> 01:12:50,491
+Cho?
+
+879
+01:12:51,483 --> 01:12:52,326
+Ya?
+
+880
+01:12:54,393 --> 01:12:56,468
+Saya tertanya-tanya kalau awak...
+
+881
+01:12:56,553 --> 01:12:58,741
+Awak sudi tak ke majlis itu
+bersama saya?
+
+882
+01:13:01,283 --> 01:13:02,940
+Maaf, saya tak dengar.
+
+883
+01:13:04,453 --> 01:13:09,022
+Saya nak tanya kalau awak
+nak ke majlis itu bersama saya?
+
+884
+01:13:15,373 --> 01:13:17,108
+Harry,...
+
+885
+01:13:17,133 --> 01:13:19,352
+...maaflah sebab dah ada orang
+ajak saya ke majlis itu.
+
+886
+01:13:20,794 --> 01:13:21,720
+Dan...
+
+887
+01:13:23,053 --> 01:13:25,937
+Saya pula dah setuju nak
+pergi bersamanya.
+
+888
+01:13:28,046 --> 01:13:30,541
+Okey, tak mengapalah.
+
+889
+01:13:32,059 --> 01:13:33,984
+Jangan risau. Tiada masalah.
+
+890
+01:13:34,893 --> 01:13:36,042
+Okey. Baiklah.
+
+891
+01:13:37,943 --> 01:13:38,799
+Harry?
+
+892
+01:13:40,356 --> 01:13:41,356
+Saya betul-betul...
+
+893
+01:13:42,184 --> 01:13:43,102
+...minta maaf.
+
+894
+01:13:53,719 --> 01:13:55,078
+Tak mengapa, Ron.
+
+895
+01:13:55,163 --> 01:13:57,723
+Jangan risau, Ron.
+Tak mengapa.
+
+896
+01:13:58,469 --> 01:13:59,543
+Dia ini dah kenapa?
+
+897
+01:14:00,673 --> 01:14:02,291
+Dia baru ajak Fleur Delacour
+ke majlis itu.
+
+898
+01:14:02,747 --> 01:14:03,660
+Apa?
+
+899
+01:14:04,217 --> 01:14:05,232
+Apa yang dia kata?
+
+900
+01:14:05,673 --> 01:14:06,899
+Sudah tentulah, tak nak.
+
+901
+01:14:08,593 --> 01:14:11,431
+-Dia setuju?
+-Jangan mengarutlah.
+
+902
+01:14:12,298 --> 01:14:14,039
+Dia berjalan.
+
+903
+01:14:14,643 --> 01:14:16,643
+Awak tahu saya suka tengok
+cara mereka berjalan.
+
+904
+01:14:17,523 --> 01:14:20,601
+Saya tak tahan,
+jadi saya tersebutlah sesuatu.
+
+905
+01:14:21,369 --> 01:14:24,254
+Sebenarnya, dia menjerit.
+Ia agak menakutkanlah.
+
+906
+01:14:26,007 --> 01:14:29,494
+-Apa lagi yang awak buat?
+-Apa lagi? Saya larilah.
+
+907
+01:14:29,921 --> 01:14:33,601
+Saya tak boleh buatlah, Harry.
+Saya tak tahu kenapa.
+
+908
+01:14:33,686 --> 01:14:34,774
+-Hai, Harry.
+-Hai, Harry.
+
+909
+01:14:35,091 --> 01:14:37,727
+Saya selalu perhati mereka
+dari belakang saja.
+
+910
+01:14:39,463 --> 01:14:41,505
+Dia pasti takkan maafkan saya.
+
+911
+01:14:42,710 --> 01:14:43,633
+Hei!
+
+912
+01:15:00,797 --> 01:15:02,005
+Aduhai...
+
+913
+01:15:04,704 --> 01:15:05,998
+Aduhai...
+
+914
+01:15:09,842 --> 01:15:10,676
+Hei...
+
+915
+01:15:11,238 --> 01:15:12,528
+Hodoh betullah...
+
+916
+01:15:16,357 --> 01:15:19,118
+Apa bendanya tu?
+
+917
+01:15:19,203 --> 01:15:21,804
+-Jubah gaun saya?
+-Itu nampak cantiklah.
+
+918
+01:15:22,296 --> 01:15:24,790
+Tiada renda, tiada kolar pelik.
+
+919
+01:15:25,439 --> 01:15:27,532
+Saya rasa gaya awak lebih
+tradisional.
+
+920
+01:15:27,617 --> 01:15:29,897
+Tradisional? Ini kuno habis!
+
+921
+01:15:30,669 --> 01:15:32,327
+Saya dah macam Mak Cik Tessie!
+
+922
+01:15:35,178 --> 01:15:37,539
+Bau pun dah macam Mak Cik Tessie!
+
+923
+01:15:42,726 --> 01:15:44,179
+Bunuhlah saya ni, Harry.
+
+924
+01:15:45,952 --> 01:15:47,116
+Biarkan sajalah!
+
+925
+01:15:48,613 --> 01:15:49,786
+Kasihan dia.
+
+926
+01:15:49,871 --> 01:15:52,117
+Pasti dia sendirian di biliknya
+sambil menangis.
+
+927
+01:15:52,203 --> 01:15:54,863
+-Siapa?
+-Hermoinelah.
+
+928
+01:15:54,948 --> 01:15:58,248
+Yalah, kenapa dia tak beritahu kita
+yang dia datang dengan siapa?
+
+929
+01:15:58,637 --> 01:16:00,587
+Sebab nanti kita akan ejeknya.
+
+930
+01:16:00,789 --> 01:16:02,223
+Sebab tiada siapa yang ajaklah.
+
+931
+01:16:03,223 --> 01:16:05,960
+Saya akan ajaknya ke sini kalau
+dia tak sombong sangat.
+
+932
+01:16:07,128 --> 01:16:08,274
+-Hai, semua.
+-Hai, semua.
+
+933
+01:16:08,688 --> 01:16:09,938
+Awak nampak...
+
+934
+01:16:11,140 --> 01:16:12,124
+Kacak.
+
+935
+01:16:12,888 --> 01:16:15,568
+Itupun awak, Potter.
+Awak dan Cik Patil dah sedia?
+
+936
+01:16:16,143 --> 01:16:18,238
+-Sedia?
+-Untuk menarilah.
+
+937
+01:16:18,323 --> 01:16:20,136
+Tradisi kita bahawa tiga calon juara,...
+
+938
+01:16:20,221 --> 01:16:22,522
+Dalam kes ini, empat orang,
+untuk menari dahulu.
+
+939
+01:16:22,733 --> 01:16:25,241
+-Saya dah beritahu, kan?
+-Tak.
+
+940
+01:16:25,630 --> 01:16:27,209
+Tapi sekarang awak dah tahu.
+
+941
+01:16:29,289 --> 01:16:33,377
+En. Weasley, awak boleh ke Dewan Utama
+bersama Cik Patil.
+
+942
+01:16:33,768 --> 01:16:35,982
+-Oh, itu pun awak.
+-Jom.
+
+943
+01:16:36,067 --> 01:16:37,227
+Ikut arah sini.
+
+944
+01:16:42,583 --> 01:16:44,114
+Oh, jomlah.
+
+945
+01:16:45,244 --> 01:16:47,244
+-Hai.
+-Saya nak kamu beratur...
+
+946
+01:16:47,333 --> 01:16:48,965
+...ketika perarakan itu.
+
+947
+01:16:49,050 --> 01:16:50,752
+Oh, lambat betul awak ini.
+
+948
+01:16:53,013 --> 01:16:55,089
+Ikut arah sini.
+Mari sini.
+
+949
+01:16:57,046 --> 01:16:58,803
+Cantik betul dia!
+
+950
+01:16:59,556 --> 01:17:00,676
+Ya, betul tu.
+
+951
+01:17:48,623 --> 01:17:51,512
+Adakah itu Hermione Granger?
+Dengan Viktor Krum?
+
+952
+01:17:52,693 --> 01:17:55,136
+Taklah. Sudah tentu, bukan.
+
+953
+01:17:59,874 --> 01:18:00,799
+Hai!
+
+954
+01:18:10,111 --> 01:18:12,134
+Harry, pegang pinggang saya.
+
+955
+01:18:13,113 --> 01:18:14,180
+-Apa?
+-Sekarang!
+
+956
+01:19:21,085 --> 01:19:22,821
+Anda dah bersedia?
+
+957
+01:19:23,653 --> 01:19:26,070
+<i>Gerakkan tubuh seperti gergasi berbulu</i>
+
+958
+01:19:26,703 --> 01:19:29,127
+<i>Hiburkan dengan rock and roll</i>
+
+959
+01:19:29,353 --> 01:19:32,026
+<i>Putarkan tubuh seperti bunian</i>
+
+960
+01:19:32,663 --> 01:19:34,971
+<i>Menari sendirian</i>
+
+961
+01:19:35,213 --> 01:19:38,107
+<i>Goyangkan kepala seperti unikorn</i>
+
+962
+01:19:38,348 --> 01:19:40,962
+<i>Jangan berhenti hingga ke subuh</i>
+
+963
+01:19:41,212 --> 01:19:44,032
+<i>Letakkan tangan di udara</i>
+
+964
+01:19:44,117 --> 01:19:46,971
+<i>Jangan pedulikan sesiapa</i>
+
+965
+01:19:47,789 --> 01:19:50,459
+<i>Bolehkah anda menari seperti
+Hippogriff?</i>
+
+966
+01:19:52,694 --> 01:19:54,311
+Tak guna betul, kan?
+
+967
+01:19:57,397 --> 01:19:59,793
+Dia bukan ke perpustakaan
+sebab cari buku.
+
+968
+01:20:02,414 --> 01:20:03,686
+Boleh kita menari?
+
+969
+01:20:03,997 --> 01:20:06,693
+Tak kisahlah apa pun, jom.
+
+970
+01:20:32,765 --> 01:20:33,903
+Seronok, bukan?
+
+971
+01:20:35,175 --> 01:20:38,101
+Viktor pergi ambil minuman.
+Nak minum bersama tak?
+
+972
+01:20:38,653 --> 01:20:41,677
+Kami tak nak ikut minum
+bersama awak dan Viktor.
+
+973
+01:20:43,903 --> 01:20:45,653
+Apa yang buat dia mengamuk?
+
+974
+01:20:46,653 --> 01:20:48,044
+Dia itu dari Durmstrang.
+
+975
+01:20:48,592 --> 01:20:49,983
+Awak bersama dengan pihak musuh.
+
+976
+01:20:50,354 --> 01:20:51,352
+Musuh?
+
+977
+01:20:52,564 --> 01:20:54,349
+Siapa yang nak sangat
+autografnya?
+
+978
+01:20:54,793 --> 01:20:57,247
+Lagipun, kejohanan ini adalah untuk,...
+
+979
+01:20:57,356 --> 01:21:00,562
+...bekerjasama secara antarabangsa...
+
+980
+01:21:01,455 --> 01:21:02,955
+...dan berkawan.
+
+981
+01:21:03,753 --> 01:21:06,127
+Saya rasa dia fikirkan lebih
+daripada menjadi kawan.
+
+982
+01:21:16,845 --> 01:21:18,707
+Awak nak ajak saya menari tak?
+
+983
+01:21:19,269 --> 01:21:20,221
+Tak.
+
+984
+01:21:28,523 --> 01:21:31,424
+-Dia gunakan awaklah.
+-Kenapa cakap begitu?
+
+985
+01:21:31,702 --> 01:21:33,581
+Saya boleh jaga diri sendirilah.
+
+986
+01:21:33,666 --> 01:21:35,825
+Yalah tu. Dia itu terlalu tualah.
+
+987
+01:21:35,910 --> 01:21:38,522
+Apa? Itu yang awak fikirkan?
+
+988
+01:21:38,607 --> 01:21:39,733
+Ya, itulah yang saya fikir.
+
+989
+01:21:39,818 --> 01:21:41,755
+Awak tahu jawapannya, kan?
+
+990
+01:21:42,173 --> 01:21:43,058
+Cakaplah.
+
+991
+01:21:43,377 --> 01:21:44,437
+Lain kali, kalau ada majlis,...
+
+992
+01:21:44,471 --> 01:21:47,467
+...beranilah tanya saya sebelum
+ada orang lain ajak!
+
+993
+01:21:47,552 --> 01:21:49,465
+Dan bukan sebagai pilihan terakhir.
+
+994
+01:21:49,843 --> 01:21:53,663
+Itu sememangnya tiada kena-mengena.
+
+995
+01:21:54,223 --> 01:21:55,223
+Harry.
+
+996
+01:21:56,013 --> 01:21:57,127
+Awak ke mana?
+
+997
+01:21:57,212 --> 01:21:59,219
+Tak kisahlah!
+Kamu berdua, pergilah tidur.
+
+998
+01:22:02,876 --> 01:22:06,648
+-Wanita memang menakutkan.
+-Ron, awak rosakkan keadaan!
+
+999
+01:22:07,102 --> 01:22:08,124
+Apahal ni?
+
+1000
+01:22:13,163 --> 01:22:16,015
+<i>Tidak, jangan biarkan</i>
+
+1001
+01:22:17,699 --> 01:22:22,216
+<i>Keajaiban ini terhapus</i>
+
+1002
+01:22:23,646 --> 01:22:26,635
+<i>Jawapannya ada di sana</i>
+
+1003
+01:23:25,143 --> 01:23:26,727
+Biar saya tengok sekali lagi.
+
+1004
+01:23:28,444 --> 01:23:31,258
+Ya, waktunya semakin hampir.
+
+1005
+01:23:36,121 --> 01:23:38,014
+Harry, akhirnya!
+
+1006
+01:23:39,188 --> 01:23:44,533
+Ke tepi, Wormtail!
+Saya nak bertemu dengannya.
+
+1007
+01:23:55,223 --> 01:23:56,526
+Awak okey, Harry?
+
+1008
+01:23:58,093 --> 01:23:59,278
+Saya baru saja masuk.
+
+1009
+01:24:00,473 --> 01:24:01,531
+Ini sayalah.
+
+1010
+01:24:12,983 --> 01:24:15,856
+Harry, awak kata dah tahu
+tentang petunjuk itu minggu lalu.
+
+1011
+01:24:16,364 --> 01:24:18,255
+Cabaran bermula dua hari
+dari sekarang.
+
+1012
+01:24:18,389 --> 01:24:19,975
+Betulkah? Tak tahu pula.
+
+1013
+01:24:22,248 --> 01:24:24,038
+Pasti Viktor dah tahu, kan?
+
+1014
+01:24:24,123 --> 01:24:26,223
+Taklah. Kami tak cakap tentang
+kejohanan itu pun.
+
+1015
+01:24:28,170 --> 01:24:30,020
+Kami tak bercakap sangat pun.
+
+1016
+01:24:30,093 --> 01:24:32,054
+Viktor itu cuma ajak menari saja.
+
+1017
+01:24:36,418 --> 01:24:39,094
+Maksud saya, dia itu taklah peramah.
+
+1018
+01:24:40,016 --> 01:24:41,682
+Dia selalu sangat tengok saya belajar.
+
+1019
+01:24:43,223 --> 01:24:44,667
+Ia agak mengganggu sebenarnya.
+
+1020
+01:24:46,683 --> 01:24:48,622
+Awak masih cuba rungkaikan
+petunjuk itu, kan?
+
+1021
+01:24:50,233 --> 01:24:51,480
+Maksud awak?
+
+1022
+01:24:52,313 --> 01:24:54,530
+Maksud saya, cabaran ini adalah
+untuk menguji awak...
+
+1023
+01:24:55,347 --> 01:24:56,581
+...dalam cara paling kejam.
+
+1024
+01:24:56,666 --> 01:24:58,012
+Ia hampir kejam.
+
+1025
+01:24:59,823 --> 01:25:01,073
+Dan...
+
+1026
+01:25:03,783 --> 01:25:04,967
+Saya bimbangkan awak.
+
+1027
+01:25:06,623 --> 01:25:08,591
+Awak dapat naga yang paling ganas.
+
+1028
+01:25:09,786 --> 01:25:11,636
+Saya tak rasa ia setakat itu saja.
+
+1029
+01:25:12,503 --> 01:25:13,420
+Hei, Potter!
+
+1030
+01:25:19,923 --> 01:25:21,438
+-Potter!
+-Cedric.
+
+1031
+01:25:23,984 --> 01:25:25,185
+Apa khabar?
+
+1032
+01:25:26,622 --> 01:25:27,801
+Baik-baik saja.
+
+1033
+01:25:29,709 --> 01:25:31,763
+Saya sedar yang saya lupa
+berterima kasih kepada awak,...
+
+1034
+01:25:31,848 --> 01:25:33,595
+...sebab beritahu saya tentang naga itu.
+
+1035
+01:25:33,795 --> 01:25:34,666
+Lupakan sajalah.
+
+1036
+01:25:34,751 --> 01:25:36,254
+Saya pasti awak pun akan
+buat yang sama juga.
+
+1037
+01:25:36,339 --> 01:25:37,212
+Betul tu.
+
+1038
+01:25:39,113 --> 01:25:41,479
+Awak tahu tak bilik air Pengawas
+di tingkat lima?
+
+1039
+01:25:45,421 --> 01:25:47,537
+Ia bukanlah tempat yang teruk.
+
+1040
+01:25:50,416 --> 01:25:52,345
+Bawa telur awak dan,...
+
+1041
+01:25:53,036 --> 01:25:55,096
+...fikirkan sesuatu sambil
+berada di sana.
+
+1042
+01:26:30,686 --> 01:26:32,167
+Saya pasti dah gila.
+
+1043
+01:26:43,423 --> 01:26:44,907
+Saya memang dah gila.
+
+1044
+01:26:48,263 --> 01:26:51,258
+Kalau sayalah, saya akan
+letakkannya di dalam air.
+
+1045
+01:26:51,723 --> 01:26:52,708
+Myrtle!
+
+1046
+01:26:53,527 --> 01:26:54,664
+Helo, Harry.
+
+1047
+01:26:55,987 --> 01:26:58,756
+Lama tak jumpa.
+
+1048
+01:27:03,696 --> 01:27:07,522
+Saya mengelilingi longkang yang
+tersumbat tempoh hari,...
+
+1049
+01:27:07,577 --> 01:27:10,887
+...dan nampak sedikit Posyen Polyjuice.
+
+1050
+01:27:11,242 --> 01:27:13,658
+Awak tak buat apa-apa kan, Harry?
+
+1051
+01:27:13,743 --> 01:27:14,973
+Posyen Polyjuice?
+
+1052
+01:27:16,224 --> 01:27:17,138
+Taklah.
+
+1053
+01:27:17,223 --> 01:27:20,373
+Myrtle, awak suruh saya
+letaknya di dalam air?
+
+1054
+01:27:26,992 --> 01:27:28,690
+Itulah yang dia buat.
+
+1055
+01:27:29,534 --> 01:27:31,134
+Budak itu...
+
+1056
+01:27:32,628 --> 01:27:34,256
+Budak yang kacak itu...
+
+1057
+01:27:36,039 --> 01:27:37,343
+Cedric.
+
+1058
+01:27:40,653 --> 01:27:43,142
+Buatlah. Bukalah.
+
+1059
+01:27:51,493 --> 01:27:56,517
+<i>Carilah di mana suara kami muncul</i>
+
+1060
+01:27:56,602 --> 01:28:01,276
+<i>Kami tak boleh menyanyi
+di dasar timbul</i>
+
+1061
+01:28:01,361 --> 01:28:06,002
+<i>Ada satu jam untuk mencari</i>
+
+1062
+01:28:06,530 --> 01:28:11,199
+<i>Untuk cari apa yang kami miliki</i>
+
+1063
+01:28:19,332 --> 01:28:20,808
+Myrtle...
+
+1064
+01:28:22,353 --> 01:28:25,173
+...tiada duyung yang tinggal
+di Tasik Hitam, kan?
+
+1065
+01:28:26,606 --> 01:28:28,272
+Baguslah.
+
+1066
+01:28:29,212 --> 01:28:33,331
+Cedric pun susah nak fikir tentangnya.
+
+1067
+01:28:34,123 --> 01:28:37,429
+Hampir semua buih dah menghilang.
+
+1068
+01:28:55,544 --> 01:28:56,841
+Harry, ulang semula.
+
+1069
+01:28:59,088 --> 01:29:01,874
+"Carilah di mana suara kami muncul."
+
+1070
+01:29:02,113 --> 01:29:04,386
+Sudah tentulah,di Tasik Hitam.
+
+1071
+01:29:05,733 --> 01:29:07,716
+"Ada satu jam untuk mencari."
+
+1072
+01:29:08,443 --> 01:29:09,586
+Ya, jelas sekali.
+
+1073
+01:29:09,910 --> 01:29:11,962
+Meskipun, ia pasti mendatangkan
+masalah.
+
+1074
+01:29:13,283 --> 01:29:14,845
+"Mendatangkan masalah"?
+
+1075
+01:29:15,106 --> 01:29:18,320
+Bila kali terakhir awak tahan nafas
+dalam air selama sejam, Hermione?
+
+1076
+01:29:19,154 --> 01:29:20,559
+Dengar, Harry.
+
+1077
+01:29:21,203 --> 01:29:23,497
+Kita bertiga boleh rungkaikannya.
+
+1078
+01:29:23,726 --> 01:29:25,776
+Saya tak naklah ganggu kamu.
+
+1079
+01:29:26,102 --> 01:29:28,223
+Tapi Profesor McGonagall
+nak jumpa kamu di pejabatnya.
+
+1080
+01:29:28,501 --> 01:29:30,570
+Bukan awak, Potter.
+Cuma Weasley dan Granger saja.
+
+1081
+01:29:30,970 --> 01:29:33,629
+Tapi, tuan. Cabaran kedua
+bakal bermula dan...
+
+1082
+01:29:33,714 --> 01:29:34,562
+Betul.
+
+1083
+01:29:34,647 --> 01:29:36,694
+Mungkin Potter dah pun bersedia,...
+
+1084
+01:29:36,781 --> 01:29:38,502
+...dan boleh masuk tidur.
+
+1085
+01:29:38,683 --> 01:29:40,381
+Pergi. Sekarang!
+
+1086
+01:29:51,233 --> 01:29:52,094
+Longbottom!
+
+1087
+01:29:53,149 --> 01:29:55,236
+Apa kata awak tolong Potter
+susun semula bukunya?
+
+1088
+01:30:03,833 --> 01:30:05,914
+Kalau awak berminat dengan
+tumbuh-tumbuhan,...
+
+1089
+01:30:06,025 --> 01:30:08,833
+...awak patut baca buku
+"Panduan Herbologi Goshawk".
+
+1090
+01:30:09,328 --> 01:30:13,732
+Awak tahu tak, ada ahli sihir di Nepal
+yang tanam pokok melawan graviti?
+
+1091
+01:30:13,817 --> 01:30:17,952
+Neville, jangan terasa, ya?
+Tapi saya tak kisah...
+
+1092
+01:30:18,079 --> 01:30:19,212
+...tentang tumbuhan.
+
+1093
+01:30:20,298 --> 01:30:22,181
+Kalaulah ada,...
+
+1094
+01:30:22,268 --> 01:30:25,661
+...lobak putih Tibet
+yang membolehkan saya,...
+
+1095
+01:30:25,730 --> 01:30:28,019
+...bernafas dalam air selama sejam,
+pasti bagus.
+
+1096
+01:30:28,997 --> 01:30:29,840
+Tapi sebaliknya...
+
+1097
+01:30:29,972 --> 01:30:33,094
+Saya tak tahulah tentang itu.
+Tapi awak boleh guna Gillyweed.
+
+1098
+01:30:34,562 --> 01:30:37,052
+-Ada taruhan tak?
+-Marilah bertaruh!
+
+1099
+01:30:37,913 --> 01:30:39,533
+Marilah, kawan!
+Jangan malu-malu.
+
+1100
+01:30:39,618 --> 01:30:40,848
+-Tiga lelaki.
+-Seorang gadis.
+
+1101
+01:30:40,933 --> 01:30:42,640
+-Empat akan menyelam.
+-Tapi adakah empat akan timbul?
+
+1102
+01:30:43,352 --> 01:30:44,405
+Tak perlulah kejam sangat.
+
+1103
+01:30:45,678 --> 01:30:47,515
+-Ada taruhan?
+-Taruhan Fleur, 10-1.
+
+1104
+01:30:49,748 --> 01:30:51,538
+-Awak pasti tentangnya, Neville?
+-Sudah tentulah.
+
+1105
+01:30:51,623 --> 01:30:53,526
+-Selama sejam?
+-Kemungkinan besar.
+
+1106
+01:30:53,741 --> 01:30:54,813
+Kemungkinan besar?
+
+1107
+01:30:55,630 --> 01:30:58,056
+Ahli herbologi ada berdebat tentang,...
+
+1108
+01:30:58,119 --> 01:31:00,331
+...kesannya kepada air tawar
+dan air masin...
+
+1109
+01:31:00,416 --> 01:31:03,100
+Baru nak beritahu saya?
+Biar betul!
+
+1110
+01:31:03,185 --> 01:31:05,175
+Saya cuma nak membantu.
+
+1111
+01:31:05,523 --> 01:31:07,857
+Setidaknya awak lebih baik
+daripada Ron dan Hermione.
+
+1112
+01:31:08,739 --> 01:31:10,112
+Mana pula mereka berdua ni?
+
+1113
+01:31:10,685 --> 01:31:13,008
+-Awak nampak tertekan, Harry.
+-Yakah?
+
+1114
+01:31:20,687 --> 01:31:22,779
+Selamat datang ke cabaran kedua.
+
+1115
+01:31:23,203 --> 01:31:26,514
+Semalam, ada sesuatu dicuri daripada
+setiap calon juara kita.
+
+1116
+01:31:26,994 --> 01:31:28,313
+Sesuatu yang berharga.
+
+1117
+01:31:28,583 --> 01:31:31,403
+Empat barang berharga setiap
+calon juara ini,...
+
+1118
+01:31:31,490 --> 01:31:33,658
+...kini berada di dasar Tasik Hitam.
+
+1119
+01:31:34,182 --> 01:31:35,326
+Untuk menang,...
+
+1120
+01:31:35,413 --> 01:31:39,422
+...setiap calon juara perlu cari barang
+berharga itu dan keluar dari tasik.
+
+1121
+01:31:39,798 --> 01:31:42,521
+-Arahan mudah tapi sukar.
+-Letak dalam mulut.
+
+1122
+01:31:42,606 --> 01:31:46,389
+Mereka ada sejam untuk lakukannya.
+Hanya satu jam.
+
+1123
+01:31:46,519 --> 01:31:50,487
+Selepas itu, mereka perlu lakukan sendiri.
+Tiada sihir akan membantu.
+
+1124
+01:31:50,976 --> 01:31:53,258
+Kamu boleh mulakan selepas
+meriam dibunyikan.
+
+1125
+01:32:19,803 --> 01:32:22,668
+-Kenapa dengan dia tu?
+-Entahlah, saya tak nampak dia.
+
+1126
+01:32:24,016 --> 01:32:26,868
+Ya Tuhan, saya dah bunuh
+Harry Potter!
+
+1127
+01:32:28,879 --> 01:32:30,709
+Ya!
+
+1128
+01:32:31,983 --> 01:32:32,945
+Apa?
+
+1129
+01:33:53,183 --> 01:33:55,449
+Calon juara Beauxbatons,
+Cik Delacour,...
+
+1130
+01:33:55,505 --> 01:33:58,584
+...malangnya telah tersingkir,...
+
+1131
+01:33:58,609 --> 01:34:01,005
+...dan tidak boleh bertanding lagi
+dalam cabaran ini.
+
+1132
+01:35:19,563 --> 01:35:21,150
+Tapi dia juga kawan saya!
+
+1133
+01:35:22,896 --> 01:35:24,211
+Hanya seorang saja!
+
+1134
+01:36:16,073 --> 01:36:17,401
+Mari kita turun ke bawah.
+
+1135
+01:36:28,003 --> 01:36:30,889
+Krum! Krum! Krum!
+
+1136
+01:37:27,876 --> 01:37:29,245
+Ya!
+
+1137
+01:37:48,139 --> 01:37:49,918
+<i>Ascendio!</i>
+
+1138
+01:37:55,463 --> 01:37:56,542
+Harry!
+
+1139
+01:37:59,544 --> 01:38:00,482
+Dia tak apa-apa.
+
+1140
+01:38:01,850 --> 01:38:03,153
+Dia tak apa-apa. Barty!
+
+1141
+01:38:03,763 --> 01:38:04,993
+Pergi ambilkan tuala lain.
+
+1142
+01:38:05,078 --> 01:38:07,136
+Saya mahu semua hakim berada
+di sini sekarang!
+
+1143
+01:38:07,773 --> 01:38:11,266
+Awak selamatkannya walaupun
+tak perlu lakukannya.
+
+1144
+01:38:11,943 --> 01:38:13,353
+Adik saya.
+
+1145
+01:38:14,023 --> 01:38:15,049
+Terima kasih.
+
+1146
+01:38:16,403 --> 01:38:18,517
+Awak juga membantunya.
+
+1147
+01:38:19,608 --> 01:38:21,813
+Ya, sedikit saja.
+
+1148
+01:38:28,219 --> 01:38:29,331
+<i>Merci.</i>
+
+1149
+01:38:29,828 --> 01:38:31,119
+-Harry!
+-Hermione!
+
+1150
+01:38:31,204 --> 01:38:33,307
+Awak tak apa-apa?
+Awak pasti kesejukan.
+
+1151
+01:38:35,022 --> 01:38:37,014
+Saya rasa awak bertindak
+dengan sangat bagus.
+
+1152
+01:38:37,343 --> 01:38:39,040
+Saya yang terakhir muncul, Hermione.
+
+1153
+01:38:40,223 --> 01:38:44,041
+Kedua terakhir. Fluer tak
+dapat atasi Grindylows.
+
+1154
+01:38:44,126 --> 01:38:47,556
+Krum! Krum! Krum!
+
+1155
+01:38:47,933 --> 01:38:49,996
+-Ayuh! Ayuh!
+-Perhatian!
+
+1156
+01:38:53,040 --> 01:38:55,689
+Perhatian!
+
+1157
+01:38:56,057 --> 01:38:59,515
+Pemenangnya, En. Diggory,...
+
+1158
+01:39:00,475 --> 01:39:04,178
+...yang muncul dengan menggunakan
+Jampi Bubble-Head.
+
+1159
+01:39:04,278 --> 01:39:07,037
+Namun, melihatkan yang En. Potter
+boleh muncul dahulu,...
+
+1160
+01:39:07,096 --> 01:39:11,843
+...tapi dia tetap mahu menyelamatkan
+bukan saja En. Weasley,...
+
+1161
+01:39:11,875 --> 01:39:16,189
+...tapi yang lain juga, kami telah
+bersetuju untuk memberikan,...
+
+1162
+01:39:16,411 --> 01:39:17,881
+...tempat kedua...
+
+1163
+01:39:18,813 --> 01:39:20,338
+-Tempat kedua!
+-Tahniah!
+
+1164
+01:39:20,423 --> 01:39:22,933
+...atas sifat kegigihan moralnya!
+
+1165
+01:39:24,343 --> 01:39:25,890
+Ya!
+
+1166
+01:39:29,473 --> 01:39:31,263
+-Baiklah.
+-Kegigihan moral, ya?
+
+1167
+01:39:31,348 --> 01:39:33,022
+-Hebat betul.
+-Kegigihan moral?
+
+1168
+01:39:33,107 --> 01:39:35,445
+Aduhai. Walaupun ada yang tak kena,
+tapi semua berjalan lancar.
+
+1169
+01:39:35,530 --> 01:39:38,148
+-Tahniahlah, budak gigih.
+-Tahniah, Potter.
+
+1170
+01:39:38,523 --> 01:39:40,210
+-Pencapaian yang bagus.
+-Terima kasih.
+
+1171
+01:39:40,295 --> 01:39:41,176
+Syabas, nak.
+
+1172
+01:39:42,019 --> 01:39:44,908
+-Jumpa awak di Rumah Hagrid, Harry.
+-Kita belum berbual lagi.
+
+1173
+01:39:45,443 --> 01:39:49,502
+Saya selalu mendengar cerita
+tentang awak.
+
+1174
+01:39:50,493 --> 01:39:51,637
+Cerita yang menakjubkan.
+
+1175
+01:39:52,230 --> 01:39:53,705
+Cerita yang tragis,...
+
+1176
+01:39:54,123 --> 01:39:55,630
+...sebab kehilangan ahli keluarga.
+
+1177
+01:39:58,077 --> 01:39:59,637
+Hidup rasa tak lengkap, kan?
+
+1178
+01:40:02,388 --> 01:40:04,938
+Namun, hidup tetap diteruskan,...
+
+1179
+01:40:05,303 --> 01:40:06,428
+...dan di sinilah kita.
+
+1180
+01:40:09,893 --> 01:40:12,563
+Saya pasti ibu bapa awak pasti
+berbangga, Potter.
+
+1181
+01:40:12,648 --> 01:40:13,762
+Bartemius!
+
+1182
+01:40:14,473 --> 01:40:18,124
+Awak bukan cuba nak pengaruhi dia
+untuk jadi pelatih Kementerian, kan?
+
+1183
+01:40:18,497 --> 01:40:21,210
+Budak sebelum ini pergi ke
+Jabatan Misteri tak pernah kembali!
+
+1184
+01:40:34,341 --> 01:40:35,702
+Tapi orang kata saya yang gila.
+
+1185
+01:40:45,553 --> 01:40:48,746
+Saya dah ingat
+ketika kali pertama kita berjumpa.
+
+1186
+01:40:49,347 --> 01:40:52,363
+Sekumpulan budak yang
+mungkin tak sesuai dengan saya.
+
+1187
+01:40:52,907 --> 01:40:54,857
+Tapi kamu mengingatkan saya
+kepada diri sendiri.
+
+1188
+01:40:55,426 --> 01:40:58,172
+Tapi beginilah kita,
+empat tahun kemudian.
+
+1189
+01:40:58,498 --> 01:40:59,848
+Masih lagi orang yang tak padan.
+
+1190
+01:40:59,942 --> 01:41:02,607
+Mungkin, tapi kita masih bersama.
+
+1191
+01:41:03,241 --> 01:41:04,474
+Dan Harry tentunyalah...
+
+1192
+01:41:05,082 --> 01:41:10,074
+Dia bakal menjadi juara Ahli Sihir Trio
+yang paling muda!
+
+1193
+01:41:10,569 --> 01:41:11,717
+Hore!
+
+1194
+01:41:14,020 --> 01:41:16,772
+<i>Hogwarts, Hogwarts
+Hoggy Warty Hogwarts</i>
+
+1195
+01:41:16,857 --> 01:41:19,472
+<i>Ajarkan kami sesuatu</i>
+
+1196
+01:41:29,354 --> 01:41:30,487
+Encik Crouch?
+
+1197
+01:41:38,063 --> 01:41:39,845
+Ada orang mati di sini, Fudge.
+
+1198
+01:41:39,930 --> 01:41:41,776
+Dia bukanlah orang terakhir.
+Awak mesti bertindak.
+
+1199
+01:41:41,868 --> 01:41:43,241
+Saya takkan buat lakukannya.
+
+1200
+01:41:43,455 --> 01:41:44,704
+Pada masa seperti ini,...
+
+1201
+01:41:44,791 --> 01:41:47,769
+...dunia ahli sihir perlukan
+kekuatan pemimpinnya, Dumbledore!
+
+1202
+01:41:47,853 --> 01:41:49,053
+Kalau begitu, tunjukkan pada mereka!
+
+1203
+01:41:49,138 --> 01:41:51,577
+Kejohanan Ahli Sihir Trio
+takkan dibatalkan.
+
+1204
+01:41:51,662 --> 01:41:53,554
+Saya tak akan dilihat sebagai
+pengecut!
+
+1205
+01:41:53,639 --> 01:41:56,601
+Pemimpin sejati lakukan apa yang benar
+tak kira apa orang kata.
+
+1206
+01:41:56,686 --> 01:41:57,801
+Apa awak kata?
+
+1207
+01:41:57,886 --> 01:41:59,522
+-Apa awak kata tadi?
+-Maafkan saya.
+
+1208
+01:41:59,784 --> 01:42:02,697
+Awak patut tahu, perbualan ini
+tidak lagi peribadi.
+
+1209
+01:42:07,923 --> 01:42:08,920
+Oh, Harry!
+
+1210
+01:42:09,555 --> 01:42:11,725
+Harry, gembira bertemu awak.
+
+1211
+01:42:12,920 --> 01:42:14,388
+Saya boleh datang nanti, profesor.
+
+1212
+01:42:14,473 --> 01:42:15,518
+Tak perlulah, Harry.
+
+1213
+01:42:15,603 --> 01:42:17,951
+Kami dah selesai berbincang.
+Nanti saya kembali.
+
+1214
+01:42:18,036 --> 01:42:19,870
+Menteri, awak jalanlah dulu.
+
+1215
+01:42:21,103 --> 01:42:23,110
+Nah, topi awak.
+
+1216
+01:42:23,195 --> 01:42:26,754
+Oh, Harry. Jemputlah makan
+Licorice Snap ini.
+
+1217
+01:42:26,839 --> 01:42:29,841
+Tapi rasanya agak kasarlah.
+
+1218
+01:44:01,743 --> 01:44:02,795
+Profesor?
+
+1219
+01:44:03,543 --> 01:44:05,201
+-Profesor.
+-Ya.
+
+1220
+01:44:16,941 --> 01:44:20,641
+Igor Karkaroff, awak telah dibawa
+dari Azkaban atas permintaan sendiri,...
+
+1221
+01:44:20,721 --> 01:44:22,804
+...untuk hadir ke perbicaraan ini.
+
+1222
+01:44:22,947 --> 01:44:25,456
+Sekiranya kenyataan awak
+terbukti penting,...
+
+1223
+01:44:25,614 --> 01:44:29,280
+...pihak majlis akan bersedia
+untuk membebaskan awak.
+
+1224
+01:44:30,153 --> 01:44:33,267
+Sehingga tiba masanya, awak akan
+diawasi oleh Kementerian,...
+
+1225
+01:44:33,292 --> 01:44:34,702
+...sebagai pesalah Death Eater.
+
+1226
+01:44:34,787 --> 01:44:36,392
+Awak terima syarat ini?
+
+1227
+01:44:36,975 --> 01:44:39,125
+-Saya terima, tuan.
+-Apa yang awak ingin katakan?
+
+1228
+01:44:40,080 --> 01:44:42,037
+Saya ada nama nak diberitahu.
+
+1229
+01:44:43,054 --> 01:44:46,470
+Namanya, Rosier.
+Evam Rosier.
+
+1230
+01:44:49,392 --> 01:44:50,628
+Rosier dah mati.
+
+1231
+01:44:50,713 --> 01:44:53,068
+Dia ada ambil sebahagian diri saya, kan?
+
+1232
+01:44:53,234 --> 01:44:54,377
+Saya tak tahu.
+
+1233
+01:44:54,454 --> 01:44:55,954
+Jika itu saja yang nak diberitahu...
+
+1234
+01:44:56,039 --> 01:44:57,138
+Tidak.
+
+1235
+01:44:57,303 --> 01:44:59,912
+Ada juga bernama Rookwood!
+Dia itu pengintip.
+
+1236
+01:45:00,763 --> 01:45:03,218
+Agustus Rookwood?
+Dari Jabatan Misteri?
+
+1237
+01:45:03,303 --> 01:45:04,471
+Ya, orang yang sama.
+
+1238
+01:45:04,556 --> 01:45:07,713
+Dia berikan maklumat kepada
+Kamu-Tahu-Siapa dari Kementerian.
+
+1239
+01:45:09,500 --> 01:45:10,428
+Baiklah.
+
+1240
+01:45:10,983 --> 01:45:12,250
+Majlis akan pertimbangkannya.
+
+1241
+01:45:13,015 --> 01:45:15,022
+Sementara itu, awak akan dihantar
+semula ke Azkaban.
+
+1242
+01:45:15,114 --> 01:45:18,059
+Tidak!
+Sekejap, saya ada nama lagi!
+
+1243
+01:45:18,162 --> 01:45:19,880
+Bagaimana dengan Snape?
+Severus Snape?
+
+1244
+01:45:19,935 --> 01:45:22,983
+Sepertimana yang pihak majlis tahu,
+saya dah jelaskan hal ini.
+
+1245
+01:45:23,068 --> 01:45:25,185
+Severus Snape sememangnya
+Death Eater,...
+
+1246
+01:45:25,295 --> 01:45:27,240
+...dan demi menjatuhkan
+Lord Voldemort,...
+
+1247
+01:45:27,272 --> 01:45:29,486
+...dia menjadi pengintip untuk
+pihak kami.
+
+1248
+01:45:29,564 --> 01:45:30,418
+Awak bohong!
+
+1249
+01:45:30,503 --> 01:45:32,001
+Dia kini bukan lagi Death Eater.
+
+1250
+01:45:32,086 --> 01:45:33,926
+Severus Snape kekal setia
+kepada Raja Kuasa Jahat!
+
+1251
+01:45:34,011 --> 01:45:36,039
+Diam!
+
+1252
+01:45:37,003 --> 01:45:40,403
+Sekiranya pihak saksi tidak berikan
+nama yang kukuh,...
+
+1253
+01:45:40,483 --> 01:45:42,387
+...sesi ini akan berakhir segera.
+
+1254
+01:45:42,883 --> 01:45:44,532
+Oh, tidak.
+
+1255
+01:45:46,018 --> 01:45:47,478
+Ada satu lagi nama.
+
+1256
+01:45:47,563 --> 01:45:49,388
+-Apa dia?
+-Nama.
+
+1257
+01:45:50,031 --> 01:45:52,081
+-Ya?
+-Saya tahu bahawa,...
+
+1258
+01:45:52,161 --> 01:45:54,079
+...orang ini terlibat dalam
+penangkapan itu,...
+
+1259
+01:45:54,152 --> 01:45:56,366
+...iaitu dengan menggunakan
+Sumpahan Cruciatus,...
+
+1260
+01:45:56,443 --> 01:46:00,116
+...lalu menyiksa Auror Frank Longbottom
+dan isterinya!
+
+1261
+01:46:00,201 --> 01:46:02,475
+Namanya.
+Berikan saya namanya!
+
+1262
+01:46:02,560 --> 01:46:04,260
+Barty Crouch...
+
+1263
+01:46:07,873 --> 01:46:08,951
+...Junior.
+
+1264
+01:46:18,383 --> 01:46:19,648
+Tangkap dia!
+
+1265
+01:46:23,723 --> 01:46:26,832
+Lepaskan sayalah, orang tak guna!
+
+1266
+01:46:28,981 --> 01:46:30,161
+Helo, ayah.
+
+1267
+01:46:31,987 --> 01:46:33,504
+Kamu bukan lagi anak ayah.
+
+1268
+01:46:45,311 --> 01:46:49,260
+Sifat ingin tahu itu tak salah, Harry.
+Tapi awak perlu berhati-hati.
+
+1269
+01:46:51,283 --> 01:46:52,611
+Inilah Pensieve.
+
+1270
+01:46:52,696 --> 01:46:56,982
+Ia sangat berguna sebab ia
+boleh membuat kita ingat semula.
+
+1271
+01:46:57,703 --> 01:47:00,732
+Ia membolehkan saya melihat
+perkara yang dah dilihat.
+
+1272
+01:47:01,673 --> 01:47:04,873
+Harry, saya dah banyak kali
+mencari sesuatu,...
+
+1273
+01:47:04,953 --> 01:47:06,868
+...termasuk perkara yang kecil,...
+
+1274
+01:47:07,671 --> 01:47:10,021
+...sesuatu yang terlepas pandang,...
+
+1275
+01:47:10,103 --> 01:47:13,620
+...sesuatu yang boleh menjelaskan
+kenapa perkara buruk berlaku.
+
+1276
+01:47:14,971 --> 01:47:18,789
+Setiap kali saya hampir mendapat
+jawapan, ia hilang semula.
+
+1277
+01:47:19,938 --> 01:47:21,249
+Hampir jadi gila.
+
+1278
+01:47:23,138 --> 01:47:25,464
+Tuan? Anak En. Crouch...
+
+1279
+01:47:26,493 --> 01:47:28,189
+Apa sebenarnya yang berlaku
+kepada dia?
+
+1280
+01:47:28,664 --> 01:47:30,467
+Dia dihantar ke Azkaban.
+
+1281
+01:47:31,366 --> 01:47:32,992
+Barty terpaksa lakukannya.
+
+1282
+01:47:34,203 --> 01:47:37,386
+Tapi dia tiada pilihan lain.
+Bukti dah menunjukkan segalanya.
+
+1283
+01:47:39,181 --> 01:47:41,532
+-Kenapa awak tanya?
+-Sebab saya...
+
+1284
+01:47:43,003 --> 01:47:44,782
+Saya ada bermimpi tentangnya.
+
+1285
+01:47:47,383 --> 01:47:49,616
+Ketika itu musim panas,
+sebelum waktu sekolah bermula.
+
+1286
+01:47:52,353 --> 01:47:54,667
+Di dalam mimpi itu,
+saya berada di sebuah rumah.
+
+1287
+01:47:55,523 --> 01:47:59,778
+Voldemort ada di situ,
+cuma dia taklah berapa sihat.
+
+1288
+01:48:00,180 --> 01:48:03,292
+Wormtail pun ada di situ.
+Begitu juga anak En. Crouch.
+
+1289
+01:48:04,483 --> 01:48:06,985
+-Banyak kali bermimpi begini?
+-Ya.
+
+1290
+01:48:08,153 --> 01:48:09,359
+Selalu mimpi yang sama.
+
+1291
+01:48:12,703 --> 01:48:14,967
+Tuan, mimpi ini,...
+
+1292
+01:48:15,167 --> 01:48:19,550
+...apa yang saya lihat, bukankah ia
+dah pernah berlaku, kan?
+
+1293
+01:48:22,123 --> 01:48:24,772
+Tak bagus juga kalau awak
+asyik terfikir tentang mimpi, Harry.
+
+1294
+01:48:25,553 --> 01:48:27,353
+Saya rasa lebih baik jika...
+
+1295
+01:48:33,223 --> 01:48:34,480
+...awak lupakan saja.
+
+1296
+01:48:44,160 --> 01:48:47,531
+Itu satu petanda, Severus.
+Awak pun faham apa maksudnya.
+
+1297
+01:48:56,921 --> 01:48:57,858
+Potter!
+
+1298
+01:48:58,333 --> 01:49:00,554
+Awak nak ke mana?
+
+1299
+01:49:06,018 --> 01:49:09,280
+Tahniah, tindakan awak
+di Tasik Hitam itu sangat hebat.
+
+1300
+01:49:09,923 --> 01:49:11,564
+Guna Gillyweed, betul tak?
+
+1301
+01:49:12,885 --> 01:49:13,753
+Ya, tuan.
+
+1302
+01:49:15,433 --> 01:49:16,375
+Pandainya.
+
+1303
+01:49:18,643 --> 01:49:21,786
+Herba yang jarang dijumpai,
+Gillyweed.
+
+1304
+01:49:23,443 --> 01:49:26,464
+Ia bukan sesuatu yang selalu
+dijumpai di taman biasa.
+
+1305
+01:49:28,613 --> 01:49:30,246
+Begitu juga dengan ini.
+
+1306
+01:49:34,783 --> 01:49:35,793
+Tahu tak apa ini?
+
+1307
+01:49:37,743 --> 01:49:39,151
+Jus Bubble, kan?
+
+1308
+01:49:39,721 --> 01:49:41,303
+Veritaserum.
+
+1309
+01:49:42,373 --> 01:49:46,137
+Gunakan tiga titis dan Kamu-Tahu-Siapa
+akan beritahu rahsianya.
+
+1310
+01:49:46,222 --> 01:49:49,806
+Sayangnya, ia tak boleh digunakan
+kepada pelajar.
+
+1311
+01:49:49,891 --> 01:49:51,024
+Namun...
+
+1312
+01:49:52,036 --> 01:49:55,139
+...kalau awak mencuri dari
+tempat simpanan saya lagi,...
+
+1313
+01:49:55,234 --> 01:50:00,281
+...saya mungkin akan masukkannya
+ke dalam jus labu awak.
+
+1314
+01:50:00,366 --> 01:50:04,746
+-Saya tak curi apa-apa.
+-Jangan tipu sayalah.
+
+1315
+01:50:05,868 --> 01:50:07,566
+Gillyweed mungkin tak berbahaya, tapi,...
+
+1316
+01:50:07,606 --> 01:50:11,893
+...kulit ular Boomslang,
+lalat Lacewing?
+
+1317
+01:50:12,290 --> 01:50:15,612
+Awak bersama kawan buat
+Posyen Polyjuice dan percayalah,...
+
+1318
+01:50:15,684 --> 01:50:17,056
+...saya akan cari sebabnya!
+
+1319
+01:50:44,813 --> 01:50:46,502
+-Ya!
+-Ya!
+
+1320
+01:51:05,416 --> 01:51:07,015
+<i>Sonorus!</i>
+
+1321
+01:51:11,270 --> 01:51:12,615
+Awal tadi,...
+
+1322
+01:51:12,640 --> 01:51:16,674
+...Profesor Moody telah letakkan Piala
+Ahli Sihir Trio di dalam selirat.
+
+1323
+01:51:16,820 --> 01:51:18,896
+Hanya dia saja
+yang tahu kedudukannya.
+
+1324
+01:51:19,376 --> 01:51:21,585
+Sekarang, En. Diggory...
+
+1325
+01:51:24,152 --> 01:51:25,336
+...dan En. Potter...
+
+1326
+01:51:27,781 --> 01:51:29,211
+...seri di tempat pertama,...
+
+1327
+01:51:29,296 --> 01:51:31,355
+...maka mereka yang akan masuk
+ke selirat dahulu.
+
+1328
+01:51:31,646 --> 01:51:32,905
+Diikuti oleh En. Krum...
+
+1329
+01:51:34,617 --> 01:51:37,874
+-...dan Cik Delacour.
+-Ayuh! Krum! Krum! Krum!
+
+1330
+01:51:39,210 --> 01:51:42,436
+Orang pertama yang menyentuh piala
+akan menjadi juara!
+
+1331
+01:51:46,663 --> 01:51:49,347
+Saya dah minta staf untuk
+kawal tempat tersebut.
+
+1332
+01:51:49,533 --> 01:51:52,383
+Jika ada peserta yang ingin
+menarik diri daripada cabaran ini,...
+
+1333
+01:51:52,463 --> 01:51:56,666
+...dia hanya perlu nyalakan
+cahaya merah dari tongkat sakti.
+
+1334
+01:51:57,375 --> 01:52:00,423
+Para peserta! Berkumpul.
+Cepat!
+
+1335
+01:52:04,465 --> 01:52:08,367
+Di dalam selirat itu, tiada naga
+atau makhluk ajaib.
+
+1336
+01:52:09,063 --> 01:52:12,047
+Sebaliknya, kamu akan menghadapi
+sesuatu yang lebih mencabar.
+
+1337
+01:52:12,412 --> 01:52:15,559
+Orang berubah di dalam selirat itu.
+
+1338
+01:52:15,644 --> 01:52:17,497
+Oh, cari piala itu kalau mampu.
+
+1339
+01:52:17,745 --> 01:52:21,732
+Tapi berhati-hati, kamu mungkin
+hilang arah di dalamnya.
+
+1340
+01:52:23,913 --> 01:52:26,374
+Calon juara, bersedialah!
+
+1341
+01:52:34,703 --> 01:52:36,462
+Cedric, selamat berjaya.
+
+1342
+01:52:37,555 --> 01:52:38,842
+-Anakku.
+-Jumpa lagi, ayah.
+
+1343
+01:52:42,327 --> 01:52:44,683
+Dalam kiraan tiga. Satu...
+
+1344
+01:56:12,219 --> 01:56:13,215
+Fleur?
+
+1345
+01:56:15,383 --> 01:56:16,280
+Fleur.
+
+1346
+01:56:20,450 --> 01:56:21,542
+<i>Periculum!</i>
+
+1347
+01:57:00,821 --> 01:57:01,850
+Tunduk!
+
+1348
+01:57:02,933 --> 01:57:04,045
+Tunduk!
+
+1349
+01:57:05,131 --> 01:57:06,375
+<i>Expelliarmus!</i>
+
+1350
+01:57:16,042 --> 01:57:19,282
+Tidak! Jangan!
+Dia disihir, Cedric!
+
+1351
+01:57:19,367 --> 01:57:20,899
+-Lepaskan saya!
+-Dia disihir!
+
+1352
+01:57:33,150 --> 01:57:34,136
+Bagus.
+
+1353
+01:57:55,592 --> 01:57:56,735
+Harry!
+
+1354
+01:57:59,736 --> 01:58:00,757
+Harry!
+
+1355
+01:58:03,548 --> 01:58:04,518
+Harry!
+
+1356
+01:58:07,698 --> 01:58:08,713
+Harry!
+
+1357
+01:58:11,007 --> 01:58:12,181
+<i>Reducto!</i>
+
+1358
+01:58:29,933 --> 01:58:31,698
+-Terima kasih.
+-Sama-sama.
+
+1359
+01:58:32,813 --> 01:58:36,990
+Tadi, saya ingatkan awak akan
+tinggalkan saya bergelut.
+
+1360
+01:58:37,693 --> 01:58:38,846
+Tadi pun ada terfikir juga.
+
+1361
+01:58:41,323 --> 01:58:42,493
+Cabaran yang hebat, kan?
+
+1362
+01:58:43,381 --> 01:58:44,368
+Boleh tahan.
+
+1363
+01:58:50,484 --> 01:58:51,446
+Lari!
+
+1364
+01:59:02,133 --> 01:59:04,777
+Pergi dan ambilnya.
+Awak dah selamatkan saya tadi!
+
+1365
+01:59:05,287 --> 01:59:07,033
+-Bersama-sama. Satu, dua...
+-Dua...
+
+1366
+01:59:07,058 --> 01:59:08,355
+-...tiga!
+-...tiga!
+
+1367
+01:59:20,852 --> 01:59:23,508
+-Awak okey?
+-Ya. Awak?
+
+1368
+01:59:31,076 --> 01:59:32,257
+Kita di mana?
+
+1369
+01:59:38,086 --> 01:59:39,319
+Saya pernah ke sini.
+
+1370
+01:59:43,370 --> 01:59:44,622
+Ini Kunci Portal.
+
+1371
+01:59:46,917 --> 01:59:50,602
+-Harry, piala ini Kunci Portal.
+-Saya pernah berada di sini, dalam mimpi.
+
+1372
+01:59:51,638 --> 01:59:52,878
+TOM RIDDLE
+
+1373
+01:59:52,963 --> 01:59:55,484
+Cedric! Kita kena kembali
+ke piala itu.
+
+1374
+01:59:55,922 --> 01:59:56,783
+Sekarang!
+
+1375
+01:59:56,868 --> 01:59:57,952
+Apa maksud awak?
+
+1376
+02:00:03,993 --> 02:00:06,273
+-Harry! Kenapa?
+-Kembali ke piala itu!
+
+1377
+02:00:14,265 --> 02:00:16,958
+-Siapa awak? Apa yang awak mahu?
+-Bunuh dia.
+
+1378
+02:00:17,043 --> 02:00:19,954
+<i>-Avada Kedavra!</i>
+-Tidak! Cedric!
+
+1379
+02:00:30,968 --> 02:00:32,779
+Lakukannya! Sekarang!
+
+1380
+02:00:44,799 --> 02:00:47,165
+Tulang si ayah,...
+
+1381
+02:00:47,366 --> 02:00:49,924
+...yang diberi secara tak rela.
+
+1382
+02:00:50,009 --> 02:00:51,512
+THOMAS RIDDLE
+
+1383
+02:00:57,294 --> 02:01:00,674
+Daging dari si hamba...
+
+1384
+02:01:02,415 --> 02:01:05,082
+...yang dikorban secara rela.
+
+1385
+02:01:09,779 --> 02:01:12,605
+Dan darah dari si musuh...
+
+1386
+02:01:19,107 --> 02:01:21,453
+...diambil secara paksa.
+
+1387
+02:01:27,863 --> 02:01:31,131
+Raja Kuasa Gelap akan bangkit...
+
+1388
+02:01:31,533 --> 02:01:32,451
+...semula.
+
+1389
+02:02:36,861 --> 02:02:39,424
+Berikan tongkat sakti, Wormtail.
+
+1390
+02:02:49,823 --> 02:02:51,417
+Hulurkan tanganmu.
+
+1391
+02:02:52,037 --> 02:02:53,122
+Tuan.
+
+1392
+02:02:53,697 --> 02:02:55,784
+Terima kasih, tuan.
+
+1393
+02:02:56,280 --> 02:02:58,014
+Tangan yang satu lagi, Wormtail.
+
+1394
+02:03:38,480 --> 02:03:40,039
+Selamat datang, kawan-kawan.
+
+1395
+02:03:41,867 --> 02:03:45,317
+Dah tiga tahun berlalu, namun...
+
+1396
+02:03:45,397 --> 02:03:49,955
+...kamu berdiri di sini seperti
+baru semalam berlaku.
+
+1397
+02:03:51,819 --> 02:03:53,755
+Saya sendiri,...
+
+1398
+02:03:55,141 --> 02:03:56,279
+...berasa kecewa.
+
+1399
+02:03:57,145 --> 02:03:59,395
+Tiada seorang pun cuba
+mencari saya.
+
+1400
+02:03:59,683 --> 02:04:03,054
+Crabbe! Macnair!
+
+1401
+02:04:03,863 --> 02:04:05,025
+Goyle!
+
+1402
+02:04:07,646 --> 02:04:09,021
+Awak pun sama...
+
+1403
+02:04:13,266 --> 02:04:14,354
+Lucius!
+
+1404
+02:04:17,073 --> 02:04:21,742
+Tuan, kalau saya tahu petunjuk
+tentang lokasi tuan...
+
+1405
+02:04:21,827 --> 02:04:25,105
+Dah terdapat petanda pun, kawanku.
+Lebih jelas lagi.
+
+1406
+02:04:25,190 --> 02:04:30,359
+Percayalah, tuan.
+Saya masih tak terpesong dari cara kita.
+
+1407
+02:04:32,164 --> 02:04:37,947
+Wajah inilah yang telah lama saya ingin
+lihat sejak ketiadaan tuan,...
+
+1408
+02:04:39,670 --> 02:04:41,673
+...itulah diri saya yang sebenar.
+
+1409
+02:04:42,640 --> 02:04:43,814
+Saya kembali.
+
+1410
+02:04:46,678 --> 02:04:49,792
+Sebab takut, bukan sebab setia.
+
+1411
+02:04:51,749 --> 02:04:56,818
+Namun, awak telah buktikan betapa
+bergunanya awak, Wormtail.
+
+1412
+02:05:02,624 --> 02:05:05,043
+Terima kasih, tuan.
+
+1413
+02:05:05,646 --> 02:05:06,732
+Terima kasih.
+
+1414
+02:05:10,583 --> 02:05:12,885
+-Budak yang kacak.
+-Jangan sentuh dia!
+
+1415
+02:05:14,423 --> 02:05:15,451
+Harry.
+
+1416
+02:05:16,025 --> 02:05:18,585
+Saya hampir terlupa awak ada di sini.
+
+1417
+02:05:19,045 --> 02:05:21,663
+Berdiri di atas kubur ayah saya.
+
+1418
+02:05:22,452 --> 02:05:23,387
+Ya.
+
+1419
+02:05:23,612 --> 02:05:24,736
+Saya nak perkenalkan awak,...
+
+1420
+02:05:24,832 --> 02:05:28,800
+...tapi awak sendiri pun dah terkenal
+seperti saya kebelakangan ini.
+
+1421
+02:05:32,056 --> 02:05:34,318
+Budak yang terselamat dari maut.
+
+1422
+02:05:34,904 --> 02:05:37,736
+Penipuan melingkari sejarah
+hidup awak, Harry.
+
+1423
+02:05:38,042 --> 02:05:41,617
+Patut tak saya beritahu apa
+yang berlaku pada malam 13 tahun lalu?
+
+1424
+02:05:41,913 --> 02:05:46,481
+Patut tak saya beritahu
+bagaimana saya kehilangan kuasa?
+
+1425
+02:05:46,993 --> 02:05:48,167
+Patut tak, ya?
+
+1426
+02:05:49,115 --> 02:05:50,112
+Ia disebabkan kasih sayang.
+
+1427
+02:05:50,675 --> 02:05:54,987
+Ketika Lily Potter yang penyayang
+korbankan nyawa demi anaknya,...
+
+1428
+02:05:55,019 --> 02:05:57,633
+...dia berikan perlindungan
+yang terhebat.
+
+1429
+02:05:58,143 --> 02:05:59,384
+Saya tak boleh menyentuhnya.
+
+1430
+02:06:01,167 --> 02:06:03,071
+Ia sebuah sihir purba.
+
+1431
+02:06:03,570 --> 02:06:05,265
+Sesuatu yang patut saya tahu.
+
+1432
+02:06:05,961 --> 02:06:07,532
+Tapi tak kisahlah.
+
+1433
+02:06:07,929 --> 02:06:09,773
+Keadaan telah berubah.
+
+1434
+02:06:10,869 --> 02:06:13,719
+Saya dah boleh menyentuh awak...
+
+1435
+02:06:14,976 --> 02:06:15,868
+...sekarang.
+
+1436
+02:06:24,681 --> 02:06:25,721
+Ya.
+
+1437
+02:06:32,504 --> 02:06:35,590
+Hebat, kan? Bagaimana beberapa titis
+darah awak boleh buat begini?
+
+1438
+02:06:36,963 --> 02:06:38,445
+Ambil tongkat sakti awak, Potter.
+
+1439
+02:06:40,702 --> 02:06:43,075
+Saya kata, ambillah!
+Bangun!
+
+1440
+02:06:44,688 --> 02:06:46,827
+Awak dah diajar cara
+untuk bertarung, kan?
+
+1441
+02:06:46,912 --> 02:06:49,249
+Pertama, kita saling menunduk.
+
+1442
+02:06:49,683 --> 02:06:52,093
+Ayuh, Harry.
+Hidup kenalah bersopan.
+
+1443
+02:06:52,178 --> 02:06:54,846
+Dumbledore pasti tak nak awak
+jadi kurang ajar, kan?
+
+1444
+02:06:55,190 --> 02:06:57,024
+Saya cakap, tunduk.
+
+1445
+02:06:58,813 --> 02:07:02,444
+-Begitulah. Dan sekarang...
+-Jangan.
+
+1446
+02:07:03,406 --> 02:07:04,563
+<i>Crucio!</i>
+
+1447
+02:07:07,792 --> 02:07:09,081
+<i>Crucio!</i>
+
+1448
+02:07:10,703 --> 02:07:12,143
+Bagus, Harry.
+
+1449
+02:07:12,750 --> 02:07:14,507
+Ibu bapa awak pasti berbangga.
+
+1450
+02:07:15,122 --> 02:07:18,261
+Terutamanya ibu Muggle awak
+yang tak guna.
+
+1451
+02:07:18,346 --> 02:07:19,353
+<i>Expelliar...</i>
+
+1452
+02:07:23,340 --> 02:07:25,547
+Saya akan bunuh awak, Harry Potter.
+
+1453
+02:07:26,013 --> 02:07:27,480
+Saya akan musnahkan awak.
+
+1454
+02:07:30,183 --> 02:07:35,661
+Selepas malam ini, tiada siapa akan
+persoalkan kuasa saya.
+
+1455
+02:07:36,340 --> 02:07:38,824
+Selepas malam ini, jika mereka
+bercakap tentang awak,...
+
+1456
+02:07:38,926 --> 02:07:41,526
+...mereka hanya akan berkata
+tentang cara awak...
+
+1457
+02:07:42,052 --> 02:07:43,299
+...merayu untuk mati.
+
+1458
+02:07:44,136 --> 02:07:47,103
+Saya, Raja yang bersimpati...
+
+1459
+02:07:48,403 --> 02:07:49,429
+...telah membantu.
+
+1460
+02:07:50,363 --> 02:07:51,258
+Bangun!
+
+1461
+02:07:56,460 --> 02:07:58,668
+Jangan berpaling daripada saya,
+Harry Potter!
+
+1462
+02:07:58,753 --> 02:08:01,079
+Saya nak awak pandang saya
+apabila saya bunuh awak!
+
+1463
+02:08:01,309 --> 02:08:04,046
+Saya nak lihat roh awak
+meninggalkan jasad!
+
+1464
+02:08:18,284 --> 02:08:19,466
+Buatlah apa yang awak nak.
+
+1465
+02:08:21,353 --> 02:08:23,084
+<i>-Expelliarmus!
+-Avada Kedavra!</i>
+
+1466
+02:08:41,205 --> 02:08:43,712
+Jangan masuk campur!
+Ini pertarungan saya!
+
+1467
+02:08:48,431 --> 02:08:49,786
+Dia milik saya!
+
+1468
+02:09:23,269 --> 02:09:26,982
+Harry, apabila sambungannya terputus,
+pergi ke Kunci Portal.
+
+1469
+02:09:27,415 --> 02:09:29,336
+Kami boleh membantu awak,...
+
+1470
+02:09:29,421 --> 02:09:31,211
+...tapi hanya sekejap saja.
+Awak faham?
+
+1471
+02:09:32,656 --> 02:09:35,269
+Harry, bawa sekali jasad saya, boleh?
+
+1472
+02:09:36,048 --> 02:09:37,828
+Berikan jasad saya kepada
+ayah saya.
+
+1473
+02:09:39,433 --> 02:09:40,546
+Lepaskannya.
+
+1474
+02:09:41,180 --> 02:09:42,682
+Sayang, kamu dah sedia.
+
+1475
+02:09:44,023 --> 02:09:46,577
+Lepaskannya!
+
+1476
+02:09:52,403 --> 02:09:53,846
+<i>Accio!</i>
+
+1477
+02:09:59,325 --> 02:10:01,334
+Tidak!
+
+1478
+02:10:14,213 --> 02:10:15,474
+Dia berjaya!
+
+1479
+02:10:17,173 --> 02:10:18,149
+Harry!
+
+1480
+02:10:21,069 --> 02:10:22,127
+Harry!
+
+1481
+02:10:24,032 --> 02:10:26,657
+Tidak, tidak, jangan!
+
+1482
+02:10:27,948 --> 02:10:29,818
+Ya Tuhan, Dumbledore!
+Apa yang berlaku?
+
+1483
+02:10:29,903 --> 02:10:32,033
+Dia dah kembali!
+
+1484
+02:10:32,714 --> 02:10:34,030
+Voldemort dah kembali.
+
+1485
+02:10:34,405 --> 02:10:36,811
+Cedric minta saya bawa sekali
+jasadnya ke sini.
+
+1486
+02:10:36,930 --> 02:10:39,570
+Saya tak boleh tinggalkannya di sana.
+
+1487
+02:10:39,655 --> 02:10:42,296
+Jangan risau, Harry.
+
+1488
+02:10:42,990 --> 02:10:45,233
+Dia dah pulang.
+Kamu berdua dah pulang.
+
+1489
+02:10:45,265 --> 02:10:47,193
+Suruh semua orang duduk.
+
+1490
+02:10:47,280 --> 02:10:48,595
+Ada budak dah terbunuh.
+
+1491
+02:10:52,043 --> 02:10:55,441
+Jasad ini perlu dipindahkan, Dumbledore.
+Ada ramai orang di sini.
+
+1492
+02:10:55,887 --> 02:10:56,832
+Tumpang lalu.
+
+1493
+02:10:57,813 --> 02:10:58,856
+Tumpang lalu!
+
+1494
+02:11:01,239 --> 02:11:02,409
+Tumpang lalu!
+
+1495
+02:11:02,631 --> 02:11:04,153
+Itu anak saya!
+
+1496
+02:11:05,349 --> 02:11:06,925
+Itu anak saya!
+
+1497
+02:11:09,733 --> 02:11:11,611
+Anak saya!
+
+1498
+02:11:15,233 --> 02:11:18,049
+-Ayuh, bangun. Bertenang!
+-Tidak.
+
+1499
+02:11:18,782 --> 02:11:21,332
+Awak tak sepatutnya berada
+di sini sekarang. Ayuh.
+
+1500
+02:11:22,377 --> 02:11:24,728
+Tidak!
+
+1501
+02:11:27,913 --> 02:11:29,679
+Tak mengapa, ikut saya.
+
+1502
+02:11:30,410 --> 02:11:33,129
+Ikut saya. Ayuh, bertenang.
+
+1503
+02:11:37,803 --> 02:11:39,074
+Tidak!
+
+1504
+02:11:40,624 --> 02:11:42,372
+Tidak!
+
+1505
+02:12:24,973 --> 02:12:26,057
+Awak okey, Potter?
+
+1506
+02:12:27,344 --> 02:12:28,841
+Sakit tak? Luka itu?
+
+1507
+02:12:29,353 --> 02:12:30,592
+Tak terlalu sakit dah.
+
+1508
+02:12:32,103 --> 02:12:33,532
+Mungkin saya patut periksanya.
+
+1509
+02:12:37,313 --> 02:12:38,658
+Piala itu adalah Kunci Portal.
+
+1510
+02:12:42,033 --> 02:12:43,198
+Ada yang telah menyihirnya.
+
+1511
+02:12:44,153 --> 02:12:45,248
+Bagaimana rupanya?
+
+1512
+02:12:46,573 --> 02:12:48,279
+-Bagaimana rupanta?
+-Siapa?
+
+1513
+02:12:48,364 --> 02:12:49,616
+Raja Kuasa Jahat.
+
+1514
+02:12:52,352 --> 02:12:55,020
+Bagaimana rasanya berdiri
+di hadapannya?
+
+1515
+02:12:56,833 --> 02:12:57,738
+Entahlah.
+
+1516
+02:13:01,542 --> 02:13:04,992
+Rasa seperti jatuh dalam mimpi,...
+
+1517
+02:13:07,119 --> 02:13:08,741
+...dan kini bermimpi ngeri.
+
+1518
+02:13:28,018 --> 02:13:29,029
+Ada orang lain tak?
+
+1519
+02:13:29,825 --> 02:13:31,299
+Di tanah kubur itu,
+ ada orang lain tak?
+
+1520
+02:13:36,043 --> 02:13:36,948
+Saya...
+
+1521
+02:13:37,964 --> 02:13:41,581
+Saya tak ada sebut tentang
+tanah kubur, profesor.
+
+1522
+02:13:49,497 --> 02:13:52,246
+"Makhluk luar biasa, naga, bukan?"
+
+1523
+02:13:57,317 --> 02:13:59,789
+Awak rasa si dungu itu akan
+bawa awak ke hutan,...
+
+1524
+02:13:59,853 --> 02:14:01,312
+...kalau saya tak suruh?
+
+1525
+02:14:05,854 --> 02:14:09,404
+Awak rasa Cedric Diggory akan
+suruh awak buka telur di dalam air,...
+
+1526
+02:14:09,484 --> 02:14:11,456
+...kalau saya tak beritahu?
+
+1527
+02:14:13,737 --> 02:14:15,996
+Awak ingat Neville Longbottom
+yang dungu itu,...
+
+1528
+02:14:16,775 --> 02:14:19,288
+...akan berikan Gillyweed kalau
+saya tak berikan buku,...
+
+1529
+02:14:19,326 --> 02:14:20,883
+...yang berkaitan dengannya?
+
+1530
+02:14:30,076 --> 02:14:31,918
+Memang awaklah puncanya.
+
+1531
+02:14:32,011 --> 02:14:34,037
+Awak yang letak nama saya
+dalam Piala Api.
+
+1532
+02:14:34,603 --> 02:14:37,564
+-Awak menyihir Krum, tapi awak...
+-"Tapi"?
+
+1533
+02:14:38,433 --> 02:14:40,563
+Awak menang sebab sayalah, Potter.
+
+1534
+02:14:41,133 --> 02:14:44,613
+Awak berada di tanah kubur
+sebab ia dah ditakdirkan.
+
+1535
+02:14:44,903 --> 02:14:46,205
+Sekarang ia dah pun berlaku.
+
+1536
+02:14:47,748 --> 02:14:51,263
+Darah yang mengalir dalam diri awak,
+ada dalam Raja Kuasa Jahat.
+
+1537
+02:15:00,523 --> 02:15:04,936
+Bayangkan apa yang akan diberikan
+apabila dia tahu,...
+
+1538
+02:15:05,095 --> 02:15:07,353
+...yang saya telah,...
+
+1539
+02:15:07,433 --> 02:15:12,390
+...bunuh Harry Potter yang hebat ini.
+
+1540
+02:15:12,475 --> 02:15:13,685
+<i>Expelliarmus!</i>
+
+1541
+02:15:18,580 --> 02:15:19,655
+Severus.
+
+1542
+02:15:22,314 --> 02:15:23,749
+Minum benda ni!
+
+1543
+02:15:25,935 --> 02:15:27,037
+Awak kenal tak siapa saya?
+
+1544
+02:15:27,857 --> 02:15:29,352
+Albus Dumbledore.
+
+1545
+02:15:29,437 --> 02:15:32,143
+-Adakah awak Alastor Moody?
+-Tidak.
+
+1546
+02:15:32,453 --> 02:15:35,374
+Adakah dia ada di dalam bilik ini?
+
+1547
+02:15:38,246 --> 02:15:39,546
+Harry, ke tepi!
+
+1548
+02:16:01,103 --> 02:16:02,415
+Awak okey tak, Alastor?
+
+1549
+02:16:02,998 --> 02:16:04,467
+Maafkan saya, Albus.
+
+1550
+02:16:05,288 --> 02:16:06,688
+Kalau itu Moody, siapa...
+
+1551
+02:16:09,256 --> 02:16:10,423
+Posyen Polyjuice.
+
+1552
+02:16:10,469 --> 02:16:13,019
+Sekarang kita dah tahu siapa
+yang mencuri dari awak, Severus.
+
+1553
+02:16:13,973 --> 02:16:15,306
+Kami akan selamatkan awak nanti.
+
+1554
+02:16:50,268 --> 02:16:51,190
+Harry!
+
+1555
+02:16:55,308 --> 02:16:57,169
+Barty Crouch Junior.
+
+1556
+02:16:57,786 --> 02:17:00,231
+Saya akan tunjukkan tanda saya
+jika awak pun sama.
+
+1557
+02:17:03,203 --> 02:17:04,436
+Lengan awak, Harry.
+
+1558
+02:17:08,880 --> 02:17:10,467
+Awak tahu apa maksudnya, kan?
+
+1559
+02:17:11,796 --> 02:17:12,846
+Dia dah kembali.
+
+1560
+02:17:14,423 --> 02:17:16,411
+Lord Voldemort telah kembali.
+
+1561
+02:17:17,513 --> 02:17:19,195
+Maafkan saya, tuan.
+Saya tak dapat nak halangnya.
+
+1562
+02:17:20,053 --> 02:17:21,487
+Hantar berita ke Azkaban.
+
+1563
+02:17:22,174 --> 02:17:23,791
+Saya pasti mereka telah kehilangan
+seorang banduan.
+
+1564
+02:17:24,913 --> 02:17:27,733
+-Saya akan kembali seperti wira.
+-Mungkin.
+
+1565
+02:17:28,103 --> 02:17:30,366
+Saya tiada masa nak layan "wira"
+macam awak.
+
+1566
+02:17:50,730 --> 02:17:53,530
+Hari ini, kita memperingati...
+
+1567
+02:17:54,167 --> 02:17:56,113
+...kematian yang sangat menyedihkan.
+
+1568
+02:17:59,133 --> 02:18:01,323
+Cedric Diggory seperti yang diketahui,...
+
+1569
+02:18:01,916 --> 02:18:04,066
+...seorang yang bekerja keras,...
+
+1570
+02:18:05,181 --> 02:18:07,190
+...punyai minda yang cerdas,...
+
+1571
+02:18:08,130 --> 02:18:09,871
+...dan yang paling pentingnya,...
+
+1572
+02:18:10,813 --> 02:18:14,723
+...seorang kawan yang berani.
+
+1573
+02:18:16,523 --> 02:18:20,264
+Maka, saya rasa kamu berhak tahu
+apa sebabnya dia mati.
+
+1574
+02:18:23,953 --> 02:18:25,110
+Begini...
+
+1575
+02:18:26,333 --> 02:18:28,203
+Cedric Diggory dibunuh,...
+
+1576
+02:18:29,224 --> 02:18:30,713
+...oleh Lord Voldemort!
+
+1577
+02:18:33,213 --> 02:18:36,079
+Kementerian Sihir tak benarkan saya
+beritahu kamu semua.
+
+1578
+02:18:37,423 --> 02:18:40,355
+Tapi kalau dirahsiakan,
+ia seperti penghinaan kepadanya.
+
+1579
+02:18:43,215 --> 02:18:44,569
+Sekarang, keperitan,...
+
+1580
+02:18:45,201 --> 02:18:48,601
+...yang dirasai setelah kehilangannya
+telah mengingatkan saya,...
+
+1581
+02:18:48,782 --> 02:18:50,297
+...dan mengingatkan kita,...
+
+1582
+02:18:50,491 --> 02:18:53,824
+...walaupun kita punyai asal dan
+bertutur bahasa yang berbeza,...
+
+1583
+02:18:53,880 --> 02:18:57,162
+...hati kita kekal bersatu.
+
+1584
+02:18:58,201 --> 02:18:59,761
+Dengan terjadinya peristiwa itu,...
+
+1585
+02:19:00,659 --> 02:19:02,775
+...ikatan persahabatan yang terjalin
+pada tahun ini,...
+
+1586
+02:19:02,832 --> 02:19:05,377
+...akan lebih penting daripada
+segala-galanya.
+
+1587
+02:19:06,453 --> 02:19:10,842
+Ingatlah tentangnya, dan kematian
+Cedric Diggory takkan jadi sia-sia.
+
+1588
+02:19:12,194 --> 02:19:14,013
+Kamu ingatlah tentangnya,...
+
+1589
+02:19:15,052 --> 02:19:17,302
+...dan kita meraikan seorang pelajar,...
+
+1590
+02:19:18,474 --> 02:19:20,425
+...yang baik dan jujur,...
+
+1591
+02:19:21,470 --> 02:19:25,259
+...juga jujur dan berani,
+benar sehingga ke akhirnya.
+
+1592
+02:19:51,158 --> 02:19:52,758
+Saya memang tak suka langsir ini.
+
+1593
+02:19:53,914 --> 02:19:55,937
+Saya bakarnya ketika di tahun keempat.
+
+1594
+02:19:56,892 --> 02:19:58,115
+Tak sengaja, sebenarnya.
+
+1595
+02:20:04,427 --> 02:20:07,027
+Saya dah bahayakan awak
+tahun ini, Harry.
+
+1596
+02:20:07,473 --> 02:20:08,340
+Saya minta maaf.
+
+1597
+02:20:12,157 --> 02:20:13,274
+Profesor...
+
+1598
+02:20:14,146 --> 02:20:17,356
+...ketika saya di tanah kubur itu,
+ada suatu masa,...
+
+1599
+02:20:17,882 --> 02:20:22,159
+...ketika tongkat sakti saya dan
+Voldemort seperti terhubung.
+
+1600
+02:20:23,797 --> 02:20:25,621
+<i>Priori Incantatem.</i>
+
+1601
+02:20:30,413 --> 02:20:32,374
+Awak nampak ibu bapa awak
+pada malam itu, kan?
+
+1602
+02:20:33,703 --> 02:20:34,729
+Mereka muncul kembali.
+
+1603
+02:20:36,904 --> 02:20:40,089
+Tiada jampi yang boleh hidupkan
+si mati, Harry. Awak tahu, kan?
+
+1604
+02:20:43,343 --> 02:20:45,305
+Waktu yang gelap dan sukar
+bakal menanti.
+
+1605
+02:20:46,316 --> 02:20:50,549
+Tak lama lagi kita perlu berdepan
+pilihan sama ada benar mahupun mudah.
+
+1606
+02:20:54,500 --> 02:20:55,503
+Tetapi ingatlah...
+
+1607
+02:20:56,473 --> 02:20:57,710
+Awak ada kawan-kawan di sini.
+
+1608
+02:21:00,324 --> 02:21:01,296
+Awak tidak keseorangan.
+
+1609
+02:21:22,745 --> 02:21:23,617
+Hermione.
+
+1610
+02:21:24,955 --> 02:21:26,375
+Ini untuk awak.
+
+1611
+02:21:27,542 --> 02:21:29,339
+Tulis surat untuk saya, ya?
+Janji?
+
+1612
+02:21:30,772 --> 02:21:31,675
+Selamat tinggal.
+
+1613
+02:21:38,595 --> 02:21:39,673
+<i>Au revoir</i>, Ron.
+
+1614
+02:22:24,393 --> 02:22:27,004
+Adakah awak rasa kita akan ada
+masa yang tenang di Hogwarts?
+
+1615
+02:22:27,089 --> 02:22:28,199
+-Memang tak ada.
+-Memang tak ada.
+
+1616
+02:22:28,403 --> 02:22:29,577
+Saya pun tak rasa begitu.
+
+1617
+02:22:29,819 --> 02:22:32,146
+Macam mana nak seronok
+tanpa adanya naga?
+
+1618
+02:22:37,203 --> 02:22:39,275
+Semuanya akan berubah sekarang, kan?
+
+1619
+02:22:47,333 --> 02:22:48,227
+Ya.
+
+1620
+02:22:53,553 --> 02:22:55,753
+Berjanjilah, kamu akan tulis surat.
+
+1621
+02:22:55,833 --> 02:22:56,771
+Kamu berdualah.
+
+1622
+02:22:56,856 --> 02:22:58,962
+Saya takkan tulis surat.
+Awak pun tahu.
+
+1623
+02:23:00,853 --> 02:23:03,697
+-Harry akan tulis surat, kan?
+-Ya, setiap minggu.
+
