@@ -1,0 +1,681 @@
+﻿1
+00:03:15,779 --> 00:03:17,110
+<font face="Comic Sans MS">He's okay.</font>
+
+2
+00:03:51,064 --> 00:03:52,680
+<font face="Comic Sans MS">Rocket.</font>
+
+3
+00:03:53,942 --> 00:03:56,354
+<font face="Comic Sans MS">Very good job!</font>
+
+4
+00:03:57,988 --> 00:04:00,275
+<font face="Comic Sans MS">That's how...</font>
+
+5
+00:04:00,282 --> 00:04:02,523
+<font face="Comic Sans MS">That's how... we'll get away.</font>
+
+6
+00:05:12,979 --> 00:05:14,469
+<font face="Comic Sans MS">Go find your mother.</font>
+
+7
+00:05:25,534 --> 00:05:27,775
+<font face="Comic Sans MS">For the radio?</font>
+
+8
+00:05:28,578 --> 00:05:31,036
+<font face="Comic Sans MS">Might help us boost the signal.</font>
+
+9
+00:05:42,133 --> 00:05:43,419
+<font face="Comic Sans MS">For you.</font>
+
+10
+00:05:43,802 --> 00:05:44,802
+<font face="Comic Sans MS">Thank you.</font>
+
+11
+00:05:47,722 --> 00:05:50,555
+<font face="Comic Sans MS">It'll be dark soon.</font>
+
+12
+00:06:31,182 --> 00:06:33,389
+<font face="Comic Sans MS">Listen to me...</font>
+
+13
+00:06:34,644 --> 00:06:36,055
+<font face="Comic Sans MS">Too loud.</font>
+
+14
+00:12:36,130 --> 00:12:36,961
+<font face="Comic Sans MS">S.</font>
+
+15
+00:12:36,965 --> 00:12:37,750
+<font face="Comic Sans MS">S.O.</font>
+
+16
+00:12:37,757 --> 00:12:38,757
+<font face="Comic Sans MS">S.O.S.</font>
+
+17
+00:12:38,967 --> 00:12:39,957
+<font face="Comic Sans MS">S.</font>
+
+18
+00:12:39,968 --> 00:12:40,673
+<font face="Comic Sans MS">S.O.</font>
+
+19
+00:12:40,677 --> 00:12:41,677
+<font face="Comic Sans MS">S.O.S.</font>
+
+20
+00:17:38,766 --> 00:17:39,927
+<font face="Comic Sans MS">Dinner.</font>
+
+21
+00:18:59,722 --> 00:19:04,057
+<font face="Comic Sans MS">1, 2, 3,
+4, 5, 6, 7, 8.</font>
+
+22
+00:21:30,206 --> 00:21:33,289
+<font face="Comic Sans MS">I'm sorry.</font>
+
+23
+00:23:21,108 --> 00:23:23,691
+<font face="Comic Sans MS">Beautiful.</font>
+
+24
+00:23:26,864 --> 00:23:28,525
+<font face="Comic Sans MS">I didn't say anything.</font>
+
+25
+00:27:51,503 --> 00:27:53,039
+<font face="Comic Sans MS">You cannot go down there!</font>
+
+26
+00:27:53,755 --> 00:27:54,790
+<font face="Comic Sans MS">Why not?</font>
+
+27
+00:27:55,340 --> 00:27:56,340
+<font face="Comic Sans MS">You know why.</font>
+
+28
+00:27:56,466 --> 00:27:58,753
+<font face="Comic Sans MS">I'm not a child! I won't make a sound!</font>
+
+29
+00:28:00,345 --> 00:28:02,507
+<font face="Comic Sans MS">Just don't.</font>
+
+30
+00:28:02,931 --> 00:28:04,171
+<font face="Comic Sans MS">Please.</font>
+
+31
+00:28:13,859 --> 00:28:18,478
+<font face="Comic Sans MS">This time, I took small
+amplifiers from the stereo.</font>
+
+32
+00:28:18,822 --> 00:28:19,482
+<font face="Comic Sans MS">It.</font>
+
+33
+00:28:19,489 --> 00:28:20,320
+<font face="Comic Sans MS">It. Won't.</font>
+
+34
+00:28:20,324 --> 00:28:21,405
+<font face="Comic Sans MS">It. Won't. Work.</font>
+
+35
+00:28:21,700 --> 00:28:25,113
+<font face="Comic Sans MS">No, this should increase
+the frequency to...</font>
+
+36
+00:28:25,120 --> 00:28:26,076
+<font face="Comic Sans MS">It.</font>
+
+37
+00:28:26,079 --> 00:28:26,864
+<font face="Comic Sans MS">It. Never.</font>
+
+38
+00:28:26,872 --> 00:28:27,577
+<font face="Comic Sans MS">It. Never. Works!</font>
+
+39
+00:28:27,706 --> 00:28:28,912
+<font face="Comic Sans MS">But...</font>
+
+40
+00:28:29,333 --> 00:28:32,246
+<font face="Comic Sans MS">we'll keep trying</font>
+
+41
+00:28:32,628 --> 00:28:35,711
+<font face="Comic Sans MS">until it does.</font>
+
+42
+00:28:47,684 --> 00:28:48,684
+<font face="Comic Sans MS">Stop.</font>
+
+43
+00:28:49,978 --> 00:28:51,184
+<font face="Comic Sans MS">Stop.</font>
+
+44
+00:28:52,231 --> 00:28:53,231
+<font face="Comic Sans MS">Just</font>
+
+45
+00:28:53,690 --> 00:28:56,603
+<font face="Comic Sans MS">Stop.</font>
+
+46
+00:29:18,298 --> 00:29:20,335
+<font face="Comic Sans MS">Remember, you need to divide.</font>
+
+47
+00:29:30,519 --> 00:29:32,135
+<font face="Comic Sans MS">Carry the three.</font>
+
+48
+00:29:41,738 --> 00:29:43,354
+<font face="Comic Sans MS">Amazing!</font>
+
+49
+00:29:52,416 --> 00:29:54,282
+<font face="Comic Sans MS">Time to go.</font>
+
+50
+00:30:02,592 --> 00:30:04,253
+<font face="Comic Sans MS">...please don't make me go...</font>
+
+51
+00:30:04,469 --> 00:30:06,426
+<font face="Comic Sans MS">You'll be fine.</font>
+
+52
+00:30:06,763 --> 00:30:09,380
+<font face="Comic Sans MS">Your father will always protect you.</font>
+
+53
+00:30:09,391 --> 00:30:11,758
+<font face="Comic Sans MS">Your father will always protect you.
+Always.</font>
+
+54
+00:30:19,609 --> 00:30:21,691
+<font face="Comic Sans MS">Listen to me...</font>
+
+55
+00:30:22,237 --> 00:30:24,774
+<font face="Comic Sans MS">It's important that you learn these things.</font>
+
+56
+00:30:27,784 --> 00:30:30,993
+<font face="Comic Sans MS">He just wants you to be able
+to take care of yourself.</font>
+
+57
+00:30:34,583 --> 00:30:37,746
+<font face="Comic Sans MS">...to take care of me.</font>
+
+58
+00:30:38,795 --> 00:30:40,502
+<font face="Comic Sans MS">...when I'm old...</font>
+
+59
+00:30:41,214 --> 00:30:42,875
+<font face="Comic Sans MS">...and grey...</font>
+
+60
+00:30:45,510 --> 00:30:47,877
+<font face="Comic Sans MS">...and I have no teeth...</font>
+
+61
+00:30:56,063 --> 00:30:57,349
+<font face="Comic Sans MS">Don't worry.</font>
+
+62
+00:31:12,329 --> 00:31:14,195
+<font face="Comic Sans MS">I don't want to go.</font>
+
+63
+00:31:14,623 --> 00:31:15,903
+<font face="Comic Sans MS">There's nothing to be scared of.</font>
+
+64
+00:31:15,999 --> 00:31:17,785
+<font face="Comic Sans MS">...of course there is.</font>
+
+65
+00:31:19,544 --> 00:31:20,579
+<font face="Comic Sans MS">I'll go.</font>
+
+66
+00:31:23,673 --> 00:31:27,758
+<font face="Comic Sans MS">I need you to stay and help your mother.</font>
+
+67
+00:31:40,941 --> 00:31:42,648
+<font face="Comic Sans MS">I want to go.</font>
+
+68
+00:31:43,568 --> 00:31:44,979
+<font face="Comic Sans MS">Just stay here.</font>
+
+69
+00:31:45,404 --> 00:31:47,236
+<font face="Comic Sans MS">You'll be safe.</font>
+
+70
+00:32:01,503 --> 00:32:02,914
+<font face="Comic Sans MS">...next time.</font>
+
+71
+00:35:29,461 --> 00:35:30,667
+<font face="Comic Sans MS">They'll hear you.</font>
+
+72
+00:35:31,504 --> 00:35:32,504
+<font face="Comic Sans MS">They'll hear you.</font>
+
+73
+00:35:34,883 --> 00:35:37,591
+<font face="Comic Sans MS">Look at me.</font>
+
+74
+00:35:41,723 --> 00:35:43,509
+<font face="Comic Sans MS">Listen.</font>
+
+75
+00:35:45,185 --> 00:35:45,799
+<font face="Comic Sans MS">The river...</font>
+
+76
+00:35:45,810 --> 00:35:46,891
+<font face="Comic Sans MS">The river... is loud.</font>
+
+77
+00:35:50,065 --> 00:35:51,305
+<font face="Comic Sans MS">Small sounds...</font>
+
+78
+00:35:51,316 --> 00:35:52,316
+<font face="Comic Sans MS">Small sounds... safe.</font>
+
+79
+00:35:54,444 --> 00:35:55,855
+<font face="Comic Sans MS">Big sounds...</font>
+
+80
+00:35:55,862 --> 00:35:57,603
+<font face="Comic Sans MS">Big sounds... not safe.</font>
+
+81
+00:35:58,740 --> 00:36:00,196
+<font face="Comic Sans MS">Unless...</font>
+
+82
+00:36:05,330 --> 00:36:07,537
+<font face="Comic Sans MS">there's another sound nearby...</font>
+
+83
+00:36:07,540 --> 00:36:10,157
+<font face="Comic Sans MS">there's another sound nearby...
+that's louder.</font>
+
+84
+00:36:12,253 --> 00:36:13,253
+<font face="Comic Sans MS">You're safe.</font>
+
+85
+00:36:20,095 --> 00:36:22,712
+<font face="Comic Sans MS">I wanna show you something.</font>
+
+86
+00:38:01,029 --> 00:38:02,029
+<font face="Comic Sans MS">Hey,</font>
+
+87
+00:38:02,530 --> 00:38:03,861
+<font face="Comic Sans MS">you're all right.</font>
+
+88
+00:38:05,992 --> 00:38:07,357
+<font face="Comic Sans MS">You're all right.</font>
+
+89
+00:38:10,747 --> 00:38:12,033
+<font face="Comic Sans MS">I promise.</font>
+
+90
+00:39:32,829 --> 00:39:34,820
+<font face="Comic Sans MS">Why didn't you let her come?</font>
+
+91
+00:39:44,674 --> 00:39:46,335
+<font face="Comic Sans MS">Do you blame her</font>
+
+92
+00:39:46,926 --> 00:39:48,416
+<font face="Comic Sans MS">for what happened?</font>
+
+93
+00:40:01,524 --> 00:40:02,730
+<font face="Comic Sans MS">No.</font>
+
+94
+00:40:07,030 --> 00:40:09,112
+<font face="Comic Sans MS">Because she blames herself.</font>
+
+95
+00:40:40,563 --> 00:40:42,304
+<font face="Comic Sans MS">It was no one's fault.</font>
+
+96
+00:41:01,125 --> 00:41:02,832
+<font face="Comic Sans MS">You still love her, right?</font>
+
+97
+00:41:05,296 --> 00:41:06,878
+<font face="Comic Sans MS">Of course I do.</font>
+
+98
+00:41:21,813 --> 00:41:23,269
+<font face="Comic Sans MS">You should tell her.</font>
+
+99
+00:49:42,188 --> 00:49:43,519
+<font face="Comic Sans MS">Rocket.</font>
+
+100
+00:49:45,566 --> 00:49:47,148
+<font face="Comic Sans MS">I need you...</font>
+
+101
+00:49:47,151 --> 00:49:48,812
+<font face="Comic Sans MS">I need you... to make a sound...</font>
+
+102
+00:49:48,819 --> 00:49:50,776
+<font face="Comic Sans MS">I need you... to make a sound...
+that's louder.</font>
+
+103
+00:49:51,864 --> 00:49:53,070
+<font face="Comic Sans MS">Your mother...</font>
+
+104
+00:49:53,073 --> 00:49:55,235
+<font face="Comic Sans MS">Your mother... needs your help.</font>
+
+105
+00:49:56,619 --> 00:49:57,108
+<font face="Comic Sans MS">You.</font>
+
+106
+00:49:57,119 --> 00:49:57,779
+<font face="Comic Sans MS">You. Can.</font>
+
+107
+00:49:57,786 --> 00:49:58,786
+<font face="Comic Sans MS">You. Can. Do this.</font>
+
+108
+00:55:33,413 --> 00:55:35,370
+<font face="Comic Sans MS">Shh...</font>
+
+109
+00:57:25,734 --> 00:57:28,066
+<font face="Comic Sans MS">Shh...</font>
+
+110
+00:57:28,195 --> 00:57:30,357
+<font face="Comic Sans MS">It's okay. It's okay.</font>
+
+111
+00:57:31,865 --> 00:57:32,980
+<font face="Comic Sans MS">You're safe.</font>
+
+112
+00:57:33,951 --> 00:57:35,282
+<font face="Comic Sans MS">They can't hear us.</font>
+
+113
+00:57:38,163 --> 00:57:39,449
+<font face="Comic Sans MS">It worked.</font>
+
+114
+00:57:42,292 --> 00:57:44,124
+<font face="Comic Sans MS">You just need to rest now.</font>
+
+115
+00:57:54,304 --> 00:57:55,715
+<font face="Comic Sans MS">Where are they?</font>
+
+116
+00:57:57,891 --> 00:57:59,427
+<font face="Comic Sans MS">Where are they?</font>
+
+117
+00:58:00,769 --> 00:58:02,259
+<font face="Comic Sans MS">I'll find them.</font>
+
+118
+00:58:06,441 --> 00:58:09,103
+<font face="Comic Sans MS">No, she was with me.
+She was with me, and...</font>
+
+119
+00:58:09,361 --> 00:58:11,773
+<font face="Comic Sans MS">then I had to go and do laundry, and...</font>
+
+120
+00:58:13,031 --> 00:58:14,613
+<font face="Comic Sans MS">He was with you. How did he...</font>
+
+121
+00:58:15,409 --> 00:58:16,615
+<font face="Comic Sans MS">Rockets.</font>
+
+122
+00:58:20,914 --> 00:58:22,575
+<font face="Comic Sans MS">So he'd still be there.</font>
+
+123
+00:58:22,666 --> 00:58:25,533
+<font face="Comic Sans MS">- I'm sure he is.
+- He knows to wait for you.</font>
+
+124
+00:58:25,627 --> 00:58:27,459
+<font face="Comic Sans MS">And she is...</font>
+
+125
+00:58:28,088 --> 00:58:30,580
+<font face="Comic Sans MS">She's smart. She'll have found a place.</font>
+
+126
+00:58:30,966 --> 00:58:32,707
+<font face="Comic Sans MS">They know what to do.</font>
+
+127
+00:58:51,820 --> 00:58:53,402
+<font face="Comic Sans MS">It's a boy.</font>
+
+128
+00:58:55,741 --> 00:58:57,152
+<font face="Comic Sans MS">It's a boy.</font>
+
+129
+00:59:01,413 --> 00:59:03,245
+<font face="Comic Sans MS">I could've carried him.</font>
+
+130
+00:59:10,922 --> 00:59:13,084
+<font face="Comic Sans MS">He was so heavy, wasn't he?</font>
+
+131
+00:59:18,513 --> 00:59:19,924
+<font face="Comic Sans MS">I can still...</font>
+
+132
+00:59:21,767 --> 00:59:24,509
+<font face="Comic Sans MS">I can still feel the weight in my arms.</font>
+
+133
+00:59:26,354 --> 00:59:27,936
+<font face="Comic Sans MS">Small, but</font>
+
+134
+00:59:28,690 --> 00:59:30,272
+<font face="Comic Sans MS">so heavy.</font>
+
+135
+00:59:38,366 --> 00:59:40,949
+<font face="Comic Sans MS">And my hands were free.</font>
+
+136
+00:59:45,957 --> 00:59:48,449
+<font face="Comic Sans MS">I was carrying the bag,
+but my hands were free.</font>
+
+137
+00:59:48,543 --> 00:59:50,125
+<font face="Comic Sans MS">You have to stop.</font>
+
+138
+00:59:53,340 --> 00:59:55,206
+<font face="Comic Sans MS">So, I could've carried him.</font>
+
+139
+00:59:58,136 --> 00:59:59,968
+<font face="Comic Sans MS">I should've carried him.</font>
+
+140
+01:00:06,895 --> 01:00:08,477
+<font face="Comic Sans MS">Who are we</font>
+
+141
+01:00:10,440 --> 01:00:12,431
+<font face="Comic Sans MS">if we can't protect them?</font>
+
+142
+01:00:14,569 --> 01:00:16,059
+<font face="Comic Sans MS">Who are we?</font>
+
+143
+01:00:19,074 --> 01:00:21,236
+<font face="Comic Sans MS">You have to protect them.</font>
+
+144
+01:00:22,828 --> 01:00:24,318
+<font face="Comic Sans MS">Promise me</font>
+
+145
+01:00:25,580 --> 01:00:27,571
+<font face="Comic Sans MS">you will protect them.</font>
+
+146
+01:02:48,723 --> 01:02:50,305
+<font face="Comic Sans MS">Don't worry...</font>
+
+147
+01:02:50,308 --> 01:02:51,628
+<font face="Comic Sans MS">Don't worry... he'll come for us.</font>
+
+148
+01:06:33,072 --> 01:06:34,562
+<font face="Comic Sans MS">We can't stay here.</font>
+
+149
+01:06:34,949 --> 01:06:36,110
+<font face="Comic Sans MS">We need to go.</font>
+
+150
+01:06:37,160 --> 01:06:38,650
+<font face="Comic Sans MS">He'll come for us.</font>
+
+151
+01:06:40,497 --> 01:06:42,704
+<font face="Comic Sans MS">He will come for us.</font>
+
+152
+01:06:43,958 --> 01:06:45,574
+<font face="Comic Sans MS">He'll come for you!</font>
+
+153
+01:06:46,503 --> 01:06:47,993
+<font face="Comic Sans MS">No, you're wrong.</font>
+
+154
+01:06:48,004 --> 01:06:49,004
+<font face="Comic Sans MS">He told me!</font>
+
+155
+01:07:14,572 --> 01:07:15,572
+<font face="Comic Sans MS">Don't move.</font>
+
+156
+01:07:21,538 --> 01:07:22,653
+<font face="Comic Sans MS">Stop.</font>
+
+157
+01:11:43,299 --> 01:11:44,334
+<font face="Comic Sans MS">Are you okay?</font>
+
+158
+01:11:45,176 --> 01:11:46,211
+<font face="Comic Sans MS">You okay?</font>
+
+159
+01:12:16,249 --> 01:12:17,990
+<font face="Comic Sans MS">Let's get to the truck.</font>
+
+160
+01:13:19,645 --> 01:13:21,386
+<font face="Comic Sans MS">Dad!</font>
+
+161
+01:14:46,732 --> 01:14:47,893
+<font face="Comic Sans MS">I</font>
+
+162
+01:14:47,900 --> 01:14:49,015
+<font face="Comic Sans MS">I love</font>
+
+163
+01:14:49,026 --> 01:14:50,642
+<font face="Comic Sans MS">I love you.</font>
+
+164
+01:14:55,324 --> 01:14:56,029
+<font face="Comic Sans MS">I</font>
+
+165
+01:14:56,033 --> 01:14:57,114
+<font face="Comic Sans MS">I have</font>
+
+166
+01:14:57,118 --> 01:14:59,234
+<font face="Comic Sans MS">I have always</font>
+
+167
+01:14:59,245 --> 01:15:00,610
+<font face="Comic Sans MS">I have always loved</font>
+
+168
+01:15:00,621 --> 01:15:02,077
+<font face="Comic Sans MS">I have always loved you.</font>
