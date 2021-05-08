@@ -1,0 +1,314 @@
+﻿1
+00:00:04,797 --> 00:00:07,307
+- What's your highest bounty?
+- There is one job.
+
+2
+00:00:07,383 --> 00:00:09,923
+- Underworld?
+- Deep pocket.
+
+3
+00:00:10,011 --> 00:00:13,011
+Greef Karga said you were the best
+in the parsec.
+
+4
+00:00:13,097 --> 00:00:18,777
+I have a camtono of Beskar waiting for you
+upon delivery of the asset.
+
+5
+00:00:21,272 --> 00:00:22,942
+You are Mandalorian!
+
+6
+00:00:23,441 --> 00:00:24,771
+I will help you.
+
+7
+00:00:25,318 --> 00:00:27,028
+Many have passed through.
+
+8
+00:00:27,820 --> 00:00:29,570
+They seek the same one.
+
+9
+00:00:30,114 --> 00:00:32,704
+IG Unit! Stand down.
+
+10
+00:00:32,784 --> 00:00:34,244
+You are a Guild member?
+
+11
+00:00:34,327 --> 00:00:36,305
+I have a suggestion.
+We split the reward.
+
+12
+00:00:36,329 --> 00:00:37,619
+This is acceptable.
+
+13
+00:00:40,500 --> 00:00:42,410
+The tracking fob is still active.
+
+14
+00:00:42,669 --> 00:00:43,919
+There is a life form present.
+
+15
+00:11:11,172 --> 00:11:13,002
+I thought you were dead.
+
+16
+00:11:31,401 --> 00:11:34,071
+This is what was causing all the fuss?
+
+17
+00:11:34,946 --> 00:11:36,696
+I think it's a child.
+
+18
+00:11:36,781 --> 00:11:39,281
+It is better to deliver it alive then.
+
+19
+00:11:39,701 --> 00:11:42,831
+My ship
+has been destroyed. I'm trapped here.
+
+20
+00:11:42,912 --> 00:11:45,492
+Stripped. Not destroyed.
+
+21
+00:11:46,249 --> 00:11:50,579
+The Jawas steal. They don't destroy.
+
+22
+00:11:50,670 --> 00:11:53,960
+Stolen or destroyed,
+makes no difference to me.
+
+23
+00:11:56,384 --> 00:11:58,674
+They're protected
+by their crawling fortress.
+
+24
+00:11:58,761 --> 00:12:01,301
+There's no way to recover the parts.
+
+25
+00:12:01,389 --> 00:12:02,849
+You can trade.
+
+26
+00:12:02,932 --> 00:12:05,392
+With Jawas?
+Are you out of your mind?
+
+27
+00:12:05,476 --> 00:12:06,936
+I will take you to them.
+
+28
+00:12:07,687 --> 00:12:08,937
+I have spoken.
+
+29
+00:12:12,275 --> 00:12:14,235
+Hey! Spit that out.
+
+30
+00:13:07,330 --> 00:13:10,160
+They really don't like you
+for some reason.
+
+31
+00:13:10,250 --> 00:13:13,040
+Well, I did disintegrate a few of them.
+
+32
+00:13:20,134 --> 00:13:22,424
+You need to drop your rifle.
+
+33
+00:13:22,512 --> 00:13:25,592
+I'm a Mandalorian.
+Weapons are part of my religion.
+
+34
+00:13:25,682 --> 00:13:27,852
+Then you are not getting your parts back.
+
+35
+00:13:31,563 --> 00:13:32,563
+Fine.
+
+36
+00:13:43,491 --> 00:13:44,821
+And the blaster.
+
+37
+00:13:49,706 --> 00:13:50,706
+Good day.
+
+38
+00:14:16,191 --> 00:14:18,611
+They will trade all the parts
+for the beskar.
+
+39
+00:14:18,693 --> 00:14:21,153
+I'm not gonna trade anything.
+These are my parts.
+
+40
+00:14:21,237 --> 00:14:22,537
+They stole them from me.
+
+41
+00:14:31,623 --> 00:14:33,373
+- You understand this?
+- No!
+
+42
+00:14:33,458 --> 00:14:36,218
+Whoa. Easy, easy.
+
+43
+00:14:46,596 --> 00:14:48,556
+Get away from it!
+
+44
+00:15:04,113 --> 00:15:05,993
+The egg? What egg?
+
+45
+00:22:12,876 --> 00:22:14,126
+Mando!
+
+46
+00:22:16,421 --> 00:22:18,211
+I have it.
+
+47
+00:22:18,298 --> 00:22:19,508
+I've got the egg.
+
+48
+00:23:11,559 --> 00:23:13,059
+I'm surprised you waited.
+
+49
+00:23:13,853 --> 00:23:16,643
+I'm surprised you took so long.
+
+50
+00:23:33,998 --> 00:23:36,128
+Is it still sleeping?
+
+51
+00:23:39,003 --> 00:23:40,173
+Yes.
+
+52
+00:23:44,384 --> 00:23:46,134
+Was it injured?
+
+53
+00:23:46,219 --> 00:23:49,549
+I don't think so.
+Not physically.
+
+54
+00:23:50,557 --> 00:23:52,357
+Explain it to me again.
+
+55
+00:23:53,142 --> 00:23:55,852
+I still don't understand what happened.
+
+56
+00:23:57,105 --> 00:23:58,605
+Neither do I.
+
+57
+00:24:06,322 --> 00:24:09,912
+There's no way we're gonna get this to
+work without a full maintenance facility.
+
+58
+00:24:10,326 --> 00:24:11,956
+This is gonna take days to fix.
+
+59
+00:24:12,579 --> 00:24:15,329
+If you care to help, it might go faster.
+
+60
+00:24:18,668 --> 00:24:20,678
+There is much work to do.
+
+61
+00:25:29,239 --> 00:25:30,949
+I can't thank you enough.
+
+62
+00:25:31,032 --> 00:25:33,202
+Please allow me to give you
+a portion of the reward.
+
+63
+00:25:34,077 --> 00:25:35,917
+I cannot accept.
+
+64
+00:25:35,995 --> 00:25:40,205
+You are my guest
+and I am therefore in your service.
+
+65
+00:25:43,962 --> 00:25:48,302
+I could use a crew member of your ability,
+and I can pay handsomely.
+
+66
+00:25:49,634 --> 00:25:50,764
+I am honored,
+
+67
+00:25:50,844 --> 00:25:55,224
+but I have worked a lifetime
+to finally be free of servitude.
+
+68
+00:25:55,306 --> 00:25:59,016
+I understand.
+Then all I can offer is my thanks.
+
+69
+00:25:59,102 --> 00:26:00,602
+And I offer mine.
+
+70
+00:26:00,979 --> 00:26:03,599
+Thank you for bringing peace to my valley.
+
+71
+00:26:18,913 --> 00:26:21,373
+And good luck with The Child.
+
+72
+00:26:21,457 --> 00:26:24,757
+May it survive and bring you
+a handsome reward.
+
+73
+00:26:26,504 --> 00:26:27,674
+I have spoken.
+
