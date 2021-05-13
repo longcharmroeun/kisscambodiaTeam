@@ -1,0 +1,6259 @@
+﻿1
+00:00:57,363 --> 00:00:59,198
+<i>Look at the sonar.</i>
+
+2
+00:00:59,200 --> 00:01:01,133
+<i>Let me know what you find.</i>
+
+3
+00:01:01,135 --> 00:01:03,268
+<i>So far
+nothing new, my friend.</i>
+
+4
+00:01:03,270 --> 00:01:05,072
+<i>It just keeps getting worse.</i>
+
+5
+00:01:27,261 --> 00:01:30,661
+D'Angelo, Marks,
+talk to me.
+
+6
+00:01:30,663 --> 00:01:32,730
+We've moved
+to the sonar room.
+
+7
+00:01:32,732 --> 00:01:34,667
+Just nine rescues so far.
+
+8
+00:01:35,635 --> 00:01:37,468
+<i>It's a mess, man.</i>
+
+9
+00:01:37,470 --> 00:01:39,372
+<i>This is the worst
+I've ever seen.</i>
+
+10
+00:01:40,074 --> 00:01:41,075
+Help!
+
+11
+00:01:42,776 --> 00:01:44,309
+Help!
+
+12
+00:01:44,311 --> 00:01:46,644
+Somebody help me!
+
+13
+00:01:46,646 --> 00:01:49,882
+Help! Who's there?
+
+14
+00:01:53,419 --> 00:01:55,020
+I got
+one more survivor.
+
+15
+00:01:55,022 --> 00:01:56,587
+Heading back
+to the rescue vehicle now.
+
+16
+00:01:59,293 --> 00:02:00,758
+Marks. D'Angelo.
+
+17
+00:02:00,760 --> 00:02:02,160
+<i>What the hell was that?</i>
+
+18
+00:02:02,162 --> 00:02:03,728
+I have no idea.
+
+19
+00:02:03,730 --> 00:02:06,597
+Listen.
+
+20
+00:02:14,375 --> 00:02:18,377
+<i>Jonas, we got
+something outside the ship.</i>
+
+21
+00:02:18,379 --> 00:02:20,647
+<i>There's something out there.</i>
+
+22
+00:02:28,188 --> 00:02:29,189
+Here.
+
+23
+00:02:30,391 --> 00:02:31,489
+You okay, pal?
+
+24
+00:02:36,263 --> 00:02:38,297
+Oh, my God.
+
+25
+00:02:38,299 --> 00:02:39,730
+<i>Something's crushing the hull.</i>
+
+26
+00:02:39,732 --> 00:02:42,267
+Get back to
+the rescue vehicle. Now.
+
+27
+00:02:42,269 --> 00:02:43,636
+We're right behind you.
+
+28
+00:02:45,738 --> 00:02:47,471
+You guys, move!
+
+29
+00:02:47,473 --> 00:02:48,708
+Got him. Slide him up.
+
+30
+00:02:50,244 --> 00:02:52,311
+Marks. D'Angelo. Report.
+
+31
+00:02:52,313 --> 00:02:53,711
+You almost here?
+
+32
+00:02:53,713 --> 00:02:55,881
+<i>Jonas, listen to me.
+We're trapped!</i>
+
+33
+00:02:55,883 --> 00:02:56,815
+What?
+
+34
+00:02:56,817 --> 00:02:58,417
+The impact jammed the hatch!
+
+35
+00:02:58,419 --> 00:02:59,619
+Coming back.
+
+36
+00:03:02,156 --> 00:03:03,454
+<i>The sub
+is starting to collapse.</i>
+
+37
+00:03:03,456 --> 00:03:04,755
+Marks!
+
+38
+00:03:04,757 --> 00:03:05,756
+<i>Jonas,
+we need you down here</i>
+
+39
+00:03:05,758 --> 00:03:07,125
+before it's too late.
+
+40
+00:03:08,796 --> 00:03:10,963
+The sub's been breached.
+
+41
+00:03:10,965 --> 00:03:12,264
+<i>There's water everywhere.</i>
+
+42
+00:03:12,266 --> 00:03:13,899
+<i>Jonas,
+the room is flooding.</i>
+
+43
+00:03:13,901 --> 00:03:16,701
+<i>Marks, we gotta
+get this hatch open.</i>
+
+44
+00:03:16,703 --> 00:03:18,270
+<i>Come on, Jonas.
+Where are you?</i>
+
+45
+00:03:18,272 --> 00:03:19,938
+<i>- It's not gonna work!</i>
+<i>- Let us out!</i>
+
+46
+00:03:19,940 --> 00:03:21,472
+<i>Jonas, hurry, please!</i>
+
+47
+00:03:21,474 --> 00:03:23,342
+<i>We just need
+more time! Don't leave us!</i>
+
+48
+00:03:23,344 --> 00:03:25,344
+<i>Jonas!</i>
+
+49
+00:03:25,346 --> 00:03:27,346
+<i>Let us know
+when you're here!</i>
+
+50
+00:03:27,348 --> 00:03:28,479
+<i>Don't give up!</i>
+
+51
+00:03:28,481 --> 00:03:29,881
+<i>Jonas, please!</i>
+
+52
+00:03:29,883 --> 00:03:31,116
+<i>Come down here, now!
+Where are you?</i>
+
+53
+00:03:31,118 --> 00:03:32,252
+<i>Jonas!</i>
+
+54
+00:03:39,692 --> 00:03:40,861
+You've lost your mind!
+
+55
+00:03:41,627 --> 00:03:42,828
+Back off, Heller.
+
+56
+00:03:42,830 --> 00:03:45,197
+If we go back, everyone dies.
+
+57
+00:03:45,199 --> 00:03:46,666
+Everyone.
+
+58
+00:03:58,745 --> 00:04:00,180
+What have you done?
+
+59
+00:05:33,407 --> 00:05:36,640
+Are we living the dream here
+or what?
+
+60
+00:05:36,642 --> 00:05:39,677
+Welcome to <i>Mana One,</i>
+Mr. Morris.
+
+61
+00:05:39,679 --> 00:05:41,246
+Get that thing away from me.
+
+62
+00:05:41,248 --> 00:05:42,746
+What are you doing?
+
+63
+00:05:42,748 --> 00:05:46,585
+Come on, bring it in.
+There we go.
+
+64
+00:05:46,587 --> 00:05:48,086
+Good to see you again,
+Mr. Morris.
+
+65
+00:05:48,088 --> 00:05:49,687
+- Yeah.
+- This way, please.
+
+66
+00:05:49,689 --> 00:05:52,190
+Hey, you always smell so nice.
+What is that? Sandalwood?
+
+67
+00:05:52,192 --> 00:05:54,758
+It's impressive so far,
+I'll say.
+
+68
+00:05:54,760 --> 00:05:56,128
+Oh, here they are.
+
+69
+00:05:56,130 --> 00:05:57,829
+Do you remember
+my daughter Suyin?
+
+70
+00:05:57,831 --> 00:05:59,264
+Our chief marine biologist.
+
+71
+00:05:59,266 --> 00:06:00,565
+Hi.
+
+72
+00:06:11,711 --> 00:06:12,911
+Sorry, what was that?
+
+73
+00:06:12,913 --> 00:06:14,815
+- I didn't catch it.
+- Uh...
+
+74
+00:06:16,083 --> 00:06:18,416
+She says she likes your hat.
+
+75
+00:06:18,418 --> 00:06:20,152
+- Oh.
+- Oh, yeah.
+
+76
+00:06:20,154 --> 00:06:21,221
+Yeah.
+
+77
+00:06:24,657 --> 00:06:27,259
+- Let's go.
+- Why don't we go? Yeah.
+
+78
+00:06:30,097 --> 00:06:31,899
+Your granddaughter's
+a pistol.
+
+79
+00:06:32,698 --> 00:06:33,901
+Okay.
+
+80
+00:06:34,667 --> 00:06:36,370
+What have we here?
+
+81
+00:06:38,272 --> 00:06:40,671
+This is, um,
+
+82
+00:06:40,673 --> 00:06:43,041
+really ugly.
+
+83
+00:06:43,043 --> 00:06:44,242
+You know, I realize that
+
+84
+00:06:44,244 --> 00:06:45,443
+we're under construction
+and everything,
+
+85
+00:06:45,445 --> 00:06:46,878
+but I really think that
+
+86
+00:06:46,880 --> 00:06:48,813
+a world-class
+research institute
+
+87
+00:06:48,815 --> 00:06:51,715
+deserves
+a world-class entrance.
+
+88
+00:06:51,717 --> 00:06:54,354
+Yeah, I couldn't agree more.
+
+89
+00:06:55,489 --> 00:06:57,055
+<i>O-Level.</i>
+
+90
+00:06:59,593 --> 00:07:01,426
+Whoa!
+
+91
+00:07:01,428 --> 00:07:03,628
+Welcome to the O-Level.
+
+92
+00:07:03,630 --> 00:07:06,031
+Nice.
+
+93
+00:07:06,033 --> 00:07:07,866
+This is
+our central hub,
+
+94
+00:07:07,868 --> 00:07:09,834
+from which
+researchers will access
+
+95
+00:07:09,836 --> 00:07:12,806
+all five labs
+once it's finished.
+
+96
+00:07:14,308 --> 00:07:15,309
+Wow!
+
+97
+00:07:17,710 --> 00:07:19,413
+Oh, look at that.
+
+98
+00:07:21,815 --> 00:07:23,884
+That's not something
+you see every day.
+
+99
+00:07:28,155 --> 00:07:31,189
+Did you have
+those whales here on cue?
+
+100
+00:07:31,191 --> 00:07:35,126
+I might have lured them
+with some whale songs.
+
+101
+00:07:35,128 --> 00:07:39,132
+This is Lucy
+and her daughter Gracie.
+
+102
+00:07:40,534 --> 00:07:41,866
+Incredible.
+
+103
+00:07:44,404 --> 00:07:45,503
+Wow!
+
+104
+00:07:45,505 --> 00:07:46,770
+<i>Dive control level.</i>
+
+105
+00:07:46,772 --> 00:07:48,106
+- Here we are.
+- Please.
+
+106
+00:07:48,108 --> 00:07:50,811
+Follow me quickly.
+I hope we are on time.
+
+107
+00:07:51,345 --> 00:07:52,277
+Come on in.
+
+108
+00:07:52,279 --> 00:07:54,414
+Oh.
+
+109
+00:07:55,082 --> 00:07:56,147
+Oh, man.
+
+110
+00:07:56,149 --> 00:07:57,816
+I'd like you
+to meet our engineer
+
+111
+00:07:57,818 --> 00:07:59,584
+and sub designer, Jaxx.
+
+112
+00:07:59,586 --> 00:08:00,751
+Hey, Doc.
+
+113
+00:08:00,753 --> 00:08:02,921
+- Hello.
+- Hi.
+
+114
+00:08:02,923 --> 00:08:05,523
+Doctor Heller.
+Our medical officer.
+
+115
+00:08:05,525 --> 00:08:06,925
+Nice to meet you.
+
+116
+00:08:06,927 --> 00:08:08,293
+You're like Bones, huh?
+
+117
+00:08:08,295 --> 00:08:11,496
+DJ here pilots
+our remote explorer.
+
+118
+00:08:11,498 --> 00:08:12,697
+How's it going?
+
+119
+00:08:12,699 --> 00:08:14,132
+You're my first billionaire.
+
+120
+00:08:15,235 --> 00:08:16,901
+And of course, Mac,
+our station chief.
+
+121
+00:08:16,903 --> 00:08:18,503
+Mr. Morris, just in time.
+
+122
+00:08:18,505 --> 00:08:19,571
+So I keep hearing.
+
+123
+00:08:19,573 --> 00:08:21,072
+Try that.
+
+124
+00:08:21,074 --> 00:08:22,340
+Just in time for what?
+
+125
+00:08:22,342 --> 00:08:24,276
+<i>Good morning,
+Mr. Morris.</i>
+
+126
+00:08:24,278 --> 00:08:26,678
+Lori Taylor,
+our mission pilot.
+
+127
+00:08:26,680 --> 00:08:28,013
+<i>Hi, Mr. Morris.</i>
+
+128
+00:08:28,015 --> 00:08:29,014
+Welcome on board.
+It's good to have you.
+
+129
+00:08:29,016 --> 00:08:30,148
+<i>Hey.</i>
+
+130
+00:08:30,150 --> 00:08:31,416
+How's it going down there?
+
+131
+00:08:31,418 --> 00:08:33,451
+Where'd you learn
+how to pilot a sub?
+
+132
+00:08:33,453 --> 00:08:35,487
+<i>I spent ten years
+with a certain</i>
+
+133
+00:08:35,489 --> 00:08:37,289
+whale-saving
+environmental group
+
+134
+00:08:37,291 --> 00:08:39,424
+that shall remain unnamed
+for legal reasons.
+
+135
+00:08:39,426 --> 00:08:41,226
+Yeah, ask her
+if she ever blew up
+
+136
+00:08:41,228 --> 00:08:42,761
+a whaling ship
+with a homemade torpedo.
+
+137
+00:08:42,763 --> 00:08:43,828
+Hey.
+
+138
+00:08:43,830 --> 00:08:44,963
+No.
+
+139
+00:08:47,401 --> 00:08:49,000
+That is a good hire.
+
+140
+00:08:49,002 --> 00:08:50,502
+<i>Eleven in two.</i>
+
+141
+00:08:50,504 --> 00:08:54,272
+<i>Water temperature
+is at six degrees.</i>
+
+142
+00:08:54,274 --> 00:08:56,241
+Mac, we are
+through the thermocline.
+
+143
+00:08:56,243 --> 00:08:58,310
+We are approaching
+11,000 meters.
+
+144
+00:08:58,312 --> 00:09:00,981
+One hundred meters
+from the bottom.
+
+145
+00:09:01,682 --> 00:09:03,114
+<i>Maybe.</i>
+
+146
+00:09:03,116 --> 00:09:05,016
+<i>Maybe from the bottom.</i>
+
+147
+00:09:05,018 --> 00:09:07,852
+"Maybe"? What does
+he mean, "maybe"?
+
+148
+00:09:07,854 --> 00:09:09,888
+Come on. Look at this.
+
+149
+00:09:09,890 --> 00:09:11,556
+Since 1875,
+
+150
+00:09:11,558 --> 00:09:13,992
+we've all believed
+the Mariana Trench
+
+151
+00:09:13,994 --> 00:09:15,660
+was the deepest place
+on Earth.
+
+152
+00:09:15,662 --> 00:09:18,363
+I've had a theory that
+what we think is the bottom
+
+153
+00:09:18,365 --> 00:09:21,099
+might actually be a layer
+of hydrogen sulfide.
+
+154
+00:09:21,101 --> 00:09:22,767
+Beneath that cloud,
+
+155
+00:09:22,769 --> 00:09:24,336
+and a freezing
+cold thermocline,
+
+156
+00:09:24,338 --> 00:09:26,638
+there could be
+a completely new world.
+
+157
+00:09:26,640 --> 00:09:28,173
+Wow!
+
+158
+00:09:28,175 --> 00:09:29,874
+The <i>Origin</i> is about to see
+if my father is right.
+
+159
+00:09:29,876 --> 00:09:31,710
+If there is warm water below,
+
+160
+00:09:31,712 --> 00:09:34,579
+that means we're going to be
+the first to see it.
+
+161
+00:09:34,581 --> 00:09:36,047
+And what if you're wrong?
+
+162
+00:09:36,049 --> 00:09:39,718
+Then you have wasted
+$1.3 billion.
+
+163
+00:09:42,089 --> 00:09:43,290
+You're kidding.
+
+164
+00:09:46,026 --> 00:09:47,525
+He's kidding, right?
+
+165
+00:09:47,527 --> 00:09:48,794
+Copy that.
+
+166
+00:09:48,796 --> 00:09:50,028
+Wait. What?
+
+167
+00:09:50,030 --> 00:09:51,565
+Ten meters.
+Approaching boundary.
+
+168
+00:09:57,003 --> 00:09:58,903
+Hovering at five meters.
+
+169
+00:09:58,905 --> 00:10:00,004
+Full stop.
+
+170
+00:10:00,006 --> 00:10:01,306
+Final checks.
+
+171
+00:10:01,308 --> 00:10:02,640
+- Jaxx?
+- Good to go.
+
+172
+00:10:02,642 --> 00:10:03,942
+- Doc?
+- Crew are go.
+
+173
+00:10:03,944 --> 00:10:06,177
+- DJ?
+- Sub and rover are a go.
+
+174
+00:10:06,179 --> 00:10:07,512
+<i>Origin</i> crew,
+
+175
+00:10:07,514 --> 00:10:09,214
+we are go for insertion.
+
+176
+00:10:09,216 --> 00:10:11,416
+Insertion.
+
+177
+00:10:11,418 --> 00:10:13,251
+Is everything sexual
+with you guys?
+
+178
+00:10:13,253 --> 00:10:15,653
+Sex, food, power and...
+
+179
+00:10:15,655 --> 00:10:16,988
+Money.
+
+180
+00:10:16,990 --> 00:10:19,859
+Blow it up now.
+
+181
+00:10:19,861 --> 00:10:21,092
+<i>Dive control,</i>
+
+182
+00:10:21,094 --> 00:10:23,928
+we are a go for... insertion.
+
+183
+00:10:37,377 --> 00:10:38,878
+We're in.
+
+184
+00:10:38,880 --> 00:10:41,146
+You guys, we're in.
+
+185
+00:10:41,148 --> 00:10:43,214
+<i>It's a cloud.
+It is not the bottom.</i>
+
+186
+00:10:43,216 --> 00:10:45,250
+Lori, be careful.
+We don't know the depth
+
+187
+00:10:45,252 --> 00:10:46,651
+<i>on the other side of this.</i>
+
+188
+00:10:46,653 --> 00:10:48,153
+<i>The sea floor could come
+right up on you.</i>
+
+189
+00:10:48,155 --> 00:10:50,524
+<i>Copy that, Mac.
+We're ready.</i>
+
+190
+00:11:00,033 --> 00:11:01,633
+You guys,
+we are through!
+
+191
+00:11:01,635 --> 00:11:04,436
+<i>I have multiple
+small sonar contacts.</i>
+
+192
+00:11:04,438 --> 00:11:06,271
+<i>There is life down here.</i>
+
+193
+00:11:06,273 --> 00:11:07,607
+<i>Congratulations!</i>
+
+194
+00:11:09,042 --> 00:11:10,310
+Deploying the lights.
+
+195
+00:11:29,563 --> 00:11:31,665
+Lights deployed.
+I'm gonna come around.
+
+196
+00:11:46,146 --> 00:11:48,513
+Whoa!
+
+197
+00:11:48,515 --> 00:11:51,384
+Oh, my goodness.
+
+198
+00:12:09,837 --> 00:12:11,338
+- Wow!
+- Whoa!
+
+199
+00:12:12,506 --> 00:12:13,671
+Mac, tell me
+you're getting this.
+
+200
+00:12:13,673 --> 00:12:15,440
+We're getting
+all of it, Lori.
+
+201
+00:12:15,442 --> 00:12:18,311
+Got a lot of
+smiling faces up here.
+
+202
+00:12:22,984 --> 00:12:25,485
+DJ, we got positive terrain
+to launch the rover.
+
+203
+00:12:26,052 --> 00:12:27,820
+Copy.
+
+204
+00:12:27,822 --> 00:12:30,121
+Launch is all yours.
+
+205
+00:12:30,123 --> 00:12:31,324
+Okay.
+
+206
+00:12:32,559 --> 00:12:33,760
+Rover is
+
+207
+00:12:35,796 --> 00:12:36,797
+free.
+
+208
+00:12:38,431 --> 00:12:39,666
+Copy.
+
+209
+00:12:44,070 --> 00:12:45,804
+<i>Water temperature</i>
+
+210
+00:12:45,806 --> 00:12:47,474
+<i>below three degrees Celsius.</i>
+
+211
+00:12:55,282 --> 00:12:57,651
+How is this possible?
+
+212
+00:12:59,185 --> 00:13:01,753
+This ecosystem
+is completely cut off
+
+213
+00:13:01,755 --> 00:13:03,154
+from the rest of the ocean
+
+214
+00:13:03,156 --> 00:13:05,156
+by the freezing
+cold thermocline.
+
+215
+00:13:05,158 --> 00:13:07,559
+We should find
+all sorts of species
+
+216
+00:13:07,561 --> 00:13:09,561
+completely unknown to science.
+
+217
+00:13:09,563 --> 00:13:12,465
+Sounds like a good investment.
+
+218
+00:13:16,369 --> 00:13:18,136
+Lori, I have a contact.
+
+219
+00:13:18,138 --> 00:13:20,273
+Bearing zero eight zero.
+
+220
+00:13:22,108 --> 00:13:23,943
+Huh. It's big.
+
+221
+00:13:23,945 --> 00:13:25,743
+Oh, it's huge.
+
+222
+00:13:25,745 --> 00:13:27,080
+And it's moving fast.
+
+223
+00:13:29,683 --> 00:13:31,786
+DJ,
+is the rover seeing this?
+
+224
+00:13:33,653 --> 00:13:34,787
+Negative.
+
+225
+00:13:34,789 --> 00:13:36,723
+Let me try
+and bring up some more lights.
+
+226
+00:13:42,997 --> 00:13:45,096
+Rover One, <i>signal interrupted.</i>
+
+227
+00:13:45,098 --> 00:13:47,098
+Whoa! I just lost telemetry.
+
+228
+00:13:47,100 --> 00:13:48,301
+What the hell?
+
+229
+00:13:51,371 --> 00:13:52,770
+<i>Origin,</i> recommend
+
+230
+00:13:52,772 --> 00:13:54,105
+an immediate right turn
+to three-five-zero.
+
+231
+00:13:54,107 --> 00:13:55,508
+<i>This could be a landslide.</i>
+
+232
+00:14:04,584 --> 00:14:06,417
+Last time I checked,
+landslides don't make
+
+233
+00:14:06,419 --> 00:14:08,219
+<i>90-degree turns.</i>
+
+234
+00:14:08,221 --> 00:14:10,223
+It's right on us!
+It's right on us!
+
+235
+00:14:14,561 --> 00:14:16,527
+What the hell was that?
+
+236
+00:14:18,131 --> 00:14:19,631
+Lori, what's going on
+down there?
+
+237
+00:14:19,633 --> 00:14:20,531
+You guys...
+
+238
+00:14:20,533 --> 00:14:22,469
+- What?
+- Come look at this.
+
+239
+00:14:24,738 --> 00:14:25,737
+Whoa!
+
+240
+00:14:25,739 --> 00:14:27,806
+What could do that
+to the rover?
+
+241
+00:14:27,808 --> 00:14:30,009
+I don't think
+I wanna know.
+
+242
+00:14:31,645 --> 00:14:33,146
+It's coming back.
+
+243
+00:14:36,349 --> 00:14:37,649
+Oh, my God!
+
+244
+00:14:37,651 --> 00:14:39,317
+<i>Let's get out of here.
+Blow the tanks.</i>
+
+245
+00:14:39,319 --> 00:14:40,585
+<i>I'm trying.
+It's not working!</i>
+
+246
+00:14:40,587 --> 00:14:42,253
+<i>- It's not starting!</i>
+<i>- Mac, help!</i>
+
+247
+00:14:42,255 --> 00:14:43,789
+- Whole system's down!
+- Oh, my God.
+
+248
+00:14:43,791 --> 00:14:46,224
+<i>Oh, my God. DJ, Mac.
+There's something down here.</i>
+
+249
+00:14:46,226 --> 00:14:47,592
+<i>Jonas was right.</i>
+
+250
+00:14:47,594 --> 00:14:49,396
+<i>Jonas was right! Do you co...</i>
+
+251
+00:14:52,900 --> 00:14:54,632
+Lori, come in.
+
+252
+00:14:54,634 --> 00:14:55,903
+<i>Origin,</i> can you hear me?
+
+253
+00:14:56,871 --> 00:14:59,972
+<i>Origin,</i> please respond.
+
+254
+00:14:59,974 --> 00:15:01,675
+- Come on.
+- Lori, come in.
+
+255
+00:15:04,979 --> 00:15:06,613
+Wall, can you hear me?
+
+256
+00:15:09,083 --> 00:15:11,184
+Toshi?
+
+257
+00:15:13,653 --> 00:15:16,989
+Gather around, people.
+Options.
+
+258
+00:15:16,991 --> 00:15:18,090
+Not great.
+
+259
+00:15:18,092 --> 00:15:19,657
+We know they're alive.
+
+260
+00:15:19,659 --> 00:15:22,127
+I've still got telemetry
+on their vitals.
+
+261
+00:15:22,129 --> 00:15:23,962
+How long do they have?
+
+262
+00:15:23,964 --> 00:15:25,164
+Maybe 18 hours.
+
+263
+00:15:25,166 --> 00:15:26,364
+Ballast valves
+are jammed,
+
+264
+00:15:26,366 --> 00:15:27,866
+which means
+it can't rise by itself.
+
+265
+00:15:27,868 --> 00:15:29,001
+If we attempt to tow it,
+
+266
+00:15:29,003 --> 00:15:31,335
+it's fifty-fifty
+that the tanks will explode,
+
+267
+00:15:31,337 --> 00:15:32,770
+and breach the capsule.
+
+268
+00:15:32,772 --> 00:15:34,840
+- Can't we go hatch-to-hatch?
+- Not a chance.
+
+269
+00:15:34,842 --> 00:15:37,442
+The external camera's
+showing severe hatch damage.
+
+270
+00:15:37,444 --> 00:15:38,944
+We have to try something.
+
+271
+00:15:38,946 --> 00:15:40,511
+They're six miles down
+
+272
+00:15:40,513 --> 00:15:42,680
+and no one has ever attempted
+a rescue at that depth.
+
+273
+00:15:42,682 --> 00:15:44,250
+Well, that's not exactly true.
+
+274
+00:15:45,285 --> 00:15:47,418
+No. No way.
+
+275
+00:15:47,420 --> 00:15:48,753
+We can handle this.
+
+276
+00:15:48,755 --> 00:15:50,421
+Not at 11,000 meters,
+you can't.
+
+277
+00:15:50,423 --> 00:15:53,458
+We've gone 5,000 meters.
+8,000 meters.
+
+278
+00:15:53,460 --> 00:15:55,493
+At some point,
+it just becomes a number.
+
+279
+00:15:55,495 --> 00:15:57,062
+Why don't you try this number?
+
+280
+00:15:57,064 --> 00:16:00,032
+Three. That's how many people
+have actually attempted
+
+281
+00:16:00,034 --> 00:16:01,934
+a rescue below 10,000 meters.
+
+282
+00:16:01,936 --> 00:16:03,735
+And the number one.
+
+283
+00:16:03,737 --> 00:16:05,403
+That's how many are left alive
+to talk about it.
+
+284
+00:16:05,405 --> 00:16:06,704
+One man. Jonas Taylor.
+
+285
+00:16:06,706 --> 00:16:08,439
+And look what happened
+to that one man
+
+286
+00:16:08,441 --> 00:16:09,975
+the last time he went
+to these depths.
+
+287
+00:16:09,977 --> 00:16:11,375
+He saved eleven people,
+
+288
+00:16:11,377 --> 00:16:12,577
+including you, Heller.
+That's what happened.
+
+289
+00:16:12,579 --> 00:16:14,113
+He left our friends to die,
+
+290
+00:16:14,115 --> 00:16:16,414
+because he had
+pressure-induced psychosis.
+
+291
+00:16:16,416 --> 00:16:18,382
+Come on, Heller.
+That was your diagnosis.
+
+292
+00:16:18,384 --> 00:16:20,585
+Jonas said
+something attacked them.
+
+293
+00:16:20,587 --> 00:16:22,955
+Something big enough to
+take out a nuclear submarine.
+
+294
+00:16:22,957 --> 00:16:24,223
+He's a drunk.
+
+295
+00:16:24,225 --> 00:16:25,690
+You're not listening!
+You're not listening!
+
+296
+00:16:25,692 --> 00:16:27,325
+He washed up on a beach
+in Thailand.
+
+297
+00:16:27,327 --> 00:16:28,794
+- Did you hear what Lori said?
+- I'm listening. I heard it.
+
+298
+00:16:28,796 --> 00:16:29,029
+- Were you there?
+- That's enough.
+
+299
+00:16:31,631 --> 00:16:34,867
+We all heard
+Lori's last transmission.
+
+300
+00:16:34,869 --> 00:16:36,267
+We have to consider
+
+301
+00:16:36,269 --> 00:16:37,702
+that <i>Origin</i> may have
+encountered
+
+302
+00:16:37,704 --> 00:16:40,304
+something similar to what
+Jonas Taylor described.
+
+303
+00:16:40,306 --> 00:16:42,507
+Something he was able
+to escape from.
+
+304
+00:16:42,509 --> 00:16:44,709
+<i>Ba!</i> Please.
+
+305
+00:16:45,712 --> 00:16:47,478
+Prep the helicopter.
+
+306
+00:16:47,480 --> 00:16:49,716
+We must go to Thailand.
+
+307
+00:17:25,718 --> 00:17:27,019
+Your boat,
+
+308
+00:17:27,021 --> 00:17:28,854
+she's killing me.
+
+309
+00:17:28,856 --> 00:17:31,056
+Number one engine
+slips out of the gear,
+
+310
+00:17:31,058 --> 00:17:32,557
+and there's some leak
+in the hydraulics.
+
+311
+00:17:32,559 --> 00:17:34,226
+Hey, I'll take a look
+at it tonight.
+
+312
+00:17:34,228 --> 00:17:35,459
+That's what you said
+last night
+
+313
+00:17:35,461 --> 00:17:36,694
+and the night before that,
+
+314
+00:17:36,696 --> 00:17:38,563
+and the night before that.
+
+315
+00:17:38,565 --> 00:17:39,730
+Hey, I'm working up to it.
+
+316
+00:17:39,732 --> 00:17:41,499
+You drink too much.
+
+317
+00:17:41,501 --> 00:17:42,835
+Hey, now
+you're only saying that
+
+318
+00:17:42,837 --> 00:17:45,838
+because I literally have
+a beer in my hand.
+
+319
+00:17:45,840 --> 00:17:48,539
+You always have beer
+in your hand.
+
+320
+00:17:48,541 --> 00:17:49,777
+You know why?
+
+321
+00:17:50,677 --> 00:17:52,543
+Because I drink too much?
+
+322
+00:18:15,336 --> 00:18:19,004
+Now this is shaping up to be
+an eventful Tuesday evening.
+
+323
+00:18:19,006 --> 00:18:21,306
+You know
+I like to make an entrance.
+
+324
+00:18:21,308 --> 00:18:22,673
+Hell, Mac, after five years,
+
+325
+00:18:22,675 --> 00:18:24,475
+just showing up
+is making an entrance.
+
+326
+00:18:24,477 --> 00:18:26,644
+What? You're living
+above a bar? Really?
+
+327
+00:18:26,646 --> 00:18:28,648
+Figured it was the only way
+to get you to come visit.
+
+328
+00:18:32,485 --> 00:18:34,052
+Jonas,
+allow me to introduce...
+
+329
+00:18:34,054 --> 00:18:35,720
+It's an honor to meet you,
+Doctor Zhang.
+
+330
+00:18:35,722 --> 00:18:38,556
+Always had a tremendous
+respect for your work.
+
+331
+00:18:38,558 --> 00:18:39,992
+You're too kind, Mr. Taylor.
+
+332
+00:18:39,994 --> 00:18:41,960
+Yeah, no, I'm not.
+You're a good man.
+
+333
+00:18:41,962 --> 00:18:44,495
+Hey, can I offer
+either of you two a beer?
+
+334
+00:18:44,497 --> 00:18:46,899
+'Cause I'm gonna have a beer.
+
+335
+00:18:46,901 --> 00:18:48,834
+It's not a social call, Jonas.
+
+336
+00:18:48,836 --> 00:18:51,970
+You mean you didn't helicopter
+in just to say "hi"?
+
+337
+00:18:51,972 --> 00:18:54,772
+You wound me, Mac.
+
+338
+00:18:54,774 --> 00:18:57,575
+- We have a serious...
+- Problem?
+
+339
+00:18:57,577 --> 00:18:59,311
+Thought so.
+
+340
+00:18:59,313 --> 00:19:01,179
+Just like you know
+
+341
+00:19:01,181 --> 00:19:03,414
+I don't dive anymore.
+
+342
+00:19:03,416 --> 00:19:04,649
+Done being responsible
+for people, Mac.
+
+343
+00:19:04,651 --> 00:19:05,951
+Mr. Taylor...
+
+344
+00:19:05,953 --> 00:19:07,652
+Hey, I mean no offense,
+Doctor Zhang.
+
+345
+00:19:07,654 --> 00:19:09,720
+I mean, if there was
+two people on this planet
+
+346
+00:19:09,722 --> 00:19:11,522
+that could get me
+back into the water,
+
+347
+00:19:11,524 --> 00:19:13,557
+it's probably you two.
+
+348
+00:19:13,559 --> 00:19:14,960
+But you can't.
+
+349
+00:19:14,962 --> 00:19:18,163
+You're gonna tell me your
+problem, and I'll say no.
+
+350
+00:19:18,165 --> 00:19:20,032
+You're gonna offer me money.
+
+351
+00:19:20,034 --> 00:19:21,166
+I'll still say no.
+
+352
+00:19:21,168 --> 00:19:23,768
+You're gonna appeal
+to my better nature,
+
+353
+00:19:23,770 --> 00:19:25,404
+and I'm gonna say no.
+
+354
+00:19:25,406 --> 00:19:27,406
+Because I don't have one.
+
+355
+00:19:27,408 --> 00:19:30,474
+So I say,
+why don't we sit down?
+
+356
+00:19:30,476 --> 00:19:32,110
+We'll enjoy a couple of beers,
+
+357
+00:19:32,112 --> 00:19:33,946
+and then we can
+get you on your way.
+
+358
+00:19:35,349 --> 00:19:37,548
+Jonas.
+
+359
+00:19:37,550 --> 00:19:40,718
+This happened this morning.
+
+360
+00:19:40,720 --> 00:19:42,988
+<i>Let's get out
+of here. Blow the tanks!</i>
+
+361
+00:19:42,990 --> 00:19:44,588
+<i>I'm trying.
+It's not working!</i>
+
+362
+00:19:44,590 --> 00:19:45,924
+<i>It's not starting!
+Whole system's down!</i>
+
+363
+00:19:45,926 --> 00:19:47,793
+<i>Mac, help!
+Oh, my God. Oh, my God.</i>
+
+364
+00:19:47,795 --> 00:19:50,594
+<i>DJ, Mac.
+There's something down here.</i>
+
+365
+00:19:50,596 --> 00:19:51,797
+<i>Jonas was right.</i>
+
+366
+00:19:51,799 --> 00:19:53,098
+<i>Jonas was right!
+Do you co...</i>
+
+367
+00:19:54,168 --> 00:19:55,700
+It's Lori.
+
+368
+00:19:55,702 --> 00:19:58,136
+Your ex-wife
+and her crew are trapped
+
+369
+00:19:58,138 --> 00:20:00,571
+below 11,000 meters.
+
+370
+00:20:00,573 --> 00:20:01,974
+I fear they may
+have encountered
+
+371
+00:20:01,976 --> 00:20:04,376
+the same species
+you did down there.
+
+372
+00:20:04,378 --> 00:20:08,113
+I have divers with less
+experience willing to go.
+
+373
+00:20:08,115 --> 00:20:10,082
+But I feel
+I owe it to my crew
+
+374
+00:20:10,084 --> 00:20:13,821
+to give this rescue
+the best chance of success.
+
+375
+00:20:15,889 --> 00:20:17,724
+Please.
+
+376
+00:20:25,698 --> 00:20:27,734
+Lori,
+hand me that hexa key.
+
+377
+00:20:28,902 --> 00:20:29,937
+Thanks.
+
+378
+00:20:34,375 --> 00:20:35,639
+Oh.
+
+379
+00:20:35,641 --> 00:20:37,976
+Okay.
+
+380
+00:20:37,978 --> 00:20:39,411
+Okay, if we can
+short out the firewall,
+
+381
+00:20:39,413 --> 00:20:41,547
+I can... I can probably
+reboot the computers.
+
+382
+00:20:44,385 --> 00:20:46,552
+Okay. Try it now.
+
+383
+00:20:51,358 --> 00:20:53,559
+Auxiliary power's back.
+
+384
+00:20:56,797 --> 00:20:58,897
+Heaters are online.
+
+385
+00:20:58,899 --> 00:21:00,432
+There's no way that we'll
+get the engine started,
+
+386
+00:21:00,434 --> 00:21:03,235
+but we might be able
+to get the ballast tanks back.
+
+387
+00:21:04,704 --> 00:21:06,304
+What are you doing?
+Taking notes?
+
+388
+00:21:06,306 --> 00:21:08,142
+Letter to my wife.
+
+389
+00:21:11,245 --> 00:21:12,712
+Just in case.
+
+390
+00:21:13,514 --> 00:21:14,712
+Hey.
+
+391
+00:21:14,714 --> 00:21:16,448
+We got this.
+
+392
+00:21:16,450 --> 00:21:18,716
+Step by step.
+
+393
+00:21:18,718 --> 00:21:21,721
+Come on. Give me
+that fighting octopus.
+
+394
+00:21:31,899 --> 00:21:33,432
+See?
+
+395
+00:21:33,434 --> 00:21:34,968
+Works every time.
+
+396
+00:21:41,508 --> 00:21:43,208
+No.
+
+397
+00:21:43,210 --> 00:21:45,709
+- What?
+- We gotta can the lights.
+
+398
+00:22:05,933 --> 00:22:08,400
+Turn out the lights.
+
+399
+00:22:08,402 --> 00:22:10,102
+<i>There was
+something down there with us.</i>
+
+400
+00:22:10,104 --> 00:22:11,303
+<i>How can you be
+sure if there were</i>
+
+401
+00:22:11,305 --> 00:22:13,405
+<i>no observation windows
+on your craft?</i>
+
+402
+00:22:13,407 --> 00:22:15,107
+<i>'Cause whatever it was</i>
+
+403
+00:22:15,109 --> 00:22:18,410
+<i>caved in the entire starboard
+side of a nuclear submarine.</i>
+
+404
+00:22:18,412 --> 00:22:19,911
+<i>That wasn't my imagination.</i>
+
+405
+00:22:19,913 --> 00:22:22,180
+<i>Is that why
+you blew the hatch mid-rescue?</i>
+
+406
+00:22:22,182 --> 00:22:25,749
+<i>Hey, look, I brought 11 men
+back safe and sound.</i>
+
+407
+00:22:25,751 --> 00:22:27,352
+<i>You left
+eight more to die</i>
+
+408
+00:22:27,354 --> 00:22:28,520
+<i>because you panicked.</i>
+
+409
+00:22:28,522 --> 00:22:30,856
+<i>If I hadn't blown the hatch,</i>
+
+410
+00:22:30,858 --> 00:22:33,024
+<i>we all would have been
+killed by that thing.</i>
+
+411
+00:22:33,026 --> 00:22:34,326
+<i>There was no thing.</i>
+
+412
+00:22:34,328 --> 00:22:35,827
+<i>There was no evidence
+of anything.</i>
+
+413
+00:22:35,829 --> 00:22:37,095
+<i>Because
+it was destroyed</i>
+
+414
+00:22:37,097 --> 00:22:38,662
+<i>in the explosion, Heller.</i>
+
+415
+00:22:38,664 --> 00:22:41,867
+<i>Look, there was no time left!
+So I made the call!</i>
+
+416
+00:22:41,869 --> 00:22:43,767
+<i>And you left
+our friends there to die</i>
+
+417
+00:22:43,769 --> 00:22:46,006
+<i>in an act of cowardice!</i>
+
+418
+00:22:48,175 --> 00:22:50,708
+What do you think
+happened down there?
+
+419
+00:22:50,710 --> 00:22:52,244
+He lost it.
+
+420
+00:22:52,246 --> 00:22:54,012
+And now we're
+about to send him
+
+421
+00:22:54,014 --> 00:22:56,148
+into the exact same situation.
+
+422
+00:22:57,618 --> 00:22:58,950
+Excuse me, Suyin.
+
+423
+00:22:58,952 --> 00:23:00,919
+I'm sorry to interrupt you,
+but we need you.
+
+424
+00:23:00,921 --> 00:23:02,389
+It's an emergency.
+
+425
+00:23:03,624 --> 00:23:05,656
+What's wrong, Jaxx?
+
+426
+00:23:05,658 --> 00:23:07,025
+Now they're leaking oxygen.
+
+427
+00:23:07,027 --> 00:23:08,896
+They've got a couple of hours.
+Maybe more.
+
+428
+00:23:10,797 --> 00:23:12,330
+- I'm going.
+- No.
+
+429
+00:23:12,332 --> 00:23:13,532
+Wait, what?
+
+430
+00:23:13,534 --> 00:23:15,467
+I'll take one of the gliders,
+grab the <i>Origin,</i>
+
+431
+00:23:15,469 --> 00:23:17,135
+- and tow her up.
+- Wait!
+
+432
+00:23:17,137 --> 00:23:19,306
+If the <i>Origin's</i> ballast tanks
+blow, you're gonna die, too.
+
+433
+00:23:19,907 --> 00:23:21,909
+We have to try.
+
+434
+00:23:24,744 --> 00:23:26,446
+Mummy?
+
+435
+00:23:29,149 --> 00:23:30,882
+Meiying.
+
+436
+00:23:35,155 --> 00:23:36,223
+Um...
+
+437
+00:23:46,699 --> 00:23:48,068
+Uh...
+
+438
+00:24:09,289 --> 00:24:10,924
+Communications check!
+
+439
+00:24:14,494 --> 00:24:15,894
+Good to go.
+
+440
+00:24:15,896 --> 00:24:19,364
+Suyin, you are go for launch.
+
+441
+00:24:19,366 --> 00:24:20,766
+Richard Byrd.
+
+442
+00:24:42,322 --> 00:24:45,092
+<i>Auto descent
+sequence initiated.</i>
+
+443
+00:24:47,694 --> 00:24:49,863
+- Hey, Meiying.
+- Hi.
+
+444
+00:25:19,192 --> 00:25:22,060
+- Sir, we've got a new problem.
+- It's your daughter.
+
+445
+00:25:22,062 --> 00:25:24,129
+She took a glider
+to try and save them.
+
+446
+00:25:24,131 --> 00:25:25,463
+Why did you let her go?
+
+447
+00:25:25,465 --> 00:25:27,932
+Trust me,
+I didn't let her do anything.
+
+448
+00:25:27,934 --> 00:25:29,367
+I was sort of
+under the impression
+
+449
+00:25:29,369 --> 00:25:30,935
+you're supposed to try
+to save people
+
+450
+00:25:30,937 --> 00:25:31,803
+who are dying
+on the bottom of the ocean.
+
+451
+00:25:31,805 --> 00:25:33,071
+Who's he?
+
+452
+00:25:33,073 --> 00:25:35,042
+I'm the guy
+who paid for all this.
+
+453
+00:25:36,243 --> 00:25:37,609
+Uh-huh.
+
+454
+00:25:37,611 --> 00:25:39,978
+You know, he looks heroic
+and he walks fast,
+
+455
+00:25:39,980 --> 00:25:43,083
+but he's kind of
+got a negative attitude.
+
+456
+00:25:46,788 --> 00:25:48,053
+What's the window?
+
+457
+00:25:48,055 --> 00:25:49,956
+It'll be close.
+
+458
+00:25:51,825 --> 00:25:53,091
+Who are you?
+
+459
+00:25:53,093 --> 00:25:54,326
+I'm the one
+that designed all this.
+
+460
+00:25:54,328 --> 00:25:56,194
+So my life's in your hands?
+
+461
+00:25:56,196 --> 00:25:59,331
+Pretty much. That a problem?
+
+462
+00:25:59,333 --> 00:26:00,265
+Nah.
+
+463
+00:26:00,267 --> 00:26:01,466
+You look like you might
+
+464
+00:26:01,468 --> 00:26:03,468
+actually know
+what you're doing.
+
+465
+00:26:03,470 --> 00:26:05,670
+<i>Dive control level.</i>
+
+466
+00:26:05,672 --> 00:26:07,205
+Oh, I'm sorry.
+
+467
+00:26:07,207 --> 00:26:10,608
+Mac, have Doctor Heller
+meet us in the medical bay.
+
+468
+00:26:10,610 --> 00:26:11,811
+Heller?
+
+469
+00:26:11,813 --> 00:26:13,845
+Did I not mention that?
+
+470
+00:26:13,847 --> 00:26:15,282
+You mother...
+
+471
+00:26:20,220 --> 00:26:21,586
+He's in perfect shape.
+
+472
+00:26:21,588 --> 00:26:23,523
+Just like the last time
+you examined me.
+
+473
+00:26:25,625 --> 00:26:28,226
+Suyin took a glider
+15 minutes ago.
+
+474
+00:26:28,228 --> 00:26:29,861
+She's planning
+on taking the <i>Origin</i> back up.
+
+475
+00:26:29,863 --> 00:26:31,162
+Take me to the sub.
+
+476
+00:26:31,164 --> 00:26:33,231
+- We're not done here.
+- Yeah, we are.
+
+477
+00:26:33,233 --> 00:26:34,466
+Lori's running out of air,
+
+478
+00:26:34,468 --> 00:26:35,967
+and we're in
+international waters,
+
+479
+00:26:35,969 --> 00:26:37,302
+which means legally
+
+480
+00:26:37,304 --> 00:26:39,137
+I can beat the ever-loving
+shit out of you
+
+481
+00:26:39,139 --> 00:26:41,074
+and get away with it.
+
+482
+00:26:42,509 --> 00:26:43,942
+It's true.
+
+483
+00:26:43,944 --> 00:26:45,178
+Legally, I mean.
+
+484
+00:26:46,446 --> 00:26:48,515
+Good thing
+he doesn't hold a grudge.
+
+485
+00:26:49,182 --> 00:26:50,582
+Jonas, you do know
+
+486
+00:26:50,584 --> 00:26:52,384
+that this sub is rated
+for 12,000 meters, right?
+
+487
+00:26:52,386 --> 00:26:54,552
+Like the one leaking
+on the ocean floor?
+
+488
+00:26:54,554 --> 00:26:56,822
+Ah. Good point.
+
+489
+00:26:56,824 --> 00:26:58,356
+- We good?
+- Yep.
+
+490
+00:26:58,358 --> 00:26:59,825
+Once you strip back
+the safeties
+
+491
+00:26:59,827 --> 00:27:02,394
+and go full manual,
+like I know you're gonna do,
+
+492
+00:27:02,396 --> 00:27:03,796
+the system's gonna
+have problems
+
+493
+00:27:03,798 --> 00:27:06,297
+trying to keep up
+with your pressure changes.
+
+494
+00:27:06,299 --> 00:27:07,999
+Try not to blow
+your ears out, brother.
+
+495
+00:27:08,001 --> 00:27:10,070
+Thanks, mate.
+
+496
+00:27:23,650 --> 00:27:25,984
+Hello, skipper.
+
+497
+00:27:25,986 --> 00:27:27,921
+You must be the crazy guy.
+
+498
+00:27:28,722 --> 00:27:30,555
+Now who called me that?
+
+499
+00:27:30,557 --> 00:27:32,359
+My mom. Doctor Heller.
+
+500
+00:27:33,360 --> 00:27:36,027
+Yeah, well, I'm not crazy.
+
+501
+00:27:36,029 --> 00:27:38,263
+I've just seen things
+no one else has.
+
+502
+00:27:38,265 --> 00:27:40,900
+That's the definition
+of crazy.
+
+503
+00:27:43,703 --> 00:27:46,940
+Backup power. Backup power...
+
+504
+00:27:51,813 --> 00:27:53,445
+So where are your parents?
+
+505
+00:27:53,447 --> 00:27:56,181
+My mom's trying
+to bring our friends back
+
+506
+00:27:56,183 --> 00:27:58,483
+from the bottom of the ocean.
+
+507
+00:27:58,485 --> 00:28:02,487
+My dad's with a Pilates
+instructor in Taipei.
+
+508
+00:28:02,489 --> 00:28:05,256
+Granddad says
+Mom needs to move on,
+
+509
+00:28:05,258 --> 00:28:07,158
+but Mom says
+she needs some more time
+
+510
+00:28:07,160 --> 00:28:09,227
+because she was
+married to an a-hole.
+
+511
+00:28:09,229 --> 00:28:11,231
+Sounds like
+your mom's got a point.
+
+512
+00:28:15,669 --> 00:28:17,435
+You know a lot.
+
+513
+00:28:17,437 --> 00:28:19,973
+Eight-year-olds
+hear everything.
+
+514
+00:28:21,708 --> 00:28:23,677
+Mind if I give it a try?
+
+515
+00:28:26,079 --> 00:28:28,048
+Bye.
+
+516
+00:28:33,053 --> 00:28:34,287
+Hey, Crazy.
+
+517
+00:28:35,655 --> 00:28:38,590
+Is my mom gonna die?
+
+518
+00:28:38,592 --> 00:28:41,894
+I'll have <i>Captain Bubbles</i>
+and your mom back in no time.
+
+519
+00:28:41,896 --> 00:28:43,997
+I promise.
+
+520
+00:28:49,002 --> 00:28:50,602
+Thank you, Emma.
+
+521
+00:28:50,604 --> 00:28:52,303
+Evolution
+<i>launch in T-minus 15 seconds.</i>
+
+522
+00:28:52,305 --> 00:28:53,873
+- DJ?
+- Yeah.
+
+523
+00:28:53,875 --> 00:28:56,074
+Jaxx, we good?
+
+524
+00:28:56,076 --> 00:28:57,509
+Doc?
+
+525
+00:28:57,511 --> 00:28:59,677
+<i>Evolution,</i>
+
+526
+00:28:59,679 --> 00:29:01,047
+we are go for dive.
+
+527
+00:29:04,217 --> 00:29:05,585
+Fancy.
+
+528
+00:29:13,293 --> 00:29:16,663
+<i>System go for descent.</i>
+
+529
+00:29:18,365 --> 00:29:21,533
+<i>System go for descent.</i>
+
+530
+00:29:21,535 --> 00:29:23,969
+Hey, brother.
+We're good to go.
+
+531
+00:29:23,971 --> 00:29:25,372
+<i>System go for descent.</i>
+
+532
+00:29:28,876 --> 00:29:31,743
+<i>System go for descent.</i>
+
+533
+00:29:34,581 --> 00:29:35,580
+Jonas.
+
+534
+00:29:35,582 --> 00:29:37,284
+<i>System go for descent.</i>
+
+535
+00:29:45,026 --> 00:29:48,493
+Evolution <i>successful launch.</i>
+
+536
+00:29:55,569 --> 00:29:58,806
+Evolution <i>now passing</i>
+<i>1,000 meters.</i>
+
+537
+00:30:02,642 --> 00:30:06,311
+<i>Caution.</i> Evolution
+<i>secondary systems offline.</i>
+
+538
+00:30:06,313 --> 00:30:08,847
+How is he descending so fast?
+
+539
+00:30:08,849 --> 00:30:11,316
+Looks like he's diverted
+all nonessential power
+
+540
+00:30:11,318 --> 00:30:13,318
+like heat and life support
+to the motors.
+
+541
+00:30:13,320 --> 00:30:14,719
+He's gonna black out.
+
+542
+00:30:17,892 --> 00:30:19,860
+His blood gases are dropping.
+
+543
+00:30:21,929 --> 00:30:23,261
+Jonas.
+
+544
+00:30:23,263 --> 00:30:24,764
+<i>Tell Heller
+I'm not slowing down.</i>
+
+545
+00:30:35,141 --> 00:30:36,274
+<i>Suyin, be advised.</i>
+
+546
+00:30:36,276 --> 00:30:37,609
+Evolution <i>is now en route.</i>
+
+547
+00:30:37,611 --> 00:30:39,243
+Request you return
+to <i>Mana One</i> immediately.
+
+548
+00:30:39,245 --> 00:30:40,478
+<i>Negative.</i>
+
+549
+00:30:40,480 --> 00:30:42,347
+He can give us
+an escort on our way up.
+
+550
+00:30:42,349 --> 00:30:44,315
+Tell her to get
+out of the way, Mac.
+
+551
+00:30:44,317 --> 00:30:45,750
+More people means more risk
+
+552
+00:30:45,752 --> 00:30:47,185
+<i>and she's in
+way over her head.</i>
+
+553
+00:30:47,187 --> 00:30:49,623
+Jonas, you just
+told her yourself.
+
+554
+00:30:51,124 --> 00:30:52,423
+What?
+
+555
+00:30:52,425 --> 00:30:53,859
+The little green button
+on your intercom,
+
+556
+00:30:53,861 --> 00:30:55,830
+that's for single channel
+communication.
+
+557
+00:30:56,763 --> 00:30:58,531
+Brilliant.
+
+558
+00:31:06,874 --> 00:31:08,742
+<i>Entering thermocline.</i>
+
+559
+00:31:19,686 --> 00:31:21,020
+<i>Okay, Mac.</i>
+
+560
+00:31:21,022 --> 00:31:22,756
+<i>I am through.</i>
+
+561
+00:31:24,457 --> 00:31:25,757
+<i>Warning.</i>
+
+562
+00:31:25,759 --> 00:31:28,794
+<i>Pressure load
+approaching 16,000 psi.</i>
+
+563
+00:31:28,796 --> 00:31:30,029
+<i>At this speed,</i>
+
+564
+00:31:30,031 --> 00:31:31,596
+<i>I'm gonna have to divert
+power from the heaters</i>
+
+565
+00:31:31,598 --> 00:31:32,532
+<i>and shut down anything
+that could ice over.</i>
+
+566
+00:31:34,334 --> 00:31:35,635
+<i>Call you from the other side.</i>
+
+567
+00:31:39,239 --> 00:31:42,141
+You got Wi-Fi here?
+
+568
+00:31:42,143 --> 00:31:43,576
+All right.
+
+569
+00:31:44,377 --> 00:31:45,710
+Okay.
+
+570
+00:31:45,712 --> 00:31:47,578
+Just... Just keep
+pressure on that.
+
+571
+00:31:47,580 --> 00:31:49,247
+Toshi, is it still out there?
+
+572
+00:31:49,249 --> 00:31:50,682
+I can't tell.
+
+573
+00:31:50,684 --> 00:31:52,552
+I can't see anything
+right now.
+
+574
+00:32:26,987 --> 00:32:28,352
+Oh.
+
+575
+00:32:28,354 --> 00:32:30,621
+There it is.
+
+576
+00:32:30,623 --> 00:32:32,091
+I've got visual
+on the <i>Origin.</i>
+
+577
+00:32:32,093 --> 00:32:33,257
+<i>I can see most of it.</i>
+
+578
+00:32:33,259 --> 00:32:35,094
+Okay. They're alive.
+
+579
+00:32:35,096 --> 00:32:36,663
+I'm going to set up to tow.
+
+580
+00:32:39,900 --> 00:32:43,168
+<i>Range to target. Six meters.</i>
+
+581
+00:32:43,170 --> 00:32:44,302
+<i>Four meters.</i>
+
+582
+00:32:44,304 --> 00:32:46,439
+<i>Target locked.</i>
+
+583
+00:32:49,409 --> 00:32:51,476
+Firing magnetic hook.
+
+584
+00:32:51,478 --> 00:32:53,277
+Three. Two.
+
+585
+00:33:07,694 --> 00:33:09,862
+Suyin? Are you okay?
+What's happening?
+
+586
+00:33:09,864 --> 00:33:12,663
+<i>There is something
+down here.</i>
+
+587
+00:33:12,665 --> 00:33:15,435
+<i>Something just hit my ship.</i>
+
+588
+00:33:29,682 --> 00:33:31,482
+<i>Suyin, what's happening?</i>
+
+589
+00:33:31,484 --> 00:33:32,951
+It's a huge squid.
+
+590
+00:33:32,953 --> 00:33:34,385
+It's got the glider.
+
+591
+00:33:34,387 --> 00:33:35,954
+<i>Warning.
+Capsule pressure.</i>
+
+592
+00:33:35,956 --> 00:33:38,957
+<i>Mac, it's crushing me.
+It's crushing me!</i>
+
+593
+00:33:38,959 --> 00:33:40,625
+<i>I don't think
+the glider can take it.</i>
+
+594
+00:33:40,627 --> 00:33:41,896
+It's not gonna hold.
+
+595
+00:33:44,531 --> 00:33:47,498
+<i>Suyin, engage
+the pressure compensator.</i>
+
+596
+00:33:47,500 --> 00:33:49,935
+<i>Compensator
+will not engage.</i>
+
+597
+00:33:49,937 --> 00:33:51,806
+<i>Capsule breach in ten seconds.</i>
+
+598
+00:33:55,075 --> 00:33:56,643
+<i>Capsule breach in five sec...</i>
+
+599
+00:34:15,896 --> 00:34:18,032
+My God!
+
+600
+00:34:20,835 --> 00:34:22,234
+It's a shark.
+
+601
+00:34:22,236 --> 00:34:24,435
+<i>It's like 20, 25 meters.</i>
+
+602
+00:34:24,437 --> 00:34:25,938
+It's a megalodon.
+
+603
+00:34:25,940 --> 00:34:27,607
+<i>Impossible.</i>
+
+604
+00:34:29,777 --> 00:34:32,378
+<i>I'm so glad I'm not crazy.</i>
+
+605
+00:34:37,350 --> 00:34:39,017
+Suyin, power down.
+
+606
+00:34:39,019 --> 00:34:40,451
+It's drawn to the light.
+
+607
+00:34:40,453 --> 00:34:42,720
+Shut everything down
+and stay dark.
+
+608
+00:34:42,722 --> 00:34:44,522
+<i>Shutdown in 30 seconds.</i>
+
+609
+00:34:44,524 --> 00:34:45,924
+<i>Shutting off
+everything but comms.</i>
+
+610
+00:34:45,926 --> 00:34:47,391
+<i>It's circling back.</i>
+
+611
+00:34:47,393 --> 00:34:48,759
+<i>Here it comes, Suyin.</i>
+
+612
+00:34:48,761 --> 00:34:50,595
+<i>Shutdown in 25 seconds.</i>
+
+613
+00:34:50,597 --> 00:34:52,231
+<i>Suyin, there's no time.</i>
+
+614
+00:34:52,233 --> 00:34:53,531
+Turn off your lights.
+
+615
+00:34:53,533 --> 00:34:55,633
+<i>Shutdown in 20 seconds.</i>
+
+616
+00:34:55,635 --> 00:34:57,836
+<i>Turn them off. Now.</i>
+
+617
+00:34:57,838 --> 00:34:59,570
+<i>Shutdown in 15 seconds.</i>
+
+618
+00:34:59,572 --> 00:35:00,941
+<i>Mac, I have no control.</i>
+
+619
+00:35:02,877 --> 00:35:03,942
+<i>Hurry.</i>
+
+620
+00:35:03,944 --> 00:35:05,978
+<i>Ten, nine,</i>
+
+621
+00:35:05,980 --> 00:35:07,511
+<i>eight, seven,</i>
+
+622
+00:35:07,513 --> 00:35:09,850
+<i>six, five...</i>
+
+623
+00:35:29,736 --> 00:35:31,402
+Now's your chance.
+Blow your tanks.
+
+624
+00:35:31,404 --> 00:35:33,972
+No. I can help you
+save the crew.
+
+625
+00:35:33,974 --> 00:35:36,674
+<i>Your glider's damaged.
+There's nothing you can do.</i>
+
+626
+00:35:36,676 --> 00:35:38,678
+Blow your tanks now.
+
+627
+00:35:39,512 --> 00:35:40,848
+Damn it.
+
+628
+00:35:48,122 --> 00:35:49,487
+<i>Doctor Zhang,</i>
+
+629
+00:35:49,489 --> 00:35:51,189
+<i>your daughter's clear.</i>
+
+630
+00:35:51,191 --> 00:35:54,094
+<i>I'm heading</i>
+<i>for the</i> Origin <i>now.</i>
+
+631
+00:36:00,034 --> 00:36:02,535
+<i>Three meters.</i>
+
+632
+00:36:11,946 --> 00:36:13,914
+<i>Water extraction complete.</i>
+
+633
+00:36:22,890 --> 00:36:25,225
+Let's do this, sweetheart.
+
+634
+00:36:46,780 --> 00:36:49,716
+Tell me this isn't the world's
+best "I told you so."
+
+635
+00:36:50,451 --> 00:36:51,682
+You came all the way here
+
+636
+00:36:51,684 --> 00:36:53,018
+just to tell me that,
+didn't you?
+
+637
+00:36:53,020 --> 00:36:54,987
+Pretty much.
+
+638
+00:36:54,989 --> 00:36:57,257
+Give me your hand.
+
+639
+00:37:01,795 --> 00:37:04,363
+Ah, that doesn't look good.
+Ready? One, two, three.
+
+640
+00:37:07,334 --> 00:37:09,201
+She's coming.
+
+641
+00:37:09,203 --> 00:37:11,535
+Let's move.
+
+642
+00:37:11,537 --> 00:37:14,206
+If that thing hits us
+while we're still attached...
+
+643
+00:37:14,208 --> 00:37:16,076
+Then we're all gonna die.
+
+644
+00:37:23,417 --> 00:37:24,684
+Come on, I've got you.
+
+645
+00:37:25,752 --> 00:37:27,319
+It's gonna be close.
+
+646
+00:37:27,321 --> 00:37:29,056
+Come on, move, move!
+
+647
+00:37:31,258 --> 00:37:32,924
+Go! Go! Go!
+
+648
+00:37:32,926 --> 00:37:35,227
+We're not
+gonna make it.
+
+649
+00:37:35,229 --> 00:37:37,164
+- Come on.
+- Toshi, hurry!
+
+650
+00:37:38,298 --> 00:37:39,565
+Toshi, no!
+
+651
+00:38:09,762 --> 00:38:11,065
+<i>Come in,</i> Evolution.
+
+652
+00:38:12,433 --> 00:38:14,334
+<i>Jonas, come in.</i>
+
+653
+00:38:15,735 --> 00:38:18,005
+<i>Are you all okay?</i>
+
+654
+00:38:20,908 --> 00:38:23,275
+<i>Doctor Heller has vitals
+on Lori and The Wall,</i>
+
+655
+00:38:23,277 --> 00:38:25,312
+<i>but we don't have Toshi.</i>
+
+656
+00:38:26,113 --> 00:38:27,281
+<i>Is Toshi okay?</i>
+
+657
+00:38:28,748 --> 00:38:31,118
+<i>Jonas, is Toshi okay?</i>
+
+658
+00:38:32,453 --> 00:38:33,819
+- All right.
+- Nice and easy.
+
+659
+00:38:33,821 --> 00:38:35,287
+Yeah. Yep.
+
+660
+00:38:35,289 --> 00:38:36,822
+- Don't move her neck.
+- Careful.
+
+661
+00:38:36,824 --> 00:38:39,793
+That's good.
+Grab a hold. We got her.
+
+662
+00:38:51,205 --> 00:38:53,637
+You couldn't bring
+Toshi back?
+
+663
+00:38:53,639 --> 00:38:56,376
+- Why not?
+- He closed the hatch.
+
+664
+00:38:58,212 --> 00:38:59,712
+He saved us.
+
+665
+00:39:00,746 --> 00:39:02,349
+You left him.
+
+666
+00:39:04,717 --> 00:39:07,185
+You left him
+because that's who you are.
+
+667
+00:39:07,187 --> 00:39:09,620
+You are the guy
+who leaves people behind.
+
+668
+00:39:09,622 --> 00:39:11,289
+You go that deep,
+
+669
+00:39:11,291 --> 00:39:13,158
+you take your life
+in your hands.
+
+670
+00:39:13,160 --> 00:39:16,063
+It was your choice
+to send them down.
+
+671
+00:39:20,467 --> 00:39:23,303
+This is why
+I don't do this anymore, Mac.
+
+672
+00:39:35,549 --> 00:39:36,749
+How is she?
+
+673
+00:39:39,386 --> 00:39:41,652
+Well, the puncture
+just missed her liver.
+
+674
+00:39:41,654 --> 00:39:43,288
+She lost a lot of blood.
+
+675
+00:39:43,290 --> 00:39:44,825
+But she's stable.
+
+676
+00:39:52,599 --> 00:39:53,800
+Jonas.
+
+677
+00:39:56,769 --> 00:39:58,205
+I'm sorry.
+
+678
+00:39:59,306 --> 00:40:00,908
+I was wrong.
+
+679
+00:40:03,510 --> 00:40:05,045
+You save Lori,
+
+680
+00:40:06,013 --> 00:40:07,814
+we can call it even.
+
+681
+00:40:35,042 --> 00:40:37,375
+I just want to apologize
+for before.
+
+682
+00:40:37,377 --> 00:40:39,778
+I was angry
+and I lose my temper.
+
+683
+00:40:39,780 --> 00:40:41,248
+And you did save my...
+
+684
+00:40:43,350 --> 00:40:44,351
+You're naked.
+
+685
+00:40:48,956 --> 00:40:53,860
+I know you did all you could.
+So, thank you.
+
+686
+00:40:54,494 --> 00:40:55,961
+Yeah.
+
+687
+00:40:55,963 --> 00:40:58,196
+You're welcome.
+
+688
+00:40:58,198 --> 00:41:01,902
+I know it's not easy
+being the person who survives.
+
+689
+00:41:03,769 --> 00:41:05,637
+I'm gonna go now.
+
+690
+00:41:05,639 --> 00:41:06,770
+You should
+put on some clothes.
+
+691
+00:41:06,772 --> 00:41:09,074
+Yep. That's the original plan.
+
+692
+00:41:09,076 --> 00:41:11,211
+Okay, then. Carry on.
+
+693
+00:41:31,064 --> 00:41:33,865
+Hi. Uh... I was...
+
+694
+00:41:33,867 --> 00:41:35,269
+It's all good.
+
+695
+00:41:36,937 --> 00:41:39,571
+Jonas and Lori were the worst
+married couple ever, you know?
+
+696
+00:41:39,573 --> 00:41:40,771
+Uh-huh.
+
+697
+00:41:40,773 --> 00:41:43,043
+Whole experiment
+was over in a year.
+
+698
+00:41:44,444 --> 00:41:46,313
+I didn't ask anything.
+
+699
+00:41:47,281 --> 00:41:48,949
+I know.
+
+700
+00:41:54,388 --> 00:41:57,822
+This is what
+attacked us. A megalodon.
+
+701
+00:41:57,824 --> 00:41:59,991
+How big is that thing?
+
+702
+00:41:59,993 --> 00:42:04,129
+Between 70 and 90 feet.
+21 to 27 meters.
+
+703
+00:42:04,131 --> 00:42:08,033
+The megalodon was the largest
+shark that ever existed.
+
+704
+00:42:08,035 --> 00:42:09,934
+It feared nothing.
+
+705
+00:42:09,936 --> 00:42:12,570
+It had no predators.
+
+706
+00:42:12,572 --> 00:42:16,074
+Its jaws were stronger
+than any other animal, ever.
+
+707
+00:42:16,076 --> 00:42:18,943
+The meg could bite
+a whale in half,
+
+708
+00:42:18,945 --> 00:42:20,712
+crushing through the bones.
+
+709
+00:42:20,714 --> 00:42:22,747
+We are
+in uncharted territory.
+
+710
+00:42:22,749 --> 00:42:24,149
+Until today
+
+711
+00:42:24,151 --> 00:42:26,551
+megalodons were thought
+to have been extinct
+
+712
+00:42:26,553 --> 00:42:28,119
+for over two million years.
+
+713
+00:42:28,121 --> 00:42:30,455
+- Wrong.
+- A living fossil.
+
+714
+00:42:30,457 --> 00:42:33,427
+That living fossil
+ate my friend.
+
+715
+00:42:35,128 --> 00:42:36,995
+I cannot begin
+to express
+
+716
+00:42:36,997 --> 00:42:38,863
+my sadness for Toshi's death.
+
+717
+00:42:38,865 --> 00:42:40,932
+We have the discovery
+of a lifetime.
+
+718
+00:42:40,934 --> 00:42:43,403
+This is what Toshi worked for.
+
+719
+00:42:45,272 --> 00:42:47,072
+It's what
+we've all worked for.
+
+720
+00:42:47,074 --> 00:42:50,575
+But we're going
+to have to proceed slowly.
+
+721
+00:42:50,577 --> 00:42:53,380
+Yeah, that's really
+not gonna work for me.
+
+722
+00:42:55,982 --> 00:42:58,151
+What is <i>Mana One?</i>
+
+723
+00:42:58,885 --> 00:43:00,185
+This station?
+
+724
+00:43:00,187 --> 00:43:02,155
+Yes. And what's it doing?
+
+725
+00:43:03,023 --> 00:43:05,092
+Hmm? Right now.
+
+726
+00:43:07,461 --> 00:43:08,760
+Exactly.
+
+727
+00:43:08,762 --> 00:43:10,762
+Nothing.
+
+728
+00:43:10,764 --> 00:43:12,364
+20 million dollar rover, gone.
+
+729
+00:43:12,366 --> 00:43:15,233
+Thirty million dollar sub,
+gone.
+
+730
+00:43:15,235 --> 00:43:17,235
+You are now sitting
+in the most expensive
+
+731
+00:43:17,237 --> 00:43:19,971
+underwater marine
+biology day camp
+
+732
+00:43:19,973 --> 00:43:21,774
+in human history.
+
+733
+00:43:21,776 --> 00:43:24,042
+Hey, Crazy.
+
+734
+00:43:24,044 --> 00:43:25,477
+And now that
+we've actually
+
+735
+00:43:25,479 --> 00:43:27,080
+found something amazing,
+
+736
+00:43:27,849 --> 00:43:30,081
+we can't proceed slowly.
+
+737
+00:43:30,083 --> 00:43:33,251
+Thank you
+for keeping your promise.
+
+738
+00:43:33,253 --> 00:43:34,854
+- You're welcome.
+- You don't quit
+
+739
+00:43:34,856 --> 00:43:37,122
+trying to get to the Moon
+because you lose an astronaut.
+
+740
+00:43:37,124 --> 00:43:38,556
+You charge forward,
+
+741
+00:43:38,558 --> 00:43:41,626
+or someone else
+will get there first.
+
+742
+00:43:41,628 --> 00:43:44,929
+Other people will want
+a piece of this thing,
+
+743
+00:43:44,931 --> 00:43:47,332
+whether we like it or not.
+
+744
+00:43:47,334 --> 00:43:49,002
+You seem to like it.
+
+745
+00:43:50,404 --> 00:43:54,439
+- Excuse me?
+- I said, you seem to like it.
+
+746
+00:43:54,441 --> 00:43:57,008
+I'm sorry.
+Is he part of this team?
+
+747
+00:43:57,010 --> 00:43:59,411
+You're damn right
+he's a part of this team.
+
+748
+00:43:59,413 --> 00:44:01,279
+Okay.
+
+749
+00:44:01,281 --> 00:44:02,747
+You ever think
+that Mother Nature
+
+750
+00:44:02,749 --> 00:44:05,316
+might know what she's doing?
+
+751
+00:44:05,318 --> 00:44:10,221
+The thermocline might
+just be there for a reason?
+
+752
+00:44:10,223 --> 00:44:14,993
+Hey, look, you wanna explore?
+Go ahead, explore.
+
+753
+00:44:14,995 --> 00:44:18,096
+But if you start sending
+people back down there,
+
+754
+00:44:18,098 --> 00:44:20,632
+don't call me
+to come save your asses.
+
+755
+00:44:20,634 --> 00:44:22,233
+Because in case what happened
+down there
+
+756
+00:44:22,235 --> 00:44:24,202
+wasn't clear to you,
+
+757
+00:44:24,204 --> 00:44:27,138
+man vs. meg isn't a fight.
+
+758
+00:44:27,140 --> 00:44:28,442
+It's a slaughter.
+
+759
+00:44:43,089 --> 00:44:45,256
+<i>O-Level.</i>
+
+760
+00:45:24,799 --> 00:45:27,632
+What you people discovered
+is an even bigger goldmine
+
+761
+00:45:27,634 --> 00:45:29,902
+than we ever thought
+possible.
+
+762
+00:45:29,904 --> 00:45:31,669
+We are completely unprepared
+
+763
+00:45:31,671 --> 00:45:33,371
+to deal with creatures
+like megalodon.
+
+764
+00:45:33,373 --> 00:45:35,039
+I understand,
+and we can get prepared.
+
+765
+00:45:35,041 --> 00:45:36,942
+I'm talking about
+a long-term plan.
+
+766
+00:46:30,730 --> 00:46:32,499
+That's gonna be
+the other alternative.
+
+767
+00:46:35,068 --> 00:46:36,369
+What's that?
+
+768
+00:46:40,707 --> 00:46:41,809
+My daughter.
+
+769
+00:46:51,284 --> 00:46:52,717
+Jonas.
+
+770
+00:46:52,719 --> 00:46:53,986
+- Did you see Meiying?
+- We can't find Meiying.
+
+771
+00:46:53,988 --> 00:46:56,721
+Meiying? Meiying?
+
+772
+00:46:56,723 --> 00:46:58,291
+- I'll take this way.
+- Let's try this way.
+
+773
+00:47:04,966 --> 00:47:06,166
+Meiying.
+
+774
+00:47:06,733 --> 00:47:07,734
+Meiying?
+
+775
+00:47:09,436 --> 00:47:11,304
+- Meiying.
+- Mama.
+
+776
+00:47:13,773 --> 00:47:15,774
+Are you okay?
+
+777
+00:47:15,776 --> 00:47:19,912
+There's a monster
+and it's watching us.
+
+778
+00:47:39,566 --> 00:47:41,434
+It's okay.
+It's just a whale.
+
+779
+00:47:42,602 --> 00:47:44,337
+Wait. Where's Lucy?
+
+780
+00:47:45,840 --> 00:47:47,973
+Where's the mom?
+
+781
+00:48:00,654 --> 00:48:03,588
+Is the station all right?
+Report.
+
+782
+00:48:03,590 --> 00:48:05,289
+No leaks. No visible damage.
+
+783
+00:48:05,291 --> 00:48:08,192
+All right, team.
+Initiate emergency protocols.
+
+784
+00:48:08,194 --> 00:48:09,661
+And nobody is to go
+near the water.
+
+785
+00:48:09,663 --> 00:48:10,662
+If you insist.
+
+786
+00:48:10,664 --> 00:48:12,497
+Turn off
+all the underwater lighting.
+
+787
+00:48:12,499 --> 00:48:14,532
+Restrict the crew
+to essential areas.
+
+788
+00:48:14,534 --> 00:48:17,168
+You said it was impossible
+for it to get up here.
+
+789
+00:48:17,170 --> 00:48:18,736
+It should have been.
+
+790
+00:48:18,738 --> 00:48:20,538
+You guys,
+take a look at this.
+
+791
+00:48:20,540 --> 00:48:22,875
+When the glider came up,
+the thermocline was intact,
+
+792
+00:48:22,877 --> 00:48:25,010
+so it was
+one degree Celsius, right?
+
+793
+00:48:25,012 --> 00:48:26,544
+Yeah.
+
+794
+00:48:26,546 --> 00:48:28,713
+But a minute later,
+when the <i>Evolution</i> came up,
+
+795
+00:48:28,715 --> 00:48:30,816
+the temperature increased
+by 25 degrees.
+
+796
+00:48:30,818 --> 00:48:33,184
+A shark could come
+right through there.
+
+797
+00:48:33,186 --> 00:48:35,420
+20 sharks for that matter.
+
+798
+00:48:35,422 --> 00:48:36,621
+When the meg hit the <i>Origin,</i>
+
+799
+00:48:36,623 --> 00:48:38,090
+it slammed into
+a thermal vent.
+
+800
+00:48:38,092 --> 00:48:40,658
+Those can release millions
+of gallons per minute.
+
+801
+00:48:40,660 --> 00:48:42,727
+The heat from that vent
+cleared the path
+
+802
+00:48:42,729 --> 00:48:44,462
+through the freezing
+cold layer.
+
+803
+00:48:44,464 --> 00:48:45,663
+Are you saying we opened up
+
+804
+00:48:45,665 --> 00:48:47,166
+a super highway
+for giant sharks?
+
+805
+00:48:47,168 --> 00:48:50,334
+Not exactly. It seems like
+it was a transitory event.
+
+806
+00:48:50,336 --> 00:48:51,569
+The temperatures
+are returned to normal
+
+807
+00:48:51,571 --> 00:48:53,204
+and the gap is closed.
+
+808
+00:48:53,206 --> 00:48:56,374
+Yeah. But not before a massive
+prehistoric killing machine
+
+809
+00:48:56,376 --> 00:48:57,876
+decided to come up
+and say "Hi."
+
+810
+00:48:57,878 --> 00:49:00,278
+Hey, look, we're wasting time.
+That thing's out there.
+
+811
+00:49:00,280 --> 00:49:01,748
+We need to find it
+and kill it.
+
+812
+00:49:02,183 --> 00:49:03,681
+No.
+
+813
+00:49:03,683 --> 00:49:08,153
+We can't. We should explore
+non-lethal options first.
+
+814
+00:49:08,155 --> 00:49:09,922
+For the meg or for us?
+
+815
+00:49:11,658 --> 00:49:12,858
+<i>Attention.</i>
+
+816
+00:49:12,860 --> 00:49:15,226
+I've got
+an emergency locator beacon.
+
+817
+00:49:15,228 --> 00:49:16,895
+20 miles south, southwest.
+
+818
+00:49:16,897 --> 00:49:18,097
+What does that mean?
+
+819
+00:49:18,099 --> 00:49:19,597
+It means
+a boat has gone down.
+
+820
+00:49:19,599 --> 00:49:21,432
+<i>- Attention.</i>
+- Three boats.
+
+821
+00:49:21,434 --> 00:49:25,338
+That's the meg.
+We need to get there. Now.
+
+822
+00:49:40,253 --> 00:49:42,890
+Mac! I found something!
+
+823
+00:50:01,341 --> 00:50:03,175
+These sharks have no fins.
+
+824
+00:50:03,177 --> 00:50:05,643
+They were killed
+by shark poachers.
+
+825
+00:50:05,645 --> 00:50:08,515
+They cut off the fins and
+throw the shark back to die.
+
+826
+00:50:09,582 --> 00:50:12,350
+All for a bowl of soup.
+
+827
+00:50:12,352 --> 00:50:14,021
+Looks like the meg
+evened the score.
+
+828
+00:50:19,325 --> 00:50:20,760
+One fish did all this?
+
+829
+00:50:21,996 --> 00:50:23,496
+Ask it yourself.
+
+830
+00:50:26,366 --> 00:50:27,765
+Okay.
+
+831
+00:50:27,767 --> 00:50:30,401
+We have a shark cage
+and spearguns on board.
+
+832
+00:50:30,403 --> 00:50:32,037
+If we can shoot the meg
+
+833
+00:50:32,039 --> 00:50:33,806
+in a soft spot
+like it's mouth or gills,
+
+834
+00:50:33,808 --> 00:50:35,908
+we can inject it
+with something lethal.
+
+835
+00:50:35,910 --> 00:50:37,176
+Whoa! Whoa, whoa.
+
+836
+00:50:37,178 --> 00:50:38,911
+It's gonna take at least
+20 minutes to rig the cage.
+
+837
+00:50:38,913 --> 00:50:40,611
+And that thing
+will be gone in two.
+
+838
+00:50:40,613 --> 00:50:42,348
+Why don't you just
+put a tracker on it?
+
+839
+00:50:44,684 --> 00:50:46,350
+Don't you guys
+ever watch <i>Shark Week?</i>
+
+840
+00:50:46,352 --> 00:50:51,156
+You have one of those, like,
+GPS tracker tag thingamajigs.
+
+841
+00:50:51,158 --> 00:50:53,125
+Keep an eye on the shark
+till the cage is ready.
+
+842
+00:50:53,127 --> 00:50:55,093
+We should be able
+to put a tracking dart
+
+843
+00:50:55,095 --> 00:50:56,228
+in that dorsal fin.
+
+844
+00:50:56,230 --> 00:50:57,328
+You're welcome.
+
+845
+00:50:57,330 --> 00:50:58,964
+Yeah, but somehow
+
+846
+00:50:58,966 --> 00:51:00,531
+we have to get this boat
+next to that meg.
+
+847
+00:51:00,533 --> 00:51:02,201
+No, we can't.
+
+848
+00:51:02,203 --> 00:51:04,937
+It's already proven
+aggressive towards boats.
+
+849
+00:51:04,939 --> 00:51:07,272
+The safest way to approach
+is without a vehicle.
+
+850
+00:51:07,274 --> 00:51:08,439
+Hold up. Hold up.
+
+851
+00:51:08,441 --> 00:51:09,942
+You want someone
+to swim out there?
+
+852
+00:51:09,944 --> 00:51:12,610
+To a prehistoric shark
+that ate our friend?
+
+853
+00:51:12,612 --> 00:51:15,080
+Actually, one of us alone
+in the water is no threat.
+
+854
+00:51:15,082 --> 00:51:17,717
+Okay, who the hell
+is gonna make that swim?
+
+855
+00:51:19,920 --> 00:51:21,153
+Let's draw straws.
+
+856
+00:51:21,155 --> 00:51:22,722
+I can't swim.
+
+857
+00:51:25,358 --> 00:51:26,591
+Uh...
+
+858
+00:51:26,593 --> 00:51:29,662
+Sorry, my body
+made me say that.
+
+859
+00:51:30,998 --> 00:51:32,933
+You sure about this?
+
+860
+00:51:35,336 --> 00:51:38,136
+Not really.
+
+861
+00:51:38,138 --> 00:51:40,841
+If I get eaten,
+you're gonna feel really bad.
+
+862
+00:51:46,814 --> 00:51:50,084
+This tracker rifle
+only has a 100-foot range.
+
+863
+00:51:50,818 --> 00:51:51,950
+100 feet?
+
+864
+00:51:51,952 --> 00:51:53,854
+Get really close
+before you shoot.
+
+865
+00:51:54,855 --> 00:51:56,420
+Great.
+
+866
+00:51:56,422 --> 00:51:58,522
+If you want me
+to go instead, I will.
+
+867
+00:51:58,524 --> 00:52:00,359
+I got this, Mac.
+
+868
+00:52:00,361 --> 00:52:02,160
+Okay, good,
+'cause I was lying.
+
+869
+00:52:02,162 --> 00:52:03,461
+Be safe.
+
+870
+00:52:03,463 --> 00:52:04,965
+Yeah, thanks, pal.
+
+871
+00:52:08,035 --> 00:52:10,004
+I hope you're right
+about this.
+
+872
+00:52:10,938 --> 00:52:12,172
+Me, too.
+
+873
+00:52:24,151 --> 00:52:25,853
+I'm an idiot.
+
+874
+00:52:37,697 --> 00:52:41,366
+I am proceeding to
+the enormous killer shark.
+
+875
+00:52:41,368 --> 00:52:43,135
+Yeah, we got you, Jonas.
+
+876
+00:52:43,137 --> 00:52:46,171
+<i>Sharks are
+attracted to panic motion.</i>
+
+877
+00:52:46,173 --> 00:52:47,975
+<i>Keep it nice and smooth.</i>
+
+878
+00:52:58,319 --> 00:53:00,187
+It's all gonna be fine.
+
+879
+00:53:06,592 --> 00:53:08,860
+<i>♪ Just keep swimming</i>
+
+880
+00:53:08,862 --> 00:53:11,462
+<i>♪ Just keep swimming</i>
+
+881
+00:53:11,464 --> 00:53:13,832
+<i>♪ Swimming, swimming</i>
+
+882
+00:53:13,834 --> 00:53:15,970
+<i>♪ Just keep swimming</i>
+
+883
+00:53:21,976 --> 00:53:24,677
+Oh, boy,
+it's going under.
+
+884
+00:54:24,171 --> 00:54:25,370
+He's done it.
+
+885
+00:54:25,372 --> 00:54:27,005
+Mac, tracker is live!
+
+886
+00:54:27,007 --> 00:54:28,275
+Great!
+Reel him in, DJ.
+
+887
+00:54:35,315 --> 00:54:36,381
+Stop! Stop!
+
+888
+00:54:36,383 --> 00:54:38,152
+No vibration!
+
+889
+00:54:39,953 --> 00:54:42,521
+Oh, shit. I'm in trouble.
+
+890
+00:54:42,523 --> 00:54:43,889
+Jonas, it's coming at you.
+
+891
+00:54:43,891 --> 00:54:46,525
+You think I didn't notice?
+
+892
+00:54:46,527 --> 00:54:47,995
+Start the boat!
+Start the boat!
+
+893
+00:54:54,268 --> 00:54:56,036
+Pull him in.
+
+894
+00:55:12,086 --> 00:55:14,321
+- Come on! Come on!
+- Come on!
+
+895
+00:55:32,840 --> 00:55:34,940
+You might be
+a son of a bitch,
+
+896
+00:55:34,942 --> 00:55:36,810
+but you're sure as hell
+no coward.
+
+897
+00:55:37,277 --> 00:55:38,609
+Good job.
+
+898
+00:55:53,927 --> 00:55:57,796
+I prepared the spearheads
+to inject etorphine.
+
+899
+00:55:57,798 --> 00:56:00,664
+A killer whale is knocked
+out with 10 CCs.
+
+900
+00:56:00,666 --> 00:56:03,301
+Dead with 20.
+What do you think?
+
+901
+00:56:03,303 --> 00:56:06,039
+I think we use
+the whole damn bottle.
+
+902
+00:56:07,441 --> 00:56:10,708
+Remind me again
+why this is a good idea.
+
+903
+00:56:10,710 --> 00:56:12,978
+What?
+It's a shark cage.
+
+904
+00:56:12,980 --> 00:56:14,980
+Plastic shark cage.
+
+905
+00:56:14,982 --> 00:56:17,449
+I'm gonna ignore
+that you just said that.
+
+906
+00:56:17,451 --> 00:56:19,885
+This beautiful thing
+is polycarbonate,
+
+907
+00:56:19,887 --> 00:56:22,521
+specifically designed
+not to crack,
+
+908
+00:56:22,523 --> 00:56:25,056
+not to break, but to deform.
+
+909
+00:56:25,058 --> 00:56:27,025
+And in this case,
+at this thickness,
+
+910
+00:56:27,027 --> 00:56:30,896
+it would take 20,000 pounds
+per square inch.
+
+911
+00:56:30,898 --> 00:56:32,898
+And if you're talking
+about breaking,
+
+912
+00:56:32,900 --> 00:56:35,435
+that's eight to nine
+hundred thousand.
+
+913
+00:56:38,906 --> 00:56:40,307
+I don't like it.
+
+914
+00:56:44,645 --> 00:56:46,311
+Doesn't like it.
+
+915
+00:56:46,313 --> 00:56:48,015
+I wouldn't get in there.
+
+916
+00:56:49,850 --> 00:56:51,084
+Keep it coming.
+
+917
+00:56:55,155 --> 00:56:56,823
+That's good!
+
+918
+00:57:04,431 --> 00:57:05,465
+Hey.
+
+919
+00:57:06,500 --> 00:57:08,800
+What did he say?
+
+920
+00:57:08,802 --> 00:57:10,635
+He said, "be careful."
+
+921
+00:57:10,637 --> 00:57:12,938
+That's his version
+of I love you.
+
+922
+00:57:12,940 --> 00:57:14,738
+Your father has
+a lot of faith in you.
+
+923
+00:57:14,740 --> 00:57:17,911
+I've done
+hundreds of shark dives.
+
+924
+00:57:19,546 --> 00:57:21,714
+Not like this.
+
+925
+00:57:22,249 --> 00:57:23,383
+Yes.
+
+926
+00:57:24,084 --> 00:57:26,117
+But I know shark anatomy.
+
+927
+00:57:26,119 --> 00:57:27,751
+And I know where this
+
+928
+00:57:27,753 --> 00:57:30,424
+can penetrate through
+megalodon skin.
+
+929
+00:57:32,993 --> 00:57:35,527
+- Suyin, let me go instead...
+- Hey.
+
+930
+00:57:35,529 --> 00:57:38,465
+Don't worry about me.
+Let me do what I do best.
+
+931
+00:58:24,911 --> 00:58:26,478
+<i>Everything okay up there?</i>
+
+932
+00:58:26,480 --> 00:58:29,114
+<i>Just a fresh
+round of chum,</i>
+
+933
+00:58:29,116 --> 00:58:32,117
+so you,
+you know, taste good.
+
+934
+00:58:32,119 --> 00:58:34,786
+<i>I'm so glad
+you're looking out for me.</i>
+
+935
+00:58:34,788 --> 00:58:37,291
+Thank you.
+Bye-bye. Good luck.
+
+936
+00:59:03,417 --> 00:59:04,916
+<i>What's happening
+down there?</i>
+
+937
+00:59:04,918 --> 00:59:06,484
+<i>You okay?</i>
+
+938
+00:59:06,486 --> 00:59:08,553
+<i>Yeah. I'm okay.</i>
+
+939
+00:59:08,555 --> 00:59:12,125
+<i>Just some teeny,
+tiny eight-foot sharks.</i>
+
+940
+00:59:18,965 --> 00:59:21,399
+<i>Here we go.</i>
+
+941
+00:59:23,070 --> 00:59:24,502
+We've got her attention.
+
+942
+00:59:24,504 --> 00:59:26,304
+Suyin, it's on its way.
+
+943
+00:59:26,306 --> 00:59:27,874
+- 50 meters.
+- 50 meters.
+
+944
+00:59:30,844 --> 00:59:32,112
+<i>30.</i>
+
+945
+00:59:33,914 --> 00:59:35,013
+<i>10 meters.</i>
+
+946
+00:59:53,100 --> 00:59:54,301
+<i>Okay.</i>
+
+947
+00:59:55,803 --> 00:59:58,103
+<i>Wow.</i>
+
+948
+00:59:58,105 --> 01:00:00,507
+<i>I'm going to try
+to hit it in the eye.</i>
+
+949
+01:00:02,844 --> 01:00:04,378
+<i>Damn it.</i>
+
+950
+01:00:16,156 --> 01:00:17,722
+Whoa! Watch it.
+
+951
+01:00:17,724 --> 01:00:19,025
+Whoa! Hey!
+
+952
+01:00:29,369 --> 01:00:31,304
+Oh, sh...
+
+953
+01:00:39,312 --> 01:00:41,847
+<i>Yes!
+The poison is in.</i>
+
+954
+01:00:41,849 --> 01:00:44,317
+<i>Okay, Suyin,
+hang in there.</i>
+
+955
+01:00:47,621 --> 01:00:50,121
+<i>I'm trapped!
+I'm in its mouth!</i>
+
+956
+01:00:50,123 --> 01:00:51,756
+That cage will not break.
+
+957
+01:00:51,758 --> 01:00:55,128
+<i>That's the problem.
+The cage is being swallowed.</i>
+
+958
+01:01:08,843 --> 01:01:10,375
+Hell, yeah!
+
+959
+01:01:20,987 --> 01:01:23,390
+- Not this again.
+- Oh, man. Oh, man.
+
+960
+01:01:49,851 --> 01:01:53,987
+<i>New problem. My mask
+is broken. I'm losing air.</i>
+
+961
+01:02:01,061 --> 01:02:02,596
+Help!
+
+962
+01:02:05,999 --> 01:02:07,200
+Help!
+
+963
+01:02:12,272 --> 01:02:14,074
+Come on, Jaxx!
+
+964
+01:02:18,512 --> 01:02:21,047
+- Thank you.
+- You're welcome.
+
+965
+01:02:26,553 --> 01:02:27,887
+<i>No, Jonas.</i>
+
+966
+01:02:27,889 --> 01:02:30,190
+<i>Go! Get back to the ship.</i>
+
+967
+01:02:30,958 --> 01:02:32,659
+<i>It's not safe for you.</i>
+
+968
+01:02:35,262 --> 01:02:37,564
+<i>Jonas, go back.</i>
+
+969
+01:02:38,565 --> 01:02:39,666
+<i>Jonas.</i>
+
+970
+01:02:49,676 --> 01:02:51,911
+<i>Jonas,
+the crane's in the water!</i>
+
+971
+01:02:51,913 --> 01:02:54,214
+<i>It's gonna pull her
+to the bottom. Hurry!</i>
+
+972
+01:02:57,852 --> 01:02:59,785
+Swing the second crane over.
+
+973
+01:02:59,787 --> 01:03:02,556
+We're gonna set a trap.
+Guys, I need some bait.
+
+974
+01:03:24,678 --> 01:03:26,144
+Come on. Got him!
+
+975
+01:03:26,146 --> 01:03:27,681
+Whoa!
+
+976
+01:04:16,396 --> 01:04:18,231
+Over here!
+
+977
+01:04:20,266 --> 01:04:22,903
+This way. Throw a rope.
+
+978
+01:04:24,071 --> 01:04:25,472
+She's not breathing.
+
+979
+01:05:10,851 --> 01:05:12,051
+Whoa, whoa, whoa!
+
+980
+01:05:12,053 --> 01:05:13,518
+Take it easy.
+
+981
+01:05:13,520 --> 01:05:14,855
+You were dead a minute ago.
+
+982
+01:05:15,588 --> 01:05:16,924
+Doctor.
+
+983
+01:05:20,928 --> 01:05:23,494
+You got me out.
+
+984
+01:05:23,496 --> 01:05:25,498
+It was closer
+than I woulda liked.
+
+985
+01:05:26,967 --> 01:05:29,736
+Can I have
+a minute with Jonas?
+
+986
+01:05:31,005 --> 01:05:32,338
+Sure.
+
+987
+01:05:45,218 --> 01:05:48,388
+You saved me. Again.
+
+988
+01:05:49,322 --> 01:05:50,925
+I prefer you alive.
+
+989
+01:05:54,761 --> 01:05:57,230
+There's something
+you might wanna see.
+
+990
+01:05:58,565 --> 01:06:00,264
+Wow.
+
+991
+01:06:00,266 --> 01:06:01,501
+Wow.
+
+992
+01:06:11,244 --> 01:06:13,578
+- Hey! Look who's up.
+- Hey.
+
+993
+01:06:13,580 --> 01:06:16,649
+- How are ya?
+- I'm better. Thank you.
+
+994
+01:06:17,650 --> 01:06:19,450
+Jonas, get a picture of me
+
+995
+01:06:19,452 --> 01:06:21,285
+with this big smelly beast.
+
+996
+01:06:21,287 --> 01:06:23,621
+Okay. Wait. Here.
+
+997
+01:06:23,623 --> 01:06:24,890
+Hey, you want
+a proper picture,
+
+998
+01:06:24,892 --> 01:06:26,359
+get your head inside.
+
+999
+01:06:27,061 --> 01:06:28,326
+- Closer.
+- Closer?
+
+1000
+01:06:28,328 --> 01:06:29,727
+Come on. Get in.
+
+1001
+01:06:29,729 --> 01:06:30,595
+Okay.
+
+1002
+01:06:30,597 --> 01:06:32,732
+Ugh!
+
+1003
+01:06:37,370 --> 01:06:38,636
+Nice one.
+
+1004
+01:06:38,638 --> 01:06:41,305
+Yo, Jonas, please tell me
+you got that.
+
+1005
+01:06:41,307 --> 01:06:43,010
+I got that, DJ.
+
+1006
+01:06:44,044 --> 01:06:45,376
+That's not funny, man!
+
+1007
+01:06:45,378 --> 01:06:46,577
+No, like seriously,
+it's funny.
+
+1008
+01:06:46,579 --> 01:06:48,581
+Look. Watch this.
+
+1009
+01:06:50,450 --> 01:06:52,750
+<i>♪ We got The Wall
+in the water</i>
+
+1010
+01:06:52,752 --> 01:06:54,452
+<i>♪ We got The Wall
+in the water ♪</i>
+
+1011
+01:06:55,755 --> 01:06:57,055
+<i>♪ We got The Wall
+in the water ♪</i>
+
+1012
+01:06:57,057 --> 01:06:58,558
+Hey, Suyin.
+
+1013
+01:06:59,692 --> 01:07:01,461
+Look at him next to the meg.
+
+1014
+01:07:02,695 --> 01:07:06,697
+Look, remember the bite marks
+on the O-Level?
+
+1015
+01:07:06,699 --> 01:07:08,499
+Well, how do you like that?
+
+1016
+01:07:08,501 --> 01:07:11,369
+That was a serious
+man vs. nature moment.
+
+1017
+01:07:11,371 --> 01:07:13,640
+I'm just glad
+things went our way.
+
+1018
+01:07:14,507 --> 01:07:16,409
+It didn't go our way.
+
+1019
+01:07:17,410 --> 01:07:18,946
+Not for Toshi.
+
+1020
+01:07:20,281 --> 01:07:22,482
+And not for science.
+
+1021
+01:07:23,483 --> 01:07:26,118
+We did what people always do.
+
+1022
+01:07:26,120 --> 01:07:29,790
+Discover and then destroy.
+
+1023
+01:07:32,960 --> 01:07:33,926
+Ugh.
+
+1024
+01:07:33,928 --> 01:07:35,560
+Hey, I will end you.
+
+1025
+01:07:35,562 --> 01:07:37,328
+At least you can use this
+as your dating app pic.
+
+1026
+01:07:37,330 --> 01:07:38,831
+Give you a little leg,
+you know.
+
+1027
+01:07:38,833 --> 01:07:39,965
+Yeah!
+
+1028
+01:07:39,967 --> 01:07:41,766
+Oh, yeah!
+
+1029
+01:07:41,768 --> 01:07:43,369
+- Jellyfish.
+- Whoo-hoo!
+
+1030
+01:08:23,576 --> 01:08:25,777
+Two! There's two?
+
+1031
+01:08:25,779 --> 01:08:27,480
+Nobody said there were two.
+
+1032
+01:08:28,349 --> 01:08:30,315
+How are there two?
+
+1033
+01:08:30,317 --> 01:08:31,716
+Help me!
+Get me out of this water!
+
+1034
+01:08:31,718 --> 01:08:34,152
+Help! Somebody help, please!
+
+1035
+01:08:34,154 --> 01:08:35,586
+Help!
+
+1036
+01:08:35,588 --> 01:08:37,055
+What is wrong with you?
+
+1037
+01:08:37,057 --> 01:08:39,224
+I can't... I can't swim.
+
+1038
+01:08:39,226 --> 01:08:41,126
+No! Get outta here! Really?
+
+1039
+01:08:41,128 --> 01:08:42,895
+Don't pull that
+racist stuff on me.
+
+1040
+01:08:42,897 --> 01:08:43,929
+Oh, come on, man.
+
+1041
+01:08:43,931 --> 01:08:45,596
+Give me a break.
+I'm not being racist.
+
+1042
+01:08:45,598 --> 01:08:49,968
+You work, literally,
+in the middle of the ocean.
+
+1043
+01:08:49,970 --> 01:08:51,870
+This wasn't
+part of the job description.
+
+1044
+01:08:51,872 --> 01:08:54,339
+None of this was part
+of the job description!
+
+1045
+01:08:54,341 --> 01:08:55,976
+They left that part out!
+
+1046
+01:09:07,453 --> 01:09:08,719
+It's time
+to get some real help.
+
+1047
+01:09:08,721 --> 01:09:10,421
+Yeah. Go get some help.
+
+1048
+01:09:13,027 --> 01:09:14,326
+I'm quitting.
+
+1049
+01:09:14,328 --> 01:09:16,830
+Mac! Give me a hand.
+
+1050
+01:09:21,701 --> 01:09:24,803
+Hey, I need you
+to find my location.
+
+1051
+01:09:24,805 --> 01:09:27,339
+Track my sat phone.
+There's a second shark.
+
+1052
+01:09:27,341 --> 01:09:28,907
+Yes, two.
+
+1053
+01:09:28,909 --> 01:09:30,541
+How the hell should I know?
+
+1054
+01:09:30,543 --> 01:09:32,643
+Just hurry up
+and get us some help.
+
+1055
+01:09:32,645 --> 01:09:33,779
+Thank you, Jonas. Thank you.
+
+1056
+01:09:33,781 --> 01:09:35,047
+Bring whatever
+you got!
+
+1057
+01:09:35,049 --> 01:09:37,182
+Just relax. Relax.
+
+1058
+01:09:37,184 --> 01:09:38,749
+It's not good.
+
+1059
+01:09:38,751 --> 01:09:40,618
+He needs a hospital fast.
+
+1060
+01:09:40,620 --> 01:09:43,055
+Let's get the doctor.
+Where's Doctor Heller?
+
+1061
+01:09:44,457 --> 01:09:45,658
+Jaxx?
+
+1062
+01:09:46,427 --> 01:09:48,427
+Jaxx, you okay?
+
+1063
+01:09:48,429 --> 01:09:50,663
+Yeah! Kind of.
+
+1064
+01:09:53,200 --> 01:09:54,632
+Jaxx...
+
+1065
+01:09:54,634 --> 01:09:56,467
+We can do this.
+
+1066
+01:09:56,469 --> 01:09:58,138
+Swim gently back to the boat.
+
+1067
+01:09:58,738 --> 01:10:00,640
+Nice and easy.
+
+1068
+01:10:05,712 --> 01:10:07,446
+Here it comes!
+
+1069
+01:10:07,448 --> 01:10:08,715
+Heller!
+
+1070
+01:10:09,383 --> 01:10:11,018
+We're not gonna make it.
+
+1071
+01:10:12,386 --> 01:10:13,684
+Jaxx.
+
+1072
+01:10:13,686 --> 01:10:15,087
+You're gonna be okay.
+
+1073
+01:10:15,089 --> 01:10:17,992
+- You're a good person, Jaxx.
+- Wait, what?
+
+1074
+01:10:18,691 --> 01:10:20,158
+Don't look back.
+
+1075
+01:10:20,160 --> 01:10:21,559
+- Hey!
+- No!
+
+1076
+01:10:21,561 --> 01:10:22,660
+Heller, no!
+
+1077
+01:10:22,662 --> 01:10:24,096
+- What are you doing?
+- Hey!
+
+1078
+01:10:24,098 --> 01:10:25,831
+Hey, come on!
+
+1079
+01:10:25,833 --> 01:10:28,902
+Hey! Hey, come on!
+
+1080
+01:10:29,502 --> 01:10:30,703
+Hey!
+
+1081
+01:10:33,207 --> 01:10:35,042
+Heller!
+
+1082
+01:10:44,318 --> 01:10:46,550
+Almost there.
+
+1083
+01:10:46,552 --> 01:10:48,989
+- Come on.
+- We got you.
+
+1084
+01:10:51,724 --> 01:10:54,625
+It's okay, Jaxx.
+
+1085
+01:10:54,627 --> 01:10:56,196
+You're gonna be okay.
+
+1086
+01:11:03,536 --> 01:11:08,140
+Thank you, Heller, thank you.
+
+1087
+01:11:08,142 --> 01:11:10,809
+What was that?
+What the hell was that?
+
+1088
+01:11:10,811 --> 01:11:12,978
+- Okay, come on, DJ.
+- No! No!
+
+1089
+01:11:12,980 --> 01:11:14,946
+This is why we don't
+leave the station, okay?
+
+1090
+01:11:14,948 --> 01:11:16,782
+That's why you don't do that!
+
+1091
+01:11:16,784 --> 01:11:19,184
+And you went down there
+and you pissed it off,
+
+1092
+01:11:19,186 --> 01:11:21,953
+now it's gonna come back
+and kill every one of us!
+
+1093
+01:11:21,955 --> 01:11:23,422
+Now what are we
+supposed to do?
+
+1094
+01:11:23,424 --> 01:11:25,157
+I shouldn't even be out here
+in the first place.
+
+1095
+01:11:25,159 --> 01:11:28,026
+Swimming in this ocean.
+That one ate the other one.
+
+1096
+01:11:28,028 --> 01:11:30,095
+Is another one
+gonna eat this one?
+
+1097
+01:11:30,097 --> 01:11:31,999
+Man, it's...
+
+1098
+01:11:33,200 --> 01:11:35,100
+It just killed Heller.
+
+1099
+01:11:35,102 --> 01:11:38,238
+It killed The Wall.
+It killed Toshi.
+
+1100
+01:11:40,606 --> 01:11:42,810
+These are my friends, man.
+
+1101
+01:11:51,717 --> 01:11:52,918
+Okay,
+can I just point out
+
+1102
+01:11:52,920 --> 01:11:54,319
+that this thing is sinking?
+
+1103
+01:11:54,321 --> 01:11:55,619
+What are we gonna do now?
+
+1104
+01:11:55,621 --> 01:11:56,857
+Where's Mac?
+
+1105
+01:12:11,972 --> 01:12:12,973
+Yes!
+
+1106
+01:12:27,488 --> 01:12:29,454
+What happened to your hair?
+
+1107
+01:12:29,456 --> 01:12:30,791
+What happened to your hair?
+
+1108
+01:12:31,657 --> 01:12:32,926
+Touche.
+
+1109
+01:12:34,660 --> 01:12:35,896
+Guys!
+
+1110
+01:12:38,664 --> 01:12:40,067
+That thing is the devil.
+
+1111
+01:12:41,101 --> 01:12:43,301
+10 miles, it's still with us.
+
+1112
+01:12:43,303 --> 01:12:44,970
+You got us?
+
+1113
+01:12:44,972 --> 01:12:47,139
+The ocean. The middle
+of a freaking ocean!
+
+1114
+01:12:47,141 --> 01:12:48,607
+Do you think
+it'd slow down the shark
+
+1115
+01:12:48,609 --> 01:12:50,944
+if we threw him over?
+
+1116
+01:12:52,012 --> 01:12:54,479
+You got to work on yourself.
+
+1117
+01:12:54,481 --> 01:12:55,713
+Okay. Good news, guys.
+
+1118
+01:12:55,715 --> 01:12:57,151
+It's payback time.
+
+1119
+01:12:58,785 --> 01:13:00,753
+Oh, yeah!
+
+1120
+01:13:33,187 --> 01:13:34,619
+Yes! Get some!
+
+1121
+01:13:34,621 --> 01:13:36,354
+You seriously think
+that a rifle
+
+1122
+01:13:36,356 --> 01:13:37,355
+is gonna hurt that thing?
+
+1123
+01:13:37,357 --> 01:13:39,257
+I didn't have
+much notice, okay?
+
+1124
+01:13:39,259 --> 01:13:41,795
+I just wanted to get it
+off our backs.
+
+1125
+01:13:42,596 --> 01:13:43,795
+Well done, Morris.
+
+1126
+01:13:43,797 --> 01:13:45,098
+Whoo!
+
+1127
+01:15:34,975 --> 01:15:36,107
+It's okay.
+
+1128
+01:15:36,109 --> 01:15:38,478
+Mummy! Mummy!
+
+1129
+01:15:39,680 --> 01:15:41,882
+Welcome back, Mummy.
+
+1130
+01:16:30,832 --> 01:16:32,132
+Come in.
+
+1131
+01:16:38,038 --> 01:16:39,473
+How's Meiying?
+
+1132
+01:16:40,941 --> 01:16:42,874
+She's sad.
+
+1133
+01:16:42,876 --> 01:16:45,245
+And confused.
+
+1134
+01:16:46,580 --> 01:16:48,048
+How are you?
+
+1135
+01:16:49,851 --> 01:16:52,619
+I really don't want
+to accept it.
+
+1136
+01:16:55,355 --> 01:17:00,158
+Sometimes things happen
+that change your life forever.
+
+1137
+01:17:00,160 --> 01:17:02,795
+Meanwhile,
+the world just keeps going.
+
+1138
+01:17:02,797 --> 01:17:07,200
+You think maybe it would stop
+just for a second...
+
+1139
+01:17:09,703 --> 01:17:11,569
+But it doesn't.
+
+1140
+01:17:11,571 --> 01:17:13,440
+How do you live with it?
+
+1141
+01:17:14,842 --> 01:17:16,076
+I don't.
+
+1142
+01:17:17,043 --> 01:17:20,745
+I left my two best friends
+to die.
+
+1143
+01:17:20,747 --> 01:17:23,648
+I think about it
+all the time.
+
+1144
+01:17:23,650 --> 01:17:25,452
+Every day I replay it.
+
+1145
+01:17:26,686 --> 01:17:29,354
+Could I have done more?
+
+1146
+01:17:29,356 --> 01:17:32,392
+It's not just about
+the ones you lose.
+
+1147
+01:17:34,294 --> 01:17:38,365
+It's also about
+the ones you save.
+
+1148
+01:17:43,603 --> 01:17:45,405
+I'm glad you're here.
+
+1149
+01:17:57,551 --> 01:18:00,518
+I've informed the Chinese
+government about the meg.
+
+1150
+01:18:00,520 --> 01:18:03,321
+As well as the authorities
+in Thailand,
+
+1151
+01:18:03,323 --> 01:18:05,623
+Vietnam, Indonesia,
+and Australia.
+
+1152
+01:18:05,625 --> 01:18:09,795
+The Chinese are sending
+two destroyers to take it out.
+
+1153
+01:18:09,797 --> 01:18:12,230
+So, this is now officially
+
+1154
+01:18:12,232 --> 01:18:15,001
+and thankfully
+out of our hands.
+
+1155
+01:18:17,704 --> 01:18:19,306
+I'm closing <i>Mana One</i>
+
+1156
+01:18:20,240 --> 01:18:22,607
+until the meg is killed
+
+1157
+01:18:22,609 --> 01:18:26,978
+and an evacuation ship is
+coming here tomorrow morning.
+
+1158
+01:18:26,980 --> 01:18:28,546
+You damn right.
+
+1159
+01:18:28,548 --> 01:18:31,351
+And finally,
+I just want to say
+
+1160
+01:18:35,957 --> 01:18:39,659
+I'm sorry for your losses.
+
+1161
+01:18:40,828 --> 01:18:42,629
+Your friends.
+
+1162
+01:18:44,397 --> 01:18:47,067
+I came here
+to celebrate with you,
+
+1163
+01:18:49,436 --> 01:18:51,571
+and now I'm mourning with you.
+
+1164
+01:19:05,485 --> 01:19:07,387
+Thanks for saving our asses.
+
+1165
+01:19:16,730 --> 01:19:18,663
+What do you got for me?
+
+1166
+01:19:18,665 --> 01:19:21,666
+These are Semtex high velocity
+demolition charges.
+
+1167
+01:19:21,668 --> 01:19:24,769
+I had the men rig delay fuses
+to give them time to sink.
+
+1168
+01:19:24,771 --> 01:19:27,340
+Essentially,
+they're depth charges.
+
+1169
+01:19:29,175 --> 01:19:30,708
+That's right.
+
+1170
+01:19:30,710 --> 01:19:34,045
+I'm not sure this is
+a advisable course of action.
+
+1171
+01:19:34,047 --> 01:19:37,415
+Every person that gets maimed
+or killed by that thing
+
+1172
+01:19:37,417 --> 01:19:38,817
+is a potential lawsuit.
+
+1173
+01:19:38,819 --> 01:19:40,320
+A potential casualty.
+
+1174
+01:19:41,688 --> 01:19:44,556
+Relax, bro.
+It's gonna be fun.
+
+1175
+01:19:48,194 --> 01:19:51,563
+- I can see your cards.
+- Well, look at you two crooks.
+
+1176
+01:19:51,565 --> 01:19:52,798
+Hey.
+
+1177
+01:19:52,800 --> 01:19:54,732
+How are you feeling?
+
+1178
+01:19:54,734 --> 01:19:55,767
+Like I got off easy,
+
+1179
+01:19:55,769 --> 01:19:57,237
+compared to
+the rest of you guys.
+
+1180
+01:19:57,872 --> 01:19:59,105
+Mmm.
+
+1181
+01:19:59,807 --> 01:20:01,272
+What do you got up there?
+
+1182
+01:20:01,274 --> 01:20:02,473
+Three kings.
+
+1183
+01:20:02,475 --> 01:20:05,743
+What? Come on! Every time.
+
+1184
+01:20:05,745 --> 01:20:07,913
+You owe me
+a soda for that one.
+
+1185
+01:20:07,915 --> 01:20:09,714
+Fine.
+
+1186
+01:20:09,716 --> 01:20:11,850
+We'll square up
+when you get back, okay?
+
+1187
+01:20:11,852 --> 01:20:14,619
+Fine. Fine. Fine.
+
+1188
+01:20:14,621 --> 01:20:16,654
+Just trying to take her mind
+off things, you know.
+
+1189
+01:20:16,656 --> 01:20:18,692
+She's tougher than me,
+that's for sure.
+
+1190
+01:20:22,562 --> 01:20:24,629
+I'm sorry
+I didn't believe you.
+
+1191
+01:20:24,631 --> 01:20:27,165
+Well, you didn't
+call me crazy.
+
+1192
+01:20:27,167 --> 01:20:28,968
+Yeah, but I didn't
+call you sane.
+
+1193
+01:20:28,970 --> 01:20:32,272
+Yeah, well, "sane" wasn't
+a word I heard very often.
+
+1194
+01:20:34,274 --> 01:20:35,941
+So, what now?
+
+1195
+01:20:35,943 --> 01:20:38,676
+I don't know.
+Go back to Thailand, I guess.
+
+1196
+01:20:38,678 --> 01:20:40,745
+Mac told me
+about you and Suyin.
+
+1197
+01:20:40,747 --> 01:20:44,582
+- Nothing to tell.
+- Well, maybe there could be.
+
+1198
+01:20:44,584 --> 01:20:45,884
+You and Mac are unbelievable.
+
+1199
+01:20:45,886 --> 01:20:48,854
+How about you just
+try something new?
+
+1200
+01:20:48,856 --> 01:20:51,189
+So the rest of your life
+isn't a vast wasteland
+
+1201
+01:20:51,191 --> 01:20:53,959
+of misery and solitude.
+
+1202
+01:20:53,961 --> 01:20:56,361
+I think that's a good idea.
+
+1203
+01:20:56,363 --> 01:20:57,695
+You do, huh?
+
+1204
+01:20:57,697 --> 01:20:59,564
+Eight-year-olds
+hear everything.
+
+1205
+01:20:59,566 --> 01:21:01,768
+Jonas...
+
+1206
+01:21:05,372 --> 01:21:07,707
+My mom likes you, too.
+
+1207
+01:21:12,278 --> 01:21:15,415
+This is possibly
+the worst moment of my life.
+
+1208
+01:21:18,351 --> 01:21:19,985
+<i>Approaching target area.</i>
+
+1209
+01:21:19,987 --> 01:21:21,388
+<i>I'll confirm visual.</i>
+
+1210
+01:21:23,623 --> 01:21:25,858
+Let me make myself
+absolutely clear.
+
+1211
+01:21:25,860 --> 01:21:28,493
+We are not getting within
+a mile of that monster
+
+1212
+01:21:28,495 --> 01:21:30,528
+until the helicopter kills it.
+
+1213
+01:21:30,530 --> 01:21:32,664
+<i>We have a visual
+on the target.</i>
+
+1214
+01:21:32,666 --> 01:21:34,198
+Stop the boat.
+
+1215
+01:21:34,200 --> 01:21:35,402
+Stop the boat.
+
+1216
+01:21:38,304 --> 01:21:40,240
+<i>Deploying
+depth charges.</i>
+
+1217
+01:21:54,187 --> 01:21:55,455
+We got him.
+
+1218
+01:21:57,058 --> 01:21:58,389
+Hit it again.
+
+1219
+01:21:58,391 --> 01:21:59,457
+<i>Sir,
+there's no way possible...</i>
+
+1220
+01:21:59,459 --> 01:22:00,660
+Hit it again.
+
+1221
+01:22:07,134 --> 01:22:10,401
+<i>Target is dead.
+Repeat, target is dead.</i>
+
+1222
+01:22:10,403 --> 01:22:12,004
+Are you absolutely sure?
+
+1223
+01:22:12,006 --> 01:22:13,172
+Because I'm not getting eaten
+
+1224
+01:22:13,174 --> 01:22:14,907
+by some goddamn
+prehistoric fish.
+
+1225
+01:22:14,909 --> 01:22:17,475
+<i>Affirmative, sir.
+There's, uh...</i>
+
+1226
+01:22:17,477 --> 01:22:20,244
+Well, there's pieces of it
+all over the place.
+
+1227
+01:22:20,246 --> 01:22:22,346
+<i>Shark chunks?</i>
+
+1228
+01:22:22,348 --> 01:22:24,049
+That's a good sign.
+
+1229
+01:22:24,051 --> 01:22:26,821
+All right. Take us in.
+
+1230
+01:22:34,260 --> 01:22:35,794
+Oh!
+
+1231
+01:22:35,796 --> 01:22:37,863
+Jump down there,
+get me a couple of teeth.
+
+1232
+01:22:37,865 --> 01:22:38,931
+Big ones for my desk.
+
+1233
+01:22:38,933 --> 01:22:41,001
+- All right.
+- Keep one for yourself.
+
+1234
+01:22:41,969 --> 01:22:43,570
+Nice.
+
+1235
+01:22:46,539 --> 01:22:48,008
+Oh, you seeing this?
+
+1236
+01:22:49,409 --> 01:22:50,643
+Crazy.
+
+1237
+01:22:55,850 --> 01:22:57,650
+That's sick.
+
+1238
+01:23:02,990 --> 01:23:04,357
+That's weird.
+
+1239
+01:23:09,696 --> 01:23:12,430
+Oh, man!
+Don't do that to me.
+
+1240
+01:23:12,432 --> 01:23:14,332
+That thing
+doesn't have any teeth.
+
+1241
+01:23:14,334 --> 01:23:15,968
+What?
+
+1242
+01:23:15,970 --> 01:23:17,537
+I think we killed a whale.
+
+1243
+01:23:20,607 --> 01:23:22,408
+It's right below us.
+
+1244
+01:23:23,309 --> 01:23:24,577
+Get us outta here!
+
+1245
+01:23:29,649 --> 01:23:32,117
+Wait! Wait,
+you idiots! Wait!
+
+1246
+01:23:32,119 --> 01:23:34,054
+I'm over here! Wait!
+
+1247
+01:23:36,456 --> 01:23:38,758
+Oh, no!
+
+1248
+01:23:59,246 --> 01:24:00,547
+Oh!
+
+1249
+01:24:12,725 --> 01:24:16,329
+Yeah, I understand.
+I understand, yep. Thank you.
+
+1250
+01:24:18,199 --> 01:24:20,565
+Let me guess,
+Morris never called anyone.
+
+1251
+01:24:20,567 --> 01:24:21,834
+Didn't call anyone.
+
+1252
+01:24:21,836 --> 01:24:23,501
+No one knows
+the shark's out there.
+
+1253
+01:24:23,503 --> 01:24:25,304
+No one. Not the Australians,
+
+1254
+01:24:25,306 --> 01:24:26,637
+not the Chinese. No one.
+
+1255
+01:24:26,639 --> 01:24:28,140
+The hell was he thinking?
+
+1256
+01:24:28,142 --> 01:24:30,575
+He wanted to make this go away
+as quietly as possible.
+
+1257
+01:24:30,577 --> 01:24:31,742
+Mac, we need
+to let everyone...
+
+1258
+01:24:31,744 --> 01:24:33,145
+Let everyone know.
+Yeah, I'm on it.
+
+1259
+01:24:33,147 --> 01:24:34,645
+Jaxx, can you find that thing?
+
+1260
+01:24:34,647 --> 01:24:36,281
+Wait, wait, wait.
+Why're you asking her that?
+
+1261
+01:24:36,283 --> 01:24:38,551
+I don't like the fact that you
+asking her about that thing.
+
+1262
+01:24:39,552 --> 01:24:40,919
+You want me
+to illegally hack
+
+1263
+01:24:40,921 --> 01:24:42,720
+into Morris' satellite
+tracking system
+
+1264
+01:24:42,722 --> 01:24:45,257
+- to find a prehistoric shark?
+- Yeah.
+
+1265
+01:24:45,259 --> 01:24:46,757
+Okay.
+
+1266
+01:24:46,759 --> 01:24:49,194
+We use a tracker,
+find the meg, and we kill it.
+
+1267
+01:24:49,196 --> 01:24:50,396
+Bro.
+
+1268
+01:24:52,432 --> 01:24:53,832
+We really gonna do this?
+
+1269
+01:24:53,834 --> 01:24:55,733
+A lot of people are gonna die
+if we don't, Mac.
+
+1270
+01:24:55,735 --> 01:24:57,236
+- Well, I'm in.
+- Me, too.
+
+1271
+01:24:57,238 --> 01:24:59,004
+Let's do this.
+
+1272
+01:24:59,006 --> 01:25:01,439
+How do you feel about
+commandeering that evac ship?
+
+1273
+01:25:01,441 --> 01:25:03,608
+I'd say,
+
+1274
+01:25:03,610 --> 01:25:05,445
+it's a great day
+to go fishing.
+
+1275
+01:25:06,579 --> 01:25:07,779
+Now let's get
+everything on it.
+
+1276
+01:25:07,781 --> 01:25:09,747
+Construction explosives,
+gliders.
+
+1277
+01:25:09,749 --> 01:25:11,149
+The whole lot. Everything.
+
+1278
+01:25:11,151 --> 01:25:13,185
+Because we're about
+to evac, right?
+
+1279
+01:25:13,187 --> 01:25:14,485
+Like evacuate?
+
+1280
+01:25:14,487 --> 01:25:16,654
+Like, leave the area
+of imminent danger
+
+1281
+01:25:16,656 --> 01:25:20,627
+and go to a safe place
+like normal people?
+
+1282
+01:25:31,272 --> 01:25:32,703
+What we got, Jaxx?
+Anything?
+
+1283
+01:25:32,705 --> 01:25:35,406
+Yeah. Here's where we saw
+Morris attack the shark.
+
+1284
+01:25:35,408 --> 01:25:38,076
+But here is where it's going.
+
+1285
+01:25:38,078 --> 01:25:39,543
+Sanya Bay. What's there?
+
+1286
+01:25:39,545 --> 01:25:40,678
+Oh, nothing.
+
+1287
+01:25:40,680 --> 01:25:41,980
+It only has some of the most
+
+1288
+01:25:41,982 --> 01:25:43,949
+densely populated beaches
+in the world.
+
+1289
+01:25:43,951 --> 01:25:45,350
+Any luck with the authorities?
+
+1290
+01:25:45,352 --> 01:25:46,785
+No.
+
+1291
+01:25:46,787 --> 01:25:49,187
+"Prehistoric shark" sounds
+like a damn prank call.
+
+1292
+01:25:49,189 --> 01:25:51,223
+We can't rely on them
+for anything.
+
+1293
+01:25:51,225 --> 01:25:53,225
+How long until the
+shark gets to those people?
+
+1294
+01:25:53,227 --> 01:25:54,425
+20 minutes.
+
+1295
+01:25:54,427 --> 01:25:56,228
+- Can we get there first?
+- Doubtful.
+
+1296
+01:25:56,230 --> 01:25:57,561
+Yeah, we're gonna have to.
+
+1297
+01:25:57,563 --> 01:25:58,696
+Getting there first
+won't mean anything
+
+1298
+01:25:58,698 --> 01:26:00,265
+if we don't have a plan.
+
+1299
+01:26:00,267 --> 01:26:02,169
+Maybe we have a plan.
+
+1300
+01:26:05,039 --> 01:26:07,705
+Here's where we do it.
+Right here in the shallows.
+
+1301
+01:26:07,707 --> 01:26:09,473
+Use the gliders
+and go after it.
+
+1302
+01:26:09,475 --> 01:26:11,410
+Okay, so, how are we
+gonna get it here,
+
+1303
+01:26:11,412 --> 01:26:14,179
+when there's a beach full
+of people to eat right here?
+
+1304
+01:26:14,181 --> 01:26:16,616
+You ask it out for dinner.
+
+1305
+01:26:28,829 --> 01:26:31,497
+So...
+How do you wanna do this?
+
+1306
+01:26:32,399 --> 01:26:33,934
+Is that you asking my opinion?
+
+1307
+01:26:34,567 --> 01:26:35,766
+No.
+
+1308
+01:26:35,768 --> 01:26:37,369
+I was just being polite
+
+1309
+01:26:37,371 --> 01:26:40,604
+before telling you
+what we're actually doing,
+
+1310
+01:26:40,606 --> 01:26:42,374
+so you feel
+better about yourself.
+
+1311
+01:26:42,376 --> 01:26:43,743
+Appreciate that.
+
+1312
+01:26:50,951 --> 01:26:51,952
+What?
+
+1313
+01:26:52,419 --> 01:26:54,086
+Nothing.
+
+1314
+01:26:54,088 --> 01:26:55,155
+We're ready.
+
+1315
+01:28:18,072 --> 01:28:20,238
+Pippin!
+
+1316
+01:29:46,426 --> 01:29:47,928
+Oh, my God!
+
+1317
+01:29:59,239 --> 01:30:01,173
+We're close enough.
+Stop here.
+
+1318
+01:30:01,175 --> 01:30:03,408
+Jaxx, DJ, we gotta get
+that thing in the water.
+
+1319
+01:30:03,410 --> 01:30:04,444
+Yeah, we're on it.
+
+1320
+01:31:01,401 --> 01:31:05,105
+Shark! Shark!
+
+1321
+01:33:10,397 --> 01:33:12,530
+<i>Any last
+thoughts about our plan?</i>
+
+1322
+01:33:12,532 --> 01:33:14,599
+Not dying
+would be a good start.
+
+1323
+01:33:14,601 --> 01:33:17,068
+Finally,
+we agree on something.
+
+1324
+01:33:17,070 --> 01:33:19,304
+<i>Let's not make it a habit.</i>
+
+1325
+01:33:19,306 --> 01:33:21,108
+<i>Suyin, look out!
+Get out of there!</i>
+
+1326
+01:33:32,052 --> 01:33:33,551
+- Damn it!
+- What's wrong, Jonas?
+
+1327
+01:33:33,553 --> 01:33:36,089
+Can't make the shot.
+It's too close to the ship.
+
+1328
+01:33:37,457 --> 01:33:38,492
+Jesus!
+
+1329
+01:33:40,862 --> 01:33:42,460
+<i>Jonas, it's on you.</i>
+
+1330
+01:33:42,462 --> 01:33:43,497
+Mac!
+
+1331
+01:33:46,868 --> 01:33:48,366
+Jonas, what's going on
+down there?
+
+1332
+01:33:48,368 --> 01:33:50,370
+Trying to stay
+out of its mouth.
+
+1333
+01:34:12,025 --> 01:34:13,226
+Jeez!
+
+1334
+01:34:21,067 --> 01:34:22,335
+Oops.
+
+1335
+01:34:24,204 --> 01:34:25,770
+<i>Suyin, are you set?
+I'm coming to you.</i>
+
+1336
+01:34:25,772 --> 01:34:27,472
+I'm in position.
+
+1337
+01:34:27,474 --> 01:34:28,908
+<i>Shark's getting close.</i>
+
+1338
+01:34:28,910 --> 01:34:30,610
+I need a little
+breathing room.
+
+1339
+01:34:36,918 --> 01:34:39,286
+- I'm ready to fire.
+<i>- Take the shot.</i>
+
+1340
+01:34:41,087 --> 01:34:42,322
+<i>Move! Move!</i>
+
+1341
+01:35:03,176 --> 01:35:05,477
+Anybody see it?
+
+1342
+01:35:05,479 --> 01:35:07,245
+<i>Can't see the shark, but
+something's going on up here.</i>
+
+1343
+01:35:17,390 --> 01:35:19,726
+<i>Okay,
+I've got her attention.</i>
+
+1344
+01:35:22,996 --> 01:35:24,197
+Bring her to me.
+
+1345
+01:35:24,799 --> 01:35:26,066
+Here we come.
+
+1346
+01:35:29,035 --> 01:35:31,071
+Make your move, Suyin.
+
+1347
+01:35:34,474 --> 01:35:36,710
+Chew on this,
+you ugly bastard.
+
+1348
+01:35:40,080 --> 01:35:41,782
+No, no, no! Shit!
+
+1349
+01:35:43,885 --> 01:35:45,085
+Jeez!
+
+1350
+01:36:09,609 --> 01:36:12,445
+No, no, no. Go! Go! Go!
+
+1351
+01:36:24,124 --> 01:36:26,291
+- Where's DJ?
+- I don't know.
+
+1352
+01:36:26,293 --> 01:36:27,659
+- Where's Meiying?
+- I don't know!
+
+1353
+01:36:27,661 --> 01:36:29,795
+- <i>I couldn't see her anywhere.</i>
+- Jonas.
+
+1354
+01:36:29,797 --> 01:36:31,765
+- <i>Sorry, I...</i>
+- Go, go. Take care of Meiying.
+
+1355
+01:36:39,539 --> 01:36:40,839
+Jonas!
+
+1356
+01:36:40,841 --> 01:36:43,310
+<i>I'm okay. I'm leading
+it away from the ship.</i>
+
+1357
+01:36:46,580 --> 01:36:50,049
+- Oh, my God! Gotta get...
+- Stop splashing!
+
+1358
+01:36:50,051 --> 01:36:52,250
+You have a life jacket on!
+
+1359
+01:36:52,252 --> 01:36:54,285
+- A life jacket?
+- Yep.
+
+1360
+01:36:54,287 --> 01:36:56,421
+Oh, yeah.
+I've got a life jacket on.
+
+1361
+01:36:56,423 --> 01:36:58,425
+It's right here. I can...
+
+1362
+01:36:59,125 --> 01:37:00,859
+The monster's here.
+
+1363
+01:37:00,861 --> 01:37:02,293
+The monster's here?
+
+1364
+01:37:02,295 --> 01:37:03,528
+No, don't worry
+about the monster, I got you.
+
+1365
+01:37:03,530 --> 01:37:05,833
+- Everything's fine.
+- Stop talking.
+
+1366
+01:37:10,037 --> 01:37:11,235
+Meiying!
+
+1367
+01:37:11,237 --> 01:37:13,338
+Mummy! It's you!
+
+1368
+01:37:13,340 --> 01:37:15,740
+That's good! Wait! Wait!
+Wait for me.
+
+1369
+01:37:15,742 --> 01:37:18,276
+Wait for DJ,
+wait for DJ. Yeah.
+
+1370
+01:37:18,278 --> 01:37:19,546
+- Yes.
+- Come on.
+
+1371
+01:37:20,948 --> 01:37:22,883
+Mummy, are you okay?
+
+1372
+01:37:24,785 --> 01:37:26,284
+I'm okay.
+
+1373
+01:37:26,286 --> 01:37:28,421
+I'm okay, too.
+
+1374
+01:37:31,358 --> 01:37:32,559
+Come on. Come up!
+
+1375
+01:37:34,427 --> 01:37:36,895
+- Meiying, be careful.
+- Jonas!
+
+1376
+01:37:36,897 --> 01:37:38,864
+Careful! Careful!
+
+1377
+01:37:38,866 --> 01:37:40,833
+- There it is.
+- Oh, my God.
+
+1378
+01:37:40,835 --> 01:37:42,333
+Jonas!
+
+1379
+01:37:42,335 --> 01:37:43,601
+It's coming.
+
+1380
+01:37:43,603 --> 01:37:44,903
+We're sitting ducks
+up here, Jonas.
+
+1381
+01:37:44,905 --> 01:37:46,604
+<i>- Mummy!</i>
+<i>- It's coming.</i>
+
+1382
+01:37:46,606 --> 01:37:48,473
+<i>- Can you hear me, Jonas?</i>
+<i>- Meiying, hold on.</i>
+
+1383
+01:37:48,475 --> 01:37:50,208
+<i>Suyin, we're gonna
+have to go. Through here.</i>
+
+1384
+01:37:50,210 --> 01:37:52,710
+Jonas, we've got nothing left.
+
+1385
+01:37:52,712 --> 01:37:54,379
+Almost nothing.
+
+1386
+01:37:54,381 --> 01:37:56,048
+How're you gonna kill it?
+
+1387
+01:37:56,050 --> 01:37:57,248
+<i>Evolution.</i>
+
+1388
+01:37:57,250 --> 01:37:59,517
+I'm gonna
+make this thing bleed.
+
+1389
+01:37:59,519 --> 01:38:01,787
+<i>Suyin, what you said before,
+you were right.</i>
+
+1390
+01:38:01,789 --> 01:38:03,690
+It's not about
+the people you lose.
+
+1391
+01:38:05,826 --> 01:38:07,895
+<i>It's about the people
+you save.</i>
+
+1392
+01:38:09,596 --> 01:38:11,331
+- Signing off.
+<i>- Jonas!</i>
+
+1393
+01:38:18,371 --> 01:38:19,539
+Here we go.
+
+1394
+01:38:26,479 --> 01:38:28,849
+How do you like that? Bleed!
+
+1395
+01:38:37,490 --> 01:38:38,893
+Come on, come on, come on.
+
+1396
+01:38:49,103 --> 01:38:50,169
+Come on.
+
+1397
+01:40:45,286 --> 01:40:46,519
+Hey!
+
+1398
+01:40:47,021 --> 01:40:48,055
+Hey!
+
+1399
+01:40:52,392 --> 01:40:53,593
+Yes!
+
+1400
+01:41:21,889 --> 01:41:22,890
+Thank you.
+
+1401
+01:41:26,759 --> 01:41:28,526
+Beep-beep!
+Coming through, Crazy.
+
+1402
+01:41:28,528 --> 01:41:29,964
+- Hi.
+- Look who it is.
+
+1403
+01:41:33,466 --> 01:41:34,632
+Well,
+
+1404
+01:41:34,634 --> 01:41:36,971
+here's to being alive.
+
+1405
+01:41:40,440 --> 01:41:41,976
+And to our friends.
+
+1406
+01:41:48,448 --> 01:41:49,649
+Cheers!
+
+1407
+01:41:53,686 --> 01:41:55,486
+I don't know about you.
+
+1408
+01:41:55,488 --> 01:41:58,489
+But, uh,
+I could use a vacation.
+
+1409
+01:41:58,491 --> 01:42:00,027
+Shall we ask my mum?
+
