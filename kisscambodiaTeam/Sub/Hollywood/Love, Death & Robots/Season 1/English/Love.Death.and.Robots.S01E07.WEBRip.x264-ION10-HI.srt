@@ -1,0 +1,881 @@
+﻿1
+00:00:55,213 --> 00:00:57,213
+[majestic orchestral music plays]
+
+2
+00:01:06,130 --> 00:01:08,050
+This surge point queue's killing us.
+
+3
+00:01:08,130 --> 00:01:10,460
+Yeah, well, this hangover is killing me.
+
+4
+00:01:10,546 --> 00:01:14,626
+Next time, you should wait and celebrate
+our successful run <i>after </i>we're home.
+
+5
+00:01:14,713 --> 00:01:17,173
+Now, please tell me we're almost ready.
+
+6
+00:01:17,255 --> 00:01:19,415
+The Q-Jibs are a touch misaligned.
+
+7
+00:01:19,505 --> 00:01:21,705
+Might be a rough transition,
+but we're ready.
+
+8
+00:01:22,213 --> 00:01:24,356
+- Suzy, you have our course?
+- [woman] Course is plotted,
+
+9
+00:01:24,380 --> 00:01:26,920
+- locked and loaded.
+- Thank you very much.
+
+10
+00:01:27,005 --> 00:01:29,705
+Might have found us a shortcut
+across the local bubble too.
+
+11
+00:01:29,796 --> 00:01:30,956
+Check this out.
+
+12
+00:01:31,046 --> 00:01:35,336
+[laughs] That's what I'm talking about.
+We might even make a bonus for this run.
+
+13
+00:01:35,421 --> 00:01:37,461
+[male voice] <i>Blue Goose,</i>
+<i>this is Arkangel Dispatch.</i>
+
+14
+00:01:37,546 --> 00:01:39,256
+<i>You are cleared for surge point insertion.</i>
+
+15
+00:01:39,338 --> 00:01:42,628
+Roger that, Dispatch.
+Uploading syntax pattern now.
+
+16
+00:01:43,588 --> 00:01:45,338
+[man 2] We're clear for remote relay,
+boss.
+
+17
+00:01:45,630 --> 00:01:46,630
+Roger that.
+
+18
+00:01:46,796 --> 00:01:48,296
+[hydraulic hiss]
+
+19
+00:01:58,046 --> 00:02:00,506
+Arkangel Dispatch. This is Blue Goose.
+
+20
+00:02:01,463 --> 00:02:03,633
+Wheel's yours. Be gentle with us.
+
+21
+00:02:03,713 --> 00:02:06,383
+[male voice] <i>Do you need me</i>
+<i>to sing you a lullaby, Thom?</i>
+
+22
+00:02:06,463 --> 00:02:09,513
+Oh, would you, Dispatch?
+You know how I like it.
+
+23
+00:02:10,255 --> 00:02:11,755
+Sultry and slow.
+
+24
+00:02:12,046 --> 00:02:14,046
+[majestic orchestral music swells]
+
+25
+00:02:31,380 --> 00:02:33,300
+[alarm blaring]
+
+26
+00:02:42,088 --> 00:02:44,168
+[eerie string music plays]
+
+27
+00:03:01,713 --> 00:03:03,263
+A repair facility?
+
+28
+00:03:05,546 --> 00:03:06,626
+Shit!
+
+29
+00:03:11,296 --> 00:03:12,336
+[hydraulic hiss]
+
+30
+00:03:16,255 --> 00:03:18,085
+Come on, Suzy. Take care of Ray.
+
+31
+00:03:18,171 --> 00:03:19,171
+[Suzy] Fuck me.
+
+32
+00:03:20,046 --> 00:03:21,836
+I feel like a runny shit.
+
+33
+00:03:23,171 --> 00:03:26,211
+- Where the hell are we?
+- I'm still trying to figure that out.
+
+34
+00:03:27,505 --> 00:03:28,835
+I don't recognize the station.
+
+35
+00:03:28,921 --> 00:03:30,381
+[hissing]
+
+36
+00:03:38,505 --> 00:03:39,505
+Thom?
+
+37
+00:03:40,421 --> 00:03:41,511
+[in disbelief] Greta?
+
+38
+00:03:42,713 --> 00:03:44,053
+Is that you?
+
+39
+00:03:44,380 --> 00:03:45,630
+In the flesh.
+
+40
+00:03:46,796 --> 00:03:47,796
+What happened?
+
+41
+00:03:48,463 --> 00:03:51,513
+- Is our ship damaged? Did we...?
+- There was an error in your routing plot.
+
+42
+00:03:51,588 --> 00:03:54,168
+A mistake in my work? No way.
+
+43
+00:03:54,546 --> 00:03:56,336
+[Greta] I don't think it was your fault.
+
+44
+00:03:56,588 --> 00:03:59,878
+Looks like Arkangel Dispatch had a glitch
+in their syntax launch patterns.
+
+45
+00:03:59,963 --> 00:04:01,423
+That's such bullshit!
+
+46
+00:04:02,630 --> 00:04:04,210
+How far are we, Greta?
+
+47
+00:04:04,463 --> 00:04:06,133
+Well, pretty far, I'm afraid.
+
+48
+00:04:06,755 --> 00:04:09,415
+This is Saumlaki Station,
+in Schedar Sector.
+
+49
+00:04:09,671 --> 00:04:13,591
+- Schedar Sector?!
+- That's light years off our course.
+
+50
+00:04:13,671 --> 00:04:16,461
+There's no way a routing error
+got us that far.
+
+51
+00:04:16,546 --> 00:04:18,376
+[Thom sighs deeply]
+
+52
+00:04:18,505 --> 00:04:21,165
+I need to see the ship's logs
+and the data recru...
+
+53
+00:04:21,255 --> 00:04:22,295
+[groans and gasps]
+
+54
+00:04:23,338 --> 00:04:24,798
+Surge tank sickness.
+
+55
+00:04:25,546 --> 00:04:27,206
+Not the first time I've seen it.
+
+56
+00:04:27,338 --> 00:04:30,798
+Best thing we can do is put her into
+her tank until we sort things out.
+
+57
+00:04:34,171 --> 00:04:36,171
+Your friend's better off asleep.
+
+58
+00:04:37,296 --> 00:04:38,916
+[sighs] Thanks, Greta.
+
+59
+00:04:41,505 --> 00:04:44,335
+The situation sucks,
+but it's good to see a friendly face.
+
+60
+00:04:44,421 --> 00:04:45,961
+She'll be okay, Thom.
+
+61
+00:04:46,171 --> 00:04:48,341
+- Just give her some time.
+- Sure.
+
+62
+00:04:48,880 --> 00:04:50,510
+Now, come on.
+
+63
+00:04:51,255 --> 00:04:53,455
+We'll let the engineers
+check out your ship,
+
+64
+00:04:53,546 --> 00:04:56,006
+and since you'll be stuck with me
+for a few weeks,
+
+65
+00:04:56,088 --> 00:04:58,048
+you should relax and enjoy the station.
+
+66
+00:05:00,005 --> 00:05:02,005
+["Living in the Shadows" by
+Matthew Perryman Jones]
+
+67
+00:05:02,088 --> 00:05:04,548
+<i>♪ I've been running out ♪</i>
+
+68
+00:05:04,671 --> 00:05:10,131
+<i>♪ Now it's all just a fight to breathe ♪</i>
+
+69
+00:05:12,213 --> 00:05:13,253
+[Greta] You like the view?
+
+70
+00:05:13,338 --> 00:05:17,708
+<i>♪ I gave it all, yeah, I gave it... ♪</i>
+
+71
+00:05:17,796 --> 00:05:19,126
+You see right there?
+
+72
+00:05:19,713 --> 00:05:21,303
+That filament of the Local Bubble?
+
+73
+00:05:22,755 --> 00:05:24,755
+Aquila Rift is just beyond.
+
+74
+00:05:24,838 --> 00:05:25,838
+[sighs]
+
+75
+00:05:26,755 --> 00:05:28,005
+I'm sorry.
+
+76
+00:05:30,130 --> 00:05:32,550
+I'm just trying to make sense
+of all of this.
+
+77
+00:05:33,005 --> 00:05:36,455
+Finding you again... all the way out here.
+
+78
+00:05:36,546 --> 00:05:38,006
+Maybe it's fate, Thom.
+
+79
+00:05:38,463 --> 00:05:39,963
+Written in the stars.
+
+80
+00:05:41,713 --> 00:05:42,803
+Can I tell you a secret?
+
+81
+00:05:45,671 --> 00:05:49,051
+Ever since we met in Tallinin,
+I've been hoping I'd see you again.
+
+82
+00:05:50,713 --> 00:05:51,923
+[inhales deeply]
+
+83
+00:05:52,005 --> 00:05:54,955
+What, you mean
+when we had our little fling?
+
+84
+00:05:55,296 --> 00:05:57,336
+- Say three years ago?
+- Four!
+
+85
+00:05:57,713 --> 00:05:59,423
+And it wasn't just a fling.
+
+86
+00:06:00,671 --> 00:06:03,171
+Remember when we broke that bed
+in that hotel?
+
+87
+00:06:03,255 --> 00:06:04,455
+[both laugh]
+
+88
+00:06:04,546 --> 00:06:07,296
+I never knew anyone could fuck
+that hard in zero-G.
+
+89
+00:06:07,380 --> 00:06:08,800
+[both laugh]
+
+90
+00:06:10,588 --> 00:06:12,798
+You know, sometimes I wish I'd stayed.
+
+91
+00:06:14,505 --> 00:06:16,505
+- My ship, you know...
+- It's okay, Thom.
+
+92
+00:06:17,796 --> 00:06:19,086
+You're here now.
+
+93
+00:06:20,255 --> 00:06:21,625
+That's all that matters.
+
+94
+00:06:24,630 --> 00:06:30,090
+<i>♪ I'll never, never
+Break the silence ♪</i>
+
+95
+00:06:30,588 --> 00:06:35,298
+<i>♪ When I look inside
+I don't have to hide ♪</i>
+
+96
+00:06:35,380 --> 00:06:40,840
+<i>♪ If you're looking, you won't find it ♪</i>
+
+97
+00:06:41,505 --> 00:06:48,005
+<i>♪ Who's the enemy?
+Don't know what to believe ♪</i>
+
+98
+00:06:48,088 --> 00:06:53,168
+<i>♪ Living in the shadows
+Living in the shadows ♪</i>
+
+99
+00:06:57,171 --> 00:07:03,091
+<i>♪ If you're looking, you won't find it ♪</i>
+
+100
+00:07:03,171 --> 00:07:09,461
+<i>♪ Who's the enemy?
+Don't know what to believe ♪</i>
+
+101
+00:07:09,546 --> 00:07:14,666
+<i>♪ Living in the shadows
+Living in the shadows ♪</i>
+
+102
+00:07:18,546 --> 00:07:19,796
+[Thom sighs]
+
+103
+00:07:22,255 --> 00:07:25,505
+I always think men are sexiest
+when they try and think.
+
+104
+00:07:31,880 --> 00:07:32,880
+Thom...
+
+105
+00:07:38,380 --> 00:07:40,550
+I haven't been completely honest with you.
+
+106
+00:07:41,046 --> 00:07:42,336
+The routing error,
+
+107
+00:07:42,421 --> 00:07:44,421
+it took you further than I let on.
+
+108
+00:07:45,421 --> 00:07:47,591
+You're not in Schedar Sector.
+
+109
+00:07:47,671 --> 00:07:49,131
+[ominous electronic music playing]
+
+110
+00:07:49,213 --> 00:07:50,423
+Shit!
+
+111
+00:07:55,463 --> 00:07:57,883
+These are
+the Saumlaki Station coordinates.
+
+112
+00:07:59,046 --> 00:08:00,296
+Now, watch.
+
+113
+00:08:11,546 --> 00:08:14,146
+This is the view from where we are.
+150,000 light years from home.
+
+114
+00:08:20,546 --> 00:08:22,876
+How long were we in our tanks asleep?
+
+115
+00:08:22,963 --> 00:08:25,423
+In subjective time, only a few months.
+
+116
+00:08:26,755 --> 00:08:29,125
+But several hundred years
+have passed back home.
+
+117
+00:08:29,838 --> 00:08:34,708
+Even if you could chart a course back,
+you'd never reach the world you left.
+
+118
+00:08:35,755 --> 00:08:37,955
+[sighs] Holy shit!
+
+119
+00:08:38,463 --> 00:08:40,423
+I'm sorry I lied, Thom.
+
+120
+00:08:41,130 --> 00:08:43,010
+But some people have
+a hard time with the truth.
+
+121
+00:08:43,088 --> 00:08:45,048
+[shouts] Of course they fucking do!
+
+122
+00:08:47,380 --> 00:08:51,260
+- You might as well be telling me I'm dead.
+- But you're not dead, Thom.
+
+123
+00:08:52,130 --> 00:08:53,300
+You're here...
+
+124
+00:08:54,213 --> 00:08:55,213
+with me.
+
+125
+00:08:58,005 --> 00:08:59,625
+So, how did you end up here?
+
+126
+00:09:00,046 --> 00:09:03,006
+[Greta] It's always the same
+routing error. Brings everyone here.
+
+127
+00:09:04,088 --> 00:09:07,838
+Thom, maybe it's time to wake up
+your friends in the Blue Goose.
+
+128
+00:09:15,546 --> 00:09:16,666
+[gasps]
+
+129
+00:09:20,630 --> 00:09:21,710
+What happened?
+
+130
+00:09:22,796 --> 00:09:24,006
+Did we make it back?
+
+131
+00:09:24,088 --> 00:09:26,258
+What's the last thing you remember, Suzy?
+
+132
+00:09:29,421 --> 00:09:31,171
+Those pricks on Arkangel.
+
+133
+00:09:31,880 --> 00:09:34,510
+Then... dreams.
+
+134
+00:09:34,963 --> 00:09:36,593
+Dreams like what, Suzy?
+
+135
+00:09:36,838 --> 00:09:37,838
+Dreams like...
+
+136
+00:09:41,588 --> 00:09:42,708
+Like this.
+
+137
+00:09:42,796 --> 00:09:44,876
+[panicked breathing]
+
+138
+00:09:45,505 --> 00:09:47,795
+- Who is she?
+- That's Greta, Suzy.
+
+139
+00:09:48,338 --> 00:09:50,668
+You met her before, remember?
+Years ago, at Tallinin...
+
+140
+00:09:50,755 --> 00:09:53,545
+Thom, that's not Greta.
+
+141
+00:09:53,630 --> 00:09:55,210
+You've got tank sickness, Suzy.
+
+142
+00:09:55,296 --> 00:09:58,586
+- What's going on, Thom?
+- Relax. Everything's fine.
+
+143
+00:09:58,671 --> 00:10:01,301
+- It'll be okay.
+- You're a terrible liar, Thom.
+
+144
+00:10:01,380 --> 00:10:02,800
+Just take it easy, Suzy.
+
+145
+00:10:02,880 --> 00:10:03,960
+Who are you?
+
+146
+00:10:04,755 --> 00:10:07,545
+- What the fuck are you?
+- It's okay, Suzy. It's okay.
+
+147
+00:10:08,046 --> 00:10:09,296
+Look at her, Thom.
+
+148
+00:10:10,255 --> 00:10:11,915
+[shouts] Look at her!
+
+149
+00:10:17,130 --> 00:10:18,210
+[yells]
+
+150
+00:10:20,463 --> 00:10:21,593
+End this!
+
+151
+00:10:23,255 --> 00:10:25,205
+- [hissing]
+- [gasps]
+
+152
+00:10:28,796 --> 00:10:30,296
+We'll try again, later, Thom.
+
+153
+00:10:31,130 --> 00:10:32,300
+As many times as it takes.
+
+154
+00:11:03,130 --> 00:11:04,800
+Suzy's right, isn't she?
+
+155
+00:11:06,838 --> 00:11:08,338
+You're not really Greta.
+
+156
+00:11:16,755 --> 00:11:18,165
+I'm sorry, Thom.
+
+157
+00:11:19,255 --> 00:11:20,335
+I really am.
+
+158
+00:11:22,005 --> 00:11:23,005
+You're...
+
+159
+00:11:23,755 --> 00:11:26,665
+Well, still in your tank.
+
+160
+00:11:27,505 --> 00:11:28,625
+Still asleep.
+
+161
+00:11:30,880 --> 00:11:36,130
+And this station, this whole place,
+is a simulation being fed to you.
+
+162
+00:11:36,671 --> 00:11:38,051
+No. Stop that!
+
+163
+00:11:39,838 --> 00:11:41,878
+The whole truth. <i>Now.</i>
+
+164
+00:11:43,046 --> 00:11:45,416
+Some of what I told you <i>is </i>true.
+
+165
+00:11:45,671 --> 00:11:47,841
+You did end up here via a routing error.
+
+166
+00:11:48,588 --> 00:11:52,128
+You are beyond the Aquila Rift,
+thousands of light years from Earth,
+
+167
+00:11:52,213 --> 00:11:55,883
+and there is a station here. It's just...
+
+168
+00:11:56,296 --> 00:11:57,376
+different.
+
+169
+00:11:58,213 --> 00:12:02,763
+So, who is feeding me this fake reality,
+this fake Greta?
+
+170
+00:12:02,838 --> 00:12:03,838
+I am.
+
+171
+00:12:04,755 --> 00:12:08,255
+And just who... or what... are you?
+
+172
+00:12:08,963 --> 00:12:10,643
+I don't think you're ready for the answer.
+
+173
+00:12:10,671 --> 00:12:11,841
+Let me be the judge of that.
+
+174
+00:12:13,005 --> 00:12:15,915
+You don't know how many lost souls
+I've been through this with.
+
+175
+00:12:17,505 --> 00:12:19,255
+I don't want to hurt you, Thom.
+
+176
+00:12:19,588 --> 00:12:22,758
+I just need to know what's going on here.
+I need to see.
+
+177
+00:12:22,838 --> 00:12:26,878
+I need to see this place.
+I need to see you as you really are.
+
+178
+00:12:26,963 --> 00:12:28,513
+[tearfully] You're not ready.
+
+179
+00:12:29,005 --> 00:12:31,205
+- Trust me...
+- [shouts] Show me, God damn it!
+
+180
+00:12:38,755 --> 00:12:39,955
+All right, Thom.
+
+181
+00:12:43,755 --> 00:12:45,045
+But understand this:
+
+182
+00:12:47,255 --> 00:12:49,295
+I do care for you.
+
+183
+00:12:51,671 --> 00:12:54,211
+I care for all the lost souls
+that end up here.
+
+184
+00:13:03,546 --> 00:13:05,546
+- [electricity sparking]
+- [gasps]
+
+185
+00:13:37,546 --> 00:13:39,666
+[female voice] <i>Hello, Thom.</i> [echoes]
+
+186
+00:13:41,921 --> 00:13:43,341
+<i>Hello, Thom. </i>[echoes]
+
+187
+00:13:48,505 --> 00:13:50,455
+[chittering]
+
+188
+00:13:52,171 --> 00:13:54,171
+[screams]
+
+189
+00:13:58,421 --> 00:13:59,711
+[hydraulic hiss]
+
+190
+00:14:01,130 --> 00:14:03,800
+<i>♪ The smoke is clearing out ♪</i>
+
+191
+00:14:03,880 --> 00:14:07,880
+<i>- ♪ All the circling lights blind me... ♪</i>
+- [door opens]
+
+192
+00:14:12,380 --> 00:14:15,300
+<i>♪ I know the truth, but for you... ♪</i>
+
+193
+00:14:15,421 --> 00:14:16,551
+Hello, Thom.
+
+194
+00:14:18,546 --> 00:14:19,586
+Greta?
+
+195
+00:14:21,005 --> 00:14:22,335
+Is that really you?
+
+196
+00:14:23,005 --> 00:14:24,545
+It's good to see you, Thom.
+
+197
+00:14:25,963 --> 00:14:27,133
+What happened?
+
+198
+00:14:27,963 --> 00:14:31,213
+You're in Saumlaki Station,
+Schedar Sector.
+
+199
+00:14:31,546 --> 00:14:33,206
+Schedar Sector? But...
+
+200
+00:14:33,713 --> 00:14:36,173
+that's hundreds of light years
+off our course.
+
+201
+00:14:36,671 --> 00:14:38,091
+[Greta] Yes, it is.
+
+202
+00:14:39,505 --> 00:14:42,835
+But, hey, at least
+there's a friendly face here.
+
+203
+00:14:42,921 --> 00:14:45,511
+<i>♪ I don't know what to believe ♪</i>
+
+204
+00:14:45,588 --> 00:14:48,208
+<i>♪ Living in the shadows</i> ♪
+
