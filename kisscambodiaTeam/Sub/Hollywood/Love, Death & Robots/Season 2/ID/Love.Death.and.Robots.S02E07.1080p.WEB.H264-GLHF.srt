@@ -1,0 +1,200 @@
+1
+00:00:07,125 --> 00:00:08,625
+SERIAL NETFLIX ORIGINAL
+
+2
+00:00:26,875 --> 00:00:30,455
+KABIN PERLINDUNGAN
+
+3
+00:00:58,166 --> 00:00:59,786
+Aku akan mati di sini.
+
+4
+00:01:47,958 --> 00:01:49,708
+OKSIGEN TERSISA
+CARI PERLINDUNGAN
+
+5
+00:01:51,666 --> 00:01:53,246
+STATUS: DI LUAR JARINGAN
+15,42 km
+
+6
+00:02:14,125 --> 00:02:14,995
+OKSIGEN KRITIS
+
+7
+00:02:15,083 --> 00:02:15,923
+AKTIFKAN
+
+8
+00:02:16,000 --> 00:02:16,830
+MENGAKTIFKAN…
+
+9
+00:02:28,208 --> 00:02:29,288
+Sial.
+
+10
+00:02:29,791 --> 00:02:32,041
+Tampaknya pendaratan kita tak mulus.
+
+11
+00:03:02,291 --> 00:03:04,421
+SELAMAT DATANG
+DI KABIN PERLINDUNGAN 817-RD9G
+
+12
+00:03:08,750 --> 00:03:11,000
+Kabin perlindungan, diaktifkan.
+
+13
+00:03:11,083 --> 00:03:13,213
+Peringatan, ada kerusakan.
+
+14
+00:03:23,125 --> 00:03:24,875
+Jaringan komunikasi, fungsional.
+
+15
+00:03:24,958 --> 00:03:26,498
+SINYAL PERTOLONGAN
+MENUNGGU
+
+16
+00:03:29,750 --> 00:03:31,290
+Robot pemeliharaan…
+
+17
+00:03:35,583 --> 00:03:36,543
+eror.
+
+18
+00:03:36,625 --> 00:03:38,075
+Dasar rongsokan.
+
+19
+00:03:38,166 --> 00:03:41,626
+Robot pemeliharaan, eror.
+
+20
+00:03:45,666 --> 00:03:49,036
+Robot pemeliharaan, malafungsi.
+
+21
+00:03:49,625 --> 00:03:50,455
+Tunggu!
+
+22
+00:03:54,625 --> 00:03:56,915
+Berhenti! Tunggu! Hentikan program!
+
+23
+00:03:57,833 --> 00:03:59,333
+Hentikan program!
+
+24
+00:04:00,375 --> 00:04:01,995
+Tidak bisa menuruti.
+
+25
+00:04:50,875 --> 00:04:52,575
+BAHAYA
+DALAM JANGKAUAN SENJATA MUSUH
+
+26
+00:04:54,666 --> 00:04:56,576
+Prometheus CVW2.
+
+27
+00:04:56,666 --> 00:04:59,416
+ECMS daring, Anda bisa meluncurkan.
+
+28
+00:04:59,500 --> 00:05:00,790
+Nova 6, dalam rute.
+
+29
+00:05:00,875 --> 00:05:02,285
+Nova 9, dalam rute.
+
+30
+00:05:02,375 --> 00:05:03,455
+Nova 4, dalam rute.
+
+31
+00:05:03,541 --> 00:05:06,001
+Dimengerti, senjata siap diluncurkan.
+
+32
+00:05:06,083 --> 00:05:08,043
+Baiklah. Siap diluncurkan.
+
+33
+00:05:08,125 --> 00:05:11,125
+Senjata Divine Flash 12 Judgment 2.
+
+34
+00:05:12,250 --> 00:05:14,000
+Siap diluncurkan.
+
+35
+00:05:14,083 --> 00:05:18,333
+Pasukan Nova berbaris, formasi eselon.
+Serang mereka cepat dan keras.
+
+36
+00:07:01,625 --> 00:07:05,205
+731, serangan musuh datang.
+
+37
+00:07:08,750 --> 00:07:10,380
+Roket 1 rusak!
+
+38
+00:07:15,416 --> 00:07:16,286
+Tembak!
+
+39
+00:07:17,166 --> 00:07:19,286
+Ayolah.
+
+40
+00:07:27,333 --> 00:07:29,503
+PERGI
+
+41
+00:09:59,875 --> 00:10:02,495
+SINYAL PERTOLONGAN
+MENUNGGU TRANSMISI
+
+42
+00:10:14,500 --> 00:10:16,130
+Pesan Mayday diterima.
+
+43
+00:10:16,208 --> 00:10:21,748
+Kabin perlindungan 817-RD9G.
+Penyelamatan datang.
+
+44
+00:10:26,875 --> 00:10:30,245
+Peringatan, malafungsi robot pemeliharaan.
+
+45
+00:10:32,333 --> 00:10:35,633
+Peringatan, malafungsi robot pemeliharaan.
+
+46
+00:10:35,708 --> 00:10:37,128
+Jelas.
+
+47
+00:10:38,000 --> 00:10:41,290
+Peringatan, malafungsi robot pemeliharaan.
+
+48
+00:12:03,083 --> 00:12:05,583
+Terjemahan subtitle oleh Serina Rajagukguk
+
