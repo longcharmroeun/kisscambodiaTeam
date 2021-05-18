@@ -1,0 +1,318 @@
+﻿1
+00:00:06,963 --> 00:00:09,296
+SERIAL NETFLIX ORIGINAL
+
+2
+00:00:27,213 --> 00:00:32,171
+ALTERNATE HISTORIES
+
+3
+00:00:38,130 --> 00:00:39,963
+<i>Selamat datang di Multiversity,</i>
+
+4
+00:00:40,046 --> 00:00:43,213
+<i>Aplikasi Riset Sejarah Alternatif Amerika.</i>
+
+5
+00:00:43,588 --> 00:00:46,671
+<i>Multiversity memungkinkan Anda</i>
+<i>memodifikasi fakta historis</i>
+
+6
+00:00:46,755 --> 00:00:50,630
+<i>dan menyaksikan simulasi virtual</i>
+<i>tentang bagaimana sejarah akan berubah.</i>
+
+7
+00:00:50,713 --> 00:00:53,755
+<i>Ambil contoh</i>
+<i>salah satu permintaan terpopuler kami.</i>
+
+8
+00:00:53,838 --> 00:00:55,630
+<i>Kematian Adolf Hitler.</i>
+
+9
+00:00:55,921 --> 00:00:58,130
+<i>Sekarang, mari mengganti tanggalnya.</i>
+
+10
+00:00:58,213 --> 00:01:01,880
+<i>Enam garis waktu alternatif</i>
+<i>disertakan dalam demo awal ini.</i>
+
+11
+00:01:01,963 --> 00:01:03,338
+<i>Semoga kalian menikmati.</i>
+
+12
+00:01:03,880 --> 00:01:05,880
+<i>Skenario kematian nomor satu.</i>
+
+13
+00:01:28,755 --> 00:01:32,380
+<i>Terbunuh saat perkelahian</i>
+<i>di tangga Akademi Seni Rupa.</i>
+
+14
+00:01:32,463 --> 00:01:34,671
+<i>Hasil: Perang Dunia I terjadi.</i>
+
+15
+00:01:35,963 --> 00:01:37,921
+<i>Republik Weimar terlambat dimulai.</i>
+
+16
+00:01:38,380 --> 00:01:40,921
+<i>Perang Dunia II tertunda hingga 1948.</i>
+
+17
+00:01:41,546 --> 00:01:44,921
+<i>AS menjatuhkan bom atom di Berlin</i>
+<i>tahun 1952.</i>
+
+18
+00:01:47,213 --> 00:01:51,088
+<i>Neil Armstrong,</i>
+<i>pria pertama ke bulan, 1969.</i>
+
+19
+00:01:53,421 --> 00:01:55,338
+<i>Skenario kematian nomor dua.</i>
+
+20
+00:02:05,171 --> 00:02:08,630
+<i>Dibunuh oleh kereta kuda kabur yang</i>
+<i>berisi bratwurst.</i>
+
+21
+00:02:08,713 --> 00:02:11,921
+<i>Hasil: Vienna mengeluarkan hukum</i>
+<i>kendaraan berkuda yang berat,</i>
+
+22
+00:02:12,005 --> 00:02:14,421
+<i>mendorong cepatnya</i>
+<i>penerimaan terhadap mobil.</i>
+
+23
+00:02:14,505 --> 00:02:17,213
+<i>Austria menjadi</i>
+<i>pembangkit tenaga industri otomotif.</i>
+
+24
+00:02:17,796 --> 00:02:19,338
+<i>Perang Dunia I berlanjut.</i>
+
+25
+00:02:19,421 --> 00:02:22,921
+<i>Jerman dan sekutu</i>
+<i>menang berkat kemajuan teknologi.</i>
+
+26
+00:02:23,005 --> 00:02:25,338
+<i>Depresi dunia tahun 30-an dihindari.</i>
+
+27
+00:02:26,296 --> 00:02:30,296
+<i>Willy Brandt, pria pertama di bulan, 1958.</i>
+
+28
+00:02:32,338 --> 00:02:34,088
+<i>Skenario kematian nomor tiga.</i>
+
+29
+00:02:56,963 --> 00:03:00,338
+<i>Terbunuh karena</i>
+<i>mati lemas saat terbungkus blok gelatin.</i>
+
+30
+00:03:00,421 --> 00:03:03,255
+<i>Hitler adalah korban acak dari</i>
+<i>senjata gelatin yang</i>
+
+31
+00:03:03,338 --> 00:03:05,588
+<i>dikembangkan oleh aristokrat Rusia.</i>
+
+32
+00:03:05,671 --> 00:03:09,880
+<i>Hasil: senjata gelatin jadi sering</i>
+<i>digunakan untuk menghabisi musuh</i>
+
+33
+00:03:09,963 --> 00:03:11,796
+<i>dari Tsar Nicholas II.</i>
+
+34
+00:03:11,880 --> 00:03:15,755
+<i>Perang Dunia I dimulai</i>
+<i>dengan pembunuhan Archduke Ferdinand.</i>
+
+35
+00:03:15,838 --> 00:03:18,546
+<i>Perang Dunia I berakhir dengan cepat</i>
+<i>pada tahun 1915.</i>
+
+36
+00:03:19,046 --> 00:03:21,338
+<i>Rusia menjadi satu-satunya adikuasa.</i>
+
+37
+00:03:21,421 --> 00:03:26,046
+<i>Vladimir Putin,</i>
+<i>pria sejati pertama di bulan, 1988.</i>
+
+38
+00:03:27,880 --> 00:03:29,463
+<i>Skenario kematian nomor empat.</i>
+
+39
+00:03:57,713 --> 00:04:01,963
+<i>Dibunuh saat maraton berzina</i>
+<i>dengan empat pelacur Wina.</i>
+
+40
+00:04:02,046 --> 00:04:07,171
+<i>Hasil: semua pelacur tersebut ditangkap</i>
+<i>lalu terungkap sebagai pelancon</i>g
+
+41
+00:04:07,255 --> 00:04:10,213
+<i>bernafsu dari dimensi paralel</i>
+<i>yang sangat seksi ...</i>
+
+42
+00:04:11,130 --> 00:04:14,505
+<i>yang mengajarkan bersenang-senang cara</i>
+<i>astro multi dimensi pada orang Wina.</i>
+
+43
+00:04:18,171 --> 00:04:23,130
+<i>Janine Lindemulder,</i>
+<i>wanita pertama di bulan, 1996.</i>
+
+44
+00:04:24,338 --> 00:04:26,171
+<i>Skenario kematian nomor lima.</i>
+
+45
+00:04:38,713 --> 00:04:41,421
+<i>Dibunuh oleh serangan</i>
+<i>meteor tepat di kepala.</i>
+
+46
+00:04:41,880 --> 00:04:45,671
+<i>Meteor itu adalah pembuka</i>
+<i>dari asteroid besar menuju Bumi.</i>
+
+47
+00:04:46,005 --> 00:04:48,213
+<i>Dampaknya beberapa jam kemudian.</i>
+
+48
+00:04:48,296 --> 00:04:52,796
+<i>Hasil: manusia musnah bersama</i>
+<i>93% spesies di dunia.</i>
+
+49
+00:04:52,880 --> 00:04:58,546
+<i>Masyarakat tikus naik, berevolusi,</i>
+<i>menjadi demokrasi sempurna.</i>
+
+50
+00:04:59,463 --> 00:05:03,421
+<i>Kemudian menemukan nasionalisme dan</i>
+<i>mengembangkan senjata pemusnah massal.</i>
+
+51
+00:05:04,713 --> 00:05:07,296
+<i>Yang bekerja sesuai dengan harapan,</i>
+<i>menghancurkan dunia</i>
+
+52
+00:05:07,796 --> 00:05:08,838
+<i>...lagi.</i>
+
+53
+00:05:10,963 --> 00:05:14,338
+<i>Menjadikan munculnya</i>
+<i>peradaban cumi damai.</i>
+
+54
+00:05:15,713 --> 00:05:17,046
+<i>Gluugsnergluug.</i>
+
+55
+00:05:17,130 --> 00:05:21,963
+<i>Cumi-cumi pertama di bulan 2.973.412.</i>
+
+56
+00:05:23,338 --> 00:05:25,296
+<i>Skenario kematian nomor enam.</i>
+
+57
+00:05:33,546 --> 00:05:34,463
+<i>Hai, Hitler.</i>
+
+58
+00:05:37,088 --> 00:05:37,921
+Mati!
+
+59
+00:05:38,713 --> 00:05:41,921
+<i>Terperangkap dalam baku tembak</i>
+<i>antara penjelajah waktu anti-Nazi</i>
+
+60
+00:05:42,005 --> 00:05:43,171
+<i>yang kembali untuk membunuhnya</i>
+
+61
+00:05:43,255 --> 00:05:46,880
+<i>dan Nazi yang dikirim ke masa lalu</i>
+<i>untuk mencegah pembunuhannya.</i>
+
+62
+00:05:55,963 --> 00:05:58,671
+<i>Akhirnya diselamatkan oleh masa depannya.</i>
+<i>Hitler lupa aturan pertama</i>
+<i>perjalanan waktu </i>
+
+63
+00:06:01,546 --> 00:06:03,255
+<i>jangan pernah menyentuh doppelganger.</i>
+
+64
+00:06:03,505 --> 00:06:05,296
+<i>Terbunuh oleh paradoks ruang-waktu.</i>
+
+65
+00:06:06,963 --> 00:06:11,296
+Hasil: Lingkaran bencana yang memusnahkan
+ruang dan waktu.
+
+66
+00:06:11,380 --> 00:06:13,088
+<i>dan menghancurkan semua</i>
+<i>kehidupan di uni--</i>
+
+67
+00:06:13,880 --> 00:06:16,588
+WELLP, SEKARANG KAU MELAKUKANNYA.
+MERUSAK KOMPUTER.
+
+68
+00:06:17,213 --> 00:06:21,630
+<i>Ups! Maaf soal itu.</i>
+<i>Terima kasih telah memilih Multiversity!</i>
+
+69
+00:06:21,713 --> 00:06:24,338
+<i>Kini saatnya kau membuat sejarah.</i>
+
+70
+00:06:24,421 --> 00:06:26,921
+LINCOLN MENEMBAK DAHULU
+

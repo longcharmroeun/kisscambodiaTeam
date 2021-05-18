@@ -1,0 +1,700 @@
+﻿1
+00:00:06,963 --> 00:00:09,296
+SERIAL NETFLIX ORIGINAL
+
+2
+00:00:38,463 --> 00:00:39,963
+<i>Unit udara memiliki tradisi:</i>
+
+3
+00:00:42,505 --> 00:00:44,755
+<i>pilot pemula dapat pesawat</i>
+<i>yang tak ada yang mau.</i>
+
+4
+00:00:47,630 --> 00:00:50,546
+<i>Di grup penerbanganku,</i>
+<i>pesawat itu adalah </i>Lucky Tiga Belas.
+
+5
+00:00:53,463 --> 00:00:55,338
+<i>Pesawat itu tidak apa-apa secara teknis, </i>
+
+6
+00:00:55,421 --> 00:00:58,046
+<i>tapi sebelum diserahkan padaku,</i>
+<i>sudah dua kru</i> <i>yang tewas.</i>
+
+7
+00:01:02,880 --> 00:01:04,963
+<i>Mereka menemukan pesawat</i>
+<i>dan mayatnya,</i>
+
+8
+00:01:05,880 --> 00:01:07,546
+<i>atau tepatnya puing dan potongannya.</i>
+
+9
+00:01:09,421 --> 00:01:13,005
+<i>Pesawat selamat tapi semua kru-nya tewas</i>
+<i>itu kejadian tak biasa, tapi dua kali?</i>
+
+10
+00:01:13,546 --> 00:01:17,088
+<i>Aku belum pernah mendengar sebelumnya,</i>
+<i>ataupun sejak itu.</i>
+
+11
+00:01:19,505 --> 00:01:22,880
+<i>Lalu nomor serinya:</i>
+
+12
+00:01:22,963 --> 00:01:25,796
+<i>13-02313.</i>
+
+13
+00:01:26,171 --> 00:01:31,130
+<i>Tidak hanya dimulai dan berakhir</i>
+<i>dengan angka 13, tapi totalnya juga 13.</i>
+
+14
+00:01:32,296 --> 00:01:34,296
+<i>Pilot sangat percaya takhayul.</i>
+
+15
+00:01:36,046 --> 00:01:37,088
+<i>Beruntungnya aku.</i>
+
+16
+00:01:37,171 --> 00:01:38,296
+Sial.
+
+17
+00:01:39,213 --> 00:01:40,880
+Pesawat milikmu, Letnan.
+
+18
+00:01:41,921 --> 00:01:44,630
+Pemula hanya dapat sisa,
+kau tahu tradisinya.
+
+19
+00:01:46,005 --> 00:01:46,963
+Siap, Pak.
+
+20
+00:01:50,213 --> 00:01:53,130
+Saya tak minta izin,
+semoga Ibu tak keberatan.
+
+21
+00:01:54,338 --> 00:01:57,171
+Saya Peltu Jack Lee, Bu.
+Tanda panggilan Jacko.
+
+22
+00:01:57,338 --> 00:02:00,255
+Cutter, Colby. Senang bertemu denganmu.
+
+23
+00:02:00,505 --> 00:02:02,880
+Semoga Ibu tak terpengaruh
+dengan pembicaraan orang.
+
+24
+00:02:02,963 --> 00:02:04,921
+Aku bukan tipe yang percaya takhayul,
+Jack.
+
+25
+00:02:05,296 --> 00:02:06,588
+Ini cuma mesin.
+
+26
+00:02:06,713 --> 00:02:08,671
+Jangan salah, Bu.
+
+27
+00:02:09,921 --> 00:02:12,713
+Pesawat juga punya kepribadian.
+
+28
+00:02:13,671 --> 00:02:15,546
+Bukan hanya sekadar mesin.
+
+29
+00:02:15,963 --> 00:02:17,630
+Terutama <i>Tiga Belas</i>.
+
+30
+00:02:23,755 --> 00:02:25,588
+PANIK
+
+31
+00:02:30,296 --> 00:02:33,963
+<i>Operasi pertama kami, musuh menyerang</i>
+<i>salah satu stasiun terraform kami,</i>
+
+32
+00:02:34,046 --> 00:02:36,921
+<i>jadi aku bawa pasukan ke planet</i>
+<i>untuk memeriksanya.</i>
+
+33
+00:02:39,088 --> 00:02:41,213
+<i>Aku ditempatkan di </i>Tiga Belas
+<i>di depan.</i>
+
+34
+00:02:41,296 --> 00:02:45,713
+<i>Jika terjadi adu tembak, kemungkinan besar</i>
+<i>pesawat terdepan yang tak akan pulang.</i>
+
+35
+00:02:46,213 --> 00:02:48,046
+<i>Aku berusaha tak terlalu memikirkannya.</i>
+
+36
+00:02:48,130 --> 00:02:50,963
+Pusat Komando, ini Lima Satu Tiga,
+pastikan Zona Mendarat aman.
+
+37
+00:02:51,046 --> 00:02:53,046
+- Ganti.
+<i>- Dikonfirmasi. Perhatikan sensormu.</i>
+
+38
+00:02:53,130 --> 00:02:56,713
+<i>AWACS melacak dua pesawat siluman T-28</i>
+<i>di Daerah Operasimu, terbang tanpa lampu.</i>
+
+39
+00:03:02,963 --> 00:03:04,630
+<i>Zona Mendarat tampak aman.</i>
+
+40
+00:03:04,713 --> 00:03:06,130
+<i>Terraformer tampaknya rusak.</i>
+
+41
+00:03:06,213 --> 00:03:09,213
+<i>Ayo kita selesaikan ini.</i>
+<i>Jika T-28 itu muncul, habislah kita.</i>
+
+42
+00:03:09,838 --> 00:03:11,296
+Marinir, lima menit.
+
+43
+00:03:11,380 --> 00:03:14,255
+- Kondisi satu senapan.
+- Kondisi satu senapan!
+
+44
+00:03:15,088 --> 00:03:16,963
+Kau tahu pesawat yang kita naiki, bukan?
+
+45
+00:03:17,213 --> 00:03:19,755
+Ini bukan pesawat,
+Tapi peti mati dengan sayap.
+
+46
+00:03:20,213 --> 00:03:21,921
+Marinir, satu menit.
+
+47
+00:03:22,005 --> 00:03:25,255
+<i>Tim pertama, waktumu dari 10 sampai 2.</i>
+<i>Tim kedua, dari 2 sampai 6.</i>
+
+48
+00:03:25,338 --> 00:03:27,921
+<i>Tim ketiga, dari 6 sampai 10.</i>
+<i>Saatnya mulai?</i>
+
+49
+00:03:28,005 --> 00:03:30,630
+Siap! Ayo!
+
+50
+00:03:31,713 --> 00:03:33,421
+Kau, pengamanan belakang.
+
+51
+00:03:36,963 --> 00:03:38,463
+<i>Skuadron Lima, ini Pusat Komando.</i>
+
+52
+00:03:38,546 --> 00:03:40,755
+<i>Kami mendeteksi emisi radar aktif</i>
+<i>dari dua T-28,</i>
+
+53
+00:03:40,838 --> 00:03:42,338
+<i>180 derajat belakang posisimu.</i>
+
+54
+00:03:42,421 --> 00:03:44,963
+Marinir, jet tempur datang.
+Untuk melindungi.
+
+55
+00:03:50,255 --> 00:03:52,630
+<i>Semua, Zona Mendarat dalam bahaya.</i>
+
+56
+00:03:53,296 --> 00:03:55,046
+<i>Kembali untuk segera evakuasi.</i>
+
+57
+00:03:56,296 --> 00:03:58,838
+- Apa yang kau lakukan, Tujuh Nol?
+<i>- Pergi dari sini!</i>
+
+58
+00:03:58,921 --> 00:04:00,963
+Pasukanmu masih ada yang di bawah,
+Jockey.
+
+59
+00:04:01,755 --> 00:04:02,796
+Astaga.
+
+60
+00:04:06,880 --> 00:04:10,213
+Semua unit yang tertinggal,
+masuk ke <i>Tiga Belas</i>, sekarang!
+
+61
+00:04:10,296 --> 00:04:12,296
+Ada dua regu pasukan musuh
+di semak-semak,
+
+62
+00:04:12,380 --> 00:04:14,130
+dan tipe 28 itu datang lagi.
+
+63
+00:04:14,213 --> 00:04:16,838
+<i>Pusat Komando, ini Lima Satu Tiga.</i>
+<i>Kami batal mengudara.</i>
+
+64
+00:04:16,921 --> 00:04:18,171
+Mohon bantuan udara.
+
+65
+00:04:18,255 --> 00:04:19,755
+<i>Mereka mengganggu jaringan kita.</i>
+
+66
+00:04:20,130 --> 00:04:21,921
+Lima belas detik lagi.
+
+67
+00:04:23,755 --> 00:04:25,213
+Sialan, ada satu lagi.
+
+68
+00:04:26,005 --> 00:04:27,255
+10 detik.
+
+69
+00:04:27,338 --> 00:04:29,546
+- Jangan dulu.
+- Tunggu aku, sial!
+
+70
+00:04:29,630 --> 00:04:30,588
+<i>Aku tunggu.</i>
+
+71
+00:04:31,755 --> 00:04:32,588
+Ayo.
+
+72
+00:04:32,671 --> 00:04:34,046
+<i>Astaga. Ayo.</i>
+
+73
+00:04:35,255 --> 00:04:36,546
+<i>Awas tembakan.</i>
+
+74
+00:04:37,755 --> 00:04:39,463
+- <i>Aku sudah masuk.</i>
+- Meluncurkan suar.
+
+75
+00:04:45,796 --> 00:04:48,380
+- <i>Naikkan ketinggian.</i>
+- Cutter, kau tahu ini?
+
+76
+00:04:48,463 --> 00:04:51,880
+<i>- Naikkan ketinggian.</i>
+-<i> Cutter?</i>
+
+77
+00:04:54,963 --> 00:04:56,296
+Aku deg-degan sekali di sini.
+
+78
+00:04:59,463 --> 00:05:00,630
+<i>Senapan.</i>
+
+79
+00:05:03,046 --> 00:05:04,255
+<i>Awas tembakan.</i>
+
+80
+00:05:07,046 --> 00:05:08,463
+<i>Tembak. Suar!</i>
+
+81
+00:05:11,088 --> 00:05:12,588
+Jacko, keluarkan mereka.
+
+82
+00:05:12,671 --> 00:05:13,796
+<i>Copy.</i>
+
+83
+00:05:16,213 --> 00:05:18,505
+Tak gampang, Cutter.
+Tiang-tiangnya terlalu padat.
+
+84
+00:05:22,713 --> 00:05:26,505
+<i>Jaga jarak.</i>
+
+85
+00:05:27,630 --> 00:05:29,588
+Jacko, tembak tiangnya.
+
+86
+00:05:40,088 --> 00:05:42,671
+<i>- Cutter, mereka sudah mengunci kita.</i>
+<i>- Jaga jarak.</i>
+
+87
+00:05:44,380 --> 00:05:46,171
+Habis kau, bajingan.
+
+88
+00:05:48,005 --> 00:05:50,546
+AMUNISI KOSONG
+
+89
+00:05:50,796 --> 00:05:52,671
+Lurus saja. Sial, kita kehabisan amunisi.
+
+90
+00:05:52,755 --> 00:05:53,713
+TINDAKAN BALASAN SIAP
+
+91
+00:05:58,505 --> 00:05:59,921
+- <i>Cutter.</i>
+- Baiklah.
+
+92
+00:06:15,296 --> 00:06:16,255
+Tingkat stres 10.
+
+93
+00:06:25,588 --> 00:06:27,630
+Ayo, Anak-anak.
+Minuman pertama dibayar Dave.
+
+94
+00:06:32,546 --> 00:06:34,338
+Dugaanku tentangmu ternyata salah.
+
+95
+00:06:36,671 --> 00:06:38,255
+Dugaanku tentangmu ternyata salah.
+
+96
+00:06:44,838 --> 00:06:45,713
+Ayo!
+
+97
+00:06:46,088 --> 00:06:49,796
+<i>Aku terbang dalam 19 misi tempur lagi</i>
+<i>bersama</i> Lucky Tiga Belas.
+
+98
+00:06:50,005 --> 00:06:52,755
+<i>Selama itu, tak ada korban.</i>
+
+99
+00:06:52,838 --> 00:06:55,171
+Aku harus akui, Letnan,
+kau sungguh hebat.
+
+100
+00:06:55,255 --> 00:06:57,088
+Bahkan dengan barang antik ini.
+
+101
+00:06:58,005 --> 00:06:58,963
+Terima kasih, Pak.
+
+102
+00:07:01,088 --> 00:07:05,296
+<i>Dalam tiga kali misi singkat, </i>Lucky 13
+<i>adalah satu-satunya pesawat</i>
+
+103
+00:07:05,380 --> 00:07:07,338
+<i>yang di akhir misi masih layak terbang.</i>
+
+104
+00:07:07,421 --> 00:07:11,046
+Kau tahu, ada dua Whiskey Blackhawk baru
+yang sedang dikirim kemari.
+
+105
+00:07:11,713 --> 00:07:14,130
+Mau menukarnya dengan rongsokan ini?
+
+106
+00:07:15,755 --> 00:07:18,046
+<i>Dia selalu membawa kami pulang</i>
+<i>dengan selamat.</i>
+
+107
+00:07:18,713 --> 00:07:22,171
+<i>Bahkan saat banyak tembakan dari darat,</i>
+<i>kau bisa keluar dari kokpit ke bawah</i>
+
+108
+00:07:22,255 --> 00:07:23,713
+<i>di antara pecahan peluru.</i>
+
+109
+00:07:23,838 --> 00:07:26,505
+Terima kasih banyak, Pak,
+tapi dialah "rongsokanku".
+
+110
+00:07:26,963 --> 00:07:29,130
+Dia selalu menjagaku.
+
+111
+00:07:31,255 --> 00:07:34,213
+<i>Setelah sepuluh misi berturut-turut</i>
+<i>tanpa terkena kerusakan,</i>
+
+112
+00:07:34,880 --> 00:07:38,296
+<i>pilot lain mulai sungguh-sungguh</i>
+<i>bila mengatakan lucky 13.</i>
+
+113
+00:07:53,463 --> 00:07:57,421
+Pusat Komando, ini Ninja Satu Satu Dua.
+Kami kewalahan.
+
+114
+00:07:57,505 --> 00:07:58,921
+Mana kendaraan kita.
+
+115
+00:07:59,005 --> 00:08:00,005
+<i>Kami di sini, Sersan.</i>
+
+116
+00:08:01,130 --> 00:08:02,213
+Syukurlah.
+
+117
+00:08:02,296 --> 00:08:04,755
+<i>Aku akan teruskan menembak.</i>
+<i>Bawa anak buahmu naik.</i>
+
+118
+00:08:04,838 --> 00:08:07,130
+Mengerti. Hentikan serangan.
+
+119
+00:08:07,213 --> 00:08:08,963
+Pierce, keluarkan dia dari sini.
+
+120
+00:08:10,630 --> 00:08:12,213
+Masuk. Masuk. Cepat. Aku lindungi!
+
+121
+00:08:12,296 --> 00:08:13,380
+Ayo!
+
+122
+00:08:15,921 --> 00:08:17,963
+Musuh berkumpul lagi
+dan datang dengan cepat.
+
+123
+00:08:18,046 --> 00:08:19,671
+- Sudah masuk.
+- Cutter, ayo cabut!
+
+124
+00:08:19,755 --> 00:08:20,630
+Mengerti.
+
+125
+00:08:21,630 --> 00:08:25,588
+<i>Pusat Komando, ini Lima Satu Tiga.</i>
+<i>Ninja Satu Satu Dua aman.</i>
+
+126
+00:08:26,005 --> 00:08:27,213
+<i>Kami kembali ke pangkalan.</i>
+
+127
+00:08:31,255 --> 00:08:33,630
+Sersan, bagaimana anak<i> </i>buahmu
+di belakang sana?
+
+128
+00:08:33,713 --> 00:08:35,880
+Baik-baik, Bu. Hampir saja.
+
+129
+00:08:40,796 --> 00:08:42,255
+Sial!
+
+130
+00:08:42,630 --> 00:08:43,463
+Sial.
+
+131
+00:08:44,755 --> 00:08:46,838
+Ayo, Sayang. Tolong kami.
+
+132
+00:08:51,463 --> 00:08:53,838
+Tidak. Siap-siap jatuh.
+
+133
+00:08:53,921 --> 00:08:54,755
+Ayo!
+
+134
+00:08:55,130 --> 00:08:58,005
+<i>Naikkan ketinggian.</i>
+
+135
+00:09:18,630 --> 00:09:20,921
+<i>Cutter, Colby, kau tak apa-apa?</i>
+
+136
+00:09:22,546 --> 00:09:24,296
+Ya, aku tak apa-apa. Kau?
+
+137
+00:09:25,213 --> 00:09:27,130
+Terguncang tapi masih hidup.
+
+138
+00:09:28,505 --> 00:09:31,213
+Serang ke arah pukul 2, 150 meter.
+
+139
+00:09:31,296 --> 00:09:34,921
+Singkirkan pasukan itu dari sini.
+Cari perlindungan dan tunggu evakuasi.
+
+140
+00:09:35,588 --> 00:09:36,796
+Aku panaskan senapan dulu.
+
+141
+00:09:40,005 --> 00:09:43,421
+Aku lindungi kalian sampai amunisi habis
+lalu akan kuhancurkan pesawatnya.
+
+142
+00:09:43,880 --> 00:09:45,671
+Aku takkan biarkan mereka mengambilmu!
+
+143
+00:09:46,255 --> 00:09:48,505
+Baiklah, anak-anak, aku yang memimpin.
+Ayo.
+
+144
+00:09:49,463 --> 00:09:52,130
+Jangan berkumpul, terus jalan!
+
+145
+00:09:52,921 --> 00:09:55,046
+Lee, minggir.
+
+146
+00:09:59,130 --> 00:10:00,380
+Ayo, Kau Bajingan!
+
+147
+00:10:07,046 --> 00:10:08,088
+Sial!
+
+148
+00:10:45,546 --> 00:10:47,505
+Ya Tuhan, aku benar-benar minta maaf.
+
+149
+00:10:50,463 --> 00:10:53,338
+PROTOKOL PENANGKALAN DIAKTIFKAN
+
+150
+00:11:09,463 --> 00:11:14,463
+Lima, empat, tiga, dua...
+
+151
+00:11:23,630 --> 00:11:25,046
+Dia tak mau pergi.
+
+152
+00:11:28,463 --> 00:11:30,921
+Musuh terlihat, tembak sesukanya!
+
+153
+00:11:37,880 --> 00:11:40,005
+Bajingan, turun dari pesawatku.
+
+154
+00:11:47,796 --> 00:11:48,921
+Tiarap!
+
+155
+00:12:21,046 --> 00:12:22,505
+<i>Mereka memberi kami penghargaan,</i>
+
+156
+00:12:23,880 --> 00:12:28,046
+<i>memberiku Medali Distinguished Flying</i>
+<i>karena keberanianku saat diserang.</i>
+
+157
+00:12:32,338 --> 00:12:35,088
+<i>Mereka memberiku</i>
+<i>Whiskey Blackhawk baru.</i>
+
+158
+00:12:36,213 --> 00:12:38,130
+<i>Pesawat yang bagus, yang terbaik.</i>
+
+159
+00:12:50,838 --> 00:12:54,296
+<i>Tapi aku tetap mau langsung menukarnya</i>
+
+160
+00:12:54,380 --> 00:12:58,463
+<i>dengan terbang satu misi lagi</i>
+<i>di </i>Lucky Tiga Belas.
+
